@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return render_template('index6.html')
+    return render_template('index.html')
 
 @app.route('/get_fda_code', methods=['POST'])
 def get_fda_code():
