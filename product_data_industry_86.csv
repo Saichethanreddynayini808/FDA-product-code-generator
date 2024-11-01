@@ -1,0 +1,338 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+86,20599,"Headlight, Fiberoptic Focusing",F,CT
+86,20859,"Light, Headband, Surgical",F,SR
+86,20884,"Locator, Magnetic",F,TZ
+86,21547,"Tester, Color Vision",H,IT
+86,21548,Anomaloscope,H,IW
+86,21549,"Maxwell Spot, Ac-Powered",H,IX
+86,21550,"Brush, Haidinger, (Including Macular Integrity)",H,IY
+86,21551,Photokeratoscope,H,JA
+86,21552,"Instrument, Measuring, Corneal Radius",H,JB
+86,21553,"Esthesiometer, Ocular",H,JC
+86,21554,"Illuminator, Color Vision Plate",H,JD
+86,21556,"Magnifier, Hand-Held, Low-Vision",H,JF
+86,21557,"System, Reading, Television, Closed-Circuit",H,JG
+86,21558,"Loupe, Binocular, Low Power",H,JH
+86,21559,"Lens, Fundus, Hruby, Diagnostic",H,JI
+86,21560,"Lens, Fresnel, Flexible, Diagnostic",H,JJ
+86,21561,"Lens, Contact, Polymethylmethacrylate, Diagnostic",H,JK
+86,21562,"Lens, Condensing, Diagnostic",H,JL
+86,21563,"Transilluminator, Ac-Powered",H,JM
+86,21564,"Transilluminator, Battery-Powered",H,JN
+86,21565,"Biomicroscope, Slit-Lamp, Ac-Powered",H,JO
+86,21566,"Stereoscope, Ac-Powered",H,JQ
+86,21567,"Stereoscope, Battery-Powered",H,JR
+86,21568,"Test, Spectacle Dissociation, Ac-Powered (Lancaster)",H,JS
+86,21569,Haploscope,H,JT
+86,21570,Adaptometer (Biophotometer),H,JW
+86,21571,"Reader, Prism, Ophthalmic",H,JX
+86,21572,"Reader, Bar, Ophthalmic",H,JY
+86,21573,"Crutch, Ptosis",H,JZ
+86,21574,"Telescope, Hand-Held, Low-Vision",H,KB
+86,21575,"Spectacle Microscope, Low-Vision",H,KC
+86,21576,"Tape, Nystagmus",H,KD
+86,21577,"Mirror, Headband, Ophthalmic",H,KF
+86,21578,Fornixscope,H,KG
+86,21579,"Camera, Ophthalmic, Ac-Powered",H,KI
+86,21580,"Telescope, Spectacle, Low-Vision",H,KK
+86,21581,"Retinoscope, Ac-Powered",H,KL
+86,21582,"Retinoscope, Battery-Powered",H,KM
+86,21583,"Refractor, Manual, Non-Powered, Including Phoropter",H,KN
+86,21584,"Refractometer, Ophthalmic",H,KO
+86,21585,"Instrument, Vitreous Aspiration And Cutting, Battery-Powered",H,KP
+86,21586,"Prism, Rotary, Ophthalmic",H,KQ
+86,21587,"Lens, Maddox",H,KR
+86,21588,"Prism, Gonioscopic",H,KS
+86,21589,"Prism, Fresnel, Ophthalmic",H,KT
+86,21590,"Prism, Bar, Ophthalmic",H,KW
+86,21591,"Tonometer, Ac-Powered",H,KX
+86,21592,"Tonometer, Manual",H,KY
+86,21593,"Sterilizer, Tonometer",H,KZ
+86,21594,"Calibrator, Tonometer",H,LA
+86,21595,"Instrument, Measuring, Stereopsis",H,LC
+86,21596,"Engine, Trephine, Accessories, Gas-Powered",H,LD
+86,21597,"Ruler, Nearpoint (Punctometer)",H,LE
+86,21598,"Device, Measuring, Lens Radius, Ophthalmic",H,LF
+86,21599,"Pupillometer, Ac-Powered",H,LG
+86,21600,"Pupillometer, Manual",H,LH
+86,21601,"Ophthalmoscope, Ac-Powered",H,LI
+86,21602,"Ophthalmoscope, Battery-Powered",H,LJ
+86,21603,"Screen, Tangent, Target, Battery-Powered",H,LK
+86,21604,"Monitor, Eye Movement",H,LL
+86,21605,"Instrument, Measuring, Lens, Ac-Powered",H,LM
+86,21606,"Gauge, Lens, Ophthalmic",H,LN
+86,21607,"Test, Spectacle Dissociation, Battery-Powered (Lancaster)",H,LO
+86,21608,"Target, Fusion And Stereoscopic",H,LP
+86,21609,"Keratoscope, Ac-Powered",H,LQ
+86,21610,"Keratoscope, Battery-Powered",H,LR
+86,21611,Exophthalmometer,H,LS
+86,21612,"Preamplifier, Ac-Powered, Ophthalmic",H,LT
+86,21613,"Preamplifier, Battery-Powered, Ophthalmic",H,LW
+86,21614,"Photostimulator, Ac-Powered",H,LX
+86,21615,"Electrode, Corneal",H,LZ
+86,21616,"Monitor, Eye Movement, Diagnostic",H,MC
+86,21617,"Chair, Ophthalmic, Manual",H,MD
+86,21618,"Chair, Ophthalmic, Ac-Powered",H,ME
+86,21619,"Stand, Instrument, Ac-Powered, Ophthalmic",H,MF
+86,21620,"Stand, Instrument, Ophthalmic",H,MG
+86,21621,"Rack, Skiascopic",H,MH
+86,21622,"Screen, Tangent, Projection, Battery-Powered",H,MJ
+86,21623,"Euthyscope, Ac-Powered",H,MK
+86,21624,"Euthyscope, Battery-Powered",H,ML
+86,21625,Distometer,H,MM
+86,21629,"Marker, Sclera",H,MQ
+86,21630,"Marker, Ocular",H,MR
+86,21631,"Drum, Eye Knife Test",H,MS
+86,21634,"Cannula, Ophthalmic",H,MX
+86,21635,"Keratome, Battery-Powered",H,MY
+86,21636,Trabeculotome,H,MZ
+86,21637,"Spud, Ophthalmic",H,
+86,21638,"Spoon, Ophthalmic",H,NB
+86,21639,"Specula, Ophthalmic",H,NC
+86,21640,"Spatula, Ophthalmic",H,ND
+86,21641,"Snare, Enucleating",H,NE
+86,21642,"Scissors, Ophthalmic",H,NF
+86,21643,"Rongeur, Lachrymal Sac",H,NG
+86,21644,"Ring, Ophthalmic (Flieringa)",H,NH
+86,21645,"Retractor, Ophthalmic",H,NI
+86,21646,"Punch, Corneo-Scleral",H,NJ
+86,21647,"Probe, Trabeculotomy",H,NK
+86,21648,"Probe, Lachrymal",H,NL
+86,21649,"Needle, Ophthalmic Suturing",H,NM
+86,21650,"Knife, Ophthalmic",H,NN
+86,21651,"Keratome, Ac-Powered",H,NO
+86,21652,"Introducer, Sphere",H,NP
+86,21653,"Hook, Ophthalmic",H,NQ
+86,21654,"Forceps, Ophthalmic",H,NR
+86,21655,Expressor,H,NS
+86,21656,Erisophake,H,NT
+86,21657,"Dilator, Lachrymal",H,NW
+86,21658,"Depressor, Orbital",H,NX
+86,21659,Cystotome,H,NY
+86,21660,"Curette, Ophthalmic",H,NZ
+86,21661,"Compressor, Orbital",H,OA
+86,21662,"Clamp, Muscle, Ophthalmic",H,OB
+86,21663,"Clip, Iris Retractor",H,OC
+86,21664,"Clamp, Eyelid, Ophthalmic",H,OD
+86,21665,"Caliper, Ophthalmic",H,OE
+86,21666,"Burr, Corneal, Manual",H,OF
+86,21667,"Burr, Corneal, Battery-Powered",H,OG
+86,21668,"Spectacle, Operating (Loupe), Ophthalmic",H,OH
+86,21669,"Spectacle, Magnifying",H,OI
+86,21670,"Screen, Tangent, Target",H,OJ
+86,21671,"Screen, Tangent, Projection, Ac-Powered",H,OK
+86,21672,"Screen, Tangent, Felt (Campimeter)",H,OL
+86,21673,"Screen, Tangent, Ac-Powered (Campimeter)",H,OM
+86,21674,"Perimeter, Manual",H,ON
+86,21675,"Perimeter, Ac-Powered",H,OO
+86,21676,"Campimeter, Stereo, Battery-Powered",H,OP
+86,21677,"Grid, Amsler",H,OQ
+86,21678,Simulatan (Including Crossed Cylinder),H,OR
+86,21679,"Projector, Ophthalmic",H,OS
+86,21680,"Aid, Vision Image Intensification",H,OT
+86,21681,"Drum, Opticokinetic",H,OW
+86,21682,"Chart, Visual Acuity",H,OX
+86,21683,"Shield, Eye, Ophthalmic (Including Sunlamp Protective Eyewear and Post-Mydriatic Eyewear)",H,OY
+86,21684,"Sponge, Ophthalmic",H,OZ
+86,21685,"Frame, Trial, Ophthalmic",H,PA
+86,21686,"Clip, Lens, Trial, Ophthalmic",H,PB
+86,21687,"Set, Lens, Trial, Ophthalmic",H,PC
+86,21688,"Lens, Bagolini",H,PD
+86,21689,"Aid, Vision, Optical, Battery-Powered",H,PE
+86,21690,"Aid, Vision, Electronic, Ac-Powered",H,PF
+86,21691,"Aid, Vision, Electronic, Battery-Powered",H,PG
+86,21693,"Aid, Vision, Optical, Ac-Powered",H,PI
+86,21694,"Instrument, Visual Field, Laser",H,PJ
+86,21695,Tonograph,H,PK
+86,21696,"Device, Fixation, AC-Powered, Ophthalmic",H,PL
+86,21697,"Locator, Metal, Electronic",H,PM
+86,21698,"Magnet, Permanent",H,PN
+86,21699,"Magnet, Ac-Powered",H,PO
+86,21700,"Headlamp, Operating, Battery-Operated",H,PP
+86,21701,"Headlamp, Operating, Ac-Powered",H,PQ
+86,21702,"Unit, Cryophthalmic",H,PS
+86,21703,"Perimeter, Automatic, Ac-Powered",H,PT
+86,21704,"Probe And Counter, Isotope, For Phosphorus 32",H,PW
+86,21705,"Lens, Contact (Polymethylmethacrylate)",H,PX
+86,21706,"Unit, Electrolysis, Battery-Powered, Ophthalmic",H,PY
+86,21707,"Implant, Eye Sphere",H,PZ
+86,21708,"Unit, Cryotherapy, Ophthalmic",H,QA
+86,21709,Photocoagulator And Accessories,H,QB
+86,21710,"Unit, Phacofragmentation",H,QC
+86,21711,"Lens, Contact (Other Material) - Daily",H,QD
+86,21712,"Instrument, Vitreous Aspiration And Cutting, Ac-Powered",H,QE
+86,21713,"Laser, Ophthalmic",H,QF
+86,21714,"Lens, Spectacle, Non-Custom (Prescription)",H,QG
+86,21715,"Eye, Artificial, Non-Custom",H,QH
+86,21716,"Implant, Absorbable, (Scleral Buckling Methods)",H,QJ
+86,21717,"Lens, Intraocular",H,QL
+86,21718,"Keratoprosthesis, Permanent Implant",H,QM
+86,21719,"Conformer, Ophthalmic",H,QN
+86,21720,"Unit, Cautery, Thermal, Ac-Powered",H,QO
+86,21721,"Unit, Cautery, Thermal, Battery-Powered",H,QP
+86,21722,"Apparatus, Cautery, Radiofrequency, Battery-Powered",H,QQ
+86,21723,"Apparatus, Cautery, Radiofrequency, Ac-Powered",H,QR
+86,21724,"Burr, Corneal, Ac-Powered",H,QS
+86,21725,"Shell, Scleral",H,QT
+86,21726,"Clip, Tantalum, Ophthalmic",H,QW
+86,21727,"Implant, Orbital, Extra-Ocular",H,QX
+86,21728,Sunglasses (Non-Prescription Including Photosensitive),H,QY
+86,21729,"Frame, Spectacle",H,QZ
+86,21731,"Sterilizer, Soft-Lens, Thermal, Battery-Powered",H,RC
+86,21732,"Sterilizer, Soft-Lens, Thermal, Ac-Powered",H,RD
+86,21733,"Cabinet, Instrument, Ac-Powered, Ophthalmic",H,RE
+86,21734,"Engine, Trephine, Accessories, Battery-Powered",H,RF
+86,21735,"Engine, Trephine, Accessories, Ac-Powered",H,RG
+86,21736,"Trephine, Manual, Ophthalmic",H,RH
+86,21737,Pupillograph,H,RI
+86,21738,"Table, Instrument, Powered, Ophthalmic",H,RJ
+86,21739,"Table, Instrument, Manual, Ophthalmic",H,RK
+86,21740,"Unit, Beta, Radiation, Ophthalmic",H,RL
+86,21742,"Unit, Cryophthalmic, Ac-Powered",H,RN
+86,21743,"Unit, Electrolysis, Ac-Powered, Ophthalmic",H,RO
+86,21744,"Pen, Marking, Surgical",H,RP
+86,23110,"Lens, Guide, Intraocular",K,YB
+86,23112,"Strip, Schirmer",K,YD
+86,23113,Inserter/Remover Contact Lens,K,YE
+86,23114,"Implant, Eye Valve",K,YF
+86,23115,"Device, Irrigation, Ocular Surgery",K,YG
+86,23200,"Applicator, Ocular Pressure",L,CC
+86,23487,"Catheter, Balloon for Retinal Reattachment",L,OG
+86,23488,"System, Identification, Contact Lens",L,OH
+86,23489,"Laser, Neodymium:Yag, Ophthalmic For Uses Other Than Posterior Capsulotomy & Cutty Pupillary",L,OI
+86,23516,"Lenses, Soft Contact, Daily Wear",L,PL
+86,23517,"Lenses, Soft Contact, Extended Wear",L,PM
+86,23518,Accessories To Contact Lenses - Cleaning And Wetting Agents,L,PN
+86,23519,Gases Used Within Eye To Place Pressure On Detached Retina,L,PO
+86,23527,Medical Computers And Software For Ophthalmic Use,L,QB
+86,23530,"Implant, corneal, refractive",L,QE
+86,23535,"Lens, Surgical, Laser, Accessory, Ophthalmic Laser",L,QJ
+86,23571,"Case, Contact Lens",L,RX
+86,23633,"Fluid, Intraocular",L,WL
+86,23671,"Plug, Scleral",L,XP
+86,23672,"Cup, Eye",L,XQ
+86,23674,"Laser, Neodymium:Yag, Ophthalmic for Posterior Capsulotomy and Cutting Pupillary",L,XS
+86,23693,Accessories To Contact Lens Solution,L,YL
+86,23704,"Media, Corneal Storage",L,YX
+86,23738,"Aid, Surgical, Viscoelastic",L,ZP
+86,23739,"Adhesive, Tissue for Ophthalmic Use",L,ZQ
+86,23740,"Device, Cyclodestructive Ultrasound",L,ZR
+86,23741,"Laser, System, Excimer",L,ZS
+86,23743,"Plug, Punctum",L,ZU
+86,24994,"Lens, Multifocal Intraocular",M,FK
+86,25360,"Endoscope, Ophthalmic",K,YH
+86,25361,"Lens, Intraocular, Toric Optics",M,JP
+86,25362,"Keratoprosthesis, Temporary Implant, Surgical Use",M,LP
+86,25363,"Vitrectomy, Instrument Cutter",M,LZ
+86,25364,"Dilator, Expansive Iris (Accessory)",M,MC
+86,25365,Photorefractor,M,MF
+86,25366,"Weights, eyelid, external",M,ML
+86,25367,"Topographer, Corneal",M,MQ
+86,25368,Collagen Corneal Shield,M,OE
+86,25370,Endoilluminator,M,PA
+86,150551,"System, In-Office Tinting, Contact Lenses",M,ZD
+86,150587,"Lens, Intraocular, Accommodative",N,AA
+86,150588,"Lens, Prescription, Color Deficiency",N,AI
+86,150625,"Weights, Eyelid, Implantable",N,CB
+86,150642,"Prosthesis, Retinal",N,BF
+86,151326,"Injector, Capsular Tension Ring",N,CE
+86,151328,"Aberrometer, Ophthalmic",N,CF
+86,151332,"Button, Iris, Eye, Artificial",N,CK
+86,151333,"Telescope, Implantable, Miniature",N,CJ
+86,151520,"Apparatus, Cutting, Radiofrequency, Electrosurgical, Battery-Powered",N,CR
+86,151602,"Lens, Contact, for Color Vision Deficiency",N,CZ
+86,152348,Ocular Peg,M,QU
+86,152349,"Products, Contact Lens Care, Rigid Gas Permeable",M,RC
+86,152350,"Pump, Infusion, Ophthalmic",M,RH
+86,152351,"Ring, Endocapsular",M,RJ
+86,152352,"Ophthalmoscopes, Replacement Batteries, Hand-Held",M,SG
+86,152353,"Solution, Cleaning/Lubricating, Articifial Eye",M,SI
+86,152354,"Tubing, Replacement, Phacofragmentation Unit",M,SR
+86,152355,"Folders and Injectors, Intraocular Lens (IOL)",M,SS
+86,152356,"Lens, Intraocular, Refractive",M,TA
+86,152358,"Wrap, Implant, Orbital",M,TZ
+86,152360,"Graft, Sclera, Reinforcement",M,UR
+86,152361,"Fluidic, Phacoemulsification/Phacofragmentation",M,US
+86,152362,"Lens, Contact (Orthokeratology)",M,UW
+86,152363,"Lens, Contact (Disposable)",M,VN
+86,152365,"Electrosurgical, Radio Frequency, Refractive Correction",M,WD
+86,152366,"Lens, Contact (Rigid Gas Permeable) - Extended Wear",M,WL
+86,152367,"Device, Analysis, Anterior Segment",M,XK
+86,152368,"Laser, System, Phacolysis",M,XO
+86,152369,"Cannula, Ophthalmic, Posterior Capsular Polishing, Polyvinyl Acetal",M,XY
+86,152370,"Ophthalmoscope, Laser, Scanning",M,YC
+86,152371,"Keratome, Water Jet",M,YD
+86,152543,"Selector, Color, Spectacle, Lens, Tint",N,FD
+86,152563,"Device, Storage, Images, Ophthalmic",N,FF
+86,152564,"Device, Communications, Images, Ophthalmic",N,FG
+86,152565,"Digitizer, Images, Ophthalmic",N,FH
+86,152566,"Device, Hardcopy, Images, Ophthalmic",N,FI
+86,152567,"System, Image Management, Ophthalmic",N,FJ
+86,152604,"Expander, Tissue, Orbital",N,FM
+86,153168,"Lens, Contact, for Reading Discomfort",N,IC
+86,153223,"Lens, Iris Reconstruction",N,IZ
+86,153392,"Flasher, Afterimage, Ophthalmic",N,JG
+86,153403,"Lens, Spectacle (Prescription), for Reading Discomfort",N,JH
+86,153524,"Tonometer, Analyzer, Ocular Blood Flow",N,JJ
+86,153900,"Microscope, Specular",N,QE
+86,153907,"Conformer, Ophthalmic, Biological Tissue",N,QB
+86,153965,"Topographer, Corneal, Battery Powered",N,OG
+86,153966,"Photokeratoscope, Battery Powered",N,OH
+86,153967,"Stand, Instrument, Ophthalmic, Battery Powered",N,OI
+86,155183,"Cannula, Trocar, Ophthalmic",N,GY
+86,155184,"Needle, Phacoemulsification, Reprocessed",N,KX
+86,155185,"Blade, Keratome, Reprocessed",N,KY
+86,155186,"Endoilluminator, Reprocessed",N,KZ
+86,155187,"Knife, Ophthalmic, Reprocessed",N,LA
+86,155474,"Lens, Contact, Orthokeratology, Overnight",N,UU
+86,156994,"Prosthesis, eyelid spacer/graft, biologic",N,XM
+86,157115,"Fixation, vision training, binocular",N,XR
+86,157334,"Opthalmodynamometer, diagnostic contact lens, polymethylmethacrylate (pmma)",N,YK
+86,163719,"Corneal, refractive, implant",O,DK
+86,164347,Intraocular pressure lowering implant,O,GO
+86,164719,"Burr, corneal, ac-powered, rust ring removal",O,HX
+86,164720,"Burr, corneal, battery powered, rust ring removal",O,HW
+86,165499,"Tomography, optical coherence",O,BO
+86,165560,Ophthalmic femtosecond laser,O,OE
+86,167002,"intraocular, pressure measuring device",N,VB
+86,167003,eye tray,O,JK
+86,167004,lacrimal stents and intubation sets,O,KS
+86,167442,Graft insertion instrument for endothelial keratoplasty,O,TZ
+86,167565,"Adaptometer (biophotometer), software-based data acquistion and stimulus generation",O,UM
+86,171575,EYELID THERMAL PULSATION SYSTEM,O,RZ
+86,173364,"Camera, ophthalmic, AC-powered, general-use",P,JZ
+86,173651,Oral electronic vision aid,P,IC
+86,174226,Ocular pattern recorder,P,LZ
+86,174322,Nasolacrimal compression device,P,LX
+86,174446,Strabismus detection device,P,MW
+86,174465,Extended Range of Vision Intraocular Lens,P,OE
+86,174532,Femtosecond laser system for refractive correction,O,TL
+86,174662,Intranasal electrostimulation device,P,QJ
+86,174668,"Apparatus, cutting, radiofrequency, electrosurgical, AC-powered",P,UL
+86,174716,"Ocular peg, exempt",P,UF
+86,174717,"Biomicroscope, slit-lamp, AC-powered, exempt",P,UE
+86,174865,"Sponge, eyelid cleaning, powered",P,YU
+86,174881,Surgical eye tray,P,ZG
+86,174919,"Stimulator, electrical, transcutaneous, for diabetic retinopathy",O,XW
+86,174920,Ophthalmic sealant,P,FZ
+86,174939,Light adjustable lens (LAL) and light delivery device (LDD),P,ZK
+86,175006,Diabetic retinopathy detection device,P,IB
+86,175031,Intranasal electrostimulation device for dry eye symptoms,Q,BR
+86,175037,Artificial iris,Q,BT
+86,175283,IOL Tray,Q,DV
+86,175284,Phaco kit,Q,DW
+86,175286,Vitrectomy kit,Q,DY
+86,175289,Phakic toric intraocular lens,Q,CB
+86,175302,"Camera, ophthalmic, slit-scanning",Q,ER
+86,175495,Corneal inlay inserter handle,Q,GJ
+86,175762,Daily wear soft contact lens to reduce the progression of myopia,Q,IT
+86,175939,Electromechanical tear stimulator,Q,KV
+86,176012,Hydrophilic re-coating solution,Q,MM
+86,176052,Intense pulsed light device for managing dry eye,Q,IU
+86,176186,"Guide and positioner, ophthalmic drug delivery device",Q,Q
+86,176193,Digital therapy device for amblyopia,Q,QU
+86,176729,Digital visual acuity test,Q,TO
+86,176733,Digital Amsler Grid,Q,TW
+86,177004,"Prosthesis, eyelid spacer/graft, polymer",Q,WU
+86,177103,"Camera, ophthalmic, non-prescription",Q,ZP
+86,177107,Corneal Storage Media With Preservatives Including Anti-Fungal,Q,CW

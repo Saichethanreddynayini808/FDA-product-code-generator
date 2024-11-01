@@ -1,0 +1,194 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+37,2386,Dinner with Red Meat (Components in Separate Containers),A,01
+37,2387,"Beef Dishes (Excluding Stew) (Package Contains Separate Components, Require Mix/Cook)",C,01
+37,2388,"Beef Dishes (Exclude Stew) (Multiple Food Specialities, Side Dishes and Desserts)",B,01
+37,2389,Beef Stew,D,01
+37,2390,Beef Gravies,G,01
+37,2391,Brown Sauce,J,01
+37,2392,Red Meat Sandwiches,S,01
+37,2393,Total Diet Study (Adult),X,01
+37,2394,"Gift Packs of Assorted Foods, Ready-to-Eat",Y,01
+37,2395,Dinner with Poultry (Components in Separate Containers),A,02
+37,2396,"Chili (Package Contains Separate Components, Require Mix/Cook)",C,02
+37,2397,"Chili (Multiple Food Specialities, Side Dishes and Desserts)",B,02
+37,2398,Lamb Stew,D,02
+37,2399,Pork Gravies,G,02
+37,2400,Barbecue Sauce,J,02
+37,2401,Poultry Sandwiches,S,02
+37,2403,"Chop Suey (Package Contains Separate Components, Require Mix/Cook)",C,03
+37,2404,"Chop Suey (Multiple Food Specialities, Side Dishes and Desserts)",B,03
+37,2405,Pork Stew,D,03
+37,2406,Poultry Gravies,G,03
+37,2407,Chili Sauce,J,03
+37,2409,"Chow Mein (Package Contains Separate Components, Require Mix/Cook)",C,04
+37,2410,"Chow Mein (Multiple Food Specialities, Side Dishes and Desserts)",B,04
+37,2411,Poultry Stew,D,04
+37,2412,"Cocktail Sauce (Seafood, Etc.)",J,04
+37,2413,Chop Suey Dinner (Components in Separate Containers),A,05
+37,2414,"Dips (Package Contains Separate Components, Require Mix/Cook)",C,05
+37,2415,"Dips (Multiple Food Specialities, Side Dishes and Desserts)",B,05
+37,2417,Soy Sauce,J,05
+37,2418,Chow Mein Dinner (Components in Separate Containers),A,06
+37,2419,"Egg Roll (Package Contains Separate Components, Require Mix/Cook)",C,06
+37,2420,"Egg Roll (Multiple Food Specialities, Side Dishes and Desserts)",B,06
+37,2421,Tartar Sauce,J,06
+37,2422,Dinner with Vegetable Protein Products as Significant Protein Source (Components in Separate Contain,A,07
+37,2423,"Enchilada (Package Contains Separate Components, Require Mix/Cook)",C,07
+37,2424,Enchilada Mult Food Special/Side Dish,B,07
+37,2425,Steak and Other Meat Sauce,J,07
+37,2426,"Hash (Package Contains Separate Components, Require Mix/Cook)",C,08
+37,2427,"Hash (Multiple Food Specialities, Side Dishes and Desserts)",B,08
+37,2428,Tomato Sauce (with Other Ingredients),J,08
+37,2429,"Hors D'Oeuvre (Package Contains Separate Components, Require Mix/Cook)",C,09
+37,2430,"Hors D'Oeuvre (Multiple Food Specialities, Side Dishes and Desserts)",B,09
+37,2431,White Sauce,J,09
+37,2432,"Lasagna (Package Contains Separate Components, Require Mix/Cook)",C,10
+37,2433,"Lasagna (Multiple Food Specialities, Side Dishes and Desserts)",B,10
+37,2434,"Macaroni/Cheese (Package Contains Separate Components, Require Mix/Cook)",C,11
+37,2435,"Macaroni and Cheese (Multiple Food Specialities, Side Dishes and Desserts)",B,11
+37,2436,"Manicotti (Package Contains Separate Components, Require Mix/Cook)",C,12
+37,2437,"Manicotti (Multiple Food Specialities, Side Dishes and Desserts)",B,12
+37,2438,"Pizza (Package Contains Separate Components, Require Mix/Cook)",C,13
+37,2439,"Pizza (Multiple Food Specialities, Side Dishes and Desserts)",B,13
+37,2440,"Pork Dish (excluding Stew)(Package Contains Separate Components, Require Mix/Cook)",C,14
+37,2441,"Pork Dish (excluding Stew) (Multiple Food Specialities, Side Dishes and Desserts)",B,14
+37,2442,"Poultry Dish (excluding Stew)(Package Contains Separate Components, Require Mix/Cook)",C,15
+37,2443,"Poultry Dish (excluding Stew) (Multiple Food Specialities, Side Dishes and Desserts)",B,15
+37,2444,"Ravioli (Package Contains Separate Components, Require Mix/Cook)",C,16
+37,2445,"Ravioli (Multiple Food Specialities, Side Dishes and Desserts)",B,16
+37,2448,"Sloppy Joe Mix (Package Contains Separate Components, Require Mix/Cook)",C,18
+37,2449,"Sloppy Joe Mix (Multiple Food Specialities, Side Dishes and Desserts)",B,18
+37,2450,"Spaghetti (Package Contains Separate Components, Require Mix/Cook)",C,19
+37,2451,"Spaghetti (Multiple Food Specialities, Side Dishes and Desserts)",B,19
+37,2452,"Taco (Package Contains Separate Components, Require Mix/Cook)",C,20
+37,2453,"Taco (Multiple Food Specialities, Side Dishes and Desserts)",B,20
+37,2454,"Gravies Mixed with Vegetables, Etc. (Onion, Mushroom, Etc.)",G,20
+37,2456,"Tamale (Package Contains Separate Components, Require Mix/Cook)",C,21
+37,2457,"Tamale (Multiple Food Specialities, Side Dishes and Desserts)",B,21
+37,2458,"Breakfast Dishes & Meals (Package Contains Separate Components, Require Mix/Cook)",C,22
+37,2460,"Breakfast Dishes & Meals (Multiple Food Specialities, Side Dishes and Desserts)",B,22
+37,2461,Cheese Sandwiches,S,30
+37,2462,"Combination Sandwiches, Other than Seafood",S,40
+37,2463,"Dinner With Components in Separate Containers, N.E.C.",A,99
+37,2464,"Food Pack Requir Mix/Cook, n.e.c.",C,99
+37,2465,"Multiple Food Specialities, Side Dishes and Desserts, N.E.C.",B,99
+37,2466,"Stew, n.e.c.",D,99
+37,2467,"Gravies, N.E.C.",G,99
+37,2468,"Sauces, n.e.c.",J,99
+37,2469,"Sandwiches, Other than Seafood, N.E.C.",S,99
+37,2470,"Market Basket Sampling, n.e.c.",X,99
+37,2471,"Gift (Packs, Boxes, Tins, Baskets) of Assorted Foods, Ready-to-Eat, n.e.c.",Y,99
+37,24393,"Tortellini (Multiple Food Specialities, Side Dishes and Desserts)",B,23
+37,24394,"Tortellini, (Package Contains Separate Components, Require Mix/Cook)",C,23
+37,24396,"Halo Halo (Mixed Fruit and Vegetable Dessert) )Multiple Food Specialities, Side Dishes and Desserts)",B,24
+37,24397,"Halo Halo (Mixed Fruit & Vegetable Dessert)(Package Contains Separate Components, Require Mix/Cook)",C,24
+37,24409,"Hoisin, Hoisan Sauce",J,11
+37,24411,Plum Sauce,J,12
+37,24413,Banana Sauce,J,13
+37,24417,"Bean, Yellow Sauce",J,15
+37,24418,"Bean, Yellow Paste",K,15
+37,24419,"Bean, Black Sauce",J,16
+37,24421,"Bean, Ground Sauce",J,17
+37,24422,"Bean, Ground Paste",K,17
+37,24423,Mole Sauce,J,18
+37,24424,Mole Paste,K,18
+37,24428,Bread Paste,K,20
+37,24430,Sesame Paste,K,21
+37,24433,Curry Sauce,J,23
+37,24434,Curry Paste,K,23
+37,24435,Garlic Sauce,J,24
+37,24437,"Pastes, n.e.c.",K,99
+37,25425,Adobo (Philippine national dish made of braised chicken and pork with coconut milk),B,99
+37,25442,Avgolemono (Greek lemon and egg sauce used as ingredient in soups or sauce for meat fish or vegs),J,99
+37,25478,Bumbu (Indonesia combination of spices and seasonings crushed to a paste),K,99
+37,25479,"Bumbu Satay (Indonesian tart, hot chili sauce used in barbecuing)",J,03
+37,25491,Chee Hou Sauce (Chinese sauce similar to hoisin sauce but spicy),J,99
+37,25504,Curry Mee (Chinese spicy coconut curry sauce),J,99
+37,25517,Falafel (Middle Eastern food made from highly spiced chick peas),B,99
+37,25524,"Gaeng Keo Wan (Thai paste made of chilies, lemon grass, shrimp paste and other seasonings)",K,99
+37,25525,"Gaeng Ped (Thai paste made of chilies, shallots, lemon grass & other seasonings, added to curries)",K,99
+37,25528,"Ganjang (Korean brown, liquid soybean sauce containing cayenne pepper)",J,05
+37,25556,Mook (Korean jelly product having mung bean or acorn as raw ingredient),B,99
+37,25583,"Oncom (Indonesian cake made from groundnut or soybean presscake & tapioca waste, eaten as side dish)",B,99
+37,25589,"Paella (Spanish saffron-flavored rice dish made w/meat shellfish, garlic, onions and peas)",B,99
+37,25599,"Peujeum (cassava-based alcoholic paste w/sweet & sour tast, eaten as snack food or in soup)",K,99
+37,25620,"Saltsa Avgolemono (Greek egg and lemon sauce, usually prepared w/salt & cornstarch)",J,99
+37,25621,"Sambal Bajak (Asian and Indian multi-purpose condiment paste; hot chili peppers, spices, lime juice)",K,99
+37,25622,"Sambal Hawang (Indonesian hot sauce made from chilies, shrimp paste, coconut milk shallots & tomatoe",J,99
+37,25623,"Sambal Lumpia (Indonesian spring roll sauce made of corn oil, chilies, catsup, soy sauce)",J,99
+37,25624,Sambal Oelek (Indonesian hot paste made from ground red chilies),K,99
+37,25625,Sambal Petis (Indonesian sweet and sour hot sauce from chilies lemon grass shrimp paste brown sugar),J,99
+37,25634,"See-Ieu (Thai brown, liquid soybean sauce often containing wheat or other cereals)",J,05
+37,25648,Huan-Tou (Chinese brown liquid soybean sauce often containing wheat or other cereals),J,05
+37,25656,Jalebi (pretzel-like rings of deep fried batter coated in sugar syrup),B,99
+37,25657,"Jan (Korean brown, liquid soybean sauce containing wheat)",J,05
+37,25661,Jeotkal (fermented salty Korean oyster & fish paste used as ingredient for kimchee),K,99
+37,25662,"Jiao Zi (N. Chinese dumpling made from wheat flour dough stuffed w/pork, seasoned w/ginger & chives)",B,99
+37,25684,"Shoyu (Japanese brown, liquid soybean sauce often containing wheat or other cereals)",J,05
+37,25687,Skorthalia (Greek garlic sauce made w/potatoes almonds vinegar vegetable oil & salt),J,24
+37,25711,"Tamari Sauce (Chinese brown, liquid soybean suace containing 10% wheat)",J,05
+37,25720,Tape Cantal (Indonesian millet-based alcoholic paste w/sweet & sour taste),K,99
+37,25721,Tapenade (thick French condiment paste made from capers ripe olives anchovies lemon juice olive oil),K,99
+37,25732,"Tien Mien Chang (Chinese wheat paste made by fermenting steam bread, used to add flavor to soup)",K,99
+37,25736,Tonkatsu Sosu (Japanese sauce made w/tomato ketchup Worcestershire sauce sake soy sauce; other ingr),J,99
+37,25741,Toyo (Philippine brown liquid soybean sauce often containing wheat or other cereal),J,05
+37,25750,"Kecap (Indonesian brown, liquid soy sauce often containing wheat or other cereals)",J,05
+37,25759,"Kicap (Malaysian brown, liquid soybean sauce often containig wheat or other cereals)",J,05
+37,25763,Kohyahkboon (Korean paste made from the starch of devil's tongue),K,99
+37,25764,Koikuchi Shoyu (main type of Japanese soybean sauce containing 50% wheat),J,05
+37,25789,"Latholemono (Greek oil & lemon sauce made w/parsley salt & pepper, served on salads)",J,99
+37,25797,Lot Yow (Chinese red thick spicy condiment sauce made from chili peppers),J,03
+37,25813,Meen See Jeong (Chinese salty yellow or brown bean sauce),J,99
+37,25816,Meju (Korean brown liquid soybean sauce often containing wheat or other cereals),J,05
+37,25846,"Yank Nyum Jang (Korean all-purpose sauce often served w/bean curd, chicken or potato pancakes)",J,99
+37,25853,"Yun Shi Jeung (Chinese soy sauce condiment, having texture and color similar to molasses)",J,05
+37,150159,"Bean curd, dried (sticks, sheets), (Multiple Food Specialties, Side Dishes and Desserts",B,28
+37,150160,"Bean curd, fried (Multilple Food Specialties, Side Dishes and Desserts)",B,29
+37,150161,"Bean curd cubes, fermented (e.g., salted) in oil/sauce/ wine, etc. (Mult Food Spec/Side Dish/Dessert",B,30
+37,150162,"Bean curd paste, (Multiple Food Specialties, Side Dishes and Desserts",B,31
+37,150163,"Bean curd, n.e.c. (Multiple Food Specialties, Side Dishes & Desserts)",B,32
+37,150164,"Bean curd, dried (sticks, sheets), (Package Contains Separate Components Requiring Mix/Cook prep",C,28
+37,150165,"Bean curd, fried (Package Contains Separate Components Requiring Mixing and/or Cooking for Prep",C,29
+37,150166,"Bean curd cubes, fermented (e.g., salted) in oil/sauce/ wine, etc., (Package Contains Sep Components",C,30
+37,150167,"Bean curd paste, (Package Contains Separate Components Requiring Mixing and/or Cooking for Prep)",C,31
+37,150168,"Bean curd, n.e.c., (Package Contains Separate Components Requiring Mixing and/or Cooking for Prep)",C,32
+37,150220,Aburaage (bean curd),B,27
+37,150221,Aburrage (bean curd),C,27
+37,150222,"Chao (salty, molded cubes of white to pale yellow Vietnamese soybean curd",B,27
+37,150223,"Chao, salty, molded cubes of white to pale yellow Vietnamese soybean curd",C,27
+37,150224,Tofu (bean curd),B,27
+37,150225,Tofu (bean curd),C,27
+37,150226,Dofu (bean curd),B,27
+37,150227,Dofu (bean curd),C,27
+37,150228,"Sufu, salty molded cubes of soybean curd from East or Southeast Asian countries, has fruity flavor",B,30
+37,150229,"Chao, salty, molded cubes of white to pale yellow Vietnamese soybean curd",B,30
+37,150230,"Chao, salty, molded cubes of white to pale yellow Vietnamese soybean curd",C,30
+37,150231,"Sufu, salty, molded cubes of soybean curd from East or Southeast Asian countries, has fruity flavor",C,30
+37,150232,"Hon-Fan, salty, molded cubes of Chinese soybean curd colored red & soaked in soy sauce",B,30
+37,150233,"Hon-Fan, salty, molded cubes of Chinese soybean curd, colored red & soaked in soy sauce",C,30
+37,150234,"Donfu-Ru, salty cubes of Chinese soybean curd fermented in wine",B,30
+37,150235,"Donfu-Ru, salty cubes of Chinese soybean curd fermented in wine",C,30
+37,150236,"Tahuli, salty, molded cubes of Philippine soybean curd",B,30
+37,150237,"Tahuli, salty, molded cubes of Philippine soybean curd",C,30
+37,150238,"Tao-Hu-Yi, salty, molded cubes of Thailand soybean curd",B,30
+37,150239,"Tao-Hu-Yi, salty, molded cubes of Thailand soybean curd",C,30
+37,150240,"Teou-fu-ru, salty, molded cubes of white to pale yellow Japanese soybean curd",B,30
+37,150241,"Teou-fu-ru, salty, molded cubes of white to pale yellow Japanese soybean curd",C,30
+37,150242,"Katjang-Boengkil, salty molded cubes of Indonesia soybean curd",B,30
+37,150243,"Katjang-Boengkil, salty, molded cubes of Indonesia soybean curd",C,30
+37,150244,"Tsue-Fan, salty, molded cubes of Chinese soybean curd aged in wine",B,30
+37,150245,"Tsue-Fan, salty, molded cubes of Chinese soybean curd aged in wine",C,30
+37,150246,"Mejia, salted, molded cubes of Korean soybean curd",B,30
+37,150247,"Mejia, salted, molded cubes of Korean soybean curd",C,30
+37,158585,"Gift Packs (Boxes, Tins, Baskets) of Assorted Meat/Meat Products, Ready-to-Eat",Y,02
+37,158586,"Gift Packs (Boxes, Tins, Baskets) of Assorted Cheese/Cheese Products, Ready-to Eat",Y,03
+37,161582,"Guacamole (Multiple Food Specialties, Side Dishes and Desserts)",B,25
+37,161583,"Hommus, hummus (Multiple Food Specialties, Side Dishes and Desserts)",B,26
+37,161584,"Bean curd, fresh - soft or hard (Multiple Food Specialties, Side Dishes and Desserts)",B,27
+37,161585,"Guacamole (Package Contains Separate Components, Require Mix/Cook)",C,25
+37,161586,"Hommus, hummus (Package Contains Separate Components, Require Mix/Cook)",C,26
+37,161587,"Bean curd, fresh - soft or hard (Package Contains Separate Components, Require Mix/Cook)",C,27
+37,175973,"Non-seafood Dumplings (Multiple Food Specialties, Side Dishes & Desserts)",B,33
+37,175974,Vegetable Dumplings,B,33
+37,177116,Basil Sauce (with other ingredients),J,25
+37,177117,Pesto Sauce,J,25

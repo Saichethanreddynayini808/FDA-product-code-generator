@@ -1,0 +1,50 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+94,155891,"Night Vision Scope, High Voltage Vacuuum Tubes",R,AU
+94,155892,"High Voltage Tubes, High Voltage Vacuum Tubes",R,AV
+94,155893,Cathode Ray Tubes (without Electronics Chassis),R,AW
+94,155894,High Voltage Vacuum Switches,R,AX
+94,155895,"Oscilloscope (Exempted), TV Receivers & products",R,AY
+94,155896,"Television Receiver, Medical Imaging, Color",R,AZ
+94,155897,"Television Receiver, Medical Imaging Monochrome",R,BA
+94,155898,"Television Receiver, General Purpose, Color",R,BB
+94,155899,"Television Receiver, General Purpose, Monochrome",R,BC
+94,155900,"Video Monitor, Medical Imaging, Color",R,BD
+94,155901,"Video Monitor, General Purpose, Color",R,BE
+94,155902,"Video Monitor, Medical Imaging, Monochrome",R,BF
+94,155903,"Video Monitor, General Purpose, Monochrome",R,BG
+94,155904,"Projector, TV Receivers & Products",R,BH
+94,155905,"TV View Finder, TV Receivers & Products",R,BI
+94,155906,Cold-Cathode Gas Discharge Tubes,R,BJ
+94,155907,"Betatron, Non-Medical Accelerators",R,BK
+94,155908,"Cyclotron, Non-Medical Accelerators",R,BL
+94,155909,"Microtron, Non-Medical Accelerators",R,BM
+94,155910,"Synchrotron, Non-Medical Accelerators",R,BN
+94,155911,"Sterilizers, Non-Medical Accelerators",R,BO
+94,155912,"Industrial Accelerator, Non-Medical",R,BP
+94,155913,"Security Accelerator, Non-Medical",R,BQ
+94,155914,Diagnostic X-Ray Equipment (Noncertified),R,BR
+94,155915,Industrial X-Ray Systems (Excluding Cabinet),R,BS
+94,155916,"Bottle Fill Checker, Industrial X-Ray Systems (Excluding Cabinet)",R,BT
+94,155917,"Thickness Gauge, Industrial X-Ray Systems (Excluding Cabinet)",R,BU
+94,155918,"Security X-Ray, Industrial X-Ray Systems (Excluding Cabinet)",R,BV
+94,155919,"Diffraction, Non-Medical, Analytical X-Ray Systems",R,BW
+94,155920,"Spectroscopy, Non-Medical, Analytical X-Ray Systems",R,BX
+94,155921,"Fluorescence, Non-Medical, Analytical X-Ray Systems",R,BY
+94,155922,"X-Ray Controls - Combination, Medical Diagnostic  X-Ray Equipment",R,BZ
+94,155923,"X-Ray Controls - Fluoroscopic, Medical Diagnostic  X-Ray Equipment",R,CA
+94,155924,"X-Ray Controls - Radiographic, Medical Diagnostic X-Ray Equipment",R,CB
+94,155926,"X-Ray Image Receptor, Medical Diagnostic X-RayEquipment",R,CD
+94,155927,"Cabinet X-Ray, Industrial, Non-Medical",R,CE
+94,155928,"Explosive Detection Systems, Cabinet X-Ray Systems Non-Medical",R,CF
+94,155929,"Security X-Ray (includes Baggage X-Ray), Cabinet X-Ray Systems, Non-Medical",R,CG
+94,155930,"Cargo X-Ray, Cabinet X-Ray Systems, Non-Medical",R,CH
+94,155931,"Cephalometric Devices, Dental Diagnostic X-Ray Equipment",R,CI
+94,155932,"Veterinary Imaging, Veterinary X-Ray Systems",R,CJ
+94,155933,"Veterinary Diagnostic X-Ray Therapy, Veterinary X-Ray Systems",R,CK
+94,155934,"Ion Beam Implanter, Industrial Particle Beam Systems",R,CL
+94,155935,"Microscope (Electron Beam),  Non-Medical Industrial Particle Beam Systems",R,CM
+94,155936,"Backscatter X-Ray Systems, Personnel Security Systems",R,CN
+94,155937,"Transmission X-Ray System, Personnel Security Systems",R,CO
+94,155938,"Mobile Systems, Cargo Non-Intrusive Security Systems",R,CP
+94,155939,"Stationary Systems, Cargo Non-Intrusive Security Systems",R,CQ
+94,166751,"Television, less than 25kv and less than 0.1 mr/hr",R,HJ

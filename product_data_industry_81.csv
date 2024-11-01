@@ -1,0 +1,285 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+81,19530,"Warmer, Blood, Electromagnetic Radiation",B,SA
+81,19531,"Warmer, Blood, Non-Electromagnetic Radiation",B,SB
+81,19848,"Fibrinogen And Fibrin Split Products, Antigen, Antiserum, Control",D,AP
+81,19850,"Fibrinogen And Split Products, Rhodamine, Antigen, Antiserum, Control",D,AR
+81,19852,"Fibrinogen And Split Products, Peroxidase, Antigen, Antiserum, Control",D,AT
+81,19854,"Fibrinogen And Split Products, Fitc, Antigen, Antiserum, Control",D,AX
+81,19856,"Fibrinogen And Split Products, Antigen, Antiserum, Control",D,AZ
+81,19893,"Antigen, Antiserum, Control, Antithrombin III",D,DQ
+81,21059,Fibrinogen Determination Standards And Controls,G,FK
+81,21060,Activated Partial Thromboplastin,G,FO
+81,21061,"Standards And Controls, Hemoglobin, Normal and Abnormal",G,FS
+81,21062,Protamine Sulphate,G,FT
+81,21063,Fibrinogen Standard,G,FX
+81,21064,"Control, Plasma, Abnormal",G,GC
+81,21065,Acid Hematin,G,GF
+81,21066,Guaiac Reagent,G,GG
+81,21068,"Fluid, Diluting, White-Cell",G,GJ
+81,21069,"Products, Red-Cell Lysing Products",G,GK
+81,21070,"Control, White-Cell",G,GL
+81,21071,"Control, Hemoglobin",G,GM
+81,21072,"Plasma, Coagulation Control",G,GN
+81,21073,"Reagent, Thromboplastin and Control",G,GO
+81,21074,"Test, Qualitative and Quantitative Factor Deficiency",G,GP
+81,21075,"Test, Prothrombin Consumption",G,GQ
+81,21076,"Assay, Erythropoietin",G,GT
+81,21077,"Test, Time, Partial Thromboplastin",G,GW
+81,21078,"Pipette, Sahli",G,GX
+81,21079,"Pipette, Diluting",G,GY
+81,21080,Oxyhemoglobin,G,GZ
+81,21081,"Hemoglobin, Alkali Resistant",G,HA
+81,21082,"Tube, Sedimentation Rate",G,HC
+81,21083,"Test, Leukocyte Alkaline Phosphatase",G,HD
+81,21084,Fibrin Split Products,G,HH
+81,21085,"Centrifuge, Microsedimentation",G,HK
+81,21086,"Test, Sickle Cell",G,HM
+81,21087,Hemocytometer,G,HO
+81,21088,"Stain, Fetal Hemoglobin",G,HQ
+81,21089,"Reagent, Platelet Aggregation",G,HR
+81,21090,"Assay, Carboxyhemoglobin",G,HS
+81,21091,"Hematocrit, Tube, Rack, Sealer, Holder",G,HY
+81,21094,Fibrometer,G,IE
+81,21095,"Diluent, Blood Cell",G,IF
+81,21096,Hemoglobinometer,G,IG
+81,21097,"Glutathione, Red-Cell",G,II
+81,21098,"Plasma, Fibrinogen Control",G,IL
+81,21100,"Tube, Collection, Capillary Blood",G,IO
+81,21101,Hemoglobin S,G,IQ
+81,21102,"Reagent, Russel Viper Venom",G,IR
+81,21103,"Test, Fibrinogen",G,IS
+81,21104,"Reagent & Control, Partial Thromboplastin Time",G,IT
+81,21105,"Plasma, Control, Normal",G,IZ
+81,21106,"Test, Thrombin Time",G,JA
+81,21107,Thrombin,G,JB
+81,21108,"Assay, Sulfhemoglobin",G,JC
+81,21110,"Pipette, Quantitative, Hematology",G,JG
+81,21114,"Fluid, Diluting, Red-Cell",G,JN
+81,21115,"Control, Platelet",G,JP
+81,21116,"Control, Red-Cell",G,JR
+81,21117,"Test, Time, Prothrombin",G,JS
+81,21118,"Plasma, Coagulation Factor Deficient",G,JT
+81,21119,"Pipette, Pasteur",G,JW
+81,21120,Cyanomethemoglobin Reagent And Standard Solution,G,JZ
+81,21121,Abnormal Hemoglobin Quantitation,G,KA
+81,21122,"Device, Automated Sedimentation Rate",G,KB
+81,21123,Osmotic Fragility Testing,G,KE
+81,21124,"Instrument, Hematocrit, Automated",G,KF
+81,21125,"Centrifuge, Hematocrit",G,KG
+81,21126,"Apparatus, Automated Blood Cell Diluting",G,KH
+81,21127,"Spinner, Slide, Automated",G,KJ
+81,21128,Cyanomethemoglobin,G,KK
+81,21129,"Counter, Cell, Automated (Particle Counter)",G,KL
+81,21130,"Hand-Tally, Differential",G,KM
+81,21131,"Timer, Clot, Automated",G,KN
+81,21132,"Instrument, Coagulation, Automated",G,KP
+81,21133,"Test, Thromboplastin Generation",G,KQ
+81,21134,"System, Hemoglobin, Automated",G,KR
+81,21135,"Separator, Automated, Blood Cell",G,KT
+81,21136,"Aggregometer, Platelet, Thrombokinetogram",G,KW
+81,21137,"Instrument, Automated Platelet Counting",G,KX
+81,21138,"Counter, Differential Cell",G,KZ
+81,21140,"Platelet Counting, Manual",G,LG
+81,21141,"Control, Hematocrit",G,LK
+81,21142,"Mixture, Control, White-Cell and Red-Cell Indices",G,LQ
+81,21143,Oximeter To Measure Hemoglobin,G,LY
+81,22196,"Solubility, Hemoglobin, Abnormal",J,BB
+81,22197,"System, Analysis, Electrophoretic Hemoglobin",J,BD
+81,22198,Cell Enzymes (Erythrocytic And Leukocytic),J,BE
+81,22199,"Glucose-6-Phosphate Dehydrogenase (Erythrocytic), Screening",J,BF
+81,22200,"Glucose-6-Phosphate Dehydrogenase (Erythrocytic), Spot",J,BG
+81,22201,"Glucose-6-Phosphate Dehydrogenase (Erythrocytic), Micromethod",J,BH
+81,22202,"Glucose-6-Phosphate Dehydrogenase (Erythrocytic), Catalase Inhibition",J,BI
+81,22203,"Glucose-6-Phosphate Dehydrogenase (Erythrocytic), Methemoglobin Reduction",J,BJ
+81,22204,"Glucose-6-Phosphate Dehydrogenase (Erythrocytic), U.V. Kinetic",J,BK
+81,22205,"Glucose-6-Phosphate Dehydrogenase (Erythrocytic), Quantitative",J,BL
+81,22206,"Glucose-6-Phosphate Dehydrogenase (Erythrocytic), Electrophoresis",J,BM
+81,22207,Fibrin Monomer Paracoagulation,J,BN
+81,22208,"Test, Euglobulin Lysis",J,BO
+81,22209,Activated Whole Blood Clotting Time,J,BP
+81,22210,Antithrombin Iii Quantitation,J,BQ
+81,22211,"Test, Heparin Neutralization",J,BR
+81,22213,"Timer, Coagulation",J,BT
+81,22214,"Red-Cell Indices, Measured",J,BW
+81,22215,"Aggregometer, Platelet",J,BX
+81,22216,"Aggregometer, Platelet, Photo-Optical Scanning",J,BY
+81,22217,"Study, Platelet Adhesive",J,BZ
+81,22218,"Device, Bleeding Time",J,CA
+81,22222,Lymphocyte Separation Medium,J,CF
+81,22223,"Fluid, Diluting, Manual Cell",J,CG
+81,22226,Alkaline Phosphatase,J,CJ
+81,22227,"Control, Hemoglobin, Abnormal",J,CM
+81,22228,"Control, Cell Counter, Normal and Abnormal",J,CN
+81,22229,Bothrops Atrox Reagent,J,CO
+81,22343,"Blood, Occult, Colorimetric, in Urine",J,IO
+81,22344,"Blood, Occult, Enzymatic Method, In Urine",J,IP
+81,22406,"Isoenzymes, Electrophoretic, Glucose-6-Phosphate Dehydrogenase",J,LM
+81,22419,"Visual, Semi-Quant. (Colorimetric), Glucose-6-Phosphate Dehydrogenase",J,MB
+81,22420,"NADP Reduction (U.V.), Glucose-6-Phosphate Dehydrogenase",J,MC
+81,22425,"Fluorescence, Visual Observation (Qual., U.V.), Glutathione Reductase",J,MH
+81,22479,"Analyzer, Heparin, Automated",J,OX
+81,22480,"Device, Automated Cell-Locating",J,OY
+81,22481,"System, Automated Platelet Aggregation",J,OZ
+81,22482,"System, Multipurpose for in Vitro Coagulation Studies",J,PA
+81,22483,Hemoglobin M,J,PB
+81,22484,Hemoglobin F Quantitation,J,PC
+81,22485,Hemoglobin A2 Quantitation,J,PD
+81,22486,"Antithrombin Iii, Two Stage Clotting Time Assay",J,PE
+81,22487,Prothrombin-Proconvertin And Thrombotest,J,PF
+81,22488,"Test, Erythrocyte Sedimentation Rate",J,PH
+81,22489,"Device, Hematocrit Measuring",J,PI
+81,22490,"Red-Cell Indices, Calculated",J,PJ
+81,22491,"Mixture, Hematology Quality Control",J,PK
+81,22579,"Device, Blood Volume Measuring",J,WO
+81,22580,Atp Release (Luminescence),J,WR
+81,22759,"Assay, Heparin",K,FF
+81,22793,"Reagent, Occult Blood",K,HE
+81,22794,Adenine Nucleotide Quantitation,K,HF
+81,22795,Whole Blood Hemoglobin Determination,K,HG
+81,22982,"Assay, Erythrocytic Glucose-6-Phosphate Dehydrogenase",K,QE
+81,22983,"Assay, Glutathione Reductase",K,QF
+81,22984,"Instrument, Coagulation",K,QG
+81,22985,Red-Cell Indices,K,QH
+81,22986,"Assay, Fetal Hemoglobin",K,QI
+81,22987,"System, Fibrinogen Determination",K,QJ
+81,23016,Calibrator For Cell Indices,K,RX
+81,23017,Calibrator For Platelet Counting,K,RY
+81,23018,Calibrator For Hemoglobin And Hematocrit Measurement,K,RZ
+81,23019,Calibrator For Red-Cell And White-Cell Counting,K,SA
+81,23020,"Set, Transfer (Blood/Plasma)",K,SB
+81,23021,"Device, Heat-Sealing",K,SD
+81,23022,"Refrigerator, Freezer, Blood Storage",K,SE
+81,23023,"Kit, Quality Control for Blood Banking Reagents",K,SF
+81,23024,"Media, Potentiating for In Vitro Diagnostic Use",K,SG
+81,23025,"Chamber, Environmental for the Storage of Platelet Concentrate",K,SH
+81,23026,Lectins And Protectins,K,SI
+81,23027,System For The Identification Of Hepatitis B Antigen,K,SJ
+81,23028,"Solution, Stabilized Enzyme",K,SK
+81,23029,"Solution, Copper Sulfate for Specific Gravity Determinations",K,SL
+81,23030,"System, Test, Combs, Automated",K,SM
+81,23031,"Centrifuge, Cell-Washing, Automated for Immuno-Hematology",K,SN
+81,23032,"Centrifuge, Blood-Bank for In Vitro Diagnostic Use",K,SO
+81,23033,"Apparatus, Cell-Freezing and Reagents",K,SP
+81,23034,"Device, Blood Mixing and Blood Weighing",K,SQ
+81,23035,"Container, Empty, for Collection & Processing of Blood & Blood Components",K,SR
+81,23036,"Supplies, Blood-Bank",K,SS
+81,23037,"System, Blood Collection, Vacuum-Assisted",K,ST
+81,23038,"System, Processing for Frozen Blood",K,SW
+81,23039,"Substance, Blood Grouping of Non-Human Origin For In Vitro Diagnostic Use",K,SX
+81,23040,"Boxes, View, Blood Grouping",K,SY
+81,23041,"System, Test, Automated Blood Grouping and Antibody",K,SZ
+81,23140,"Device, Warming, Blood and Plasma",K,ZL
+81,23211,Platelet Factor 4 Radioimmunoassay,L,CO
+81,23212,"Assay, Glycosylated Hemoglobin",L,CP
+81,23302,"Assay, Bart's, Hemoglobin",L,GL
+81,23305,"Test, Leukocyte Typing",L,GO
+81,23306,"Assay, Alpha-2-Antiplasmin",L,GP
+81,23350,"Test, Screening, For D Positive Fetal RBC's",L,IM
+81,23382,"Test, Urine Leukocyte",L,JX
+81,23408,Red-Cell Count By Photometry,L,KZ
+81,23415,"Kit, IGG, Platelet Associated",L,LG
+81,23497,"Device, General Purpose Hematology",L,OQ
+81,23761,"DNA-Probe, B and T Lymphocyte",M,AM
+81,24931,Prothrombin Fragment 1.2,M,IF
+81,25294,Hemoglobin C (Abnormal Hemoglobin Variant),M,LL
+81,25296,Blood Establishment Computer Software and Accessories,M,MH
+81,150651,"System, Separation, Hematopoietic Stem Cell",M,ZK
+81,150652,Fibrin sealant preparation device,M,ZM
+81,150653,"Device, Blood Mixing & Weighing, Semi-Automated",M,YJ
+81,150654,"Kit, Cord Blood Collection",M,YK
+81,150656,"Test, Platelet Antibody",M,YP
+81,150657,"Kit, Antibody, Elution",M,YQ
+81,150658,"Device, AHF, Automated Cryoprecipitation",M,YS
+81,150659,"Indicators, Irradiation, Blood",M,YW
+81,150660,"System, Blood Collection, Vacuum-Assisted, Automated",M,YX
+81,150661,"Separator, Semi-Automated, Blood Component",M,YY
+81,150664,"Test, Residual, WBC in Leukoreduced Blood",M,ZG
+81,150665,"Test, Quantitative, for HLA, Non-Diagnostic",M,ZH
+81,150666,"Test, Qualitative, for HLA, Non-Diagnostic",M,ZI
+81,151763,"Test, Ecarin Clotting Time (ECT)",N,DV
+81,152264,"Enzyme Linked Immunosorbent Assay, Thrombus Precursor Protein",M,RF
+81,152265,"Tray, Leukocyte Typing",M,TH
+81,152267,"Kit, Sample Collection, HIV",M,TK
+81,152268,"Monitor, Test, HIV-1",M,TL
+81,152269,"Test, Syphilis, Treponemal",M,TN
+81,152270,"Software, Management, Micloplate Assay",M,TO
+81,152271,"Antibody to HTLV-1, Elisa",M,TP
+81,152284,Progenitor Cell Enumeration,M,TR
+81,152285,"Vials, Challenge, Endotoxin",M,TS
+81,152286,"Kit, Typing, HLA-DQB",M,VS
+81,152287,"Reagents, Specific, Analyte",M,VU
+81,152288,"Kit, Western, Blot, HIV-1",M,VW
+81,152289,"Antibody, Monoclonal Blocking, HIV-1",M,VX
+81,152290,"Monoclonal, HIV-1",M,VY
+81,152291,"System, Test, Home, HIV-1",M,VZ
+81,152292,"Kit, Test, Saliva, HIV-1 & 2",M,WB
+81,152294,"Reagent, Blood Bank, Quality Control",M,WO
+81,153869,"Control Material, Blood Circulating Epithelial Cancer Cell",N,RS
+81,153874,"Material, Quality Control, Semen Analysis",N,RF
+81,153947,"Assay, 1,5-Anhydroglucitol (15AG)",N,OZ
+81,155574,"Tissue culture, accessories, dental",N,VG
+81,158282,"Platelet function, 11 dehydro thromboxane b2, urine",O,BW
+81,164001,Vitman k epoxide reductase complex subunit one (vkorc1) genotyping system,O,DV
+81,165559,Cryogenic cord blood storage container,O,OF
+81,166142,Automated occult blood analyzer,O,OX
+81,166724,Abo and rh blood grouping card,O,QX
+81,166822,Platelet and plasma separator for bone graft handling,O,RG
+81,166933,cord blood processing system and storage container,O,AO
+81,166941,"test 5, 10-methylenetetrahydrofolate reductase mutations, genomic dna pcr",O,MM
+81,167182,"Control, fecal occult blood",O,SL
+81,167422,Research use only/hematology devices,O,TQ
+81,169722,Early growth response 1 (egr) fish probe kit,O,WK
+81,169762,"Dna-probe kit, human chromosome x and y, bmt engraftment",O,XP
+81,170484,Flow cytometry,O,YE
+81,170703,"Blood establishment computer software, user developed",O,YT
+81,171725,Ecarin clotting time,P,BA
+81,171762,Manual blood grouping and antibody test systems,P,BC
+81,172343,Investigational use only - Hematology,P,DC
+81,172837,Molecular Erythrocyte Typing Test,P,EP
+81,172981,Quality control for molecular immunohematology tests,P,FK
+81,173057,"Software, blood virus applications",M,TQ
+81,173371,Illuminator System for Blood Products,P,JF
+81,173379,Bone marrow processing device to support hematopoietic reconstitution,P,KG
+81,174155,Automated multicolor fluorescent imaging cytometric analysis system,P,MG
+81,174210,Peripheral blood processing device for wound management,P,MQ
+81,174476,Semen analysis device,P,OV
+81,174639,Magnetic Cell Selection System For CD34+ Cells From HPC-Apheresis,O,VG
+81,174715,Flow cytometric test system for hematopoietic neoplasms,P,WD
+81,174935,Peripheral blood processing device for clinical use,P,ZV
+81,174936,Bone marrow processing device for clinical use,P,ZU
+81,174937,Peripheral blood processing device for osteoarthritis,P,ZT
+81,174983,"Assay, oral direct thrombin inhibitor",Q,BG
+81,175007,Centrifuge for preparation of cell concentrate and/or plasma concentrate,Q,BV
+81,175041,Ventilatory effort recorder,M,NR
+81,175086,"Mechanical and enzymatic autologous skin processor for cell suspension, with applicator",Q,CZ
+81,175209,"Factor Xiii A, S, Antigen, Antiserum, Control",D,BT
+81,175211,"Carbonic Anhydrase C, Antigen, Antiserum, Control",D,DE
+81,175212,"Prothrombin, Antigen, Antiserum, Control",D,DF
+81,175213,"Carbonic Anhydrase B, Antigen, Antiserum, Control",D,DH
+81,175214,"Plasminogen, Antigen, Antiserum, Control",D,DX
+81,175215,"Seminal Fluid, Antigen, Antiserum, Control",D,GB
+81,175217,"Whole Blood Plasma, Antigen, Antiserum, Control",D,GQ
+81,175219,"Whole Human Serum, Antigen, Antiserum, Control",D,GR
+81,175239,"Stain, Reticulocyte",G,JH
+81,175240,"Stains, Heinz Body",G,JJ
+81,175241,Romanowsky Stains,G,JL
+81,175249,Heparin,I,AZ
+81,175250,"Solution, Newcomer's",I,FO
+81,175251,"Solution, Helly",I,FS
+81,175252,"Solution, Clarke's",I,GK
+81,175253,"Oil, Clearing",I,JZ
+81,175254,"Reagent, Immunoassay, Carbonic Anhydrase B and C",K,TK
+81,175255,"Counter, Urine Particle",L,KM
+81,175257,Chronic lymphocytic leukemia fish probe kit,O,VQ
+81,175258,Investigational use only - Immunology,P,CZ
+81,175259,Sparse sample PK profile and dosing software,P,HY
+81,175350,Coagulation system for the measurement of whole blood viscoelastic properties,Q,FR
+81,175488,Hemoglobin for donor testing,Q,GU
+81,175586,Reagent red blood cells Reagent Red Blood Cells,Q,HT
+81,175587,Blood grouping reagent,Q,HR
+81,175588,Anti-human globulin,Q,HS
+81,176009,"Anti-factor Xa activity test system, Apixaban",Q,LU
+81,176139,"Reagents and transportation supplies, sodium citrate blood specimen collection tube",Q,PW
+81,176744,von Willebrand factor assay,Q,TY
+81,177011,"Mechanical And Enzymatic Autologous Skin Processor For Cell Suspension, For Stable Vitiligo, With Ap",Q,WY
+81,177041,Container System for the processing and storage of Red Blood Cell components under reduced oxygen co,Q,YC

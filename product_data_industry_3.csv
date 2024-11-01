@@ -1,0 +1,290 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+3,73,Bagel Dough,E,01
+3,74,Bagel Bread/Rolls,A,01
+3,75,Bagel Prepared Dry Mix With Milk or Egg,B,01
+3,76,Bagel Prepared Dry Mix Without Milk or Egg,C,01
+3,77,Bagel Heat/Serve,D,01
+3,78,Cracker Meal and Cracker Crumbs,F,01
+3,79,Peanut Butter Filled Crackers,G,01
+3,80,"Vanilla Cookie,Biscuit,Wafer Dough",M,01
+3,81,"Vanilla Plain Cookie,Biscuit and Wafer",H,01
+3,82,"Vanilla Filled/Iced Cookies,Biscuits and Wafers",J,01
+3,83,Vanilla Prepared Dry Cookie Mix With Milk or Egg,K,01
+3,84,Vanilla Prepared Dry Cookie Mix Without Milk or Egg,L,01
+3,85,Cake Dough or Batter With Custard or Cream Filling,Q,01
+3,86,"Cake,Custard or Cream Filled",N,01
+3,87,Cake Prepared Dry Mix With Custard or Cream Filling,P,01
+3,88,Cake Dough or Batter Without Custard or Cream Filling,T,01
+3,89,Cake Without Custard or Cream Filling,R,01
+3,90,Cake Prepared Dry Mix Without Custard or Cream Filling,S,01
+3,91,Icing and Icing Mixes Without Chocolate or Nuts,U,01
+3,92,Bread Crumbs,Y,01
+3,93,Bialy Dough,E,02
+3,94,Bialy Bread/Rolls,A,02
+3,95,Bialy Prepared Dry Mix With Milk or Egg,B,02
+3,96,Bialy Prepared Dry Mix Without Milk or Egg,C,02
+3,97,Bialy Heat/Serve,D,02
+3,98,Flavored or Party Crackers,F,02
+3,99,Cheese Filled Crackers,G,02
+3,100,"Chocolate Cookie, Biscuit, Wafer Dough",M,02
+3,101,"Chocolate Plain Cookies,Biscuits and Wafers",H,02
+3,102,"Chocolate Filled/Iced Cookies,Biscuits and Wafers",J,02
+3,103,Chocolate Prepared Dry Cookie Mix With Milk or Egg,K,02
+3,104,Chocolate Prepared Dry Cookie Mix Without Milk or Egg,L,02
+3,105,Doughnut Dough or Batter With Custard or Cream Filling,Q,02
+3,106,"Doughnut, Custard or Cream Filled",N,02
+3,107,Doughnut Prepared Dry Mix with Custard or Cream Filling,P,02
+3,108,Icing and Icing Mixes With Chocolate,U,02
+3,109,Croutons,Y,02
+3,110,Biscuit Dough,E,03
+3,111,Biscuits,A,03
+3,112,Biscuit Prepared Dry Mix With Milk or Egg,B,03
+3,113,Biscuit Prepared Dry Mix Without Milk or Egg,C,03
+3,114,Biscuit Heat/Serve,D,03
+3,115,Graham Crackers,F,03
+3,116,"Oatmeal Cookie,Biscuit,Wafer Dough",M,03
+3,117,"Oatmeal Plain Cookies,Biscuits, and Wafers",H,03
+3,118,"Oatmeal Filled/Iced Cookies,Biscuits and Wafers",J,03
+3,119,Oatmeal Prepared Dry Cookie Mix With Milk or Egg,K,03
+3,120,Oatmeal Prepared Dry Cookie Mix Without Milk or Egg,L,03
+3,121,"Pastry (Eclairs, Cream Puffs) Dough or Batter With Custard or Cream Filling",Q,03
+3,122,"Pastry (Eclairs, Cream Puffs) Custard or Cream Filled",N,03
+3,123,"Pastry (Eclairs, Cream Puffs) Prepared Dry Mix With Custard or Cream Filling",P,03
+3,124,Icing and Icing Mixes With Nuts,U,03
+3,125,Ice Cream Cones,Y,03
+3,126,Corn Muffin Dough,E,04
+3,127,Corn Muffins,A,04
+3,128,Corn Muffin Prepared Dry Mix With Milk or Egg,B,04
+3,129,Corn Muffin Prepared Dry Mix Without Milk or Egg,C,04
+3,130,Corn Muffin Heat/Serve,D,04
+3,131,Matzoth Crackers,F,04
+3,132,"Chocolate Chip Cookie, Biscuit,Wafer Dough",M,04
+3,133,"Chocolate Chip Plain Cookies,Biscuits and Wafers",H,04
+3,134,"Chocolate Chip Filled/Iced Cookies,Biscuits and Wafers",J,04
+3,135,Chocolate Chip Prepared Dry Cookie Mix With Milk or Egg,K,04
+3,136,Chocolate Chip Prepared Dry Cookie Mix Without Milk or Egg,L,04
+3,137,Pies and Puddings Dough or Batter With Custard or Cream Filling,Q,04
+3,138,"Pies or Puddings, Custard or Cream Filled",N,04
+3,139,Pies and Pudding Prepared Dry Mix With Custard or Cream Filling,P,04
+3,140,Pie Crust,Y,04
+3,141,English Muffin Dough,E,05
+3,142,English Muffins,A,05
+3,143,English Muffin Prepared Dry Mix With Milk or Egg,B,05
+3,144,English Muffin Prepared Dry Mix Without Milk or Egg,C,05
+3,145,English Muffin Heat/Serve,D,05
+3,146,Soda Crackers,F,05
+3,147,"Nut Cookie,Biscuit,Wafer Dough",M,05
+3,148,"Nut Plain Cookies,Biscuits and Wafers",H,05
+3,149,"Nut Filled/Iced Cookies,Biscuits and Wafers",J,05
+3,150,Nut Prepared Dry Cookie Mix With Milk or Egg,K,05
+3,151,Nut Prepared Dry Cookie Mix Without Milk or Egg,L,05
+3,152,Coffee Cake Dough or Batter Without Custard or Cream Filling,T,05
+3,153,Coffee Cake Without Custard or Cream Filling,R,05
+3,154,Coffee Cake Prepared Dry Mix Without Custard or Cream Filling,S,05
+3,155,Pizza Crust,Y,05
+3,156,Salted Crackers,F,06
+3,157,"Fruit Filled Cookie,Biscuit,Wafer Dough",M,06
+3,158,"Fruit Filled Plain Cookies,Biscuits and Wafers",H,06
+3,159,"Fruit Filled Filled/Iced Cookies,Biscuits and Wafers",J,06
+3,160,Fruit Filled Prepared Dry Cookie Mix With Milk or Egg,K,06
+3,161,Fruit Filled Prepared Dry Cookie Mix Without Milk or Egg,L,06
+3,162,Stuffing,Y,06
+3,163,Graham Bread Dough,E,07
+3,164,Graham Bread/Rolls/Buns,A,07
+3,165,Graham Bread Prepared Dry Mix With Milk or Egg,B,07
+3,166,"Graham Bread, Rolls, Buns, Etc Prepared Dry Mix Without Milk or Egg",C,07
+3,167,Graham Bread Heat/Serve,D,07
+3,168,"Mixed Cookie,Biscuit,Wafer Dough",M,07
+3,169,"Mixed Plain Cookies,Biscuits and Wafers",H,07
+3,170,"Mixed Filled/Iced Cookies,Biscuits and Wafers",J,07
+3,171,Mixed Prepared Dry Cookie Mix With Milk or Egg,K,07
+3,172,Mixed Prepared Dry Cookie Mix Without Milk or Egg,L,07
+3,173,"Zweiback, Toast",Y,07
+3,174,"Milk Bread, Rolls, Buns, Etc Dough",E,08
+3,175,Milk Bread/Rolls/Buns,A,08
+3,176,"Milk Bread, Rolls, Buns, Etc Prepared Dry Mix with Milk or Egg",B,08
+3,177,"Milk Bread, Rolls, Buns, Etc Prepared Dry Mix Without Milk or Egg",C,08
+3,178,"Milk Bread, Rolls, Buns, Etc Heat/Serve (excludes Sweet Goods)",D,08
+3,179,Taco Shell,Y,08
+3,180,"Non-Standard Bread, Rolls, Buns, Etc Dough",E,09
+3,181,Non-Standard Bread/Rolls/Buns,A,09
+3,182,"Non-Standard Bread, Rolls, Buns, Etc Prepared Dry Mix With Milk or Egg",B,09
+3,183,"Non-Standard Breads, Rolls, Buns, Etc Prepared Dry Mix Without Milk or Egg",C,09
+3,184,"Non-Standard Bread, Rolls, Buns, Etc Heat/Serve (excludes Sweet Goods)",D,09
+3,185,Tortillas,Y,09
+3,186,"Raisin Bread, Rolls, Buns, Etc Dough",E,10
+3,187,Raisin Bread/Rolls/Buns,A,10
+3,188,"Raisin Bread, Rolls, Buns, Etc Prepared Dry Mix With Milk or Egg",B,10
+3,189,"Raisin Bread, Rolls, Buns, Etc Prepared Dry Mix Without Milk or Egg",C,10
+3,190,"Raisin Bread, Rolls, Buns, Etc Heat/Serve (excludes Sweet Goods)",D,10
+3,191,Doughnut Dough or Batter Without Custard or Cream Filling,T,10
+3,192,Doughnut Without Custard or Cream Filling,R,10
+3,193,Doughnut Prepared Dry Mix Without Custard or Cream Filling,S,10
+3,194,"Breading, Breading Mixes. Etc.",Y,10
+3,195,"Rye Bread, Rolls, Buns, Etc Dough",E,11
+3,196,Rye Bread/Rolls/Buns,A,11
+3,197,"Rye Bread, Rolls, Buns, Etc Prepared Dry Mix With Milk or Egg",B,11
+3,198,"Rye Bread, Rolls, Buns, Etc Prepared Dry Mix Without Milk or Egg",C,11
+3,199,"Rye Bread, Rolls, Buns, Etc Heat/Serve (excludes Sweet Goods)",D,11
+3,200,"White Bread, Rolls, Buns, Etc Dough",E,12
+3,201,White Bread/Rolls/Buns,A,12
+3,202,"White Bread, Rolls, Buns, Etc Prepared Dry Mix With Milk or Egg",B,12
+3,203,"White Bread, Rolls, Buns, Etc Prepared Dry Mix Without Milk or Egg",C,12
+3,204,"White Bread, Rolls, Buns, Etc Heat/Serve (excludes Sweet Goods)",D,12
+3,205,"Whole Wheat Bread, Rolls, Buns, Etc Dough",E,13
+3,206,Whole Wheat Bread/Rolls/Buns,A,13
+3,207,"Whole Wheat Bread, Rolls, Buns, Etc Prepared Dry Mix With Milk or Egg",B,13
+3,208,"Whole Wheat Bread, Rolls, Buns, Etc Prepared Dry Mix Without Milk or Egg",C,13
+3,209,"Whole Wheat Bread, Rolls, Buns, Etc Heat/Serve (excludes Sweet Goods)",D,13
+3,210,"Muffin (Blueberry, Etc.) Dough or Batter Without Custard or Cream Filling",T,20
+3,211,"Muffin (Blueberry, Etc) Without Custard or Cream Filling",R,20
+3,212,"Muffin (Blueberry, Etc.) Prepared Dry Mix Without Custard or Cream Filling",S,20
+3,213,Pancake Dough or Batter Without Custard or Cream Filling,T,23
+3,214,Pancakes Without Custard or Cream Filling,R,23
+3,215,Pancake Prepared Dry Mix Without Custard or Cream Filling,S,23
+3,216,Pastry (other than Fruit or Jelly Filled) Dough or Batter Without Custard or Cream Filling,T,25
+3,217,Pastry (Other than Fruit or Jelly Filled) Without Custard or Cream Filling,R,25
+3,218,Pastry (other than Fruit or Jelly Filled) Prepared Dry Mix Without Custard or Cream Filling,S,25
+3,219,Pastry Shell Dough or Batter Without Custard or Cream Filling,T,30
+3,220,Pastry Shells Without Custard or Cream Filling,R,30
+3,221,Pastry Shells Prepared Dry Mix Without Custard or Cream Filling,S,30
+3,222,"Pastry,Fruit or Jelly Filled Dough or Batter Without Custard or Cream Filling",T,35
+3,223,"Pastry, Fruit or Jelly Filled, Without Custard or Cream Filling",R,35
+3,224,"Pastry,Fruit or Jelly Filled Prepared Dry Mix Without Custard or Cream Filling",S,35
+3,225,"Pie (Fruit, Pumpkin,Pecan, Etc.) and Pudding Dough or Batter Without Custard or Cream Filling",T,40
+3,226,"Pies (Fruit, Pumpkin, and Pecan, Etc) and Puddings Without Custard or Cream Filling",R,40
+3,227,"Pie (Fruit, Pumpkin, Pecan, Etc.) and Pudding Prepared Dry Mix Without Custard or Cream Filling",S,40
+3,228,Sweet Roll Dough or Batter Without Custard or Cream Filling,T,50
+3,229,Sweet Rolls Without Custard or Cream Filling,R,50
+3,230,Sweet Roll Prepared Dry Mix Without Custard or Cream Filling,S,50
+3,231,"Turnovers, Fruit Filled, Dough or Batter Without Custard or Cream Filling",T,55
+3,232,"Turnovers, Fruit Filled Without Custard or Cream Filling",R,55
+3,233,"Turnovers, Fruit Filled Prepared Dry Mix Without Custard or Cream Filling",S,55
+3,234,Waffle Dough or Batter Without Custard or Cream Filling,T,60
+3,235,Waffles Without Custard or Cream Filling,R,60
+3,236,Waffles Prepared Dry Mix Without Custard or Cream Filling,S,60
+3,237,"Doughs for Bread,Rolls,Muffins, and Buns, N.E.C.",E,99
+3,238,"Bread/Rolls/Buns, N.E.C.",A,99
+3,239,"Bread, Rolls, Buns, Etc N.E.C. Prepared Dry Mix With Milk or Egg",B,99
+3,240,"Breads, Rolls, Buns, Etc N.E.C. Prepared Dry Mix Without Milk or Egg",C,99
+3,241,"Bread, Rolls, Buns, Etc N.E.C. Heat/Serve",D,99
+3,242,Crackers (Non Filled) N.E.C.,F,99
+3,243,Filled Crackers N.E.C.,G,99
+3,244,"Cookie,Biscuit,Wafer Dough, N.E.C.",M,99
+3,245,"Plain Cookies,Biscuits and Wafers, N.E.C.",H,99
+3,246,"Filled/Iced Cookies,Biscuits and Wafers, N.E.C.",J,99
+3,247,Prepared Dry Cookie Mix With Milk or Egg N.E.C.,K,99
+3,248,Prepared Dry Cookie Mix Without Milk or Egg N.E.C.,L,99
+3,249,Sweet Goods Dough or Batter With Custard or Cream Filling N.E.C.,Q,99
+3,250,"Sweet Goods,Custard or Cream Filled, N.E.C.",N,99
+3,251,Sweet Goods Prepared Dry Mix With Custard or Cream Filling N.E.C.,P,99
+3,252,Sweet Goods Dough or Batter Without Custard or Cream Filling,T,99
+3,253,"Sweet Goods Without Custard or Cream Filling, N.E.C.",R,99
+3,254,Prepared Dry Sweet Goods Mix Without Custard or Cream Filling N.E.C.,S,99
+3,255,"Icings And Icing Mixes, N.E.C.",U,99
+3,256,"Other Bakery Products, N.E.C.",Y,99
+3,23822,"Croissant, Prepared Dry Mix With Milk or Egg",B,14
+3,23823,Croissant Bread/Rolls,A,14
+3,23824,Croissant Prepared Dry Mix Without Milk or Egg,C,14
+3,23825,"Croissant,Heat/Serve (excludes Sweet Goods)",D,14
+3,23826,Croissant Dough,E,14
+3,23827,Rice Crackers,F,07
+3,23828,Shrimp/Prawn Crackers,F,08
+3,23829,"Butter/Butter Flavored,Plain Cookies,Biscuits and Wafers",H,08
+3,23830,"Butter/Butter Flavored Filled/Iced Cookies,Biscuits and Wafers",J,08
+3,23831,Butter/Butter flavored Prepared Dry Cookie Mix With Milk or Egg,K,08
+3,23832,Butter/Butter flavored Prepared Dry Cookie Mix without Milk or Egg,L,08
+3,23833,"Butter/Butter flavored,Cookie,Biscuit,Wafer Dough",M,08
+3,23834,"Fruit/Fruit Flavored Plain Cookies, Biscuits and Wafers",H,09
+3,23835,"Fruit/Fruit Flavored Filled/Iced Cookies,Biscuits and Wafers",J,09
+3,23836,Fruit/Fruit flavored Prepared Dry Cookie Mix With Milk or Egg,K,09
+3,23837,Fruit/Fruit flavored Prepared Dry Cookie Mix Without Milk or Egg,L,09
+3,23838,"Fruit/Fruit flavored,Cookie,Biscuit and Wafer Dough",M,09
+3,23839,"Creme,Plain Cookie, Biscuit and Wafer",H,10
+3,23840,"Creme Filled/Iced Cookie,Biscuit,Wafer",J,10
+3,23841,Creme Prepared Dry Cookie Mix With Milk or Egg,K,10
+3,23842,Creme Prepared Dry Cookie Mix Without Milk or Egg,L,10
+3,23843,"Creme Cookie,Biscuit,Wafer Dough",M,10
+3,23844,Demiglace  Icings and Icing Mixes,U,04
+3,23845,Lumpia wrappers (includes pastry wrappers and sheets),Y,11
+3,23846,Rice Cakes,Y,12
+3,25459,Banh Trang (Vietnamese and Southeast Asian phyllo-thin pastry wrapper made from rice flour),Y,11
+3,25460,Banku (cylindrical African dumpling made from maize and cassava sourdough; eaten w/soup and stew),Y,99
+3,25461,Baozi (Chinese steamed bun),A,99
+3,25464,"Bibingka (Philippine cake-like dessert made from rice, grated coconut and cheese)",R,99
+3,25474,"Brioche (French, light, yeast bread made rich w/addition of butter and eggs)",A,99
+3,25519,"Focaccia (Italian large, flat, round bread coated w/olive oil & salt)",A,99
+3,25520,"Fu (Japanese cake made of wheat gluten, used as soup garnish)",Y,99
+3,25582,"Omochi (Japanese soft, chewy glutinous rice cake that may be eaten fresh, grilled, or broiled)",Y,12
+3,25593,Panettone (Italian spiced yeast bread w/raisins or candied fruit & served as bread or dessert),A,99
+3,25594,"Paratha (East Indian fried, whole wheat bread)",A,99
+3,25609,"Puto (steamed bread normally made from rice, may contain wheat or corn, from India, China & Phil)",A,99
+3,25636,"Sembei (Japanese or Asian rice cake made w/rice flour, egg & sesame seeds, seaweed or soy sauce)",Y,12
+3,25646,"Hong Yong Bang (Chinese round, light brown almond cookie)",H,05
+3,25655,Jajan Lukis (Indonesian sticky rice triangles made of glutinous rice salt brown sugar & coconut),Y,99
+3,25695,Springerle (German anise-flavored cookie decoratively imprinted w/design),H,99
+3,25749,"Kayabu (Indonesian cassava cake made w/added coconut, sugar & cinnamon, wrapped in pandan leaves)",R,01
+3,25784,Lambropsomo (Greek Easter breat made w/an added liquid spice mixture of cloves bay leaves & cinnamon,A,99
+3,25801,Mah Kok Quay (Chinese steamed rice bread that may contain added wheat flour; eaten as a staple food),A,99
+3,25808,"Man T'ou (steamed Chinese wheat bread sometimes containing corn or rice, eaten as a staple food)",A,99
+3,25809,"Mandoo Skin (Korean dumpling wrapper made from thin flour dough, dumplings filled w/meat & vegs.)",Y,99
+3,25830,Ugali (Kenyan cylindrical dumpling made from barley sourdough; eaten w/soups and stews),Y,99
+3,25835,"Vattayappam (steamed Indian rice bread w/coconut and cumin, eaten as breakfast or snack)",A,99
+3,153263,Cheese Cake,R,61
+3,153264,Fruit/Fruit Flavored Cheese Cake,R,62
+3,153265,Non-Fruit Flavor Cheese Cake,R,63
+3,153266,Baklava,R,64
+3,153283,Cheese Cake,S,61
+3,153284,Fruit/Fruit Flavored Cheese Cake,S,62
+3,153285,Non-Fruit Flavor Cheese Cake,S,63
+3,153286,Baklava,S,64
+3,153287,Cheese Cake,T,61
+3,153288,Fruit/Fruit Flavored Cheese Cake,T,62
+3,153289,Non-Fruit Flavor Cheese Cake,T,63
+3,153290,Baklava,T,64
+3,160021,"Cakes, filled (other than fruit or jelly)",R,02
+3,160022,"Cakes, fruit or jelly filled",R,03
+3,160040,"Cakes, filled (other than fruit or jelly)",S,02
+3,160041,"Cakes, fruit or jelly filled",S,03
+3,160042,"Cakes, filled (other than fruit or jelly)",T,02
+3,160043,"Cakes, fruit or jelly filled",T,03
+3,173659,"Macaroon,Plain Cookie,Biscuit and Wafer",H,11
+3,173660,Mini Macaroon,H,11
+3,173664,Macaron,H,11
+3,173665,Ricciarelli,H,11
+3,173666,Besitos de coco,H,11
+3,173667,Carajito,H,11
+3,173668,Acibadem kurabiyesi,H,11
+3,173669,"Macaroon,Filled or Iced Cookies, Biscuits and Wafers",J,11
+3,173670,Mini Macaroon,J,11
+3,173671,Macaron,J,11
+3,173672,Ricciarelli,J,11
+3,173673,Besitos de coco,J,11
+3,173674,Carajito,J,11
+3,173675,Acibadem kurabiyesi,J,11
+3,173676,"Macaroon,Prepared Dry Cookie, Biscuits and Wafer Mixes with Milk or Eggs",K,11
+3,173677,Mini Macaroon,K,11
+3,173678,Macaron,K,11
+3,173679,Ricciarelli,K,11
+3,173680,Besitos de coco,K,11
+3,173681,Carajito,K,11
+3,173682,Acibadem kurabiyesi,K,11
+3,173683,"Macaroon,Prepared Dry Cookie, Biscuit and Wafer Mixes without Milk and Eggs",L,11
+3,173684,Mini Macaroon,L,11
+3,173685,Macaron,L,11
+3,173686,Ricciarelli,L,11
+3,173687,Besitos de coco,L,11
+3,173688,Carajito,L,11
+3,173689,Acibadem kurabiyesi,L,11
+3,173690,"Macaroon,Cookie, Biscuit and Wafer dough",M,11
+3,173691,Mini Macaroon,M,11
+3,173692,Macaron,M,11
+3,173693,Ricciarelli,M,11
+3,173694,Besitos de coco,M,11
+3,173695,Carajito,M,11
+3,173696,Acibadem kurabiyesi,M,11
+3,176015,"Pita, Bread/Rolls/Buns",A,15
+3,176016,"Pita, Rolls, Buns, Etc Prepared Dry Mix With Milk or Egg",B,15
+3,176017,"Pita, Prepared Dry Mix Without Milk or Egg",C,15
+3,176018,"Pita, Heat/Serve (excludes Sweet Goods)",D,15
+3,176019,"Pita, Dough",E,15

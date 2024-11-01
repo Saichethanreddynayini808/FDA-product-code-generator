@@ -1,0 +1,301 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+55,3113,Glass Type I (Non-Metallic Containers and Materials),C,01
+55,3114,Stainless Steel (Metallic Containers and Material),D,01
+55,3115,Plasticizer (Additives in Plastics),E,01
+55,3116,Glucosamine (Pharmaceutic Necessity),P,01
+55,3117,Orange Flower Oil (Pharmaceutic Necessity - Flavor),Q,01
+55,3118,Sorbitan Monolaurate (Pharmaceutic Necessity - Surfactant),R,01
+55,3119,Glass Type II (Non-Metallic Containers and Materials),C,02
+55,3120,Stabilizer (Additives in Plastics),E,02
+55,3121,Olive Oil (Pharmaceutic Necessity),P,02
+55,3122,Orange Oil (Pharmaceutic Necessity - Flavor),Q,02
+55,3123,Sorbitan Monooleate (Pharmaceutic Necessity - Surfactant),R,02
+55,3124,Glass Type III (Non-Metallic Containers and Materials),C,03
+55,3125,Accelerator (Additives in Plastics),E,03
+55,3126,Polacrilin (Pharmaceutic Necessity),P,03
+55,3127,Sweet Orange Peel Tincture (Pharmaceutic Necessity - Flavor),Q,03
+55,3128,Sorbitan Monopalmitate (Pharmaceutic Necessity - Surfactant),R,03
+55,3129,Anti-Oxidant (Additives in Plastics),E,04
+55,3130,Poloxamer 182LF (Pharmaceutic Necessity),P,04
+55,3131,Peppermint Oil (Pharmaceutic Necessity - Flavor),Q,04
+55,3132,Sorbitan Monostearate (Pharmaceutic Necessity - Surfactant),R,04
+55,3133,Filler (Additives in Plastics),E,05
+55,3134,Starch (Pharmaceutic Necessity),P,05
+55,3135,Pine Needle Oil (Pharmaceutic Necessity - Flavor),Q,05
+55,3136,Sorbitan Sesquioleate (Pharmaceutic Necessity - Surfactant),R,05
+55,3137,Colorant (Additives in Plastics),E,06
+55,3138,Tolu Balsam (Pharmaceutic Necessity),P,06
+55,3139,Saccharine (Pharmaceutic Necessity - Flavor),Q,06
+55,3140,Sorbitan Trioleate (Pharmaceutic Necessity - Surfactant),R,06
+55,3141,Antistatic Agent (Additives in Plastics),E,07
+55,3142,Acetic Acid (Pharmaceutic Necessity-Acidifying Agent),P,07
+55,3143,Sorbitol (Pharmaceutic Necessity - Flavor),Q,07
+55,3144,Sorbitan Tristearate (Pharmaceutic Necessity - Surfactant),R,07
+55,3145,Glacial Acetic Acid (Pharmaceutic Necessity-Acidifying Agent),P,08
+55,3146,Spearmint (Pharmaceutic Necessity - Flavor),Q,08
+55,3147,Acacia (Pharmaceutic Necessity - Suspending Agent),R,08
+55,3148,Hydrochloric Acid (Pharmaceutic Necessity-Acidifying Agent),P,09
+55,3149,Spearmint Oil (Pharmaceutic Necessity - Flavor),Q,09
+55,3150,Agar (Pharmaceutic Necessity - Suspending Agent),R,09
+55,3151,Rubber Container Mat,C,10
+55,3152,Dil Hydrochloric Acid (Pharmaceutic Necessity-Acidifying Agent),P,10
+55,3153,Sucrose (Pharmaceutic Necessity - Flavor),Q,10
+55,3154,Bentonite (Pharmaceutic Necessity - Suspending Agent),R,10
+55,3155,Gutta Percha Container Material (Non-Metallic Containers and Materials),C,11
+55,3156,Nitric Acid (Pharmaceutic Necessity-Acidifying Agent),P,11
+55,3157,Compressible Sugar (Pharmaceutic Necessity - Flavor),Q,11
+55,3159,Activated Charcoal (Pharmaceutic Necessity - Absorbant),P,12
+55,3160,Confectioner's Sugar (Pharmaceutic Necessity - Flavor),Q,12
+55,3161,Carboxymethylcellulose Sodium (Pharmaceutic Necessity - Suspending Agent),R,12
+55,3162,Dichlorodifluoromethane (Pharmaceutic Necessity - Aerosol Propellant),P,13
+55,3163,Syrup (Pharmaceutic Necessity - Flavor),Q,13
+55,3164,Gelatin  (Pharmaceutic Necessity - Suspending Agent),R,13
+55,3165,Dichlorotetrafluoroethane (Pharmaceutic Necessity - Aerosol Propellant),P,14
+55,3166,Vanilla (Pharmaceutic Necessity - Flavor),Q,14
+55,3167,Hydroxypropyl Methylcellulose (Pharmaceutic Necessity - Suspending Agent),R,14
+55,3168,Trichloromonofluoromethane (Pharmaceutic Necessity - Aerosol Propellant),P,15
+55,3169,Vanillin (Pharmaceutic Necessity - Flavor),Q,15
+55,3170,Methylcellulose (Pharmaceutic Necessity - Suspending Agent),R,15
+55,3171,Nitrogen (Pharmaceutic Necessity - Air Displacement),P,16
+55,3172,Glycerin (Pharmaceutic Necessity - Humectant),Q,16
+55,3173,Pectin (Pharmaceutic Necessity - Suspending Agent),R,16
+55,3174,Denatonium Benzoate (Pharmaceutic Necessity - Alcohol Denaturant),P,17
+55,3176,Pegoterate (Pharmaceutic Necessity - Suspending Agent),R,17
+55,3177,Methyl Isobutyl Ketone (Pharmaceutic Necessity - Alcohol Denaturant),P,18
+55,3178,Yellow Ointment (Pharmaceutic Necessity - Ointment Base),Q,18
+55,3179,Silicon Dioxide Colloid (Pharmaceutic Necessity - Suspending Agent),R,18
+55,3180,Sucrose Octaacetate (Pharmaceutic Necessity - Alcohol Denaturant),P,19
+55,3181,Petrolatum  (Pharmaceutic Necessity - Ointment Base),Q,19
+55,3182,Sodium Alginate (Pharmaceutic Necessity - Suspending Agent),R,19
+55,3183,Acrylic (Non-Metallic Containers and Materials),C,20
+55,3184,Potassium Hydroxide (Pharmaceutic Necessity - Alkalizing Agent),P,20
+55,3185,Polyethylene Glycol 400 (Pharmaceutic Necessity - Ointment Base),Q,20
+55,3186,Tragacanth (Pharmaceutic Necessity - Suspending Agent),R,20
+55,3187,Cellulosic (Non-Metallic Containers and Materials),C,21
+55,3188,Sodium Borate (Pharmaceutic Necessity - Alkalizing Agent),P,21
+55,3189,Polyethylene Glycol 600 (Pharmaceutic Necessity - Ointment Base),Q,21
+55,3190,Xanthan Gum (Pharmaceutic Necessity - Suspending Agent),R,21
+55,3191,Solid Epoxy Resin (Non-Metallic Containers and Materials),C,22
+55,3192,Sodium Carbonate (Pharmaceutic Necessity - Alkalizing Agent),P,22
+55,3193,Polyethylene Glycol 1500 (Pharmaceutic Necessity - Ointment Base),Q,22
+55,3194,Dibasic Calcium Phosphate (Pharmaceutic Necessity - Tablet Base),R,22
+55,3195,Liquid Epoxy Resin (Non-Metallic Containers and Materials),C,23
+55,3196,Sodium Hydroxide (Pharmaceutic Necessity - Alkalizing Agent),P,23
+55,3198,Ethylcellulose (Pharmaceutic Necessity - Tablet Binder),R,23
+55,3199,Polyamide (Non-Metallic Containers and Materials),C,24
+55,3200,Triethanolamine (Pharmaceutic Necessity),P,24
+55,3202,Gelatin (Pharmaceutic Necessity - Tablet Binder),R,24
+55,3203,Polyester (Non-Metallic Containers and Materials),C,25
+55,3204,Benzoic Acid (Pharmaceutic Necessity - Antifungal Agent),P,25
+55,3205,Rose Water (Pharmaceutic Necessity - Ointment Base),Q,25
+55,3206,Liquid Glucose (Pharmaceutic Necessity - Tablet Binder),R,25
+55,3207,Polyfluorocarbon (Non-Metallic Containers and Materials),C,26
+55,3208,Butylparaben (Pharmaceutic Necessity - Antifungal Agent),P,26
+55,3209,Hydrophilic Petrolatum (Pharmaceutic Necessity - Absorbent),Q,26
+55,3210,Guar Gum (Pharmaceutic Necessity - Tablet Binder),R,26
+55,3211,"Polyolefin, Polyethylene  (Non-Metallic Containers and Materials)",C,27
+55,3212,Ethylparaben (Pharmaceutic Necessity - Antifungal Agent),P,27
+55,3213,Anhydrous Lanolin (Pharmaceutic Necessity - Absorbent),Q,27
+55,3214,Policapram (Pharmaceutic Necessity - Tablet Binder),R,27
+55,3215,"Polyolefin, Polypropylene (Non-Metallic Containers and Materials)",C,28
+55,3216,Methylparaben (Pharmaceutic Necessity - Antifungal Agent),P,28
+55,3217,Hydrophilic Ointment (Pharmaceutic Necessity - Oil in Water Emulsion),Q,28
+55,3218,Dextrate (Pharmaceutic Necessity - Tablet Binder and Diluent),R,28
+55,3219,Polystyrene  (Non-Metallic Containers and Materials),C,29
+55,3220,Propylparaben (Pharmaceutic Necessity - Antifungal Agent),P,29
+55,3221,White Petrolatum (Pharmaceutic Necessity - Oleaginous),Q,29
+55,3222,Alginic Acid (Pharmaceutic Necessity - Tablet Binder & Emulsifying Agent),R,29
+55,3223,Silicone (Non-Metallic Containers and Materials),C,30
+55,3224,Sodium Benzoate (Pharmaceutic Necessity - Antifungal Agent),P,30
+55,3225,White Ointment (Pharmaceutic Necessity - Oleaginous),Q,30
+55,3226,Calcium Sulfate (Pharmaceutic Necessity - Tablet & Capsule Diluent),R,30
+55,3227,Polyvinyl Acetal (Vinyl Plastic) (Non-Metallic Containers and Materials),C,31
+55,3228,Benzyl Alcohol (Pharmaceutic Necessity - Antimicrobial Agent),P,31
+55,3229,Cold Cream (Pharmaceutic Necessity - Water in Oil Emulsion),Q,31
+55,3230,Microcrystalline Cellulose (Pharmaceutic Necessity - Tablet & Capsule Diluent),R,31
+55,3231,Polyvinyl Chloride (Vinyl Plastic) (Non-Metallic Containers and Materials),C,32
+55,3232,Chlorobutanol (Pharmaceutic Necessity - Antimicrobial Agent),P,32
+55,3233,Lanolin (Pharmaceutic Necessity - Water in Oil Emulsion),Q,32
+55,3234,Lactose (Pharmaceutic Necessity - Tablet & Capsule Diluent),R,32
+55,3235,Polyvinyl Alcohol (Vinyl Plastic) (Non-Metallic Containers and Materials),C,33
+55,3236,Phenylethyl Alcohol (Pharmaceutic Necessity - Antimicrobial Agent),P,33
+55,3237,Polyethylene Glycol Ointment (Pharmaceutic Necessity),Q,33
+55,3238,Silicon Dioxide Colloid (Pharmaceutic Necessity - Tablet & Capsule Diluent),R,33
+55,3239,Polycarbonate (Non-Metallic Containers and Materials),C,34
+55,3240,Phenylmercuric Acetate (Pharmaceutic Necessity - Antimicrobial Agent),P,34
+55,3241,Lavender Oil (Pharmaceutic Necessity - Perfume),Q,34
+55,3242,Cellulose Acetate Phthalate (Pharmaceutic Necessity - Tablet Coating Agent),R,34
+55,3243,Polychloroether (Non-Metallic Containers and Materials),C,35
+55,3244,Phenylmercuric Nitrate (Pharmaceutic Necessity - Antimicrobial Agent),P,35
+55,3245,Orange Flower Oil (Pharmaceutic Necessity - Perfume),Q,35
+55,3247,Polyurethane  (Non-Metallic Containers and Materials),C,36
+55,3248,Potassium Sorbate (Pharmaceutic Necessity - Antimicrobial Agent),P,36
+55,3249,Pine Needle Oil (Pharmaceutic Necessity - Perfume),Q,36
+55,3251,Sorbic Acid (Pharmaceutic Necessity - Antimicrobial Agent),P,37
+55,3252,Rose Oil (Pharmaceutic Necessity - Perfume),Q,37
+55,3253,Carnauba Wax (Pharmaceutic Necessity - Tablet Coating Agent),R,37
+55,3254,Ascorbyl Palmitate (Pharmaceutic Necessity - Antioxidant),P,38
+55,3255,Stronger Rose Water (Pharmaceutic Necessity - Perfume),Q,38
+55,3257,Butylated Hydroxyanisole,P,39
+55,3258,Cellaburate (Pharmaceutic Necessity),Q,39
+55,3259,Polacrilin Potassium (Pharmaceutic Necessity - Tablet Disintegrant),R,39
+55,3260,Butylated Hydroxytoluene (Pharmaceutic Necessity - Antioxidant),P,40
+55,3261,Octicizer (Pharmaceutic Necessity - Plasticizer),Q,40
+55,3263,Hypophosphorous Acid (Pharmaceutic Necessity - Antioxidant),P,41
+55,3264,Benzalkonium Chloride (Pharmaceutic Necessity - Preservative),Q,41
+55,3266,Sodium Bisulfite (Pharmaceutic Necessity - Antioxidant),P,42
+55,3267,Benzethonium Chloride (Pharmaceutic Necessity - Preservative),Q,42
+55,3268,Polipropene 25 (Pharmaceutic Necessity - Tablet Excipient),R,42
+55,3269,Sodium Metabisulfite (Pharmaceutic Necessity - Antioxidant),P,43
+55,3270,Cetylpyridinium Chloride,Q,43
+55,3271,Polyethylene Glycol 4000 (Pharmaceutic Necessity - Tablet Excipient),R,43
+55,3272,Sulfur Dioxide (Pharmaceutic Necessity - Antioxidant),P,44
+55,3273,Monothioglycerol (Pharmaceutic Necessity - Preservative),Q,44
+55,3274,Polyethylene Glycol 6000 (Pharmaceutic Necessity - Tablet Excipient),R,44
+55,3275,Potassium Metaphosphate (Pharmaceutic Necessity - Buffering Agent),P,45
+55,3276,Phenol (Pharmaceutic Necessity - Preservative),Q,45
+55,3277,Sorbitol (Pharmaceutic Necessity - Tablet Excipient),R,45
+55,3278,Monobasic Potassium Phosphate (Pharmaceutic Necessity - Buffering Agent),P,46
+55,3279,Sodium Formaldehyde Sulfoxylate (Pharmaceutic Necessity - Preservative),Q,46
+55,3280,Pregelatinized Starch (Pharmaceutic Necessity - Tablet Excipient),R,46
+55,3281,Tartaric Acid (Pharmaceutic Necessity - Buffering Agent),P,47
+55,3282,Sodium Propionate (Pharmaceutic Necessity - Preservative),Q,47
+55,3283,Sucrose (Pharmaceutic Necessity - Tablet Excipient),R,47
+55,3284,Edetate Disodium (Pharmaceutic Necessity - Chelating Agent),P,48
+55,3286,Compressible Sugar (Pharmaceutic Necessity - Tablet Excipient),R,48
+55,3287,Edetic Acid (Pharmaceutic Necessity - Chelating Agent),P,49
+55,3288,Dil Acetic Acid (Pharmaceutic Necessity - Solvent),Q,49
+55,3289,Confectioner's Sugar (Pharmaceutic Necessity - Tablet Excipient),R,49
+55,3290,Amaranth (Pharmaceutic Necessity),P,50
+55,3291,Acetone (Pharmaceutic Necessity - Solvent),Q,50
+55,3292,Calcium Stearate (Pharmaceutic Necessity - Tablet Lubricant),R,50
+55,3293,Caramel (Pharmaceutic Necessity - Coloring),P,51
+55,3294,Alcohol (Pharmaceutic Necessity - Solvent),Q,51
+55,3295,Magnesium Stearate (Pharmaceutic Necessity - Tablet Lubricant),R,51
+55,3296,Sodium Acetate (Pharmaceutic Necessity - in Dialysis Solutions),P,52
+55,3297,Diluted Alcohol (Pharmaceutic Necessity - Solvent),Q,52
+55,3298,Stearic Acid (Pharmaceutic Necessity - Tablet Lubricant),R,52
+55,3299,Polyethylene Glycol 300 (Pharmaceutic Necessity),P,53
+55,3300,Amylene Hydrate (Pharmaceutic Necessity - Solvent),Q,53
+55,3301,Hydrogenated Vegetable Oil (Pharmaceutic Necessity - Tablet Lubricant),R,53
+55,3302,Povidone (Pharmaceutic Necessity - Dispersing & Suspending Agent),P,54
+55,3303,Carbon Tetrachloride (Pharmaceutic Necessity - Solvent),Q,54
+55,3305,Silica Gel (Pharmaceutic Necessity),P,55
+55,3306,Chloroform (Pharmaceutic Necessity - Solvent),Q,55
+55,3307,Sodium Chloride (Pharmaceutic Necessity - Tonicity Agent),R,55
+55,3308,Isopropyl Myristate (Pharmaceutic Necessity - Emollient),P,56
+55,3309,Corn Oil (Pharmaceutic Necessity - Solvent),Q,56
+55,3310,Ethyl Oleate (Pharmaceutic Necessity - Vehicle),R,56
+55,3311,Oleyl Alcohol (Pharmaceutic Necessity - Emollient),P,57
+55,3312,Cottonseed Oil (Pharmaceutic Necessity - Solvent),Q,57
+55,3313,Iso-Alcoholic Elixir (Pharmaceutic Necessity - Vehicle),R,57
+55,3314,Rose Water Oinment (Pharmaceutic Necessity - Emollient),P,58
+55,3315,Glycerin (Pharmaceutic Necessity - Solvent),Q,58
+55,3316,Light Mineral Oil (Pharmaceutic Necessity - Vehicle),R,58
+55,3317,Starch Glycerite (Pharmaceutic Necessity),P,59
+55,3318,Isopropyl Alcohol (Pharmaceutic Necessity - Solvent),Q,59
+55,3319,Persic Oil (Pharmaceutic Necessity - Vehicle),R,59
+55,3320,Almond Oil Perfume (Pharmaceutic Necessity - Emollient & Perfume),P,60
+55,3321,Mineral Oil (Pharmaceutic Necessity - Solvent),Q,60
+55,3322,Polyethylene Glycol 1540 (Pharmaceutic Necessity - Vehicle),R,60
+55,3323,Carbomer 934P (Pharmaceutic Necessity - Emulsifying Agent),P,61
+55,3324,Peanut Oil (Pharmaceutic Necessity - Solvent),Q,61
+55,3325,Orange Syrup (Pharmaceutic Necessity - Vehicle),R,61
+55,3326,Cholesterol (Pharmaceutic Necessity - Emulsifying Agent),P,62
+55,3327,Phosphoric Acid (Pharmaceutic Necessity - Solvent),Q,62
+55,3328,Peppermint Water (Pharmaceutic Necessity - Vehicle),R,62
+55,3329,Glyceryl Monostearate (Pharmaceutic Necessity - Emulsifying Agent),P,63
+55,3331,Raspberry Syrup (Pharmaceutic Necessity - Vehicle),R,63
+55,3333,Propylene Glycol (Pharmaceutic Necessity - Solvent),Q,64
+55,3334,Wild Cherry Syrup (Pharmaceutic Necessity - Vehicle),R,64
+55,3335,Peglicol 5 Oleate (Pharmaceutic Necessity - Emulsifying Agent),P,65
+55,3336,Sesame Oil Water,Q,65
+55,3337,Sesame Oil (Pharmaceutic Necessity - Vehicle),R,65
+55,3338,Pegoxol 7 Stearate  (Pharmaceutic Necessity - Emulsifying Agent),P,66
+55,3339,Strong Ammonia Solution (Pharmaceutic Necessity),Q,66
+55,3341,Polyoxyethylene 50 Stearate  (Pharmaceutic Necessity - Emulsifying Agent),P,67
+55,3342,Magnesium Oxide (Pharmaceutic Necessity - Sorbent),Q,67
+55,3344,Propylene Glycol Monostearate (Pharmaceutic Necessity - Emulsifying Agent),P,68
+55,3345,Ammonium Carbonate (Pharmaceutic Necessity),Q,68
+55,3346,Polyvinyl Alcohol (Pharmaceutic Necessity - Vehicle),R,68
+55,3347,Emulsifying Wax (Pharmaceutic Necessity - Emulsifying Agent),P,69
+55,3348,Thymol (Pharmaceutic Necessity - Stabilizer),Q,69
+55,3349,Bismuth Subnitrate (Pharmaceutic Necessity),R,69
+55,3350,Cetyl Alcohol (Pharmaceutic Necessity - Emulsifying & Stiffening Agent),P,70
+55,3351,Paraffin,Q,70
+55,3352,Boric Acid (Pharmaceutic Necessity),R,70
+55,3353,Sodium Stearate (Pharmaceutic Necessity - Emulsifying & Stiffening Agent),P,71
+55,3354,Rosin (Pharmaceutic Necessity - Stiffening Agent),Q,71
+55,3355,Juniper Tar (Pharmaceutic Necessity),R,71
+55,3356,Oleic Acid (Pharmaceutic Necessity - Emulsion Adjunct),P,72
+55,3358,Lime (Pharmaceutic Necessity),R,72
+55,3360,Yellow Wax (Pharmaceutic Necessity - Stiffening Agent),Q,73
+55,3361,Potassium Bicarbonate (Pharmaceutic Necessity),R,73
+55,3362,Stearyl Alcohol (Pharmaceutic Necessity - Emulsion Adjunct),P,74
+55,3363,Cocoa Butter (Pharmaceutic Necessity - Suppository Base),Q,74
+55,3364,Dextrose (Pharmaceutic Necessity),R,74
+55,3367,Purified Silicious Earth (Pharmaceutic Necessity - Filtering Medium),P,76
+55,3369,Anethole (Pharmaceutic Necessity - Flavor),P,77
+55,3371,Anise Oil (Pharmaceutic Necessity - Flavor),P,78
+55,3373,Benzaldehyde (Pharmaceutic Necessity - Flavor),P,79
+55,3375,Caraway (Pharmaceutic Necessity - Flavor),P,80
+55,3376,Dioctyl Sodium Sulfosuccinate (Pharmaceutic Necessity),Q,80
+55,3378,Lapyrium Chloride (Pharmaceutic Necessity - Surfactant),Q,81
+55,3379,Cardamom Seed (Pharmaceutic Necessity - Flavor),P,82
+55,3380,Laureth 9 (Pharmaceutic Necessity - Surfactant),Q,82
+55,3381,Cherry Juice (Pharmaceutic Necessity - Flavor),P,83
+55,3382,Monoethanolamine (Pharmaceutic Necessity - Surfactant),Q,83
+55,3383,Cinnamon (Pharmaceutic Necessity - Flavor),P,84
+55,3384,Nonoxynol 4 (Pharmaceutic Necessity - Surfactant),Q,84
+55,3385,Cinnamon Oil (Pharmaceutic Necessity - Flavor),P,85
+55,3386,Nonoxynol 15,Q,85
+55,3387,Clove Oil (Pharmaceutic Necessity - Flavor),P,86
+55,3388,Nonoxynol 30 (Pharmaceutic Necessity - Surfactant),Q,86
+55,3389,Cocoa (Pharmaceutic Necessity - Flavor),P,87
+55,3390,Octoxynol (Pharmaceutic Necessity - Surfactant),Q,87
+55,3391,Coriander Oil (Pharmaceutic Necessity - Flavor),P,88
+55,3392,Poloxalene (Pharmaceutic Necessity - Surfactant),Q,88
+55,3393,Denatonium Benzoate (Pharmaceutic Necessity - Flavor),P,89
+55,3395,Eriodictyon (Pharmaceutic Necessity - Flavor),P,90
+55,3396,Polyoxyl 8 Stearate (Pharmaceutic Necessity - Surfactant),Q,90
+55,3397,Ethyl Acetate (Pharmaceutic Necessity - Flavor),P,91
+55,3398,Polyoxyl 40 Stearate (Pharmaceutic Necessity - Surfactant),Q,91
+55,3399,Ethyl Vanillin (Pharmaceutic Necessity - Flavor),P,92
+55,3400,Polysorbate 20 (Pharmaceutic Necessity - Surfactant),Q,92
+55,3401,Eucalyptus Oil (Pharmaceutic Necessity - Flavor),P,93
+55,3402,Polysorbate 40 (Pharmaceutic Necessity - Surfactant),Q,93
+55,3403,Fennel Oil (Pharmaceutic Necessity - Flavor),P,94
+55,3404,Polysorbate 60 (Pharmaceutic Necessity - Surfactant),Q,94
+55,3405,Glycyrrhiza (Pharmaceutic Necessity - Flavor),P,95
+55,3406,Polysorbate 65 (Pharmaceutic Necessity - Surfactant),Q,95
+55,3407,Lemon Oil (Pharmaceutic Necessity - Flavor),P,96
+55,3408,Polysorbate 80 (Pharmaceutic Necessity - Surfactant),Q,96
+55,3409,Methyl Salicylate (Pharmaceutic Necessity - Flavor),P,97
+55,3410,Polysorbate 85 (Pharmaceutic Necessity - Surfactant),Q,97
+55,3411,Nutmeg Oil (Pharmaceutic Necessity - Flavor),P,98
+55,3412,Sodium Lauryl Sulfate (Pharmaceutic Necessity - Surfactant),Q,98
+55,3413,Closure N.E.C.,A,99
+55,3414,"Coatings for Closures and Containers, N.E.C.",B,99
+55,3415,"Non-Metallic Containers and Materials, N.E.C.",C,99
+55,3416,"Metallic Containers and Material, N.E.C.",D,99
+55,3417,"Additives In Plastics, N.E.C.",E,99
+55,3418,"Pharmaceutic Necessities, N.E.C.",R,99
+55,3419,"Pharmaceutic Necessities and Containers, N.E.C.",Y,99
+55,150460,Glycerol (Pharmaceutic Necessity - Humectant),Q,16
+55,150461,Glycerol (Pharmaceutic Necessity - Solvent),Q,58
+55,157188,Trichloroethane,R,11
+55,157189,Vinyl Chloride,R,35
+55,164659,Crude Heparin (Pharmaceutic Necessity),R,75
+55,166727,Copovidone (Pharmaceutic Necessity),R,77
+55,166728,Crospovidone (Pharmaceutic Necessity),R,78
+55,173373,Hydrated Silica (Pharmaceutic Necessity - Abrasive),P,64
+55,173374,Sorbosil AC43 (Pharmaceutic Necessity - Abrasive),P,64
+55,174536,"Gelatin, Bovine, Pharm Necessity - Capsule Shell",F,01
+55,174537,"Gelatin, Non-Bovine, Animal Origin, Pharm Necessity - Capsule Shell",F,02
+55,174538,"Gelatin, Cellulose Polymer, Pharm Nec - Capsule Shell",F,03
+55,174539,"Gelatin, Hypromellose Polymer, Pharm Nec - Capsule Shell",F,04
+55,174540,"Capsule Shell, N.E.C., Pharm Necessity - Capsule Shell",F,99
+55,174546,Ammonium Acetate (Pharmaceutic Necessity - Buffering Agent),P,75
+55,174853,Grapeseed Oil (Pharmaceutic Necessity),R,79
+55,175602,Sodium Sulfite (Pharmaceutic Necessity - Antioxidant),P,81
+55,176111,Hypromellose,R,14

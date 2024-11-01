@@ -1,0 +1,268 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+84,21322,"Stimulator, Photic, Evoked Response",G,WE
+84,21323,"Stimulator, Electrical, Evoked Response",G,WF
+84,21324,"Endoscope, Neurological",G,WG
+84,21325,"Discriminator,Two-Point",G,WI
+84,21326,"Stimulator, Auditory, Evoked Response",G,WJ
+84,21327,"Conditioner, Signal, Physiological",G,WK
+84,21328,"Amplifier, Physiological Signal",G,WL
+84,21329,"Device, Intracranial Pressure Monitoring",G,WM
+84,21330,Nystagmograph,G,WN
+84,21331,"Plate, Cranioplasty, Preformed, Alterable",G,WO
+84,21332,Electroencephalograph,G,WQ
+84,21333,"Generator, Electroencephalograph Test Signal",G,WR
+84,21334,"Analyzer, Spectrum, Electroencephalogram Signal",G,WS
+84,21335,Ataxiagraph,G,WW
+84,21336,"Fork, Tuning",G,WX
+84,21337,Pinwheel,G,WY
+84,21338,Percussor,G,WZ
+84,21339,Esthesiometer,G,XB
+84,21340,"Device, Electroconvulsive Therapy",G,XC
+84,21341,"Generator, Lesion, Radiofrequency",G,XD
+84,21342,Leukotome,G,XE
+84,21343,"Device, Surgical, Cryogenic",G,XH
+84,21344,"Probe, Radiofrequency Lesion",G,XI
+84,21345,"Punch, Skull",G,XJ
+84,21346,"Screwdriver, Skullplate",G,XL
+84,21347,"Anvil, Skull Plate",G,XM
+84,21348,"Plate, Cranioplasty, Preformed, Non-Alterable",G,XN
+84,21349,"Strip, Craniosynostosis, Preformed",G,XO
+84,21350,Methyl Metacrylate For Cranioplasty,G,XP
+84,21351,Dura Substitute,G,XQ
+84,21352,"Cover, Burr Hole",G,XR
+84,21353,"Monitor, Alpha",G,XS
+84,21354,"Monitor, Lesion Temperature",G,XT
+84,21355,Echoencephalograph,G,XW
+84,21356,"Block, Test, Ultrasonic Scanner Calibration",G,XX
+84,21357,"Electrode, Cutaneous",G,XY
+84,21358,"Electrode, Needle",G,XZ
+84,21359,"Tester, Electrode/Lead, Electroencephalograph",G,YA
+84,21360,"Media, Electroconductive",G,YB
+84,21361,"Electrode, Cortical",G,YC
+84,21362,"Transducer, Tremor",G,YD
+84,21363,encephalogram telemetry system,G,YE
+84,21364,"Instrument, Shunt System Implantation",G,YK
+84,21365,"Stimulator, Intracerebral/Subcortical, Implanted",G,YZ
+84,21366,"Stimulator, Cerebellar, Implanted",G,ZA
+84,21367,"Stimulator, Spinal-Cord, Implanted (Pain Relief)",G,ZB
+84,21371,"Stimulator, Peripheral Nerve, Implanted (Pain Relief)",G,ZF
+84,21372,"Stimulator, Neuromuscular, External Functional",G,ZI
+84,21373,"Stimulator, Nerve, Transcutaneous, For Pain Relief",G,ZJ
+84,21374,"Electrode, Nasopharyngeal",G,ZK
+84,21375,"Electrode, Depth",G,ZL
+84,21376,"Analyzer, Rigidity",G,ZM
+84,21377,Rheoencephalograph,G,ZN
+84,21378,"Device, Galvanic Skin Response Measurement",G,ZO
+84,21379,"Stimulator, Mechanical, Evoked Response",G,ZP
+84,21380,"Instrument, Dowel Cutting",G,ZQ
+84,21381,"Retractor, Self-Retaining, For Neurosurgery",G,ZT
+84,21383,"Instrument, Microsurgical",G,ZX
+84,21385,"Rongeur, Powered",H,AD
+84,21386,"Rongeur, Manual",H,AE
+84,21388,"Instrument, Surgical, Non-Powered",H,AO
+84,21389,"Needle, Neurosurgical Suture",H,AS
+84,21390,"Instrument, Stereotaxic",H,AW
+84,21391,"Tong, Skull for Traction",H,AX
+84,21394,"Paddie, Cottonoid",H,BA
+84,21395,"Motor, Drill, Pneumatic",H,BB
+84,21396,"Motor, Drill, Electric",H,BC
+84,21397,"Handpiece (Brace), Drill",H,BD
+84,21398,"Drills, Burrs, Trephines & Accessories (Simple, Powered)",H,BE
+84,21399,"Drills, Burrs, Trephines & Accessories (Compound, Powered)",H,BF
+84,21400,"Drills, Burrs, Trephines & Accessories (Manual)",H,BG
+84,21403,"Holder, Head, Neurosurgical (Skull Clamp)",H,BL
+84,21404,"Headrest, Neurosurgical",H,BM
+84,21405,"Chair, Neurosurgical",H,BN
+84,21406,"Clip, Scalp",H,BO
+84,21407,"Clip, Implanted Malleable",H,BP
+84,21408,"Instrument, Clip Removal",H,BQ
+84,21409,"Rack, Clip",H,BR
+84,21410,"Instrument, Clip Forming/Cutting",H,BS
+84,21412,"Fastener, Plate, Cranioplasty",H,BW
+84,21413,"Instrument, Cranioplasty Material Forming",H,BX
+84,21414,"Catheter, Intravascular Occluding",H,BZ
+84,21415,"Catheter, Ventricular",H,CA
+84,21416,"Device, Aversive Conditioning",H,CB
+84,21417,"Device, Biofeedback",H,CC
+84,21418,"Cannula, Ventricular",H,CD
+84,21419,"Clamp, Carotid Artery",H,CE
+84,21421,"Device, Artificial Embolization",H,CG
+84,21422,"Clip, Aneurysm",H,CH
+84,21423,"Applier, Aneurysm Clip",H,CI
+84,21424,"Device, Skin Potential Measurement",H,CJ
+84,21425,"Device, Temperature Measurement, Direct Contact, Powered",H,CS
+84,22589,"Device, Nerve Conduction Velocity Measurement",J,XE
+84,22590,"Plethysmograph, Ocular",J,XF
+84,22591,"Shunt, Central Nervous System And Components",J,XG
+84,22592,Methyl Metacrylate For Aneurysmorrhaphy,J,XH
+84,22593,"Cuff, Nerve",J,XI
+84,22594,Cranial electrotherapy stimulator to treat depression,J,XK
+84,22595,"Block, Bite",J,XL
+84,22775,"Adhesive, Tissue for Aneurysmorrhaphy",K,GF
+84,22776,"Adhesive, Tissue for General Neurosurgical Use",K,GG
+84,23187,"Device, Neurosurgical Fragmentation and Aspiration",L,BK
+84,23255,"Device, sleep assessment",L,EL
+84,23256,"Dura Mater, Human, Lyophilized",L,EM
+84,23311,"Stimulator, Spinal-Cord, Totally Implanted for Pain Relief",L,GW
+84,23321,"Electrode, Spinal Epidural",L,HG
+84,23336,"Electrode, Stabilized Epidural Spinal",L,HY
+84,23345,Interferential current therapy,L,IH
+84,23346,"Monitor, Intracranial Pressure, Implanted",L,II
+84,23405,"Laser, Neurosurgical",L,KW
+84,23413,"Stimulator, Spinal-Cord, Implanted for Peripheral Vascular Disease",L,LE
+84,23414,"Laser, Neurosurigal, Argon",L,LF
+84,23422,"Device, Vibration Threshold Measurement",L,LN
+84,23437,"Monitor, Blood-Flow, Cerebral, Thermal Diffusion",L,ME
+84,23529,"Recorder, Attention Task Performance",L,QD
+84,23546,"Test, Temperature Discrimination",L,QW
+84,23690,"Stimulator, Subcortical, Implanted for Epilepsy",L,YI
+84,23691,"Stimulator, Autonomic Nerve, Implanted for Epilepsy",L,YJ
+84,23800,"Stimulator, Thalamic, Epilepsy, Implanted",M,BX
+84,24966,"Stimulator, Brain, Implanted, For Behavior Modification",M,FR
+84,24973,"Stimulator, Electrical, Implanted, For Parkinsonian Tremor",M,HY
+84,24974,"Stimulator, Vestibular Acceleration, Therapeutic",M,HZ
+84,25326,"Stimulator, Functional Walking Neuromuscular, Non-invasive",M,KD
+84,25330,"Guide, Wire, Catheter, Neurovasculature",M,OF
+84,150556,"Accessory, Barium Sulfate, Methyl Methacrylate for Cranioplasty",M,YU
+84,150647,"Balloon, Detachable, For Neurovascular Occlusion",M,ZQ
+84,151726,"System, Catheter or Guidewire, Steerable (Magnetic)",N,DQ
+84,152005,"System, Hypothermia, Intravenous, Cooling",N,CX
+84,152310,"Stimulator, Subcortical, Electrical, Implanted (Motor Disorders)",M,RU
+84,152318,"Stimulator, Vagus Nerve, Implanted (Depression)",M,UZ
+84,152319,"Orthosis, Cranial",M,VA
+84,152322,"Device, Acupressure",M,VV
+84,152324,"Cap, Cooling (Infants)",M,XM
+84,152683,"Stimulator, Transcutaneous Electrical, for Cosmetic Use",N,FO
+84,153185,"Stimulator, Electrical, Implanted, for Parkinsonian Symptoms",N,HL
+84,153188,"Nerve, Stimulator, Electrical, Percutaneous (PENS) for Pain Relief",N,HI
+84,153199,"Catheter, Ventricular (Containing Antibiotic or Antimicrobial Agents)",N,HC
+84,153363,"Stent, Intracranial Neurovascular",N,JE
+84,153881,"Sealant, Dural",N,QR
+84,153941,"Material, Embolization, Neurovascular, Polymerizing or Precipitating",N,PE
+84,155172,"Drills, Burrs, Trephines and Accessories (Simple Powered), Reprocessed",N,LN
+84,155173,"Drills, Burrs, Trephines and Accessories (Manual), Reprocessed",N,LO
+84,155174,"Drills, Burrs, Trephines, and Accessories (Powered Compound), Reprocessed",N,LP
+84,155175,"Instrument, Clip, Forming/Cutting, Reprocessed",N,MN
+84,155176,"Catheter, Thrombus Retriever",N,RY
+84,155277,"Evoked Potential Stimulator, Thermal",N,TU
+84,155293,"Catheter, Neuro-Vasculature, Occluding Ballon",N,UF
+84,155313,"Stimulator, Nerve, Transcutaneous, Over-The-Counter",N,UH
+84,155333,"Cathether, Ultrasound, Infusion, System",N,UI
+84,157356,"Stimulator, electrical, transcutaneous, for arthritis",N,YN
+84,157499,Low electric fields for tumor treatment,N,ZK
+84,157512,"Stimulator, electrical, transcutaneous, with limted output, for aesthetic purposes",N,YX
+84,157513,"Stimulator, nerve, electrical, transcutaneous, with limited output, for pain relief",N,YW
+84,158054,"Polymerizing, neurovascular embolization material",O,BA
+84,158235,Transcranial Magnetic Stimulator,O,BP
+84,158276,EATING DISORDER CONDITIONING TOOL,O,BV
+84,163204,"Stimulator, nerve, electrical, transcutaneous, limited output, arthritis pain relief",O,CF
+84,166926,Burst suppression detection software for electroencephalograph,O,RT
+84,166961,neurological tray,O,JG
+84,166963,non-normalizing quantitative electroencephalograph software,O,LT
+84,166964,normalizing quantitative electroencephalograph software,O,LU
+84,166965,standard polysomnograph with electroencephalograph,O,LV
+84,166966,index-generating electroencephalograph software,O,LW
+84,166967,neuroimaging correlation software for electroencephalograph or magnetoencephalograph,O,LX
+84,166968,magnetoencephalograph,O,LY
+84,166969,automatic event detection software for polysomnograph with electroencephalograph,O,LZ
+84,166970,amplitude-integrated electroencephalograph,O,MA
+84,166971,automatic event detection software for full-montage electroencephalograph,O,MB
+84,166972,reduced- montage standard electroencephalograph,O,MC
+84,166974,neurosurgical laser with mr thermography,O,NO
+84,166975,"agent, injectable, embolic",M,FE
+84,166976,deep brain stimulator for obsessive compulsive disorder (ocd),O,LM
+84,167662,Intracranial aneurysm flow diverter,O,UT
+84,167689,Polymeric neurovascular embolization device,O,UU
+84,168020,Headframe,O,VC
+84,171663,"Catheter, neuro-vasculature, occluding balloon",P,AV
+84,171702,Surgical KitHUD,P,AX
+84,171822,Cranial Distraction System,P,BJ
+84,172083,"Stimulator, nerve, electrical, transcutaneous, for migraine",P,CC
+84,172542,Disposable probe handle,P,DQ
+84,173011,Implanted brain stimulator for epilepsy,P,FN
+84,173173,External cerebrospinal fluid (CSF) diversion,P,CB
+84,173336,Piezo-electric stimulator for relief of mosquito bite itch,O,SG
+84,173338,Brain injury adjunctive interpretive electroencephalograph assessment aid,P,IW
+84,173342,"Stainless steel instrument, shunt system implantation",P,IY
+84,173355,"Filler, bone void, nonalterable compound for cranioplasty",P,JN
+84,173356,"Filler, bone void, alterable compound for cranioplasty",P,JM
+84,173360,"Stimulator, electrical, implanted, for essential tremor",P,JS
+84,173703,Computerized cognitive assessment aid,P,KQ
+84,174266,Dorsal root ganglion stimulator for pain relief,P,MP
+84,174462,MR-Guided Focused Ultrasound System,P,OH
+84,174466,Evoked photon image capture device,P,
+84,174478,Cranial motion measurement device,P,OP
+84,174505,Computerized cognitive assessment aid for concussion,P,OM
+84,174518,Thermal system for insomnia,P,LU
+84,174523,Neurovascular Mechanical Thrombectomy Device for Acute Ischemic Stroke Treatment,P,OL
+84,174534,Cranial surgical planning and instrument guides,P,PT
+84,174552,"Dynamometer, nonpowered",H,RW
+84,174553,Goniometer with electrodes,N,KI
+84,174554,"Goniometer, ac-powered",K,QX
+84,174555,"Goniometer, nonpowered",K,QW
+84,174556,Arthrometer,L,YH
+84,174557,"Dynamometer, ac-powered",L,BB
+84,174558,"Apparatus, traction, non-powered",H,ST
+84,174596,Physiological signal based seizure monitoring system,P,OS
+84,174628,Intracranial pressure & temperature monitoring kit,P,SP
+84,174643,Ataxiagraph with interpretive software,P,TB
+84,174654,Non-invasive vagus nerve stimulator - headache,P,KR
+84,174698,Neurological Test Kit,P,VP
+84,174699,Lumbar drainage catheter kit,P,VO
+84,174700,Endoscopic ventricular catheter placement kit,P,VM
+84,174701,Endoscopic shunt placement kit,P,VL
+84,174724,"Computerized cognitive assessment aid, exempt",P,TY
+84,174873,Cognitive behavioral therapy device for psychiatric disorders,P,WE
+84,174917,Neuropsychiatric interpretative electroencephalograph assessment aid,N,CG
+84,174918,Transcranial magnetic stimulator for the treatment of migraine headache,O,KP
+84,174934,Percutaneous nerve stimulator for opioid withdrawal,P,ZR
+84,174949,"Impedance plethysmograph, cranial",Q,AF
+84,174956,Non-Invasive vagus nerve stimulator for migraine headache,Q,AK
+84,174980,Neurologic electronic stethoscope,Q,BE
+84,175005,External upper limb tremor stimulator,Q,BC
+84,175039,Intracranial coil-assist stent,Q,CA
+84,175074,Transcranial magnetic stimulation system for obsessive-compulsive disorder,Q,CI
+84,175084,Vibratory counter-stimulation,O,VP
+84,175094,"Stimulator, Electro-Acupuncture",B,WK
+84,175101,"Electromyograph, Diagnostic",I,KN
+84,175103,"Electrode, Needle, Diagnostic Electromyograph",I,KT
+84,175104,"Inhibitor, Peridural Fibrosis (Adhesion Barrier)",M,LQ
+84,175106,"orthosis, cranial, laser scan",O,AN
+84,175107,"Neurological stereotaxic instrument, real-time intraoperative mri",O,RR
+84,175116,Foot wrap for treating restless leg syndrome symptoms,O,TX
+84,175119,"Inhibitor, postoperative fibrosis (adhesion barrier)",O,ZJ
+84,175121,"Inhibitor, postoperative fibrosis (spine adhesion barrier)",P,CQ
+84,175123,Powered Exoskeleton,P,HL
+84,175235,"Device, Discharge, Electrostatic (for Pain Relief)",N,HH
+84,175236,INFRARED HEMATOMA DETECTOR,O,PT
+84,175298,Cerebral oximeter,Q,EM
+84,175299,Intrasaccular Flow Disruption Device,O,PR
+84,175301,Brain injury adjunctive interpretive oculomotor assessment aid,Q,EA
+84,175312,Thermal vestibular stimulator for headache,Q,AR
+84,175316,TENS for sinus pain,Q,FD
+84,175317,Electromechanical arm for a transcutaneous magnetic stimulation system,Q,FF
+84,175456,Diagnostic neurosurgical microscope filter,Q,FX
+84,175458,"Electroconvulsive therapy device for catatonia, major depressive disorder, and bipolar disorder",Q,GH
+84,175479,Trancutaneous nerve stimulator for neurodevelopemental disorders,Q,GL
+84,175481,Temporary coil embolization assist device,P,UU
+84,175507,Distal transcutaneous electrical stimulator for treatment of acute migraine,Q,GT
+84,175589,Non-implanted nerve stimulator for pain associated with irritable bowel syndrome (IBS),Q,HH
+84,175814,"Catheter, Percutaneous, Neurovasculature",Q,JP
+84,175816,Cranial electrotherapy stimulator to treat insomnia and/or anxiety,Q,JQ
+84,176001,"Stimulator, neuromuscular, lower back muscles, totally implanted for pain relief",Q,LK
+84,176002,Transcranial magnetic stimulation system for smoking cessation,Q,MD
+84,176013,Digital therapeutic software for attention deficit hyperactivity disorder,Q,FT
+84,176033,Digital therapy device to reduce sleep disturbance for psychiatric conditions,Q,MZ
+84,176069,Neuromuscular tongue stimulator to treat motor deficits,Q,CF
+84,176133,Autism spectrum disorder assessment aid,Q,PF
+84,176144,Brain stimulation programming planning software.,Q,QC
+84,176183,Cranial measurement software,Q,QO
+84,176200,Surgical planning software for neurological stereotaxic instruments,Q,RI
+84,176335,"Stimulator, spinal-cord, totally implanted for relief of pain due to diabetic neuropathy",Q,RB
+84,176344,Brain temperature measurement system,Q,SL
+84,176643,Transcutaneous electrical nerve stimulator to treat fibromyalgia symptoms,Q,SQ
+84,176728,Temporary Percutaneous Transluminal Cerebral Artery Dilatation Device,Q,TK
+84,176965,"Stimulator, nerve, for Restless Legs Syndrome",Q,WD
+84,177000,Optical Neurosurgical Nerve Locator,Q,WP
+84,177042,Computerized behavioral therapy device for insomnia,Q,VO
+84,177105,Laser For Pain Therapy,L,LP

@@ -1,0 +1,29 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+45,2971,Ph Control Agents (Food Additives for Human Use),X,99
+45,2972,Anticaking  and Freeflow Agents  (Food Additives for Human Use),A,99
+45,2973,Antimicrobial Agents  (Food Additives for Human Use),B,99
+45,2974,Antioxidants (Food Additives for Human Use),C,99
+45,2975,Color Adjuncts (Food Additives for Human Use),D,99
+45,2976,Curing & Pickling Agents,E,99
+45,2977,Dough Strengtheners (Food Additives for Human Use),F,99
+45,2978,Drying Agents (Food Additives for Human Use),G,99
+45,2979,"All Other Products, Emulsifier/Emulsifier Salts",H,99
+45,2980,Enzymes (Food Additives for Human Use),I,99
+45,2981,Firming Agents (Food Additives for Human Use),J,99
+45,2982,Flavor Enhancers (Food Additives for Human Use),K,99
+45,2983,Flavoring Agents and Adjuvants (Food Additives for Human Use),L,99
+45,2984,Flour Treating Agents (Food Additives for Human Use),M,99
+45,2985,Formulation Aids (Food Additives for Human Use),N,99
+45,2986,Fumigants (Food Additives for Human Use),P,99
+45,2987,Humectants (Food Additives for Human Use),Q,99
+45,2988,Leavening Agents (Food Additives for Human Use),R,99
+45,2989,Lubricants and Release Agents (Food Additives for Human Use),S,99
+45,2990,"All Other Products, Non-Nutritive Sweeteners",T,99
+45,2991,Nutritive Sweetners (Food Additives for Human Use),V,99
+45,2992,Oxidizing and Reducing Agents (Food Additives for Human Use),W,99
+45,25014,Monosodium Glutamate (MSG) (Food Additives for Human Use),K,01
+45,25015,Potassium Sorbate for Food Use  (Food Additives for Human Use),B,01
+45,25020,Sorbic Acid for Food Use (Food Additives for Human Use),B,02
+45,161588,"Carrageenan, Emulsifiers/Emulsifier Salts",H,01
+45,161760,"Saccharin, Non-Nutritive Sweeteners",T,01
+45,161761,"Aspartame, Non-Nutritive Sweeteners",T,02

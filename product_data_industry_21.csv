@@ -1,0 +1,1203 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+21,986,"Fruit Cocktail, Mixed Fruit, Topping or Syrup",E,01
+21,987,"Fruit Cocktail, Mixed Fruits",A,01
+21,988,"Fruit Cocktail, Dried or Paste",B,01
+21,989,"Fruit Cocktail, Mixed Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied",C,01
+21,990,"Fruit Coctail, Mixed Fruit, Juices or Concentrates",D,01
+21,991,"Apricot, Topping or Syrup",L,01
+21,992,Apricot (Pit Fruit),G,01
+21,993,"Apricot, Dried or Paste",H,01
+21,994,"Apricot, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,01
+21,995,"Apricot, Juice, Pit Fruit Juices or Concentrates",K,01
+21,996,"Berry Flavored Imitation Fruit, Topping or Syrup",Q,01
+21,997,Berry Flavored Imitation Fruit,M,01
+21,998,"Berry Flavored Imitation Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied",N,01
+21,999,"Acerola, Topping or Syrup",W,01
+21,1000,Acerola  (Subtropical and Tropical Fruit),S,01
+21,1001,"Acerola, Dried or Paste",T,01
+21,1002,"Acerola, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,01
+21,1003,"Acerola, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,01
+21,1004,"Citrus, Mixed, Topping or Syrup",E,02
+21,1005,"Citrus, Mixed",A,02
+21,1006,"Citrus, Mixed, Dried or Paste",B,02
+21,1007,"Citrus, Mixed, Jam, Jelly, Preserves, Marmalade, Butter or Candied",C,02
+21,1008,"Citrus, Mixed, Juices or Concentrates",D,02
+21,1009,"Avocado, Topping or Syrup",L,02
+21,1010,Avocado (Pit Fruit),G,02
+21,1011,"Avocado, Dried or Paste",H,02
+21,1012,"Avocado, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,1013,"Avocado, Juice, Pit Fruit Juices or Concentrates",K,02
+21,1014,"Citrus Flavored Imitation Fruit, Topping or Syrup",Q,02
+21,1015,Citrus Flavored Imitation Fruit,M,02
+21,1016,"Citrus Flavored Imitation Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied",N,02
+21,1017,"Banana, Topping or Syrup",W,02
+21,1018,Banana (Subtropical and Tropical Fruit),S,02
+21,1019,"Banana, Dried or Paste",T,02
+21,1020,"Banana, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,02
+21,1021,"Banana, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,02
+21,1022,"Berries, Mixed, Topping or Syrup",E,03
+21,1023,"Berries, Mixed",A,03
+21,1024,"Berries, Mixed, Dried or Paste",B,03
+21,1025,"Berries, Mixed, Jam, Jelly, Preserves, Marmalade, Butter or Candied",C,03
+21,1026,"Berries, Mixed, Juices or Concentrates",D,03
+21,1027,"Cherry, Topping or Syrup",L,03
+21,1028,Cherry Fruit  (Pit Fruit),G,03
+21,1029,"Cherry, Dried or Paste",H,03
+21,1030,"Cherry, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,1031,"Cherry, Juice, Pit Fruit Juices or Concentrates",K,03
+21,1032,"Core Fruit Flavored Imitation Fruit, Topping or Syrup",Q,03
+21,1033,Core Fruit Flavored Imitation Fruit,M,03
+21,1034,"Core Fruit Flavored Imitation Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied",N,03
+21,1035,"Fig, Topping or Syrup",W,03
+21,1036,Fig (Subtropical and Tropical Fruit),S,03
+21,1037,"Fig, Dried or Paste",T,03
+21,1038,"Fig, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,03
+21,1039,"Fig, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,03
+21,1040,"Mincemeat, Mixed Fruit, Topping or Syrup (Without Meat)",E,04
+21,1041,"Mincemeat, Mixed Fruit  (Without Meat)",A,04
+21,1042,"Mincemeat, Mixed Fruit, Dried or Paste  (Without Meat)",B,04
+21,1043,"Mincemeat, Mixed Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied (Without Meat)",C,04
+21,1044,"Mincemeat, Mixed Fruit, Juices or Concentrates (Without Meat)",D,04
+21,1045,"Maraschino Cherry, Topping or Syrup",L,04
+21,1046,Maraschino Cherry (Pit Fruit),G,04
+21,1047,"Maraschino Cherry, Dried or Paste",H,04
+21,1048,"Maraschino Cherry, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,04
+21,1049,"Maraschino Cherry, Juice, Pit Fruit Juices or Concentrates",K,04
+21,1050,"Mixed Fruit Flavored Imitation Fruit, Topping or Syrup",Q,04
+21,1051,Mixed Fruit Flavored Imitation Fruit,M,04
+21,1052,"Mixed Fruit Flavored Imitation Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied",N,04
+21,1053,"Guava, Topping or Syrup",W,04
+21,1054,Guava (Subtropical and Tropical Fruit),S,04
+21,1055,"Guava, Dried or Paste",T,04
+21,1056,"Guava, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,04
+21,1057,"Guava, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical  Fruit",V,04
+21,1058,"Dates, Topping or Syrup",L,05
+21,1059,"Dates (Pit Fruit),  (Pit Fruit)",G,05
+21,1060,"Dates, Dried or Paste",H,05
+21,1061,"Dates, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,1062,"Dates, Juice, Pit Fruit Juices or Concentrates",K,05
+21,1063,"Subtropical Fruit Flavored Imitation Fruit, Topping or Syrup",Q,05
+21,1064,Subtropical Fruit Flavored Imitation Fruit,M,05
+21,1065,"Subtropical Fruit Flavored Imitation Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied",N,05
+21,1066,"Mango, Topping or Syrup",W,05
+21,1067,Mango (Subtropical and Tropical Fruit),S,05
+21,1068,"Mango, Dried or Paste",T,05
+21,1069,"Mango, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,05
+21,1070,"Mango, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,05
+21,1071,"Stuffed Dates, Topping or Syrup",L,06
+21,1072,Stuffed Dates (Pit Fruit),G,06
+21,1073,"Stuffed Dates, Dried or Paste",H,06
+21,1074,"Stuffed Dates, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,06
+21,1075,"Stuffed Dates, Juice, Pit Fruit Juices or Concentrates",K,06
+21,1076,"Vine Fruit Flavored Imitation Fruit, Topping or Syrup",Q,06
+21,1077,Vine Fruit Flavored Imitation Fruit,M,06
+21,1078,"Vine Fruit Flavored Imitation Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied",N,06
+21,1079,"Papaya (Papaw), Topping or Syrup",W,06
+21,1080,Papaya (Papaw)  (Subtropical and Tropical Fruit),S,06
+21,1081,"Papaya, Dried or Paste",T,06
+21,1082,"Papaya (Papaw), Jam, Jelly, Preserves, Marmalade,Butter or Candied",U,06
+21,1083,"Papaya (Papaw), Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,06
+21,1084,"Nectarine, Topping or Syrup",L,07
+21,1085,Nectarine (Pit Fruit),G,07
+21,1086,"Nectarine, Dried or Paste",H,07
+21,1087,"Nectarine, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,07
+21,1088,"Nectarine, Juice, Pit Fruit Juices or Concentrates",K,07
+21,1089,"Pineapple, Topping or Syrup",W,07
+21,1090,Pineapple (Subtropical and Tropical Fruit),S,07
+21,1091,"Pineapple, Dried or Paste",T,07
+21,1092,"Pineapple, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,07
+21,1093,"Pineapple, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,07
+21,1094,"Loquat, Topping or Syrup, Topping or Syrup",L,08
+21,1095,"Loquat (Pit Fruit),  (Pit Fruit)",G,08
+21,1096,"Loquat, Dried or Paste",H,08
+21,1097,"Loquat, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,08
+21,1098,"Loquat, Juice, Pit Fruit Juices or Concentrates",K,08
+21,1099,"Plantain, Topping or Syrup",W,08
+21,1100,Plantain (Subtropical and Tropical Fruit),S,08
+21,1101,"Plantain, Dried or Paste",T,08
+21,1102,"Plantain, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,08
+21,1103,"Plantain, Juice, Milk, Creme, Drink or Nectar,  Sub/Tropical Fruit",V,08
+21,1104,"Olives, Topping or Syrup, Topping or Syrup",L,09
+21,1105,Olives (Pit Fruit),G,09
+21,1106,"Olives, Dried or Paste",H,09
+21,1107,"Olives, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,09
+21,1108,"Olives, Juice, Pit Fruit Juices or Concentrates",K,09
+21,1109,"Breadfruit, Topping or Syrup",W,09
+21,1110,Breadfruit (Subtropical and Tropical Fruit),S,09
+21,1111,"Breadfruit, Dried or Paste",T,09
+21,1112,"Breadfruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,09
+21,1113,"Breadfruit, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,09
+21,1114,"Jackfruit, Topping or Syrup",W,10
+21,1115,Jackfruit (Subtropical and Tropical Fruit),S,10
+21,1116,"Jackfruit, Dried or Paste",T,10
+21,1117,"Jackfruit, Jam, Jelly, Preserves. Marmalade, Butter or Candied",U,10
+21,1118,"Jackfruit, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,10
+21,1119,"Stuffed Olive, Topping or Syrup",L,12
+21,1120,Stuffed Olive (Pit Fruit),G,12
+21,1121,"Stuffed Olive, Dried or Paste",H,12
+21,1122,"Stuffed Olive, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,12
+21,1123,"Stuffed Olive, Juice, Pit Fruit Juices or Concentrates",K,12
+21,1124,"Peach, Topping or Syrup",L,13
+21,1125,Peach (Pit Fruit),G,13
+21,1126,"Peach, Dried or Paste",H,13
+21,1127,"Peach, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,13
+21,1128,"Peach, Juice, Pit Fruit Juices or Concentrates",K,13
+21,1129,"Plum, Topping or Syrup",L,14
+21,1130,Plum (Pit Fruit),G,14
+21,1131,"Plum, Dried or Paste",H,14
+21,1132,"Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,1133,"Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,1134,"Prunes (Dried Plums), Topping or Syrup",L,15
+21,1135,Prunes (Dried Plums) (Pit Fruit),G,15
+21,1136,"Prunes (Dried Plums), Dried or Paste",H,15
+21,1137,"Prunes (Dried Plums), Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,15
+21,1138,"Prunes (Dried Plums), Juice, Pit Fruit Juices or Concentrates",K,15
+21,1139,"Mixed Fruit, Topping or Syrup, N.E.C.",E,99
+21,1140,"Mixed Fruit, N.E.C.",A,99
+21,1141,"Mixed Fruit, Dried or Paste, N.E.C.,",B,99
+21,1142,"Mixed Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied, N.E.C.",C,99
+21,1143,"Mixed Fruit, Juices or Concentrates N.E.C.,",D,99
+21,1144,"Pit Fruit, Topping or Syrup, N.E.C.",L,99
+21,1145,"Pit Fruit, N.E.C.",G,99
+21,1146,"Pit Fruit, Dried or Paste, N.E.C.",H,99
+21,1147,"Pit Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,99
+21,1148,Pit Fruit Juices or Concentrates N.E.C.,K,99
+21,1149,"Imitation Fruit, Topping or Syrup, N.E.C.",Q,99
+21,1150,"Imitation Fruit, N.E.C.",M,99
+21,1151,"Imitation Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied, N.E.C.",N,99
+21,1152,"Subtropical and Tropical Fruit, Topping or Syrup, N.E.C.",W,99
+21,1153,"Subtropical and Tropical Fruit, N.E.C.",S,99
+21,1154,"Subtropical and Tropical Fruit, Dried or Paste, N.E.C.",T,99
+21,1155,"Subtropical and Tropical Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied, N.E.C.",U,99
+21,1156,"Sutropical and Tropical Fruit, Juice, Milk, Creme, Drink or Nectar, N.E.C.",V,99
+21,24018,"Chinese Red Date (Jujubes, Ziziphus Jujuba) (Pit Fruit)",G,16
+21,24019,"Chinese Red Date (Jujubes, Ziziphus Jujuba), Dried or Paste",H,16
+21,24020,"Chinese Red Date (Jujubes, Ziziphus Jujuba), Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,16
+21,24021,"Chinese Red Date (Jujubes, Ziziphus Jujuba), Juice, Pit Fruit Juices or Concentrates",K,16
+21,24022,"Chinese Red Date (Jujubes, Ziziphus Jujuba), Topping or Syrup",L,16
+21,24023,Kiwi Fruit (Subtropical and Tropical Fruit),S,11
+21,24024,"Kiwi Fruit, Dried or Paste",T,11
+21,24025,"Kiwi Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,11
+21,24026,"Kiwi Fruit, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,11
+21,24027,"Kiwi Fruit, Topping or Syrup",W,11
+21,24028,Passion Fruit (Subtropical and Tropical Fruit),S,12
+21,24029,"Passion Fruit, Dried or Paste",T,12
+21,24030,"Passion Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,12
+21,24031,"Passion Fruit, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,12
+21,24032,"Passion Fruit, Topping or Syrup",W,12
+21,24033,Ackees (Subtropical and Tropical Fruit),S,13
+21,24034,"Ackees, Dried or Paste",T,13
+21,24035,"Ackees, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,13
+21,24036,"Ackees, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,13
+21,24037,"Ackees, Topping or Syrup",W,13
+21,24038,Tamarind (Subtropical and Tropical Fruit),S,14
+21,24039,"Tamarind, Dried or Paste",T,14
+21,24040,"Tamarind, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,14
+21,24041,"Tamarind, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,14
+21,24042,"Tamarind, Topping or Syrup",W,14
+21,24043,Mangosteen (Subtropical and Tropical Fruit),S,15
+21,24044,"Mangosteen, Dried or Paste",T,15
+21,24045,"Mangosteen, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,15
+21,24046,"Mangosteen, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,15
+21,24047,"Mangosteen, Topping or Syrup",W,15
+21,24048,Sapota (Subtropical and Tropical Fruit),S,16
+21,24049,"Sapota, Dried or Paste",T,16
+21,24050,"Sapota, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,16
+21,24051,"Sapota, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,16
+21,24052,"Sapota, Topping or Syrup",W,16
+21,24053,Rambutan (Subtropical and Tropical Fruit),S,17
+21,24054,"Rambutan, Dried or Paste",T,17
+21,24055,"Rambutan, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,17
+21,24056,"Rambutan, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,17
+21,24057,"Rambutan, Topping or Syrup",W,17
+21,24058,Longan (Subtropical and Tropical Fruit),S,18
+21,24059,"Longan, Dried or Paste",T,18
+21,24060,"Longan, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,18
+21,24061,"Longan, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,18
+21,24062,"Longan, Topping or Syrup",W,18
+21,24063,"Lychee, Lichee, Litchi, Leechee (Subtropical and Tropical Fruit)",S,19
+21,24064,"Lychee, Lichee, Litchi, Leechee, Dried or Paste",T,19
+21,24065,"Lychee, Lichee, Litchi, Leechee, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,19
+21,24066,"Lychee, Lichee, Litchi, Leechee, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,19
+21,24067,"Lychee, Lichee, Litchi, Leechee, Topping or Syrup",W,19
+21,24068,"Starfruit, Carambola (Subtropical and Tropical Fruit)",S,20
+21,24069,"Starfruit, Carambola, Dried or Paste",T,20
+21,24070,"Starfruit, Carambola, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,20
+21,24071,"Starfruit, Carambola, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,20
+21,24072,"Starfruit, Carambola, Topping or Syrup",W,20
+21,24073,"Durian, Durion (Subtropical and Tropical Fruit)",S,21
+21,24074,"Durian, Durion, Dried or Paste",T,21
+21,24075,"Durian, Durion, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,21
+21,24076,"Durian, Durion, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,21
+21,24077,"Durian, Durion, Topping or Syrup",W,21
+21,24078,Banana Blossom (Subtropical and Tropical Fruit),S,22
+21,24079,"Banana Blossom, Dried or Paste",T,22
+21,24080,"Banana Blossom, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,22
+21,24081,"Banana Blossom, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,22
+21,24082,"Banana Blossom, Topping or Syrup",W,22
+21,24083,Palm Seed (Toddy) (Subtropical and Tropical Fruit),S,23
+21,24084,"Palm Seed (Toddy), Dried or Paste",T,23
+21,24085,"Palm Seed (Toddy), Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,23
+21,24086,"Palm Seed (Toddy), Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,23
+21,24087,"Palm Seed (Toddy), Topping or Syrup",W,23
+21,24088,"Palm Nut (Palm Fruit, Sugar Palm) (Subtropical and Tropical Fruit)",S,24
+21,24089,"Palm Nut (Palm Fruit, Sugar Palm), Dried or Paste",T,24
+21,24090,"Palm Nut (Palm Fruit, Sugar Palm), Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,24
+21,24091,"Palm Nut (Palm Fruit, Sugar Palm), Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,24
+21,24092,"Palm Nut (Palm Fruit, Sugar Palm), Topping or Syrup",W,24
+21,24093,Santol (Subtropical and Tropical Fruit),S,25
+21,24094,"Santol, Dried or Paste",T,25
+21,24095,"Santol, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,25
+21,24096,"Santol, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,25
+21,24097,"Santol, Topping or Syrup",W,25
+21,25435,Anjeer (Indian fig from cross-breeding common fig w/variety of wild fig,S,03
+21,25446,"Babaco (five-sided fruited related to papaya, native to Central and South America)",S,99
+21,25482,Burong Mangga (Philippine sweet and sour pickled mango),S,05
+21,25565,Nata De Pina (Philippine pineapple gel that has a delicate flavor; added to desserts),U,07
+21,25602,"Pineapple Guava (small S. American & New Zealand egg shaped fruit w/green skin, jelly-like center)",S,99
+21,25650,Hung Jo (Chinese dried red dates),H,16
+21,25652,Imli (Indian tamarind; either w/or w/out shell or as pulp w/o the shell or seeds),S,14
+21,25677,Sharifa (Indian greenish-black frut w/creamy beehive-shaped pulp w/many seeds),S,99
+21,25726,"Tempoyak (Malaysian durian, pickled w/coconut and spices)",S,21
+21,25765,"Kokum (Indian mangosteen, tart fruit about size of a plum; used to give a piquant flavor to food)",S,15
+21,25817,Melinjo (Indonesian small red fruit usually peeled and cooked),S,99
+21,25823,"Mirabelle Plum (English small round plum ranging in color from yellow to red having sweet flavor), (",G,14
+21,25831,"Umeboshi (Japanese small, pickled plum), (Pit Fruit)",G,14
+21,25838,"Wood Apple (edible fruit, size of orange, indigenous to India, Nepal & Sri Lanka)",S,99
+21,25839,"Xi Mui (Chinese prunes preserved by salting, sugar-coating & drying)",J,15
+21,150300,Mamey (Subtropical and Tropical Fruit Purees),R,28
+21,150301,Mamey (Subtropical and Tropical Fruits),S,28
+21,150302,"Mamey, Dried or Paste",T,28
+21,150303,"Mamey, Jam, Jelly, Preserves, Marmalade, Butter, Candied",U,28
+21,150304,"Mamey, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,28
+21,150305,"Mamey, Topping or Syrup",W,28
+21,150306,Acerola (Subtropical/Tropical Fruit Pulp),X,01
+21,150307,Banana (Subtropical/Tropical Fruit Pulp),X,02
+21,150308,Fig (Subtropical/Tropical Fruit Pulp),X,03
+21,150309,Guava (Subtropical/Tropical Fruit Pulp),X,04
+21,150310,Mango (Subtropical/Tropical Fruit Pulp),X,05
+21,150311,Papaya (Papaw) (Subtropical/Tropical Fruit Pulp),X,06
+21,150312,Pineapple (Subtropical/Tropical Fruit Pulp),X,07
+21,150313,Plantain (Subtropical/Tropical Fruit Pulp),X,08
+21,150314,Breadfruit (Subtropical/Tropical Fruit Pulp),X,09
+21,150315,Jackfruit (Subtropical/Tropical Fruit Pulp),X,10
+21,150316,Kiwi Fruit (Subtropical/Tropical Fruit Pulp),X,11
+21,150317,Passion Fruit (Subtropical/Tropical Fruit Pulp),X,12
+21,150318,Ackees (Subtropical/Tropical Fruit Pulp),X,13
+21,150319,Tamarind (Subtropical/Tropical Fruit Pulp),X,14
+21,150320,Mangosteen (Subtropical/Tropical Fruit Pulp),X,15
+21,150321,Sapota (Subtropical/Tropical Fruit Pulp),X,16
+21,150322,Rambutan (Subtropical/Tropical Fruit Pulp),X,17
+21,150323,Longan (Subtropical/Tropical Fruit Pulp),X,18
+21,150324,"Lychee, Lichee, Litchi, Leechee (Subtropical/Tropical Fruit Pulp)",X,19
+21,150325,"Starfruit, Carambola (Subtropical/Tropical Fruit Pulp)",X,20
+21,150326,"Durian, Durion (Subtropical/Tropical Fruit Pulp)",X,21
+21,150327,Banana Blossom (Subtropical/Tropical Fruit Pulp),X,22
+21,150328,Palm Seed (Toddy) (Subtropical/Tropical Fruit Pulp),X,23
+21,150329,"Palm Nut (Palm Fruit, Sugar Palm) (Subtropical/Tropical Fruit Pulp)",X,24
+21,150330,Santol (Subtropical/Tropical Fruit Pulp),X,25
+21,150331,Cherimoya (Subtropical/Tropical Fruit Pulp),X,26
+21,150332,Pepinos (Subtropical/Tropical Fruit Pulp),X,27
+21,150333,Mamey (Subtropical/Tropical Fruit Pulp),X,28
+21,150334,"Subtropical/Tropical Fruit Pulp, n.e.c.",X,99
+21,160499,"Core, Mixed",A,05
+21,160514,"Pit Fruits, Mixed",A,06
+21,160515,"Subtropical/Tropical, Mixed",A,07
+21,160516,"Vine Fruits, Mixed",A,08
+21,160517,"Other Fruits, Mixed",A,09
+21,160518,"Berries and Citrus, Mixed",A,10
+21,160522,"Citrus and Core Fruit, Mixed",A,16
+21,160523,"Citrus and Pit Fruit, Mixed",A,17
+21,160524,"Citrus and Subtropical/Tropical Fruit, Mixed",A,18
+21,160525,"Citrus and Vine Fruit, Mixed",A,19
+21,160526,"Berries and Vine Fruit, Mixed",A,14
+21,160527,"Berries and Other Fruits, Mixed",A,15
+21,160528,"Berries and Core, Mixed",A,11
+21,160529,"Berries and Pit Fruit, Mixed",A,12
+21,160530,"Berries and Subtropica/Tropical Fruits, Mixed",A,13
+21,160531,"Citrus and Other Fruits, Mixed",A,20
+21,160532,"Pit and Subtropical/Tropical,  Mixed",A,21
+21,160533,"Pit and Vine Fruit, Mixed",A,22
+21,160534,"Pit and Other Fruits, Mixed",A,23
+21,160535,"Pit and Core Fruits, Mixed",A,24
+21,160536,"Vine Fruit and Other Fruits, Mixed",A,25
+21,160537,"Other Fruits and Subtropical/Tropical Fruit, Mixed",A,26
+21,160538,"Berries, Core, Pit, Vine, Subtropical/Tropical, Other Fruit, Mixed",A,27
+21,160539,"Core, Mixed, Dried or Paste",B,05
+21,160552,Finger Banana,R,02
+21,160553,Sugar Banana,R,02
+21,160554,Apple Banana,R,02
+21,160555,Red Banana,R,02
+21,160556,Green Banana,R,02
+21,160557,Buissone Fig,R,03
+21,160558,"Pit Fruits, Mixed, Dried or Paste",B,06
+21,160559,"Subtropical/Tropical, Mixed, Dried or Paste",B,07
+21,160561,"Vine Fruits, Mixed,  Dried or Paste",B,08
+21,160562,"Other Fruits, Mixed, Dried or Paste",B,09
+21,160563,"Berries and Citrus, Mixed, Dried or Paste",B,10
+21,160564,"Berries and Core, Mixed, Dried or Paste",B,11
+21,160565,"Berries and Pit Fruit, Mixed, Dried or Paste",B,12
+21,160566,"Berries and Subtropica/Tropical Fruits, Mixed, Dried or Paste",B,13
+21,160567,"Berries and Vine Fruit, Mixed, Dried or Paste",B,14
+21,160568,"Berries and Other Fruits, Mixed, Dried or Paste",B,15
+21,160569,"Citrus and Core Fruit, Mixed, Dried or Paste",B,16
+21,160570,"Citrus and Pit Fruit, Mixed,  Dried or Paste",B,17
+21,160571,"Citrus and Subtropical/Tropical Fruit, Mixed, Dried or Paste",B,18
+21,160572,"Citrus and Vine Fruit, Mixed, Dried or Paste",B,19
+21,160573,"Citrus and Other Fruits, Mixed, Dried or Paste",B,20
+21,160574,"Pit and Subtropical/Tropical,  Mixed, Dried or Paste",B,21
+21,160575,"Pit and Vine Fruit, Mixed, Dried or Paste",B,22
+21,160576,"Pit and Other Fruits, Mixed, Dried or Paste",B,23
+21,160577,"Pit and Core Fruits, Mixed, Dried or Paste",B,24
+21,160593,"Vine Fruit and Other Fruits, Mixed, Dried or Paste",B,25
+21,160594,"Other Fruits and Subtropical/Tropical Fruit, Mixed, Dried or Paste",B,26
+21,160595,"Berries, Core, Pit, Vine, Subtropical/Tropical, Other Fruit, Mixed,  Dried or Paste",B,27
+21,160596,"Core, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,05
+21,160597,"Pit Fruits, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,06
+21,160598,"Subtropical/Tropical, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,07
+21,160599,"Vine Fruits, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,08
+21,160601,"Other Fruits, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,09
+21,160602,"Berries and Citrus, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,10
+21,160603,"Berries and Core, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,11
+21,160604,"Berries and Pit Fruit, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,12
+21,160605,"Berries and Subtropica/Tropical Fruits, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, butter",C,13
+21,160606,"Berries and Vine Fruit, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,14
+21,160607,"Berries and Other Fruits, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,15
+21,160608,"Citrus and Core Fruit, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,16
+21,160609,"Citrus and Pit Fruit, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,17
+21,160610,"Citrus and Subtropical/Tropical Fruit, Mixed, Flavored Jams, Jellies, marmalades, butters and candie",C,18
+21,160614,"Citrus and Vine Fruit, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,19
+21,160615,"Citrus and Other Fruits, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,20
+21,160616,"Pit and Subtropical/Tropical,  Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Can",C,21
+21,160617,"Pit and Vine Fruit, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,22
+21,160618,"Pit and Other Fruits, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,23
+21,160634,"Pit and Core Fruits, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied",C,24
+21,160635,"Vine Fruit and Other Fruits, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candi",C,25
+21,160636,"Other Fruits and Subtropical/Tropical Fruit, Mixed, Flavored Jams, Jellies, Preserves, Marmalades, B",C,26
+21,160637,"Berries, Core, Pit, Vine, Subtropical/Tropical, Other Fruit, Mixed, Flavored Jams, Jellies, Preserve",C,27
+21,160638,"Pit Fruits, Mixed, Juices or Concentrates",D,06
+21,160639,"Subtropical/Tropical, Mixed, Juices or Concentrates",D,07
+21,160642,"Other Fruits, Mixed, Juices or Concentrates",D,09
+21,160643,"Vine Fruits, Mixed, Juices or Concentrates",D,08
+21,160644,"Core, Mixed, Juices or Concentrates",D,05
+21,160645,"Berries and Citrus, Mixed, Juices or Concentrates",D,10
+21,160646,"Berries and Core, Mixed, Juices or Concentrates",D,11
+21,160647,"Berries and Pit Fruit, Mixed, Juices or Concentrates",D,12
+21,160648,"Berries and Subtropica/Tropical Fruits, Mixed, Juices or Concentrates",D,13
+21,160649,"Berries and Vine Fruit, Mixed, Juices or Concentrates",D,14
+21,160650,"Berries and Other Fruits, Mixed, Juices or Concentrates",D,15
+21,160651,"Citrus and Core Fruit, Mixed, Juices or Concentrates",D,16
+21,160652,"Citrus and Pit Fruit, Mixed, Juices or Concentrates",D,17
+21,160653,"Citrus and Subtropical/Tropical Fruit, Mixed, Juices or Concentrates",D,18
+21,160654,"Citrus and Vine Fruit, Mixed, Juices or Concentrates",D,19
+21,160655,"Citrus and Other Fruits, Mixed, Juices or Concentrates",D,20
+21,160656,"Pit and Subtropical/Tropical,  Mixed, Juices or Concentrates",D,21
+21,160661,"Pit and Vine Fruit, Mixed, Juices or Concentrates",D,22
+21,160662,"Pit and Other Fruits, Mixed, Juices or Concentrates",D,23
+21,160663,"Pit and Core Fruits, Mixed, Juices or Concentrates",D,24
+21,160664,"Vine Fruit and Other Fruits, Mixed, Juices or Concentrates",D,25
+21,160665,"Other Fruits and Subtropical/Tropical Fruit, Mixed, Juices or Concentrates",D,26
+21,160666,"Berries, Core, Pit, Vine, Subtropical/Tropical, Other Fruit, Mixed, Juices or Concentrates",D,27
+21,160667,"Core, Mixed, Toppings and Syrups",E,05
+21,160668,"Pit Fruits, Mixed, Toppings and Syrups",E,06
+21,160669,"Subtropical/Tropical, Mixed, Toppings and Syrups",E,07
+21,160670,"Vine Fruits, Mixed, Toppings and Syrups",E,08
+21,160671,"Other Fruits, Mixed, Toppings and Syrups",E,09
+21,160672,"Berries and Citrus, Mixed, Toppings and Syrups",E,10
+21,160673,"Berries and Core, Mixed, Toppings and Syrups",E,11
+21,160674,"Berries and Pit Fruit, Mixed, Toppings and Syrups",E,12
+21,160675,"Berries and Subtropica/Tropical Fruits, Mixed, Toppings and Syrups",E,13
+21,160676,"Berries and Vine Fruit, Mixed, Toppings and Syrups",E,14
+21,160677,"Berries and Other Fruits, Mixed, Toppings and Syrups",E,15
+21,160678,"Citrus and Core Fruit, Mixed, Toppings and Syrups",E,16
+21,160679,"Citrus and Pit Fruit, Mixed, Toppings and Syrups",E,17
+21,160685,"Citrus and Subtropical/Tropical Fruit, Mixed, Toppings and Syrups",E,18
+21,160686,"Citrus and Vine Fruit, Mixed, Toppings and Syrups",E,19
+21,160687,"Citrus and Other Fruits, Mixed, Toppings and Syrups",E,20
+21,160688,"Pit and Subtropical/Tropical,  Mixed, Toppings and Syrups",E,21
+21,160689,"Pit and Vine Fruit, Mixed, Toppings and Syrups",E,22
+21,160690,"Pit and Other Fruits, Mixed, Toppings and Syrups",E,23
+21,160691,"Pit and Core Fruits, Mixed, Toppings and Syrups",E,24
+21,160692,"Vine Fruit and Other Fruits, Mixed, Toppings and Syrups",E,25
+21,160693,"Other Fruits and Subtropical/Tropical Fruit, Mixed, Toppings and Syrups",E,26
+21,160694,"Berries, Core, Pit, Vine, Subtropical/Tropical, Other Fruit, Mixed, Toppings and Syrups",E,27
+21,160695,"Core, Mixed Fruit Purees",F,05
+21,160696,"Pit Fruits, Mixed Fruit Purees",F,06
+21,160697,"Subtropical/Tropical, Mixed Fruit Purees",F,07
+21,160698,"Vine Fruits, Mixed Fruit Purees",F,08
+21,160699,"Other Fruits, Mixed Fruit Purees",F,09
+21,160707,"Berries and Citrus, Mixed Fruit Purees",F,10
+21,160708,"Berries and Core, Mixed Fruit Purees",F,11
+21,160709,"Berries and Pit Fruit, Mixed Fruit Purees",F,12
+21,160710,"Berries and Subtropica/Tropical Fruits, Mixed Fruit Purees",F,13
+21,160711,"Berries and Vine Fruit, Mixed Fruit Purees",F,14
+21,160712,"Berries and Other Fruits, Mixed Fruit Purees",F,15
+21,160713,"Citrus and Core Fruit, Mixed Fruit Purees",F,16
+21,160714,"Citrus and Pit Fruit, Mixed Fruit Purees",F,17
+21,160715,"Citrus and Subtropical/Tropical Fruit, Mixed Fruit Purees",F,18
+21,160716,"Citrus and Vine Fruit, Mixed Fruit Purees",F,19
+21,160717,"Citrus and Other Fruits, Mixed Fruit Purees",F,20
+21,160718,"Pit and Subtropical/Tropical,  Mixed Fruit Purees",F,21
+21,160719,"Pit and Vine Fruit, Mixed Fruit Purees",F,22
+21,160721,"Pit and Other Fruits, Mixed Fruit Purees",F,23
+21,160722,"Pit and Core Fruits, Mixed Fruit Purees",F,24
+21,160723,"Vine Fruit and Other Fruits, Mixed Fruit Purees",F,25
+21,160724,"Other Fruits and Subtropical/Tropical Fruit, MixedOther Fruits and Subtropical/Tropical Fruit, Mixed",F,26
+21,160725,"Berries, Core, Pit, Vine, Subtropical/Tropical, Other Fruit, Mixed Fruit Purees",F,27
+21,160726,"Avocado Pear,  (Pit Fruit)",G,02
+21,160727,"Alligator Pear,  (Pit Fruit)",G,02
+21,160728,"Aguacate,  (Pit Fruit)",G,02
+21,160729,"Avocadito,  (Pit Fruit)",G,02
+21,160730,"Avocado Leaves,  (Pit Fruit)",G,02
+21,160731,"Cocktail Avocado,  (Pit Fruit)",G,02
+21,160732,"Cuke Avocado,  (Pit Fruit)",G,02
+21,160733,"Mini-Avocado,  (Pit Fruit)",G,02
+21,160734,"Fuerte Avocado,  (Pit Fruit)",G,02
+21,160735,"Pinkerton Avocado,  (Pit Fruit)",G,02
+21,160747,"Hass Avocado,  (Pit Fruit)",G,02
+21,160748,"Bacon Avocado,  (Pit Fruit)",G,02
+21,160749,"Zutano Avocado,  (Pit Fruit)",G,02
+21,160750,"Bigarreaus Cherries,  (Pit Fruit)",G,03
+21,160751,"Geans Cherries,  (Pit Fruit)",G,03
+21,160752,"Guines Cherries,  (Pit Fruit)",G,03
+21,160753,"Napoleons Cherries,  (Pit Fruit)",G,03
+21,160754,"Bing Cherries,  (Pit Fruit)",G,03
+21,160755,"Black Tartarian Cherries,  (Pit Fruit)",G,03
+21,160756,"Early Rivers Cherries,  (Pit Fruit)",G,03
+21,160757,"Rainer Cherries,  (Pit Fruit)",G,03
+21,160769,"Morello Cherries,  (Pit Fruit)",G,03
+21,160770,"Amarelle Cherries,  (Pit Fruit)",G,03
+21,160771,"Montmorency Cherries,  (Pit Fruit)",G,03
+21,160772,"English Cherrie,  (Pit Fruit)",G,03
+21,160773,"Yellow Cherries,  (Pit Fruit)",G,03
+21,160774,"Damasca Cherries,  (Pit Fruit)",G,04
+21,160775,"Amaresca Cherries,  (Pit Fruit)",G,04
+21,160776,"Halawi Dates,  (Pit Fruit)",G,05
+21,160777,"Date Palms,  (Pit Fruit)",G,05
+21,160784,"Deglet Noor Date,  (Pit Fruit)",G,05
+21,160785,"Medijool Date,  (Pit Fruit)",G,05
+21,160786,"Dried Red Date,  (Pit Fruit)",G,05
+21,160787,"Honey Date,  (Pit Fruit)",G,05
+21,160788,"Da Zao,  (Pit Fruit)",G,05
+21,160789,"Jujube de Chine,  (Pit Fruit)",G,05
+21,160790,"Hong Joh,  (Pit Fruit)",G,05
+21,160791,"Rhamnus Ziziphus,  (Pit Fruit)",G,05
+21,160792,"Zizyphus Lotus,  (Pit Fruit)",G,05
+21,160793,"Zizyphus Vulgaris,  (Pit Fruit)",G,05
+21,160794,"Jujube Comun,  (Pit Fruit)",G,05
+21,160795,"Datte,  (Pit Fruit)",G,05
+21,160796,"Datte Deglet-nour,  (Pit Fruit)",G,05
+21,160797,"Date Palm,  (Pit Fruit)",G,05
+21,160798,"Senegal Date Palm,  (Pit Fruit)",G,05
+21,160802,"Pygmy Date Palm,  (Pit Fruit)",G,05
+21,160803,"Miniature Date,  (Pit Fruit)",G,05
+21,160804,"Wild Date Palm,  (Pit Fruit)",G,05
+21,160805,"Zizyphus Jujuba,  (Pit Fruit)",G,05
+21,160806,"Date Palms,  (Pit Fruit)",G,06
+21,160807,"Deglet Noor Date,  (Pit Fruit)",G,06
+21,160808,"Medijool Date,  (Pit Fruit)",G,06
+21,160809,"Persian Plum,  (Pit Fruit)",G,07
+21,160810,"Yellow Nectarine,  (Pit Fruit)",G,07
+21,160811,"Smooth-skinned White Nectarine,  (Pit Fruit)",G,07
+21,160812,"Avocado Pear,  Dried or Paste",H,02
+21,160813,"Avocado Pear,  (Pit Fruit Purees)",I,02
+21,160814,"Avocado Pear, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160815,"Avocado Pear,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160816,"Avocado Pear,  Topping or Syrup",L,02
+21,160822,"Alligator Pear,  Dried or Paste",H,02
+21,160823,"Alligator Pear,   (Pit Fruit Purees)",I,02
+21,160824,"Alligator Pear, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160825,"Alligator Pear,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160826,"Alligator Pear,  Topping or Syrup",L,02
+21,160827,"Aguacate,  Dried or Paste",H,02
+21,160828,"Aguacate,   (Pit Fruit Purees)",I,02
+21,160829,"Aguacate, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160830,"Aguacate,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160831,"Aguacate,  Topping or Syrup",L,02
+21,160832,"Avocadito,  Dried or Paste",H,02
+21,160833,"Avocadito,   (Pit Fruit Purees)",I,02
+21,160834,"Avocadito, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160835,"Avocadito,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160836,"Avocadito,  Topping or Syrup",L,02
+21,160851,"Avocado Leaves,  Dried or Paste",H,02
+21,160852,"Avocado Leaves,  (Pit Fruit Purees)",I,02
+21,160853,"Avocado Leaves, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160854,"Avocado Leaves,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160855,"Avocado Leaves,  Topping or Syrup",L,02
+21,160864,"Cocktail Avocado,  Dried or Paste",H,02
+21,160865,"Cocktail Avocado,   (Pit Fruit Purees)",I,02
+21,160866,"Cocktail Avocado, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160867,"Cocktail Avocado,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160868,"Cocktail Avocado,  Topping or Syrup",L,02
+21,160869,"Cuke Avocado,  Dried or Paste",H,02
+21,160870,"Mini-Avocado,   (Pit Fruit Purees)",I,02
+21,160871,"Mini-Avocado, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160872,"Mini-Avocado,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160873,"Mini-Avocado,  Topping or Syrup",L,02
+21,160874,"Fuerte Avocado,  Dried or Paste",H,02
+21,160875,"Fuerte Avocado,   (Pit Fruit Purees)",I,02
+21,160876,"Fuerte Avocado, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160877,"Fuerte Avocado,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160878,"Fuerte Avocado,  Topping or Syrup",L,02
+21,160891,"Pinkerton Avocado,  Dried or Paste",H,02
+21,160892,"Pinkerton Avocado,  (Pit Fruit Purees)",I,02
+21,160893,"Pinkerton Avocado, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160894,"Pinkerton Avocado,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160895,"Pinkerton Avocado,  Topping or Syrup",L,02
+21,160896,"Hass Avocado,  Dried or Paste",H,02
+21,160897,"Hass Avocado,   (Pit Fruit Purees)",I,02
+21,160898,"Hass Avocado, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160923,"Hass Avocado,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160924,"Hass Avocado,  Topping or Syrup",L,02
+21,160925,"Bacon Avocado,  Dried or Paste",H,02
+21,160926,"Bacon Avocado,  (Pit Fruit Purees)",I,02
+21,160927,"Bacon Avocado, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160928,"Bacon Avocado,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160929,"Bacon Avocado,  Topping or Syrup",L,02
+21,160930,"Zutano Avocado,  Dried or Paste",H,02
+21,160931,"Zutano Avocado,   (Pit Fruit Purees)",I,02
+21,160932,"Zutano Avocado, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+21,160933,"Zutano Avocado,  Juice, Pit Fruit Juices or Concentrates",K,02
+21,160934,"Zutano Avocado,  Topping or Syrup",L,02
+21,160935,"Bigarreaus Cherries, Dried or Paste",H,03
+21,160936,"Bigarreaus Cherries, (Pit Fruit Purees)",I,03
+21,160937,"Bigarreaus Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,160938,"Bigarreaus Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,160939,"Bigarreaus Cherries, Topping or Syrup",L,03
+21,160941,"Geans Cherries, Dried or Paste",H,03
+21,160942,"Geans Cherries, (Pit Fruit Purees)",I,03
+21,160943,"Geans Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,160944,"Geans Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,160945,"Geans Cherries, Topping or Syrup",L,03
+21,160946,"Guines Cherries, Dried or Paste",H,03
+21,160947,"Guines Cherries, (Pit Fruit Purees)",I,03
+21,160948,"Guines Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,160949,"Guines Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,160950,"Guines Cherries, Topping or Syrup",L,03
+21,160951,"Napoleons Cherries, Dried or Paste",H,03
+21,160952,"Napoleons Cherries, (Pit Fruit Purees)",I,03
+21,160953,"Napoleons Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,160954,"Napoleons Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,160955,"Napoleons Cherries, Topping or Syrup",L,03
+21,160961,"Bing Cherries, Dried or Paste",H,03
+21,160962,"Bing Cherries, (Pit Fruit Purees)",I,03
+21,160963,"Bing Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,160964,"Bing Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,160965,"Bing Cherries, Topping or Syrup",L,03
+21,160966,"Black Tartarian Cherries, Dried or Paste",H,03
+21,160967,"Black Tartarian Cherries, (Pit Fruit Purees)",I,03
+21,160968,"Black Tartarian Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,160969,"Black Tartarian Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,160970,"Black Tartarian Cherries, Topping or Syrup",L,03
+21,160971,"Early Rivers Cherries, Dried or Paste",H,03
+21,160972,"Early Rivers Cherries, (Pit Fruit Purees)",I,03
+21,160973,"Early Rivers Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,160974,"Early Rivers Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,160975,"Early Rivers Cherries, Topping or Syrup",L,03
+21,160984,"Rainer Cherries, Dried or Paste",H,03
+21,160985,"Rainer Cherries, (Pit Fruit Purees)",I,03
+21,160986,"Rainer Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,160987,"Rainer Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,160988,"Rainer Cherries, Topping or Syrup",L,03
+21,160989,"Morello Cherries, Dried or Paste",H,03
+21,160990,"Morello Cherries, (Pit Fruit Purees)",I,03
+21,160991,"Morello Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,160992,"Morello Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,160993,"Morello Cherries, Topping or Syrup",L,03
+21,160994,"Amarelle Cherries, Dried or Paste",H,03
+21,160995,"Amarelle Cherries, (Pit Fruit Purees)",I,03
+21,160996,"Amarelle Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,160997,"Amarelle Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,160998,"Amarelle Cherries, Topping or Syrup",L,03
+21,161077,"Montmorency Cherries, Dried or Paste",H,03
+21,161078,"Montmorency Cherries, (Pit Fruit Purees)",I,03
+21,161079,"Montmorency Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,161340,"Fruit Cocktail, Mixed Fruit Purees",F,01
+21,161341,"Citrus, Mixed Fruit Purees",F,02
+21,161342,"Berries, Mixed Fruit Purees",F,03
+21,161343,"Mincemeat, Mixed Fruit Purees (without meat)",F,04
+21,161344,"Mixed Fruit Purees, N.E.C.",F,99
+21,161360,Apricot (Pit Fruit Purees),I,01
+21,161361,Avocado (Pit Fruit Purees),I,02
+21,161362,Cherry Fruit (Pit Fruit Purees),I,03
+21,161380,Maraschino Cherry (Pit Fruit Purees),I,04
+21,161381,Dates (Pit Fruit Purees),I,05
+21,161382,Stuffed Dates (Pit Fruit Purees),I,06
+21,161383,Nectarine (Pit Fruit Purees),I,07
+21,161384,Loquat (Pit Fruit Purees),I,08
+21,161385,Olives (Pit Fruit Purees),I,09
+21,161386,Stuffed Olive (Pit Fruit Purees),I,12
+21,161387,Peach (Pit Fruit Purees),I,13
+21,161388,Plum (Pit Fruit Purees),I,14
+21,161389,Prunes (Dried Plums) (Pit Fruit Purees),I,15
+21,161400,"Chinese Red Dates (Jujubes, Ziziphus, Jujuba (Pit Fruit Purees)",I,16
+21,161420,Acerola (Subtropical and Tropical Fruit Purees),R,01
+21,161460,Banana (Subtropical and Tropical Fruit Purees),R,02
+21,161461,Fig (Subtropical and Tropical Fruit Purees),R,03
+21,161462,Guava (Subtropical and Tropical Fruit Purees),R,04
+21,161463,Mango (Subtropical and Tropical Fruit Purees),R,05
+21,161464,Papaya (Papaw) (Subtropical and Tropical Fruit Purees),R,06
+21,161465,Pineapple (Subtropical and Tropical Fruit Purees),R,07
+21,161466,Plantain (Subtropical and Tropical Fruit Purees),R,08
+21,161467,Breadfruit (Subtropical and Tropical Fruit Purees),R,09
+21,161468,Jackfruit (Subtropical and Tropical Fruit Purees),R,10
+21,161469,Kiwi Fruit (Subtropical and Tropical Fruit Purees),R,11
+21,161470,Passion Fruit (Subtropical and Tropical Fruit Purees),R,12
+21,161471,Ackees (Subtropical and Tropical Fruit Purees),R,13
+21,161472,Tamarind (Subtropical and Tropical Fruit Purees),R,14
+21,161473,Mangosteen (Subtropical and Tropical Fruit Purees),R,15
+21,161474,Sapota (Subtropical and Tropical Fruit Purees),R,16
+21,161475,Rambutan (Subtropical and Tropical Fruit Purees),R,17
+21,161476,Longan (Subtropical and Tropical Fruit Purees),R,18
+21,161477,"Lychee, Lichee, Litchi, Leechee (Subtropical and Tropical Fruit Purees)",R,19
+21,161478,"Starfruit, Carambola (Subtropical and Tropical Fruit Purees)",R,20
+21,161479,"Durian, Durion (Subtropical and Tropical Fruit Purees)",R,21
+21,161480,Banana Blossom (Subtropical and Tropical Fruit Purees),R,22
+21,161481,Palm Seed (Toddy) (Subtropical and Tropical Fruit Purees),R,23
+21,161482,"Palm Nut (Palm Fruit, Sugar Palm) (Subtropical and Tropical Fruit Purees)",R,24
+21,161483,Santol (Subtropical and Tropical Fruit Purees),R,25
+21,161484,"Subtropical and Tropical Fruit Purees, N.E.C.",R,99
+21,161842,"Other Pit Fruit Purees, n.e.c.",I,99
+21,161843,Cherimoya (Subtropical and Tropical Fruit Purees),R,26
+21,161844,Pepinos (Subtropical and Tropical Fruit Purees),R,27
+21,161845,Cherimoya (Subtropical and Tropical Fruits),S,26
+21,161846,Pepinos (Subtropical and Tropical Fruits),S,27
+21,161847,"Cherimoya, Dried or Paste",T,26
+21,161848,"Pepinos, Dried or Paste",T,27
+21,161849,"Cherimoya, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,26
+21,161850,"Pepinos, Jam, Jelly, Preserves, Marmalade, Butter or Candied",U,27
+21,161851,"Cherimoya, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,26
+21,161852,"Pepinos, Juice, Milk, Creme, Drink or Nectar, Sub/Tropical Fruit",V,27
+21,161853,"Cherimoya, Topping or Syrup",W,26
+21,161854,"Pepinos, Topping or Syrup",W,27
+21,163211,"Montmorency Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,163212,"English Cherrie, Juice, Pit Fruit Juices or Concentrates",K,03
+21,163213,"Yellow Cherries, Juice, Pit Fruit Juices or Concentrates",K,03
+21,163214,"Montmorency Cherries, Topping or Syrup",L,03
+21,163215,"English Cherrie, Dried or Paste",H,03
+21,163216,"English Cherrie, (Pit Fruit Purees)",I,03
+21,163217,"English Cherrie, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,163218,"English Cherrie, Topping or Syrup",L,03
+21,163219,"Yellow Cherries, Dried or Paste",H,03
+21,163220,"Yellow Cherries, (Pit Fruit Purees)",I,03
+21,163221,"Yellow Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+21,163222,"Yellow Cherries, Topping or Syrup",L,03
+21,163223,"Damasca Cherries, Dried or Paste",H,04
+21,163224,Damasca Cherries  (Pit Fruit Purees),I,04
+21,163225,"Damasca Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,04
+21,163226,"Damasca Cherries, Juice, Pit Fruit Juices or Concentrates",K,04
+21,163227,"Damasca Cherries, Topping or Syrup",L,04
+21,163228,"Amaresca Cherries, Dried or Paste",H,04
+21,163229,Amaresca Cherries  (Pit Fruit Purees),I,04
+21,163230,"Amaresca Cherries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,04
+21,163231,"Amaresca Cherries, Juice, Pit Fruit Juices or Concentrates",K,04
+21,163232,"Amaresca Cherries, Topping or Syrup",L,04
+21,163233,"Halawi Dates, Dried or Paste",H,05
+21,163234,Halawi Dates  (Pit Fruit Purees),I,05
+21,163235,"Halawi Dates, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163236,"Halawi Dates, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163237,"Halawi Dates, Dates, Topping or Syrup",L,05
+21,163238,"Date Palms, Dried or Paste",H,05
+21,163239,Date Palms (Pit Fruit Purees),I,05
+21,163240,"Date Palms, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163241,"Date Palms, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163242,"Date Palms, Dates, Topping or Syrup",L,05
+21,163243,"Deglet Noor Date, Dried or Paste",H,05
+21,163244,Deglet Noor Date  (Pit Fruit Purees),I,05
+21,163245,"Deglet Noor Date, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163246,"Deglet Noor Date, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163247,"Deglet Noor Date, Dates, Topping or Syrup",L,05
+21,163248,"Medijool Date, Dried or Paste",H,05
+21,163249,Medijool Date  (Pit Fruit Purees),I,05
+21,163250,"Medijool Date, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163251,"Medijool Date, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163252,"Medijool Date, Dates, Topping or Syrup",L,05
+21,163253,"Dried Red Date, Dried or Paste",H,05
+21,163254,Dried Red Date  (Pit Fruit Purees),I,05
+21,163255,"Dried Red Date, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163256,"Dried Red Date, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163257,"Dried Red Date, Dates, Topping or Syrup",L,05
+21,163258,"Honey Date, Dried or Paste",H,05
+21,163259,Honey Date  (Pit Fruit Purees),I,05
+21,163260,"Honey Date, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163261,"Honey Date, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163262,"Honey Date, Dates, Topping or Syrup",L,05
+21,163263,"Da Zao, Dried or Paste",H,05
+21,163264,Da Zao  (Pit Fruit Purees),I,05
+21,163265,"Da Zao, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163266,"Da Zao, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163267,"Da Zao, Dates, Topping or Syrup",L,05
+21,163268,"Jujube de Chine, Dried or Paste",H,05
+21,163269,Jujube de Chine  (Pit Fruit Purees),I,05
+21,163270,"Jujube de Chine, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163271,"Jujube de Chine, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163272,"Jujube de Chine, Dates, Topping or Syrup",L,05
+21,163273,"Hong Joh, Dried or Paste",H,05
+21,163274,Hong Joh  (Pit Fruit Purees),I,05
+21,163275,"Hong Joh, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163276,"Hong Joh, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163277,"Hong Joh, Dates, Topping or Syrup",L,05
+21,163278,"Rhamnus Ziziphus, Dried or Paste",H,05
+21,163279,Rhamnus Ziziphus  (Pit Fruit Purees),I,05
+21,163280,"Rhamnus Ziziphus, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163281,"Rhamnus Ziziphus, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163282,"Rhamnus Ziziphus, Dates, Topping or Syrup",L,05
+21,163283,"Zizyphus Lotus, Dried or Paste",H,05
+21,163284,Zizyphus Lotus  (Pit Fruit Purees),I,05
+21,163285,"Zizyphus Lotus, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163286,"Zizyphus Lotus, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163287,"Zizyphus Lotus, Dates, Topping or Syrup",L,05
+21,163288,"Zizyphus Vulgaris, Dried or Paste",H,05
+21,163289,Zizyphus Vulgaris  (Pit Fruit Purees),I,05
+21,163290,"Zizyphus Vulgaris, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163291,"Zizyphus Vulgaris, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163292,"Zizyphus Vulgaris, Dates, Topping or Syrup",L,05
+21,163293,"Jujube Comun, Dried or Paste",H,05
+21,163294,Jujube Comun  (Pit Fruit Purees),I,05
+21,163295,"Jujube Comun, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163296,"Jujube Comun, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163297,"Jujube Comun, Dates, Topping or Syrup",L,05
+21,163298,"Datte, Dried or Paste",H,05
+21,163299,Datte  (Pit Fruit Purees),I,05
+21,163300,"Datte, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163301,"Datte, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163302,"Datte, Dates, Topping or Syrup",L,05
+21,163303,"Datte Deglet-nour, Dried or Paste",H,05
+21,163304,Datte Deglet-nour  (Pit Fruit Purees),I,05
+21,163305,"Datte Deglet-nour, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163306,"Datte Deglet-nour, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163307,"Datte Deglet-nour, Dates, Topping or Syrup",L,05
+21,163308,"Date Palm, Dried or Paste",H,05
+21,163309,Date Palm  (Pit Fruit Purees),I,05
+21,163310,"Date Palm, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163311,"Date Palm, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163312,"Date Palm, Dates, Topping or Syrup",L,05
+21,163313,"Senegal Date Palm, Dried or Paste",H,05
+21,163314,Senegal Date Palm  (Pit Fruit Purees),I,05
+21,163315,"Senegal Date Palm, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163316,"Senegal Date Palm, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163317,"Senegal Date Palm, Dates, Topping or Syrup",L,05
+21,163318,"Pygmy Date Palm, Dried or Paste",H,05
+21,163319,Pygmy Date Palm  (Pit Fruit Purees),I,05
+21,163320,"Pygmy Date Palm, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163321,"Pygmy Date Palm, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163322,"Pygmy Date Palm, Dates, Topping or Syrup",L,05
+21,163323,"Miniature Date, Dried or Paste",H,05
+21,163324,Miniature Date  (Pit Fruit Purees),I,05
+21,163325,"Miniature Date, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163326,"Miniature Date, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163327,"Miniature Date, Dates, Topping or Syrup",L,05
+21,163328,"Wild Date Palm, Dried or Paste",H,05
+21,163329,Wild Date Palm  (Pit Fruit Purees),I,05
+21,163330,"Wild Date Palm, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163331,"Wild Date Palm, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163332,"Wild Date Palm, Dates, Topping or Syrup",L,05
+21,163333,"Zizyphus Jujuba, Dried or Paste",H,05
+21,163334,Zizyphus Jujuba (Pit Fruit Purees),I,05
+21,163335,"Zizyphus Jujuba, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+21,163336,"Zizyphus Jujuba, Juice, Pit Fruit Juices or Concentrates",K,05
+21,163337,"Zizyphus Jujuba, Dates, Topping or Syrup",L,05
+21,163338,"Date Palms,  Dried or Paste",H,06
+21,163339,"Date Palms,  (Pit Fruit Purees)",I,06
+21,163340,"Date Palms Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,06
+21,163341,"Date Palms, Juice, Pit Fruit Juices or Concentrates",K,06
+21,163342,"Date Palms, Topping or Syrup",L,06
+21,163343,"Deglet Noor Date,  Dried or Paste",H,06
+21,163344,"Deglet Noor Date,  (Pit Fruit Purees)",I,06
+21,163345,"Deglet Noor Date Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,06
+21,163346,"Deglet Noor Date, Juice, Pit Fruit Juices or Concentrates",K,06
+21,163347,"Deglet Noor Date, Topping or Syrup",L,06
+21,163348,"Medijool Date,  Dried or Paste",H,06
+21,163349,"Medijool Date,  (Pit Fruit Purees)",I,06
+21,163350,"Medijool Date Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,06
+21,163351,"Medijool Date, Juice, Pit Fruit Juices or Concentrates",K,06
+21,163352,"Medijool Date, Topping or Syrup",L,06
+21,163353,"Persian Plum,  Dried or Paste",H,07
+21,163354,"Persian Plum,  (Pit Fruit Purees)",I,07
+21,163355,"Persian Plum Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,07
+21,163356,"Persian Plum, Juice, Pit Fruit Juices or Concentrates",K,07
+21,163357,"Persian Plum, Topping or Syrup",L,07
+21,163358,"Yellow Nectarine,  Dried or Paste",H,07
+21,163359,"Yellow Nectarine,  (Pit Fruit Purees)",I,07
+21,163360,"Yellow Nectarine Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,07
+21,163361,"Yellow Nectarine, Juice, Pit Fruit Juices or Concentrates",K,07
+21,163362,"Yellow Nectarine, Topping or Syrup",L,07
+21,163363,"Smooth-skinned White Nectarine,  Dried or Paste",H,07
+21,163364,"Smooth-skinned White Nectarine,  (Pit Fruit Purees)",I,07
+21,163365,"Smooth-skinned White Nectarine Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,07
+21,163366,"Smooth-skinned White Nectarine, Juice, Pit Fruit Juices or Concentrates",K,07
+21,163367,"Smooth-skinned White Nectarine, Topping or Syrup",L,07
+21,163368,"Japanese Medlar Loqua,  (Pit Fruit)t",G,08
+21,163369,"Japanese Medlar Loquat,  Dried or Paste",H,08
+21,163370,"Japanese Medlar Loquat,  (Pit Fruit Purees)",I,08
+21,163371,"Japanese Medlar Loquat Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,08
+21,163372,"Japanese Medlar Loquat, Juice, Pit Fruit Juices or Concentrates",K,08
+21,163373,"Japanese Medlar Loquat, Topping or Syrup",L,08
+21,163374,"Olives, Black,  (Pit Fruit)",G,10
+21,163375,"Olives, Green,  (Pit Fruit)",G,11
+21,163376,"Ripe Olives,  (Pit Fruit)",G,10
+21,163378,"Olives, Green (Dried or paste)",H,11
+21,163380,"Olives, Green (Purees)",I,11
+21,163381,"Olives, Green (Pit Fruit Flavored Jams, Jellies, Preserves, Marmalades, Butters and Candied)",J,11
+21,163382,"Olives, Green (Pit Fruit Juices or Concentrates)",K,11
+21,163383,"Olives, Green (Pit Fruit Toppings and Syrups)",L,11
+21,163439,"Stuffed Olive, Green (Pit Fruit)",G,12
+21,163440,"Stuffed Olive, Black (Pit Fruit)",G,12
+21,163441,Mireille Peach  (Pit Fruit),G,13
+21,163442,Elegant Lady Peach  (Pit Fruit),G,13
+21,163443,Royal George  (Pit Fruit),G,13
+21,163444,Bellegarde  (Pit Fruit),G,13
+21,163445,White Peach  (Pit Fruit),G,13
+21,163446,Yellow Peach  (Pit Fruit),G,13
+21,163447,Peches de Vigne  (Pit Fruit),G,13
+21,163448,"Mireille Peach, Peches de Vigne,  Dried or Paste",H,13
+21,163449,"Elegant Lady Peach, Peches de Vigne,  Dried or Paste",H,13
+21,163450,"Royal George, Peches de Vigne,  Dried or Paste",H,13
+21,163451,"Bellegarde, Peches de Vigne,  Dried or Paste",H,13
+21,163452,"White Peach, Peches de Vigne,  Dried or Paste",H,13
+21,163453,"Yellow Peach, Peches de Vigne,  Dried or Paste",H,13
+21,163454,"Peches de Vigne, Peches de Vigne,  Dried or Paste",H,13
+21,163455,"Mireille Peach,  (Pit Fruit Purees)",I,13
+21,163456,"Elegant Lady Peach,  (Pit Fruit Purees)",I,13
+21,163457,"Royal George,  (Pit Fruit Purees)",I,13
+21,163458,"Bellegarde,  (Pit Fruit Purees)",I,13
+21,163459,"White Peach,  (Pit Fruit Purees)",I,13
+21,163460,"Yellow Peach,  (Pit Fruit Purees)",I,13
+21,163461,"Peches de Vigne,  (Pit Fruit Purees)",I,13
+21,163462,"Mireille Peach Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,13
+21,163463,"Elegant Lady Peach, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,13
+21,163464,"Royal George, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,13
+21,163465,"Bellegarde, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,13
+21,163466,"White Peach, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,13
+21,163467,"Yellow Peach, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,13
+21,163468,"Peches de Vigne, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,13
+21,163469,"Mireille Peach,  Juice, Pit Fruit Juices or Concentrates",K,13
+21,163470,"Mireille Peach, Juice, Pit Fruit Juices or Concentrates",L,13
+21,163471,"Elegant Lady Peach, Juice, Pit Fruit Juices or Concentrates",L,13
+21,163472,"Royal George, Juice, Pit Fruit Juices or Concentrates",K,13
+21,163473,"Bellegarde, Juice, Pit Fruit Juices or Concentrates",K,13
+21,163474,"White Peach, Juice, Pit Fruit Juices or Concentrates",K,13
+21,163475,"Yellow Peach, Juice, Pit Fruit Juices or Concentrates",K,13
+21,163476,"Peches de Vigne, Juice, Pit Fruit Juices or Concentrates",K,13
+21,163477,"Elegant Lady Peach,  Juice, Pit Fruit Juices or Concentrates",K,13
+21,163478,"Royal George,  Juice, Pit Fruit Juices or Concentrates",K,13
+21,163479,"Bellegarde,  Juice, Pit Fruit Juices or Concentrates",K,13
+21,163480,"White Peach,  Juice, Pit Fruit Juices or Concentrates",K,13
+21,163481,"Yellow Peach,  Juice, Pit Fruit Juices or Concentrates",K,13
+21,163482,"Peches de Vigne,  Juice, Pit Fruit Juices or Concentrates",K,13
+21,163483,Denniston's Superb (Pit Fruit),G,14
+21,163484,Gaviota (Pit Fruit),G,14
+21,163485,Marjorie's Seedling (Pit Fruit),G,14
+21,163486,Santa Rosa (Pit Fruit),G,14
+21,163487,Burbank (Pit Fruit),G,14
+21,163488,Victoria (Pit Fruit),G,14
+21,163489,Beach Plums (Pit Fruit),G,14
+21,163490,Cherry Plums (Pit Fruit),G,14
+21,163491,Czar Plum (Pit Fruit),G,14
+21,163492,Quetsch Plum (Pit Fruit),G,14
+21,163493,Svetsch Plum (Pit Fruit),G,14
+21,163494,Zwetschen Plum (Pit Fruit),G,14
+21,163495,Angelino Plum  (Pit Fruit),G,14
+21,163496,Autumn Rose Plum  (Pit Fruit),G,14
+21,163497,Avalon Plum  (Pit Fruit),G,14
+21,163498,Circiela Plum  (Pit Fruit),G,14
+21,163499,Spanish Autumn Rose Plum  (Pit Fruit),G,14
+21,163500,Queen Rose Plum  (Pit Fruit),G,14
+21,163501,Reeves Seedling Plum  (Pit Fruit),G,14
+21,163502,Stanley Plum  (Pit Fruit),G,14
+21,163503,Sungold Plum  (Pit Fruit),G,14
+21,163504,June Plum  (Pit Fruit),G,14
+21,163505,"Denniston's Superb, Dried or Paste",H,14
+21,163506,"Gaviota, Dried or Paste",H,14
+21,163507,"Marjorie's Seedling, Dried or Paste",H,14
+21,163508,"Santa Rosa, Dried or Paste",H,14
+21,163509,"Burbank, Dried or Paste",H,14
+21,163510,"Victoria, Dried or Paste",H,14
+21,163511,"Beach Plums, Dried or Paste",H,14
+21,163512,"Cherry Plums, Dried or Paste",H,14
+21,163513,"Czar Plum, Dried or Paste",H,14
+21,163514,"Quetsch Plum, Dried or Paste",H,14
+21,163515,"Svetsch Plum, Dried or Paste",H,14
+21,163516,"Zwetschen Plum, Dried or Paste",H,14
+21,163517,"Angelino Plum, Dried or Paste",H,14
+21,163518,"Autumn Rose Plum, Dried or Paste",H,14
+21,163519,"Avalon Plum, Dried or Paste",H,14
+21,163520,"Circiela Plum, Dried or Paste",H,14
+21,163521,"Spanish Autumn Rose Plum, Dried or Paste",H,14
+21,163522,"Queen Rose Plum, Dried or Paste",H,14
+21,163523,"Reeves Seedling Plum, Dried or Paste",H,14
+21,163524,"Stanley Plum, Dried or Paste",H,14
+21,163525,"Sungold Plum, Dried or Paste",H,14
+21,163526,"June Plum, Dried or Paste",H,14
+21,163527,"Denniston's Superb,  (Pit Fruit Purees)",I,14
+21,163528,"Gaviota,  (Pit Fruit Purees)",I,14
+21,163529,"Marjorie's Seedling,  (Pit Fruit Purees)",I,14
+21,163530,"Santa Rosa,  (Pit Fruit Purees)",I,14
+21,163531,"Burbank,  (Pit Fruit Purees)",I,14
+21,163532,"Victoria,  (Pit Fruit Purees)",I,14
+21,163533,"Beach Plums,  (Pit Fruit Purees)",I,14
+21,163534,"Cherry Plums,  (Pit Fruit Purees)",I,14
+21,163535,"Czar Plum,  (Pit Fruit Purees)",I,14
+21,163536,"Quetsch Plum,  (Pit Fruit Purees)",I,14
+21,163537,"Svetsch Plum,  (Pit Fruit Purees)",I,14
+21,163538,"Zwetschen Plum,  (Pit Fruit Purees)",I,14
+21,163539,"Angelino Plum,  (Pit Fruit Purees)",I,14
+21,163540,"Autumn Rose Plum,  (Pit Fruit Purees)",I,14
+21,163541,"Avalon Plum,  (Pit Fruit Purees)",I,14
+21,163542,"Circiela Plum,  (Pit Fruit Purees)",I,14
+21,163543,"Spanish Autumn Rose Plum,  (Pit Fruit Purees)",I,14
+21,163544,"Queen Rose Plum,  (Pit Fruit Purees)",I,14
+21,163545,"Reeves Seedling Plum,  (Pit Fruit Purees)",I,14
+21,163546,"Stanley Plum,  (Pit Fruit Purees)",I,14
+21,163547,"Sungold Plum,  (Pit Fruit Purees)",I,14
+21,163548,"June Plum,  (Pit Fruit Purees)",I,14
+21,163549,"Denniston's Superb, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163550,"Gaviota, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163551,"Marjorie's Seedling, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163552,"Santa Rosa, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163553,"Burbank, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163554,"Victoria, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163555,"Beach Plums, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163556,"Cherry Plums, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163557,"Czar Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163558,"Quetsch Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163559,"Svetsch Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163560,"Zwetschen Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163561,"Angelino Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163562,"Autumn Rose Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163563,"Avalon Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163564,"Circiela Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163565,"Spanish Autumn Rose Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163566,"Queen Rose Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163567,"Reeves Seedling Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163568,"Stanley Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163569,"Sungold Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163570,"June Plum, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,14
+21,163571,"Denniston's Superb, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163572,"Gaviota, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163573,"Marjorie's Seedling, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163574,"Santa Rosa, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163575,"Burbank, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163576,"Victoria, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163577,"Beach Plums, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163578,"Cherry Plums, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163579,"Czar Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163580,"Quetsch Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163581,"Svetsch Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163582,"Zwetschen Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163583,"Angelino Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163584,"Autumn Rose Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163585,"Avalon Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163586,"Circiela Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163587,"Spanish Autumn Rose Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163588,"Queen Rose Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163589,"Reeves Seedling Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163590,"Stanley Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163591,"Sungold Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163592,"June Plum, Juice, Pit Fruit Juices or Concentrates",K,14
+21,163593,"Denniston's Superb, Topping or Syrup",L,14
+21,163594,"Gaviota, Topping or Syrup",L,14
+21,163595,"Marjorie's Seedling, Topping or Syrup",L,14
+21,163596,"Santa Rosa, Topping or Syrup",L,14
+21,163597,"Burbank, Topping or Syrup",L,14
+21,163598,"Victoria, Topping or Syrup",L,14
+21,163599,"Beach Plums, Topping or Syrup",L,14
+21,163600,"Cherry Plums, Topping or Syrup",L,14
+21,163601,"Czar Plum, Topping or Syrup",L,14
+21,163602,"Quetsch Plum, Topping or Syrup",L,14
+21,163603,"Svetsch Plum, Topping or Syrup",L,14
+21,163604,"Zwetschen Plum, Topping or Syrup",L,14
+21,163605,"Angelino Plum, Topping or Syrup",L,14
+21,163606,"Autumn Rose Plum, Topping or Syrup",L,14
+21,163607,"Avalon Plum, Topping or Syrup",L,14
+21,163608,"Circiela Plum, Topping or Syrup",L,14
+21,163609,"Spanish Autumn Rose Plum, Topping or Syrup",L,14
+21,163610,"Queen Rose Plum, Topping or Syrup",L,14
+21,163611,"Reeves Seedling Plum, Topping or Syrup",L,14
+21,163612,"Stanley Plum, Topping or Syrup",L,14
+21,163613,"Sungold Plum, Topping or Syrup",L,14
+21,163614,"June Plum, Topping or Syrup",L,14
+21,163615,"Alubokhara,  (Dried Plums) (Pit Fruit)",G,15
+21,163616,"Alubokhara ( Dried Plums), Dried or Paste",H,15
+21,163617,"Alubokhara,  (Dried Plums) (Pit Fruit Purees)",I,15
+21,163618,"Alubokhara, (Dried Plums), Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,15
+21,163619,"Alubokhara,  (Dried Plums), Juice, Pit Fruit Juices or Concentrates",K,15
+21,163620,"Alubokhara, (Dried Plums), Topping or Syrup",L,15
+21,163621,"Chinese Jujube  (Jujubes, Ziziphus Jujuba) (Pit Fruit)",G,16
+21,163622,"Jujube,  (Jujubes, Ziziphus Jujuba) (Pit Fruit)",G,16
+21,163623,"Chinese Jujube (Jujubes, Ziziphus Jujuba), Dried or Paste",H,16
+21,163624,"Jujube (Jujubes, Ziziphus Jujuba), Dried or Paste",H,16
+21,163625,"Chinese Jujube,  (Jujubes, Ziziphus Jujuba), Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,16
+21,163626,"Jujube,  (Jujubes, Ziziphus Jujuba), Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,16
+21,163627,"Chinese Jujube,  (Jujubes, Ziziphus Jujuba), Juice, Pit Fruit Juices or Concentrates",K,16
+21,163628,"Jujube,  (Jujubes, Ziziphus Jujuba), Juice, Pit Fruit Juices or Concentrates",K,16
+21,163629,"Chinese Jujube,  (Jujubes, Ziziphus Jujuba), Topping or Syrup",L,16
+21,163630,"Jujube,  (Jujubes, Ziziphus Jujuba), Topping or Syrup",L,16
+21,163631,Sloe (Pit Fruit),G,17
+21,163632,Sloe Berries Silverberry,G,17
+21,163633,Reine-claude (Pit Fruit),G,17
+21,163636,"Sloes, Pit Fruit Dried or Paste",H,17
+21,163637,"Sloe Berries,  Pit Fruit Dried or Paste",H,17
+21,163638,"Reine-claude, Pit Fruit Dried or Paste",H,17
+21,163641,"Sloes,  (Pit Fruit Purees)",I,17
+21,163642,"Sloe Berries, (Pit Fruit Purees)",I,17
+21,163643,"Reine-claude, (Pit Fruit Purees)",I,17
+21,163644,"Sloes, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,17
+21,163645,"Sloe Berries, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,17
+21,163646,"Reine-claude, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,17
+21,163647,"Sloes, Juice, Pit Fruit Juices or Concentrates",K,17
+21,163648,"Sloe Berries, Juice, Pit Fruit Juices or Concentrates",K,17
+21,163649,"Reine-claude, Juice, Pit Fruit Juices or Concentrates",K,17
+21,163650,"Sloes,  Topping or Syrup",L,17
+21,163651,"Sloe Berries,  Topping or Syrup",L,17
+21,163652,"Reine-claude,  Topping or Syrup",L,17
+21,163653,Greengages (Pit Fruit),G,18
+21,163654,"Greengages,  Dried or Paste",H,18
+21,163657,Greengages (Pit Fruit Purees),I,18
+21,163658,"Greengages, , Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,18
+21,163659,"Greengages, , Juice, Pit Fruit Juices or Concentrates",K,18
+21,163660,"Greengages, , Topping or Syrup",L,18
+21,170782,"Babaco, Subtropical and Tropical Fruit Purees",R,29
+21,170783,"Pineapple Guava , Subtropical and Tropical Fruit, Purees",R,31
+21,170784,"Wood Apple, Subtropical and Tropical Fruit, Purees",R,32
+21,170785,"Melinjo, Subtropical and Tropical Fruit, Purees",R,33
+21,170786,"Amla, Subtropical and Tropical Fruit, Purees",R,34
+21,170787,"Borojo, Subtropical and Tropical Fruit, Purees",R,35
+21,170788,"Genip, Subtropical and Tropical Fruit, Purees",R,36
+21,170789,"Bilimbi, Subtropical and Tropical Fruit, Purees",R,37
+21,170790,"Dragon Fruit, Subtropical and Tropical Fruit, Purees",R,38
+21,170791,"Cashew Fruit, Subtropical and Tropical Fruit, Purees",R,39
+21,170792,"Mombin, Subtropical and Tropical Fruit, Purees",R,40
+21,170793,"Bael Fruit, Subtropical and Tropical Fruit, Purees",R,41
+21,170794,"Makok, Subtropical and Tropical Fruit, Purees",R,42
+21,170795,"Noni, Subtropical and Tropical Fruit, Purees",R,43
+21,170796,"Luk-Yee, Subtropical and Tropical Fruit, Purees",R,44
+21,170797,"Coyol Palm, Subtropical and Tropical Fruit, Purees",R,45
+21,170798,"Curuba, Subtropical and Tropical Fruit, Purees",R,46
+21,170799,"Roselle, Subtropical and Tropical Fruit, Purees",R,47
+21,170800,"Babaco, Subtropical and Tropical Fruit",S,29
+21,170801,"Pineapple Guava , Subtropical and Tropical Fruit",S,31
+21,170802,"Wood Apple, Subtropical and Tropical Fruit",S,32
+21,170803,"Melinjo, Subtropical and Tropical Fruit",S,33
+21,170804,"Amla, Subtropical and Tropical Fruit",S,34
+21,170805,"Borojo, Subtropical and Tropical Fruit",S,35
+21,170806,"Genip, Subtropical and Tropical Fruit",S,36
+21,170807,"Bilimbi, Subtropical and Tropical Fruit",S,37
+21,170808,"Dragon Fruit, Subtropical and Tropical Fruit",S,38
+21,170809,"Cashew Fruit, Subtropical and Tropical Fruit",S,39
+21,170810,"Mombin, Subtropical and Tropical Fruit",S,40
+21,170811,"Bael Fruit, Subtropical and Tropical Fruit",S,41
+21,170812,"Makok, Subtropical and Tropical Fruit",S,42
+21,170813,"Noni, Subtropical and Tropical Fruit",S,43
+21,170814,"Luk-Yee, Subtropical and Tropical Fruit",S,44
+21,170815,"Coyol Palm, Subtropical and Tropical Fruit",S,45
+21,170816,"Curuba, Subtropical and Tropical Fruit",S,46
+21,170817,"Roselle, Subtropical and Tropical Fruit",S,47
+21,170818,"Babaco, Subtropical and Tropical Fruit, Dried or Paste",T,29
+21,170819,"Pineapple Guava , Subtropical and Tropical Fruit, Dried or Paste",T,31
+21,170820,"Wood Apple, Subtropical and Tropical Fruit, Dried or Paste",T,32
+21,170821,"Melinjo, Subtropical and Tropical Fruit, Dried or Paste",T,33
+21,170822,"Amla, Subtropical and Tropical Fruit, Dried or Paste",T,34
+21,170823,"Borojo, Subtropical and Tropical Fruit, Dried or Paste",T,35
+21,170824,"Genip, Subtropical and Tropical Fruit, Dried or Paste",T,36
+21,170825,"Bilimbi, Subtropical and Tropical Fruit, Dried or Paste",T,37
+21,170826,"Dragon Fruit, Subtropical and Tropical Fruit, Dried or Paste",T,38
+21,170827,"Cashew Fruit, Subtropical and Tropical Fruit, Dried or Paste",T,39
+21,170828,"Mombin, Subtropical and Tropical Fruit, Dried or Paste",T,40
+21,170829,"Bael Fruit, Subtropical and Tropical Fruit, Dried or Paste",T,41
+21,170830,"Makok, Subtropical and Tropical Fruit, Dried or Paste",T,42
+21,170831,"Noni, Subtropical and Tropical Fruit, Dried or Paste",T,43
+21,170832,"Luk-Yee, Subtropical and Tropical Fruit, Dried or Paste",T,44
+21,170833,"Coyol Palm, Subtropical and Tropical Fruit, Dried or Paste",T,45
+21,170834,"Curuba, Subtropical and Tropical Fruit, Dried or Paste",T,46
+21,170835,"Roselle, Subtropical and Tropical Fruit, Dried or Paste",T,47
+21,170836,"Babaco, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spre",U,29
+21,170837,"Pineapple Guava , Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, But",U,31
+21,170838,"Wood Apple, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters,",U,32
+21,170839,"Melinjo, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spr",U,33
+21,170840,"Amla, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spread",U,34
+21,170841,"Borojo, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spre",U,35
+21,170842,"Genip, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Sprea",U,36
+21,170843,"Bilimbi, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spr",U,37
+21,170844,"Dragon Fruit, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters",U,38
+21,170845,"Cashew Fruit, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters",U,39
+21,170846,"Mombin, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spre",U,40
+21,170847,"Bael Fruit, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters,",U,41
+21,170848,"Makok, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Sprea",U,42
+21,170849,"Noni, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spread",U,43
+21,170850,"Luk-Yee, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spr",U,44
+21,170851,"Coyol Palm, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters,",U,45
+21,170852,"Curuba, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spre",U,46
+21,170853,"Roselle, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spr",U,47
+21,170882,"Lulo, Subtropical and Tropical Fruit Purees",R,30
+21,170883,"Coconut, Subtropical and Tropical Fruit Purees",R,48
+21,170884,"Lulo, Subtropical and Tropical Fruit",S,30
+21,170885,"Coconut, Subtropical and Tropical Fruit",S,48
+21,170886,"Lulo, Subtropical and Tropical Fruit, Dried or Paste",T,30
+21,170887,"Coconut, Subtropical and Tropical Fruit, Dried or Paste",T,48
+21,170888,"Lulo, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spread",U,30
+21,170889,"Coconut, Subtropical and Tropical Fruit, Jams, Jellies, Preserves, Marmalades, Candied, Butters, Spr",U,48
+21,170890,"Babaco, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,29
+21,170891,"Lulo, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,30
+21,170892,"Pineapple Guava , Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,31
+21,170893,"Wood Apple, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,32
+21,170894,"Melinjo, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,33
+21,170895,"Amla, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,34
+21,170896,"Borojo, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,35
+21,170897,"Genip, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,36
+21,170898,"Bilimbi, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,37
+21,170899,"Dragon Fruit, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,38
+21,170900,"Cashew Fruit, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,39
+21,170901,"Mombin, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,40
+21,170902,"Bael Fruit, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,41
+21,170903,"Makok, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,42
+21,170904,"Noni, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,43
+21,170905,"Luk-Yee, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,44
+21,170906,"Babaco, Subtropical and Tropical Fruit, Toppings or Syrups",W,29
+21,170907,"Lulo, Subtropical and Tropical Fruit, Toppings or Syrups",W,30
+21,170908,"Pineapple Guava , Subtropical and Tropical Fruit, Toppings or Syrups",W,31
+21,170909,"Wood Apple, Subtropical and Tropical Fruit, Toppings or Syrups",W,32
+21,170910,"Melinjo, Subtropical and Tropical Fruit, Toppings or Syrups",W,33
+21,170911,"Amla, Subtropical and Tropical Fruit, Toppings or Syrups",W,34
+21,170912,"Borojo, Subtropical and Tropical Fruit, Toppings or Syrups",W,35
+21,170913,"Genip, Subtropical and Tropical Fruit, Toppings or Syrups",W,36
+21,170914,"Bilimbi, Subtropical and Tropical Fruit, Toppings or Syrups",W,37
+21,170915,"Dragon Fruit, Subtropical and Tropical Fruit, Toppings or Syrups",W,38
+21,170916,"Cashew Fruit, Subtropical and Tropical Fruit, Toppings or Syrups",W,39
+21,170917,"Mombin, Subtropical and Tropical Fruit, Toppings or Syrups",W,40
+21,170918,"Bael Fruit, Subtropical and Tropical Fruit, Toppings or Syrups",W,41
+21,170919,"Makok, Subtropical and Tropical Fruit, Toppings or Syrups",W,42
+21,170920,"Noni, Subtropical and Tropical Fruit, Toppings or Syrups",W,43
+21,170921,"Luk-Yee, Subtropical and Tropical Fruit, Toppings or Syrups",W,44
+21,170922,"Coyol Palm, Subtropical and Tropical Fruit, Toppings or Syrups",W,45
+21,170923,"Curuba, Subtropical and Tropical Fruit, Toppings or Syrups",W,46
+21,170924,"Roselle, Subtropical and Tropical Fruit, Toppings or Syrups",W,47
+21,170925,"Coconut, Subtropical and Tropical Fruit, Toppings or Syrups",W,48
+21,170926,"Babaco, Subtropical and Tropical Fruit Pulp",X,29
+21,170927,"Lulo, Subtropical and Tropical Fruit Pulp",X,30
+21,170928,"Pineapple Guava , Subtropical and Tropical Fruit Pulp",X,31
+21,170929,"Wood Apple, Subtropical and Tropical Fruit Pulp",X,32
+21,170930,"Melinjo, Subtropical and Tropical Fruit Pulp",X,33
+21,170931,"Amla, Subtropical and Tropical Fruit Pulp",X,34
+21,170932,"Borojo, Subtropical and Tropical Fruit Pulp",X,35
+21,170933,"Genip, Subtropical and Tropical Fruit Pulp",X,36
+21,170934,"Bilimbi, Subtropical and Tropical Fruit Pulp",X,37
+21,170935,"Dragon Fruit, Subtropical and Tropical Fruit Pulp",X,38
+21,170936,"Cashew Fruit, Subtropical and Tropical Fruit Pulp",X,39
+21,170937,"Mombin, Subtropical and Tropical Fruit Pulp",X,40
+21,170938,"Bael Fruit, Subtropical and Tropical Fruit Pulp",X,41
+21,170939,"Makok, Subtropical and Tropical Fruit Pulp",X,42
+21,170940,"Noni, Subtropical and Tropical Fruit Pulp",X,43
+21,170941,"Luk-Yee, Subtropical and Tropical Fruit Pulp",X,44
+21,170942,"Coyol Palm, Subtropical and Tropical Fruit Pulp",X,45
+21,170943,"Curuba, Subtropical and Tropical Fruit Pulp",X,46
+21,170944,"Roselle, Subtropical and Tropical Fruit Pulp",X,47
+21,170945,"Coconut, Subtropical and Tropical Fruit Pulp",X,48
+21,173328,"Coyol Palm, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,45
+21,173329,"Curuba, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,46
+21,173330,"Roselle, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,47
+21,173331,"Coconut, Subtropical and Tropical Fruit, Juices, Milk, Creme, Drinks and Nectars",V,48
+21,173339,Coconut Juice,V,48
+21,173340,Coconut Water,V,48
+21,174541,Tamarind pods,S,14
+21,174542,Tamarindus pods,S,14

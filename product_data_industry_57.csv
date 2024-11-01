@@ -1,0 +1,181 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+57,3574,Diphtheria Toxoid,B,01
+57,3578,"Allergenic Extracts, Non-standardized",G,01
+57,3580,Blood and Blood Products For Reprocessing,Y,01
+57,3581,Botulism Antitoxin,A,02
+57,3583,Influenza Virus Vaccine,C,02
+57,3588,Blood Bags with Anti-Coagulant Prior To Use,Y,02
+57,3591,Measle Virus Vaccine,C,03
+57,3607,Tetanus Toxoid,B,05
+57,3609,Cryoprecipitated Antihemophilic Factor (AHF) (Human),D,05
+57,3612,"Diptheria, Tetanus and acellular Pertussis (DTaP) Vaccine",I,05
+57,3633,Mumps Virus Vaccine,C,08
+57,3638,Antivenin Polyvalent (Crotalidae [pit viper]),A,09
+57,3639,Poliovirus Vaccine,C,09
+57,3644,Antivenin (Latrodectus mactans [black widow]),A,10
+57,3647,"Tuberculin, Purified Protein Derivative",E,10
+57,3649,Tetanus and Diphtheria Toxoids,I,10
+57,3650,Antivenin (Micrutus fulvious [coral snake]),A,11
+57,3655,Bacterial Antigen (No U.S.Standard Potency),H,11
+57,3664,Polyvalent Bacterial Antigen (No U.S. Standard Potency),H,12
+57,3685,Rabies Vaccine,C,15
+57,3709,Rubella Virus Vaccine,C,18
+57,3710,Horse Serum,D,18
+57,3716,Smallpox Vaccine,C,19
+57,3723,Human Serum,D,20
+57,3727,Yellow Fever Vaccine,C,21
+57,3760,Red Blood Cells (Human),D,29
+57,3770,Anthrax Vaccine,H,31
+57,3773,Plasma (Human),D,32
+57,3775,BCG Vaccine,H,32
+57,3793,Whole Blood (Human),D,36
+57,3795,Plague Vaccine,H,36
+57,3800,Polyvalent Bacterial Vaccine (No U.S. Standard Potency),H,37
+57,3805,Typhoid Vaccine,H,38
+57,3810,Meningococcal Vaccine,H,39
+57,3825,Pneumococcal Vaccine,H,42
+57,3833,Source Plasma (Human),D,44
+57,3837,Platelets (Human),D,45
+57,3868,Source Leukocytes (Human),D,55
+57,3916,"Biological In-Vivo and In-Vitro Diagnostics, N.E.C.",Y,99
+57,150202,Bone,J,03
+57,150206,Semen  (Sperm),K,01
+57,150207,Oocytes (Egg),K,02
+57,150208,Embryo,K,03
+57,150211,"Hematopoietic Progenitor Cells (HPC), Cord Blood",M,01
+57,150212,"Hematopoietic Progenitor Cells (HPC), Apheresis",M,02
+57,150216,"Human Tissue, N.E.C.",P,99
+57,156114,Connective Tissue,J,07
+57,156115,"Eye Tissue (Cornea, Sclera)",L,03
+57,156116,Amniotic Membrane for Eye Repair,L,04
+57,156118,Skin,Q,01
+57,156119,"Veins, Arteries",R,01
+57,156120,Heart Tissue,S,01
+57,156121,Dura Mater,T,01
+57,165781,Hepatitis A Vaccine,C,25
+57,165801,Anti-Inhibitor Coagulant Complex,U,01
+57,165835,Antihemophilic Factor,U,02
+57,165847,Factor IX Complex,U,03
+57,165848,Plasma Protein Fraction,U,04
+57,165849,Rho (D) Immune Globulin,U,05
+57,165850,Tetanus Immune Globulin,U,06
+57,165851,Thrombin,U,07
+57,165852,Vaccinia Immune Globulin,U,08
+57,165853,Rabies Immune Globulin,U,09
+57,165854,Hepatitis Immune Globulin,U,10
+57,165855,Blood Grouping Reagent(s),V,01
+57,165856,Varicella-Zoster Immune Globulin,U,11
+57,165857,Albumin,U,12
+57,165858,Alpha-1-Proteinase Inhibitor,U,13
+57,165859,Antithrombin,U,14
+57,165860,Anti-thymocyte Globulin,U,15
+57,165861,Botulism Immune Globulin Intravenous,U,16
+57,165862,CMV High Titer Fraction II+III Paste,U,17
+57,165863,Coagulation Factor IX,U,18
+57,165864,Coagulation Factor VIIa,U,19
+57,165881,Cytomegalovirus Immune Globulin Intravenous,U,20
+57,165882,Digoxin Immune Fab,U,21
+57,165883,Fibrin Sealant,U,22
+57,165884,Fraction II,U,23
+57,165885,Fraction II + III Paste,U,24
+57,165886,Fraction IV-1,U,25
+57,165887,Fraction V Paste,U,26
+57,165888,Hemin for Injection,U,27
+57,165889,Immune Globulin,U,28
+57,165890,Immune Globulin Intravenous,U,29
+57,165891,Immune Globulin Subcutaneous,U,30
+57,165892,"Lymphocyte Immune Globulin, Anti-thymocyte Globulin",U,31
+57,165893,RSV High Titer Fraction II+III Paste,U,32
+57,165894,Respiratory Syncytial Virus Immune Globulin Intravenous,U,33
+57,165895,Protein C Concentrate,U,34
+57,165896,Antihemophilic Factor/von Willebrand Factor Complex,U,35
+57,165897,Fibrinogen,U,36
+57,165898,C1 Esterase Inhibitor,U,37
+57,165899,Plasma Cryoprecipitate,U,38
+57,165900,"Blood Deriviatives, N.E.C",U,99
+57,165901,Reagent Red Blood Cells,V,02
+57,165902,Hepatitis B Surface Antigen,V,03
+57,165903,Limulus Amebocyte Lysate,V,04
+57,165904,Hepatitis B Core Antigen,V,05
+57,165905,Antibody to Hepatitis B Surface Antigen (Antibody to HBsAg),V,06
+57,165906,Antibody to Human Immunodeficiency Virus Type 1 (Antibody to HIV-1),V,07
+57,165907,Hepatitis B Virus,V,08
+57,165908,Hepatitis C Virus,V,09
+57,165909,Hepatitis C Virus Encoded Antigen,V,10
+57,165910,Human Immunodeficiency Virus Type 1,V,11
+57,165911,Human Immunodeficiency Virus Type 1 and Hepatitis C Virus,V,12
+57,165912,Human Immunodeficiency Virus Type 2,V,13
+57,165913,Human Immunodeficiency Virus Types 1 & 2,V,14
+57,165914,Human T-Lymphotropic Virus Type I,V,15
+57,165915,Human T-Lymphotropic Virus Types I & II,V,16
+57,165916,West Nile Virus,V,17
+57,165917,"Human Immunodeficiency Virus Type 1, Hepatitis B Virus, and Hepatitis C Virus",V,18
+57,165918,Trypanosoma cruzi (Chagas disease),V,19
+57,165919,"Human Immunodeficiency Virus Types 1 & 2, Hepatitis B Virus, and Hepatitis C Virus",V,20
+57,165920,"In-Vitro Diag Products, N.E.C.",V,99
+57,165921,"Plasma Volume Expander (Dextran, Hetastarch, Pentastarch)",Y,03
+57,165922,Crotalidae [pit viper] Polyvalent Immune Fab,A,20
+57,165923,"Antitoxins and Antivenins, N.E.C.",A,99
+57,165924,"Immunization Toxoids, N.E.C.",B,99
+57,165961,Hepatitis B Vaccine,C,26
+57,165962,Japanese Encephalitis Virus Vaccine,C,27
+57,165963,Rotavirus Vaccine,C,28
+57,165964,Varicella Virus Vaccine,C,29
+57,165965,Zoster Vaccine,C,30
+57,165966,Human Papillomavirus Vaccine,C,31
+57,165967,"Viral Vaccines, N.E.C.",C,99
+57,165968,Granulocytes (Human),D,63
+57,165969,Recovered Plasma (Human),D,64
+57,165970,Therapeutic Exchange Plasma (Human),D,65
+57,165971,"Blood & Blood Components, N.E.C.",D,99
+57,165972,"In-Vivo Diag Products, N.E.C.",E,99
+57,165973,Allergen Patch Tests,G,18
+57,165974,"Animal Allergens, Standardized Cat",G,19
+57,165975,Candida albicans Skin Test Antigen for Cellular Hypersensitivity,G,20
+57,165976,"Insects (Whole Body), Mite",G,21
+57,165977,Pollens - Grasses,G,22
+57,165978,"Pollens - Weeds and Garden Plants, Ragweed",G,23
+57,165979,Positive Skin Test Control-Histamine,G,24
+57,165980,"Venoms (bee, wasp, hornet, yellow jacket)",G,25
+57,165981,"Allergenic Products, N.E.C.",G,99
+57,165982,Acellular Pertussis Vaccine Concentrate,H,44
+57,165983,BCG Live,H,45
+57,165984,Haemophilus b Vaccine,H,46
+57,165985,"Bacterial Vaccines/Antigens, N.E.C.",H,99
+57,165986,DTaP & Hepatitis B & Polio Virus Vaccine,I,11
+57,165987,DTaP & Polio Virus Vaccine,I,12
+57,165988,DTaP & Polio Virus & Haemophilus b Vaccine,I,13
+57,165989,Haemophilus b and Hepatitis B Vaccine,I,14
+57,165990,Hepatitis A & Hepatitis B Vaccine,I,15
+57,165991,"Measles, Mumps, Rubella and Varicella Virus Vaccine",I,16
+57,165992,"Measles, Mumps, Rubella Virus Vaccine",I,17
+57,165993,Measles and Mumps Virus Vaccine,I,18
+57,165994,"Multiple Vaccine/MultipleAntigen Preparations, N.E.C.",I,99
+57,165995,Peripheral Blood Mononuclear Cells,M,03
+57,165996,Cell Therapies,N,03
+57,165997,"Gene Therapies (vectors, genetically modified cells)",N,04
+57,166601,"Whipworms, eggs and larvae",W,01
+57,166602,"Hookworms, eggs and larvae",W,02
+57,174221,"Tapeworms, eggs and larvae",W,03
+57,174337,Centruroides (Scorpion) Immune Fab,A,21
+57,174338,Adenovirus Vaccine,C,32
+57,174339,Coccidioides immitis skin test antigen,G,26
+57,174340,Meningococcal and Haemophilus b Vaccine,I,19
+57,174341,von Willebrand factor,U,39
+57,174342,Factor XIII Concentrate,U,40
+57,174343,Coagulation Factor X,U,41
+57,174344,Anthrax Immune Globulin,U,42
+57,174345,Prothrombin Complex Concentrate,U,43
+57,174346,"Pooled Plasma, Solvent Detergent Treated",U,44
+57,175460,Umbilical Cord Blood Stem Cells,M,01
+57,175461,Peripheral Blood Stem Cells,M,02
+57,175462,"Lymphocytes (Donor Lymphocytes for Infusion, T Cells)",M,03
+57,175463,Cholera Vaccine,H,01
+57,175464,DTaP & Polio & Haemophilus b & Hepatitis B Vaccine,I,20
+57,175465,Coagulation Factor Xa,U,45
+57,175466,Zika Virus,V,21
+57,175467,Babesia microti,V,22
+57,176023,COVID 19 Vaccine,C,33
+57,176024,COVID 19 Immune Globulin,U,46
+57,176946,Fecal Microbiota Transplantation (FMT),H,47
+57,177015,Respiratory Syncytial Virus (RSV) Vaccine,C,34

@@ -1,0 +1,121 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+27,1720,"French Dressing, Standardized",A,01
+27,1721,Caesar Dressing,B,01
+27,1722,Cider Vinegar (Apple),V,01
+27,1723,Catsup,Y,01
+27,1724,Mayonnaise,A,02
+27,1725,"French Dressing, Non-Standardized",B,02
+27,1726,"Distilled Vinegar [ Malt, Glucose (Dextrose) and Sugar (Sucrose)]",V,02
+27,1727,Chile Puree,Y,02
+27,1728,"Salad Dressing, Standardized",A,03
+27,1729,Italian Dressing,B,03
+27,1730,Wine Vinegar,V,03
+27,1731,Chutney,Y,03
+27,1732,Roquefort Dressing,B,04
+27,1733,"Horseradish, Prepared",Y,04
+27,1734,Russian Dressing,B,05
+27,1735,"Mustard, Prepared",Y,05
+27,1736,Thousand Island Dressing,B,06
+27,1737,"Pepper Sauce (Hot, Mild, Etc.)",Y,06
+27,1738,Sandwich Spread  (Salad Dressing Based),Y,07
+27,1739,"Standardized Dressing, N.E.C.",A,99
+27,1740,"Non-Standardized Dressing, N.E.C.",B,99
+27,1741,"Vinegar, N.E.C.",V,99
+27,1742,"Condiments, N.E.C.",Y,99
+27,25495,"Chinese Black Vinegar (Chinese vinegar usually made from wheat, millet or sorghum)",V,99
+27,25597,Pazri Nanas (Indonesian pineapple chutney served w/duck),Y,03
+27,25771,Kopanisti Yia Salata (Greek sharp cheese salad dressing made w/kopanisti cheese & other ingredients),B,99
+27,166021,Ketchup,Y,01
+27,170329,Alegar,V,02
+27,170330,Brown Malt Vinegar,V,02
+27,170331,Red Wine Vinegar,V,03
+27,170332,White Wine Vinegar,V,03
+27,170333,"Balsamic Vinegar (sweet, fruity flavor)",V,04
+27,170334,Aceto Balsamico,V,04
+27,170335,Aceto di Balsamico,V,04
+27,170336,Cane Vinegar (made from sugar cane),V,05
+27,170337,Sukang Iloko,V,05
+27,170338,Champagne Vinegar,V,06
+27,170339,Chinese Black Vinegar,V,07
+27,170340,Black Vinegar,V,07
+27,170341,Black Rice Vinegar,V,07
+27,170342,Chinese Brown Vinegar,V,07
+27,170343,Brown Rice Vinegar,V,07
+27,170344,Chinkiang Vinegar,V,07
+27,170345,Chekiang Vinegar,V,07
+27,170346,Chenkong Vinegar,V,07
+27,170347,Zhejiang Vinegar,V,07
+27,170348,Coconut Vinegar,V,08
+27,170349,"Flavored Vinegar (herbs, fruit, garlic or peppercorns)",V,09
+27,170350,Infused Vinegar,V,09
+27,170351,Fruit Vinegar,V,10
+27,170352,Cranberry Vinegar,V,10
+27,170353,Raspberry Vinegar,V,10
+27,170354,Blueberry Vinegar,V,10
+27,170355,Mango Vinegar,V,10
+27,170356,Pineapple Vinegar,V,10
+27,170357,Plum Vinegar,V,10
+27,170358,Pickled Plum Vinegar,V,10
+27,170359, Verjus (sour juice made from unripened red or white grapes),V,10
+27,170360,Herb Vinegar,V,11
+27,170361,Tarragon Vinegar,V,11
+27,170362,Tarragon Wine Vinegar,V,11
+27,170363,Palm Vinegar,V,12
+27,170364,Toddy Vinegar,V,12
+27,170365,Rice Vinegar,V,13
+27,170366,Rice Wine Vinegar,V,13
+27,170367,White Rice Vinegar,V,13
+27,170368,Black Rice Vinegar,V,13
+27,170369,Red Rice Vinegar,V,13
+27,170370,Sherry Vinegar,V,14
+27,170371,Sherry Wine Vinegar,V,14
+27,170372,Vinagre de Jerez,V,14
+27,170373,jerez Vinegar,V,14
+27,170374,Vinagre de Xeres,V,14
+27,170375,Xeres Vinegar,V,14
+27,170376,Chrain,Y,04
+27,170377,Creamed Horseradish (made with mayonnaise and/or sourcream),Y,04
+27,170378,Horseradish Sauce,Y,04
+27,170379,"Horseradish, Relish",Y,04
+27,170380,Japanese Horseradish,Y,04
+27,170381,Red Horseradish (made with beet juice),Y,04
+27,170382,Wasabi,Y,04
+27,170383,Chinese Hot Mustard,Y,05
+27,170384,Chinese Mustard,Y,05
+27,170385,"Creole Mustard (whole-grain mustard or dijon mustard, bit of horseradish)",Y,05
+27,170386,Dijon Mustard,Y,05
+27,170387,Hot Sauce,Y,06
+27,170388,Tabasco Sauce,Y,06
+27,170389,Pickapepper Sauce,Y,06
+27,170390,Lousianna Pepper Sauce,Y,06
+27,170391,"Flavored Mustard , Prepared",Y,08
+27,170392,Cranberry Mustard,Y,08
+27,170393,Horseradish Mustard,Y,08
+27,170394,Garlic Mustard,Y,08
+27,170395,Pepper Mustard,Y,08
+27,170396,Honey Mustard,Y,08
+27,172805,Salsa,Y,09
+27,172806,Salsa Roja,Y,09
+27,172807,Salsa Mexicana,Y,09
+27,172808,Salsa Picada,Y,09
+27,172809,Salsa with Fruit,Y,10
+27,174421,"Relish, Vegetable Based Relish",Y,11
+27,174423,"Beet, Vegetable Based Relish",Y,11
+27,174424,"Corn, Vegetable Based Relish",Y,11
+27,174425,"Eggplant, Vegetable Based Relish",Y,11
+27,174426,"Garlic, Vegetable Based Relish",Y,11
+27,174427,"Hot Pepper, Vegetable Based Relish",Y,11
+27,174428,"Mixed Vegetable, Vegetable Based Relish",Y,11
+27,174429,"Olive, Vegetable Based Relish",Y,11
+27,174430,"Onion, Vegetable Based Relish",Y,11
+27,174431,"Sweet Pepper, Vegetable Based Relish",Y,11
+27,174432,"Tomato, Vegetable Based Relish",Y,11
+27,174433,"Relish, Fruit Based Relish",Y,12
+27,174434,"Apple, Fruit Based Relish",Y,12
+27,174435,"Cranberry, Fruit Based Relish",Y,12
+27,174436,"Fig, Fruit Based Relish",Y,12
+27,174437,"Mango, Fruit Based Relish",Y,12
+27,174438,"Pickle, Fruit Based Relish",Y,12
+27,174439,"Pineapple, Fruit Based Relish",Y,12
+27,174440,"Sweet Pickle, Fruit Based Relish",Y,12
+27,174441,"Relish, Fruit and Vegetable Based, NEC",Y,13

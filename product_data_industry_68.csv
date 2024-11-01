@@ -1,0 +1,110 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+68,175351,Biopsy instruments (Nonhuman),N,01
+68,175352,Blood Pressure Monitoring Equipment (Nonhuman),N,02
+68,175353,Centrifuge (Nonhuman),N,03
+68,175354,"Biopsy instruments, single use (Nonhuman)",L,01
+68,175355,"Drapes, Reusable (Nonhuman)",N,04
+68,175356,Endoscope (Nonhuman),N,05
+68,175357,Glucose Monitoring Equipment (Nonhuman),N,06
+68,175358,"Blood tubes, plain (Nonhuman)",L,02
+68,175359,Blood tubes with additive (Nonhuman),L,03
+68,175360,"Blood collection bags, tubing and accessories (Nonhuman)",L,04
+68,175361,"Catheters, Intravenous (Nonhuman)",L,05
+68,175362,"Catheters, Urinary (Nonhuman)",L,06
+68,175363,"Catheters, Other (Nonhuman)",L,07
+68,175364,"Fluid administration tubing, sets, and related accessories (Nonhuman)",L,08
+68,175365,Needles for injection (Nonhuman),L,09
+68,175366,Needles for suture (Nonhuman),L,10
+68,175367,"Needles, Other (Nonhuman)",L,11
+68,175368,"Syringes, unfilled, general use (Nonhuman)",L,12
+68,175369,"Syringes, specialty, unfilled (Nonhuman)",L,13
+68,175370,"Syringes, Other (Nonhuman)",L,14
+68,175371,"Bandages, Gauze pads, plain (Nonhuman)",L,15
+68,175372,"Bandages, Gauze pads, non-stick (Nonhuman)",L,16
+68,175373,"Bandages, Roll (Nonhuman)",L,17
+68,175374,"Bandages, Other (Nonhuman)",L,18
+68,175375,Cotton (Nonhuman),L,19
+68,175376,Drapes (Nonhuman),L,20
+68,175377,Feeding tubes (Nonhuman),L,21
+68,175378,Single-use surgical kits and instruments (Nonhuman),L,22
+68,175379,Sterile Flush solution (Nonhuman),L,23
+68,175380,Surgical Staples (Nonhuman),L,24
+68,175381,Suture in cassette (Nonhuman),L,25
+68,175382,Suture in individual package (Nonhuman),L,26
+68,175383,Tape (Nonhuman),L,27
+68,175384,"Disposable/Sigle Use Devices, NEC (Nonhuman)",L,99
+68,175385,Microchip Reader (Nonhuman),N,07
+68,175386,Autoclave (Nonhuman),M,01
+68,175387,Microscope (Nonhuman),N,08
+68,175388,Otoscope (Nonhuman),N,09
+68,175389,Pulse Oximeter (Nonhuman),N,10
+68,175390,Stethoscope (Nonhuman),N,11
+68,175391,Stapler (Nonhuman),N,12
+68,175392,Thermometers (Nonhuman),N,13
+68,175393,Biochemical Analyzer (Nonhuman),M,02
+68,175394,"Cages, including oxygen cages (Nonhuman)",M,03
+68,175395,Computed Tomography Equipment (Nonhuman),M,04
+68,175396,Doppler (Nonhuman),M,05
+68,175397,Electro-cardiogram (Nonhuman),M,06
+68,175398,Hematology Analyzer (Nonhuman),M,07
+68,175399,Infusion pumps (Nonhuman),M,08
+68,175400,Magnetic Resonance Imaging (Nonhuman),M,09
+68,175401,Scales (Nonhuman),M,10
+68,175402,Patient monitors (Nonhuman),M,11
+68,175403,Radiograph (X-ray) machine (Nonhuman),M,12
+68,175404,"Tables-surgical, treatment, tub/table (Nonhuman)",M,13
+68,175405,Treadmills (Nonhuman),M,14
+68,175406,Ultrasound (Nonhuman),M,15
+68,175407,Syringe pumps (Nonhuman),M,16
+68,175408,"Large hospital/practice equipment, NEC (Nonhuman)",M,99
+68,175409,"Small Hospital Practice Equipment, NEC (Nonhuman)",N,99
+68,175410,"Catheter, Nasolacrimal (Nonhuman)",Q,01
+68,175411,Anesthesia machines (Nonhuman),O,01
+68,175412,"Cannula, Nasolacrimal (Nonhuman)",Q,02
+68,175413,Eye Speculum (Nonhuman),Q,03
+68,175414,"Lenses, Intraocular (Nonhuman)",Q,04
+68,175415,"Lenses, Contact (Nonhuman)",Q,05
+68,175416,"Ophthalmic Hand Tools, Other  (Nonhuman)",Q,06
+68,175417,Ophthalmoscopes (Nonhuman),Q,07
+68,175418,Sterile Solutions (Nonhuman),Q,08
+68,175419,Subpalpebral lavage and treatment systems (Nonhuman),Q,09
+68,175420,Tonometer (Nonhuman),Q,10
+68,175421,Ophthalmic Devices NEC (Nonhuman),Q,99
+68,175422,Anesthesia machine parts and accessories (Nonhuman),O,02
+68,175423,Endotracheal tubes (Nonhuman),O,03
+68,175424,Laryngoscope (Nonhuman),O,04
+68,175425,Oxygen masks (Nonhuman),O,05
+68,175426,Patient ventilators (Nonhuman),O,06
+68,175427,"Anesthesia Equipment, NEC (Nonhuman)",O,99
+68,175428,"Dental hand Tools, Other (Nonhuman)",R,01
+68,175429,Elevators (Nonhuman),R,02
+68,175430,Forceps (Nonhuman),R,03
+68,175431,Hand Scalers (Nonhuman),R,04
+68,175432,Mouth Gag (Nonhuman),R,05
+68,175433,Speculum (Nonhuman),R,06
+68,175434,Tooth Floats and accessories (Nonhuman),R,07
+68,175435,Ultrasonic Scalers (Nonhuman),R,08
+68,175436,Dental devices NEC (Nonhuman),R,99
+68,175437,"Animal Medical Devices, NEC",Z,99
+68,175438,Bone Pins (Nonhuman),P,01
+68,175439,Bone Plates (Nonhuman),P,02
+68,175440,Cast Material (Nonhuman),P,03
+68,175441,Cast Padding (Nonhuman),P,04
+68,175442,External Bone Fixation Devices and accessories (Nonhuman),P,05
+68,175443,Orthopedic Screws (Nonhuman),P,06
+68,175444,Orthopedic Wire (Nonhuman),P,07
+68,175445,Orthopedic Surgical Hand Tools (Nonhuman),P,08
+68,175446,Orthopedic Power tools (Nonhuman),P,09
+68,175447,Solutions (Nonhuman),P,10
+68,175448,Splints (Nonhuman),P,11
+68,175449,Stockinette (Nonhuman),P,12
+68,175450,"Orthopedic, NEC (Nonhuman)",P,99
+68,175468,"In Vitro Test Kits, Individual (Nonhuman)",S,01
+68,175469,"In Vitro Test Kits, Multi-patient (Nonhuman)",S,02
+68,175470,"In Vivo Test Kits, Individual (Nonhuman)",S,03
+68,175471,"In Vivo Test Kits, Multi-patient (Nonhuman)",S,04
+68,175472,Replacement Chemicals for Serum Analyzers (Nonhuman),S,05
+68,175473,Replacement Chemicals for Hematology Analyzers (Nonhuman),S,06
+68,175474,Parasite Egg Flotation Solution (Nonhuman),S,07
+68,175475,"Parasite Diagnostic Tools, Other (Nonhuman)",S,08
+68,175476,"Animal Diagnostics, NEC",S,99

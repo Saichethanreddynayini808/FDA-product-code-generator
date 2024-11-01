@@ -1,0 +1,471 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+65,5663,Ribaminol (Memory Adjuvant),A,01
+65,5664,Acetylcysteine (Mucolytic),B,01
+65,5665,Adenosine Phosphate (Nutrient/Tonic),C,01
+65,5666,Dinoprost (Oxytocic),D,01
+65,5667,Gamma Benzene Hexachloride (Pediculicide),E,01
+65,5668,Potable Water (Pharmaceutic Aid),F,01
+65,5669,Methoxsalen (Pigmentation Agent),G,01
+65,5670,Dextran 40 (Plasma Volume Extender),H,01
+65,5671,Urokinase (Plasminogen Activator),I,01
+65,5672,Algestone Acetophenide (Progestin),J,01
+65,5673,Cloprostenol Sodium (Prostaglandin),K,01
+65,5674,Pectin (Protectant),L,01
+65,5675,Protirelin (Prothyrotropin),M,01
+65,5676,Aggregated Iodinated I 131 Albumin (Radioactive Agent),N,01
+65,5677,Calcifediol (Regulator),P,01
+65,5678,Baclofen (Relaxant),Q,01
+65,5679,Calcium Chloride (Replenisher),R,01
+65,5680,Rubbing Alcohol (Rubefacient),S,01
+65,5681,Morrhuate Sodium (Injection) (Sclerosing Agent),U,01
+65,5682,Alonimid (Sedative),V,01
+65,5683,Cinanserin HCl (Serotonin Inhibitor),W,01
+65,5684,Chlorindanol (Spermaticide),X,01
+65,5685,Fructose (Nutrient/Tonic),C,02
+65,5686,Dinoprost Tromethamine (Oxytocic),D,02
+65,5687,Chlorophenothane (Pediculicide),E,02
+65,5688,"Water, Purified, U.S.P. (Pharmaceutic Aid)",F,02
+65,5689,Triosalen (Pigmentation Agent),G,02
+65,5690,Dextran 70 (Plasma Volume Extender),H,02
+65,5691,Amadinone Acetate (Progestin),J,02
+65,5692,Chromated Cr 51 Serum Albumin (Radioactive Agent),N,02
+65,5693,Calcium Glubionate (Replenisher),R,02
+65,5694,Rubbing Isopropyl Alcohol (Rubefacient),S,02
+65,5695,Crotamiton (Scabicide),T,02
+65,5696,Tribenoside (Sclerosing Agent),U,02
+65,5697,Amobarbital (Sedative),V,02
+65,5698,Fenclonine (Serotonin Inhibitor),W,02
+65,5699,Laureth 9 (Spermaticide),X,02
+65,5700,Carbocysteine (Mucolytic),B,03
+65,5701,Potassium Aspartate and Magnesium Aspartate (Nutrient/Tonic),C,03
+65,5702,Dinoprostone (Oxytocic),D,03
+65,5703,"Water, For Injection, U.S.P. (Pharmaceutic Aid)",F,03
+65,5704,Dextran 75 (Plasma Volume Extender),H,03
+65,5705,Anagestone Acetate (Progestin),J,03
+65,5707,Lorbamate (Relaxant),Q,03
+65,5708,Calcium Gluceptate (Replenisher),R,03
+65,5709,Sulfurated Lime Solution (Scabicide),T,03
+65,5710,Fonazine Mesylate (Serotonin Inhibitor),W,03
+65,5711,Nonoxynol 9 (Spermaticide),X,03
+65,5712,Ergonovine Maleate (Oxytocic),D,04
+65,5713,"Water (Pharm Aid) For Inj, Sterile, U.S.P.",F,04
+65,5714,Hetastarch (Plasma Volume Extender),H,04
+65,5715,Chlormadionone Acetate (Progestin),J,04
+65,5716,Benzoin (Tinct) (Protectant),L,04
+65,5718,Nafomine Malate (Relaxant),Q,04
+65,5719,Calcium Gluconate (Replenisher),R,04
+65,5720,Sulfur (Scabicide),T,04
+65,5721,Aprobarbital (Sedative),V,04
+65,5722,Mianserin HCl (Serotonin Inhibitor),W,04
+65,5723,Octoxynol 9 (Spermaticide),X,04
+65,5724,Methylergonovine Maleate (Oxytocic),D,05
+65,5725,"Water, For Injection, Bacteriostatic, U.S.P. (Pharmaceutic Aid)",F,05
+65,5726,Cingestol (Progestin),J,05
+65,5727,Fluprostenol Sodium (Prostaglandin),K,05
+65,5728,Bismuth Subcarbonate (Protectant),L,05
+65,5729,Calcium Chloride Ca 45 (Radioactive Agent),N,05
+65,5730,Pipoxolan HCl (Relaxant),Q,05
+65,5731,Calcium Lactate (Replenisher),R,05
+65,5733,Benzoctamine HCl (Sedative),V,05
+65,5734,Xylamidine Tosylate (Serotonin Inhibitor),W,05
+65,5735,Oxytocin (Injection) (Oxytocic),D,06
+65,5736,Clogestone Acetate (Progestin),J,06
+65,5737,Prostalene (Prostaglandin),K,06
+65,5738,Calamine (Protectant),L,06
+65,5739,Calcium Chloride Ca 47 (Radioactive Agent),N,06
+65,5740,Prazepam (Relaxant),Q,06
+65,5741,Calcium Levulinate (Replenisher),R,06
+65,5742,Butabarbital Sodium (Sedative),V,06
+65,5743,Clomegestone Acetate (Progestin),J,07
+65,5744,Collodion (Protectant),L,07
+65,5745,Cesium Chloride Cs 131 (Radioactive Agent),N,07
+65,5747,Butalbital (Sedative),V,07
+65,5748,Sparteine Sulfate (Oxytocic),D,08
+65,5749,Delmadinone Acetate (Progestin),J,08
+65,5751,Chlormerodrin Hg 197 (Radioactive Agent),N,08
+65,5752,Chloral Betaine (Sedative),V,08
+65,5753,Dimethisterone (Progestin),J,09
+65,5754,Peruvian Balsam (Protectant),L,09
+65,5755,Chlormerodrin Hg 203 (Radioactive Agent),N,09
+65,5756,Tribasic Calcium Phosphate (Replenisher),R,08
+65,5757,Dydrogesterone (Progestin),J,10
+65,5759,Chromic Chloride Cr 51 (Radioactive Agent),N,10
+65,5760,Alcuronium Chloride (Relaxant),Q,10
+65,5761,Magnesium Chloride (Replenisher),R,10
+65,5762,Chlordiazepoxide HCl (Sedative),V,10
+65,5764,Ethisterone (Progestin),J,11
+65,5765,Titanium Dioxide (Protectant),L,11
+65,5766,Chromic Phosphate Cr 51 (Radioactive Agent),N,11
+65,5767,Chlorphenesin Carbamate (Relaxant),Q,11
+65,5768,Cloperidone HCl (Sedative),V,11
+65,5769,Ethynerone (Progestin),J,12
+65,5770,Chromic Phosphate P 32 (Radioactive Agent),N,12
+65,5771,Chlorphenoxamine HCl (Relaxant),Q,12
+65,5772,Potassic Saline (Injection) (Replenisher),R,12
+65,5773,Clorethate (Sedative),V,12
+65,5774,Ethynodiol Diacetate (Progestin),J,13
+65,5775,Zinc Gelatin (Protectant),L,13
+65,5776,Cobaltous Chloride Co 57 (Radioactive Agent),N,13
+65,5777,Dantrolene (Relaxant),Q,13
+65,5778,Potassium Acetate (Replenisher),R,13
+65,5779,Clozapine (Sedative),V,13
+65,5780,Flurogestone Acetate (Progestin),J,14
+65,5781,Cobaltous Chloride Co 60 (Radioactive Agent),N,14
+65,5782,Dantrolene Sodium (Relaxant),Q,14
+65,5783,Potassium Chloride (Replenisher),R,14
+65,5784,Dexclamol HCl (Sedative),V,14
+65,5785,Gestaclone (Progestin),J,15
+65,5786,Zinc Oxide Paste With Salicylic Acid (Protectant),L,15
+65,5787,Cupric Acetate Cu 64 (Radioactive Agent),N,15
+65,5788,Decamethonium Bromide (Relaxant),Q,15
+65,5789,Potassium Gluconate (Replenisher),R,15
+65,5790,Diazepam (Sedative),V,15
+65,5791,Gestonorone Caproate (Progestin),J,16
+65,5792,Cyanocobalamin Co 57 (Radioactive Agent),N,16
+65,5793,Fenyripol HCl (Relaxant),Q,16
+65,5794,Ringer's Injection (Replenisher),R,16
+65,5795,Ethchlorvynol (Sedative),V,16
+65,5796,Haloprogesterone (Progestin),J,17
+65,5797,Cyanocobalamin Co 60 (Radioactive Agent),N,17
+65,5798,Fletazepam (Relaxant),Q,17
+65,5799,"Ringer's Injection, Lactated (Replenisher)",R,17
+65,5800,Ethinamate (Sedative),V,17
+65,5801,Hydroxyprogesterone Caproate (Progestin),J,18
+65,5802,Deuterium Oxide (Radioactive Agent),N,18
+65,5803,Flumetramide (Relaxant),Q,18
+65,5804,Sodium Bicarbonate (Replenisher),R,18
+65,5805,Lynestrenol (Progestin),J,19
+65,5806,Diatrizoate Sodium I 125 (Radioactive Agent),N,19
+65,5807,Gallamine Triethiodide (Relaxant),Q,19
+65,5809,Glutethimide (Sedative),V,19
+65,5810,Medrogestone (Progestin),J,20
+65,5811,Diatrizoate Sodium I 131 (Radioactive Agent),N,20
+65,5812,Hexafluorenium Bromide (Relaxant),Q,20
+65,5813,Sodium Lactate (Replenisher),R,20
+65,5814,Medroxyprogesterone Acetate (Progestin),J,21
+65,5815,Diohippuric Acid I 125 (Radioactive Agent),N,21
+65,5816,Metaxalone (Relaxant),Q,21
+65,5817,Hexobarbital (Sedative),V,21
+65,5818,Diohippuric Acid I 131 (Radioactive Agent),N,22
+65,5819,Methocarbamol (Relaxant),Q,22
+65,5820,Mecloqualone (Sedative),V,22
+65,5821,Methylnodiol Diacetate (Progestin),J,23
+65,5822,Diotyrosine I 125 (Radioactive Agent),N,23
+65,5823,Metocurine Iodide (Relaxant),Q,23
+65,5824,Norethindrone (Progestin),J,24
+65,5825,Diotyrosine I 131 (Radioactive Agent),N,24
+65,5826,Orphenadrine Citrate (Relaxant),Q,24
+65,5827,Meprobamate (Sedative),V,24
+65,5828,Norethindrone Acetate (Progestin),J,25
+65,5829,Ethiodized Oil I 131 (Radioactive Agent),N,25
+65,5830,Pancuronium Bromide (Relaxant),Q,25
+65,5831,Norethynodrel (Progestin),J,26
+65,5832,Ferric Chloride Fe 59 (Radioactive Agent),N,26
+65,5834,Norgestimate (Progestin),J,27
+65,5835,Ferrous Citrate Fe 59 (Radioactive Agent),N,27
+65,5836,Protein Hydrolysate (Injection) Replenisher,R,27
+65,5837,Methyprylon (Sedative),V,27
+65,5838,Norgestomet (Progestin),J,28
+65,5839,Ferrous Sulfate Fe 59 (Radioactive Agent),N,28
+65,5840,Rolodine (Relaxant),Q,28
+65,5841,Midaflur (Sedative),V,28
+65,5842,Norgestrel (Progestin),J,29
+65,5843,Gallium Citrate Ga 67 (Radioactive Agent),N,29
+65,5844,Succinylcholine Chloride (Relaxant),Q,29
+65,5845,Molindone HCl (Sedative),V,29
+65,5846,Oxogestone Phenpropionate (Progestin),J,30
+65,5847,Gold Au 198 (Radioactive Agent),N,30
+65,5848,Tubocurarine Chloride (Relaxant),Q,30
+65,5849,Progesterone (Progestin),J,31
+65,5850,Insulin I 125 (Radioactive Agent),N,31
+65,5851,Chlorzoxazone (Relaxant),Q,31
+65,5852,Quingestanol Acetate (Progestin),J,32
+65,5853,Insulin I 131 (Radioactive Agent),N,32
+65,5854,Promoxolane (Relaxant),Q,32
+65,5855,Pentobarbital (Sedative),V,32
+65,5856,Quingestrone (Progestin),J,33
+65,5857,Iodipamide Sodium I 131 (Radioactive Agent),N,33
+65,5858,Tigestol (Progestin),J,34
+65,5859,Iodoantipyrine I 131 (Radioactive Agent),N,34
+65,5860,Allyestrenol (Progestin),J,35
+65,5861,Iodohippurate Sodium I 125 (Radioactive Agent),N,35
+65,5862,Adiphenine HCl (Relaxant),Q,35
+65,5863,Iodohippurate Sodium I 131 (Radioactive Agent),N,36
+65,5864,Propiomazine HCl (Sedative),V,36
+65,5865,Iodopyracet I 125 (Radioactive Agent),N,37
+65,5866,Aminophylline (Relaxant),Q,37
+65,5867,Iodopyracet I 131 (Radioactive Agent),N,38
+65,5868,Cinnamedrine (Relaxant),Q,38
+65,5869,Iomethin I 125 (Radioactive Agent),N,39
+65,5870,Fenalamide (Relaxant),Q,39
+65,5871,Talbutal (Sedative),V,39
+65,5872,Iomethin I 131 (Radioactive Agent),N,40
+65,5873,Fetoxylate HCl (Relaxant),Q,40
+65,5874,Thalidomide (Sedative),V,40
+65,5875,Iothalamate Sodium I 125 (Radioactive Agent),N,41
+65,5876,Flavoxate HCl (Relaxant),Q,41
+65,5877,Triazolam (Sedative),V,41
+65,5878,Iothalamate Sodium I 131 (Radioactive Agent),N,42
+65,5879,Isomylamine HCl (Relaxant),Q,42
+65,5880,Tricetamide (Sedative),V,42
+65,5881,Iotyrosine I 131 (Radioactive Agent),N,43
+65,5882,Iridium Ir 192 (Radioactive Agent),N,44
+65,5883,Mebeverine HCl (Relaxant),Q,44
+65,5884,Trimetozine (Sedative),V,44
+65,5885,Krypton Clathrate Kr 85 (Radioactive Agent),N,45
+65,5886,Vinbarbital (Sedative),V,45
+65,5887,Liothyronine I 125 (Radioactive Agent),N,46
+65,5888,Methixene HCl (Relaxant),Q,46
+65,5889,Vinbarbital Sodium (Injection) (Sedative),V,46
+65,5890,Liothyronine I 131 (Radioactive Agent),N,47
+65,5891,Papaverine HCl (Relaxant),Q,47
+65,5892,Ectylurea (Sedative),V,47
+65,5893,Merisoprol Acetate Hg 197 (Radioactive Agent),N,48
+65,5894,Proxazole (Relaxant),Q,48
+65,5895,Bromisovalum (Sedative),V,48
+65,5896,Merisoprol Acetate Hg 203 (Radioactive Agent),N,49
+65,5897,Proxazole Citrate (Relaxant),Q,49
+65,5898,Propiomazine (Sedative),V,49
+65,5899,Merisoprol Hg 197 (Radioactive Agent),N,50
+65,5900,Quinetolate (Relaxant),Q,50
+65,5901,Oleic Acid I 125 (Radioactive Agent),N,51
+65,5902,Ritodrine (Relaxant),Q,51
+65,5903,Oleic Acid I 131 (Radioactive Agent),N,52
+65,5904,Theophylline Olamine (Relaxant),Q,52
+65,5905,Pentetate Calcium Trisodium Yb 169 (Radioactive Agent),N,53
+65,5906,Theophylline Sodium Acetate (Relaxant),Q,53
+65,5907,Polymetaphosphate P 32 (Radioactive Agent),N,54
+65,5908,Theophylline Sodium Glycinate (Relaxant),Q,54
+65,5909,Potassium Chloride K 42 (Radioactive Agent),N,55
+65,5910,Thiphenamil HCl (Relaxant),Q,55
+65,5911,Povidone I 125 (Radioactive Agent),N,56
+65,5912,Povidone I 131 (Radioactive Agent),N,57
+65,5913,Carisoprodol (Regulator),P,57
+65,5914,Styramate (Relaxant),Q,57
+65,5915,Rubidium Chloride Rb 86 (Radioactive Agent),N,58
+65,5916,Ethaverine Hydrochloride (Regulator),P,58
+65,5917,Selenomethionine Se 75 (Radioactive Agent),N,59
+65,5918,Sodium Arsenate As 74 (Radioactive Agent),N,60
+65,5919,Sodium Chloride Na 22 (Radioactive Agent),N,61
+65,5920,Sodium Chromate Cr 51 (Radioactive Agent),N,62
+65,5921,Sodium Iodide I 125 (Radioactive Agent),N,63
+65,5922,Sodium Iodide I 131 (Radioactive Agent),N,64
+65,5923,Sodium Pertechnetate Tc 99m (Radioactive Agent),N,65
+65,5924,Sodium Phosphate P 32 (Radioactive Agent),N,66
+65,5925,Sodium Rose Bengal I 125 (Radioactive Agent),N,67
+65,5926,Sodium Rose Bengal I 131 (Radioactive Agent),N,68
+65,5927,Sodium Sulfate S 35 (Radioactive Agent),N,69
+65,5928,Strontium Chloride Sr 85 (Radioactive Agent),N,70
+65,5929,Strontium Nitrate Sr 85 (Radioactive Agent),N,71
+65,5930,Strontium Sr 85 (Inj) (Radioactive Agent),N,72
+65,5931,Technetium Tc 99m (Radioactive Agent),N,73
+65,5932,Technetium Tc 99m Aggreg Albumin (Radioactive Agent),N,74
+65,5933,Technetium Tc 99m Sulfur Colloid (Radioactive Agent),N,75
+65,5934,Thyroxine I 125 (Radioactive Agent),N,76
+65,5935,Thyroxine I 131 (Radioactive Agent),N,77
+65,5936,Tolpovidone I 131 (Radioactive Agent),N,78
+65,5937,Triolein I 125 (Radioactive Agent),N,79
+65,5938,Triolein I 131 (Radioactive Agent),N,80
+65,5939,Tritiated Water (Radioactive Agent),N,81
+65,5940,Xenon Xe 133 (Radioactive Agent),N,82
+65,5941,Zinc Chloride Zn 65 (Radioactive Agent),N,83
+65,5942,"Memory Adjuvant, N.E.C.",A,99
+65,5943,Mucolytic N.E.C.,B,99
+65,5944,Nutrient/Tonic N.E.C.,C,99
+65,5945,Oxytocic N.E.C.,D,99
+65,5946,"Pediculicide, N.E.C.",E,99
+65,5947,Water N.E.C. (Pharmaceutic Aid),F,99
+65,5948,Pigmentation Agent N.E.C.,G,99
+65,5949,Plasma Volume Extender N.E.C.,H,99
+65,5950,Plasminogen Activator N.E.C.,I,99
+65,5951,Progestin N.E.C.,J,99
+65,5952,Prostaglandin N.E.C.,K,99
+65,5953,Protectant N.E.C.,L,99
+65,5954,Prothyrotropin N.E.C.,M,99
+65,5955,Radioactive Agent N.E.C.,N,99
+65,5956,Regulator N.E.C.,P,99
+65,5957,Relaxant N.E.C.,Q,99
+65,5958,Replenisher N.E.C.,R,99
+65,5959,Rubefacient N.E.C.,S,99
+65,5960,Scabicide N.E.C.,T,99
+65,5961,Sclerosing Agent N.E.C.,U,99
+65,5962,Sedative N.E.C.,V,99
+65,5963,Serotonin Inhibitor N.E.C.,W,99
+65,5964,Spermaticide N.E.C.,X,99
+65,150345,gamma hydroxybutyrate (Sedative),V,50
+65,150346,gamma butyrolactone (Sedative),V,51
+65,150347,"1,4-butanediol (Sedative)",V,52
+65,150348,GHB (Sedative),V,50
+65,150349,GBL (Sedative),V,51
+65,150350,gamma-hydroxybutyrate (Sedative),V,50
+65,150351,2(3H)-furanone dihydro (Sedative),V,51
+65,150352,butyrolactone (Sedative),V,51
+65,150353,gamma-butyrolactone (Sedative),V,51
+65,150354,4-butyrolactone (Sedative),V,51
+65,150355,dihydro-2(3H)-furanone (Sedative),V,51
+65,150356,4-butanolide (Sedative),V,51
+65,150357,"2(3H)-furanone, dihydro (Sedative)",V,51
+65,150358,tetrahydro-2-furanone (Sedative),V,51
+65,150359,butyrolactone gamma (Sedative),V,51
+65,150360,Sodium Gammahydroxybutyrate (NaGHB),V,50
+65,150361,Potassium Gammahydroxybutyrate (KGHB),V,50
+65,150362,Gamma hydroxybutric acid,V,50
+65,150363,Sodium oxybate,V,50
+65,150364,Sodium gamma-oxybutyrate,V,50
+65,150365,4-butanolide,V,50
+65,150366,4-hydroxybutyric acid,V,50
+65,150367,4-OHB,V,50
+65,150368,ethyl 4-acebutanoate,V,50
+65,151218,Ergoloid Mesylates (Memory Adjuvant),A,02
+65,151219,Tacrine Hydrochloride (Memory Adjuvant),A,03
+65,151220,Betaine Anhydrous (Nutrient/Tonic),C,04
+65,151221,Cupric Chloride (Nutrient/Tonic),C,05
+65,151222,Cysteine Hydrochloride (Nutrient/Tonic),C,06
+65,151223,Levocarnitine (Nutrient/Tonic),C,07
+65,151224,Manganese Sulfate (Nutrient/Tonic),C,08
+65,151225,Sodium Phenylbutyrate (Nutrient/Tonic),C,09
+65,151226,Soybean Oil (Nutrient/Tonic),C,10
+65,151227,Carboprost Tromethamine (Oxytocic),D,09
+65,151228,Porfimer Sodium (Oxytocic),D,10
+65,151230,Intrauterine Copper (Progestin),J,36
+65,151231,Prometrium (Progestin),J,37
+65,151232,Epoprostenol Sodium (Prostaglandin),K,07
+65,151233,Latanoprost (Prostaglandin),K,08
+65,151234,Misoprostol (Prostaglandin),K,09
+65,151235,Hydroxypropyl Cellulose (Protectant),L,16
+65,151236,Quaternium-18 Bentonite (Protectant),L,17
+65,151237,Amifostine (Radioactive Agent),N,84
+65,151238,Ferumoxides (Radioactive Agent),N,85
+65,151239,Ferumoxsil (Radioactive Agent),N,86
+65,151240,Fludeoxyglucose F-18 (Radioactive Agent),N,87
+65,151241,Gadodiamide (Radioactive Agent),N,88
+65,151242,Gadopentetate Dimeglumine (Radioactive Agent),N,89
+65,151243,Gadoteridol (Radioactive Agent),N,90
+65,151244,Gallium Nitrate (Radioactive Agent),N,91
+65,151245,Indium In-111 Pentetate Disodium (Radioactive Agent),N,92
+65,151246,"Indium, In-111, Oxyquinoline (Radioactive Agent)",N,93
+65,151247,Iocarmate Meglumine (Radioactive Agent),N,94
+65,151248,"Iodohippurate Sodium, I-123 (Radioactive Agent)",N,95
+65,151249,Iofetamine Hydrochloride I-123 (Radioactive Agent),N,96
+65,151250,Iohexol (Radioactive Agent),N,97
+65,151251,Iopamidol (Radioactive Agent),N,98
+65,151252,Iopromide (Radioactive Agent - Part II),O,01
+65,151253,Iotrolan (Radioactive Agent - Part II),O,02
+65,151254,Ioversol (Radioactive Agent - Part II),O,03
+65,151255,Ioxaglate Meglumine/Ioxaglate Sodium (Radioactive Agent - Part II),O,04
+65,151256,Ioxilan (Radioactive Agent - Part II),O,05
+65,151257,Isosulfan Blue (Radioactive Agent - Part II),O,06
+65,151258,"Krypton, KR-81M (Radioactive Agent - Part II)",O,07
+65,151259,Mangafodipir Trisodium  (Radioactive Agent - Part II),O,08
+65,151260,Metrizoic Acid/Meglumine (Radioactive Agent - Part II),O,09
+65,151261,"M-Iodobenzyl Guanidine Sulfate, I-131 (Radioactive Agent - Part II)",O,10
+65,151262,Perflubron (Radioactive Agent - Part II),O,11
+65,151263,Rubidium-82 Chloride (Radioactive Agent - Part II),O,12
+65,151264,"Samarium SM-153, EDTMP (Radioactive Agent - Part II)",O,13
+65,151265,"Strontium Chloride, SR-89 (Radioactive Agent - Part II)",O,14
+65,151266,Succimer (Radioactive Agent - Part II),O,15
+65,151267,TC-99M Albumin Kit (Radioactive Agent - Part II),O,16
+65,151268,TC-99M Etidronate Kit (Radioactive Agent - Part II),O,17
+65,151269,TC-99M Medronate Kit (Radioactive Agent - Part II),O,18
+65,151270,TC-99M Medronate Sodium Kit (Radioactive Agent - Part II),O,19
+65,151271,TC-99M Sodium Pertechnetate (Radioactive Agent - Part II),O,20
+65,151272,TC-99M Sulfur Colloid Kit (Radioactive Agent - Part II),O,21
+65,151273,Technetium TC-99M Bicisate (Radioactive Agent - Part II),O,22
+65,151274,Technetium TC-99M Disofenin Kit (Radioactive Agent - Part II),O,23
+65,151275,Technetium TC-99M Exametazime Kit (Radioactive Agent - Part II),O,24
+65,151276,Technetium TC-99M Gluceptate Kit (Radioactive Agent - Part II),O,25
+65,151277,Technetium TC-99M Lidofenin Kit (Radioactive Agent - Part II),O,26
+65,151278,Technetium TC-99M Mebrofenin Kit (Radioactive Agent - Part II),O,27
+65,151279,Technetium TC-99M Mertiatide Kit (Radioactive Agent - Part II),O,28
+65,151280,Technetium TC-99M Oxidronate Kit (Radioactive Agent - Part II),O,29
+65,151281,Technetium TC-99M Pentetate DTPA (Radioactive Agent - Part II),O,30
+65,151282,Technetium TC-99M Pyrophosphate Kit (Radioactive Agent - Part II),O,31
+65,151283,Technetium TC-99M Red Blood Cell Kit (Radioactive Agent - Part II),O,32
+65,151284,Technetium TC-99M Sestamibi Kit (Radioactive Agent - Part II),O,33
+65,151285,Technetium TC-99M Succimer Kit (Radioactive Agent - Part II),O,34
+65,151286,Technetium TC-99M Tebroxime Kit (Radioactive Agent - Part II),O,35
+65,151287,Technetium TC-99M Tetrofosmin (Radioactive Agent - Part II),O,36
+65,151288,"Thallium Chloride, TL-201 (Radioactive Agent - Part II)",O,37
+65,151289,"Thallous Chloride, TL-201 (Radioactive Agent - Part II)",O,38
+65,151290,"Urea, C-14 (Radioactive Agent - Part II)",O,39
+65,151291,"Urea, C-13 (Radioactive Agent - Part II)",O,40
+65,151292,Xenon-127 (Radioactive Agent - Part II),O,41
+65,151293,"Sodium Iodide, I-123 (Radioactive Agent - Part II)",O,42
+65,151294,Sildenafil Citrate (Regulator),P,02
+65,151295,Tamsulosin HCL (Regulator),P,03
+65,151296,Atracurium Besylate (Relaxant),Q,58
+65,151297,Cisatracurium Besylate (Relaxant),Q,59
+65,151298,Cyclobenzaprine Hydrochloride (Relaxant),Q,60
+65,151299,Doxacurium Chloride (Relaxant),Q,61
+65,151300,Ritodrine Hydrochloride (Relaxant),Q,62
+65,151301,Rocuronium Bromide (Relaxant),Q,63
+65,151302,Ropivacaine HCL Monohydrate (Relaxant),Q,64
+65,151303,Tizanidine HCL (Relaxant),Q,65
+65,151304,Vecuronium Bromide (Relaxant),Q,66
+65,151305,Manganese Chloride (Replenisher),R,28
+65,151306,Ethanolamine Oleate (Sclerosing Agent),U,03
+65,151463,"Mequinol, 2%/Tretinoin, 0.01% (Pigmentation Agent)",G,04
+65,151464,Rapacuronium Bromide (Relaxant),Q,67
+65,151480,Estazolam (Sedative),V,53
+65,151481,Quazepam (Sedative),V,54
+65,151483,Zolpidem Tartrate (Sedative),V,56
+65,151484,Zaleplon (Sedative),V,57
+65,151485,Fludeoxyglucose F-18 (Radioactive Agent - Part II),O,43
+65,151642,Mifepristone (Progestin),J,38
+65,151643,Mifeprex,J,38
+65,151644,RU-486,J,38
+65,152523,Bimatoprost (Prostaglandin),K,10
+65,152628,Sonata (Sedative),V,58
+65,152629,Tretinoin (Replenisher),R,29
+65,153749,Drospirenone,J,39
+65,153758,Fondaparinux Sodium,I,02
+65,153765,Memantine HCI,A,04
+65,155066,Yasmin,J,39
+65,155075,Arixtra,I,02
+65,155084,Namenda,A,04
+65,156895,Viagra,P,02
+65,157090,Vardenafil,P,04
+65,157091,Levitra,P,04
+65,157454,Polidocanol,U,04
+65,157455,Aetoxisclerol,U,04
+65,157456,Asthoxysklerol,U,04
+65,157457,Sclerovein,U,04
+65,158154,"Water, Purified (Eyewash)",F,06
+65,165364,Soma,P,57
+65,165384,Robaxin,Q,22
+65,165396,Thyrox 25,N,76
+65,167063,Sodium Fluoride F 18,Y,01
+65,167064,Rubidium Chloride Rb 82,Y,02
+65,167065,Fludeoxyglucose F 18,Y,03
+65,167066,Ammonia N 13,Y,04
+65,167067,Carbon Monoxide C 11,Y,05
+65,167068,Flumazenil F 18,Y,06
+65,167069,Mespiperone C 11,Y,07
+65,167070,Methionine C 11,Y,08
+65,167071,Raclopride C 11,Y,09
+65,167072,Sodium Acetate C 11,Y,10
+65,167073,Fluorodopa F 18,Y,11
+65,167074,Water O 15,Y,12
+65,167075,Fluorothymidine F 18,Y,13
+65,167564,Varenicline Tartrate,Z,01
+65,167566,Chantix,Z,01
+65,173110,Allantoin (Protectant),L,02
+65,174218,Florbetapir F-18 (Radioactive Agent - Part II),O,44
+65,174219,Amyvid (Radioative Agent - Part II),O,44
+65,174512,Etonogestrel (Progestin),J,40
+65,174513,Nexplanon,J,40
+65,174514,NuvaRing,J,40
+65,174645,Sodium Chloride (Replenisher),R,19
+65,175835,Gallium Dotatoc GA-68 (Radioactive Agent - Part II),O,45
+65,175836,Gallium Dotatoc GA 68,O,45
+65,175837,Lutetium Lu 177 Dotatate (Radioactive Agent - Part II),O,46
+65,175838,Lutathera,O,46
+65,176090,Fluoroestradiol F 18 (Radioactive Agent - Part II),O,47
+65,176091,Cerianna,O,47
+65,176092,Flortaucipir F 18 (Radioactive Agent - Part II),O,48
+65,176093,Tauvid,O,48
+65,176107,Triheptanoin (Nutrient/Tonic),C,11
+65,176108,Dojolvi,C,11
+65,176799,Fluciclovine F 18,Y,14
+65,176800,"Positron Emission Tomography Radioactive Agent, NEC",Y,99
+65,176801,Axumin,Y,14

@@ -1,0 +1,121 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+71,6839,Animal Fat Slaughtered Mammal By Prod,A,01
+71,6840,Poultry Blood,B,01
+71,6841,Dried Buttermilk,C,01
+71,6842,Cond Fish Soluble,D,01
+71,6843,Poultry Waste Meal,E,01
+71,6844,Spent Malt Barley Brewery/Distillery Byprod,F,01
+71,6845,Corn Cobs,G,01
+71,6846,Bran Flour Mill Byprod,H,01
+71,6847,Rice Hull,I,01
+71,6848,Apple Pomace,J,01
+71,6849,Beet Pulp Veg Byprod,K,01
+71,6850,Coconut Meal,L,01
+71,6851,Blood Slaughtered Mammal By Prod,A,02
+71,6852,Poultry Blood Flour Meal,B,02
+71,6853,Dried Whey,C,02
+71,6854,Crab/Lobster Meal,D,02
+71,6855,Beef Cattle Waste Meal,E,02
+71,6856,Spent Mash Brewery/Distillery Byprod,F,02
+71,6857,Corn Gluten,G,02
+71,6858,Middlings Flour Mill Byprod,H,02
+71,6859,Rice Meal,I,02
+71,6860,Citrus Meal,J,02
+71,6861,Cane Molasses Veg Byprod,K,02
+71,6862,Copra Meal,L,02
+71,6863,Blood Meal/Flour Slaughtered Mammal By Prod,A,03
+71,6864,Poultry Feather,B,03
+71,6865,Liq Buttermilk,C,03
+71,6866,Fish Meal,D,03
+71,6867,Dairy Cattle Waste Meal,E,03
+71,6868,Corn Hominy,G,03
+71,6869,Shorts Flour Mill Byprod,H,03
+71,6870,Citrus Molasses,J,03
+71,6871,Beet Molasses Veg Byprod,K,03
+71,6872,Cottonseed Meal,L,03
+71,6873,Bone Meal Slaughtered Mammal By Prod,A,04
+71,6874,Poultry Hydrolized Feather,B,04
+71,6875,Liq Whey,C,04
+71,6876,Crushed Oyster Shell,D,04
+71,6877,Horse Waste Meal,E,04
+71,6878,Citrus Pulp,J,04
+71,6879,Corn Molasses Veg Byprod,K,04
+71,6880,Peanut Meal,L,04
+71,6881,Meat Scraps Slaughtered Mammal By Prod,A,05
+71,6882,Poultry Feather Meal,B,05
+71,6883,Non-Fat Dried Milk For Animal Feed,C,05
+71,6884,Shrimp Meal,D,05
+71,6885,Pea Vine Silage Veg Byprod,K,05
+71,6886,Linseed Meal,L,05
+71,6887,Meat/Tankage Slaughtered Mammal By Prod,A,06
+71,6888,Poultry Byproduct Meal,B,06
+71,6889,Pota Meal/Pulp Potato Veg Byprod,K,06
+71,6890,Safflower Meal,L,06
+71,6891,Sweet Corn Silage Veg Byprod,K,07
+71,6892,Soybean Meal,L,07
+71,6893,Cocoa Bean Hulls,L,08
+71,6894,Slaughtered Mammal By Prod N.E.C.,A,99
+71,6895,"Poultry Byproduct, N.E.C.",B,99
+71,6896,"Dairy Byproducts, N.E.C.",C,99
+71,6897,"Marine Byproducts, N.E.C.",D,99
+71,6898,"Animal Waste Feed Products, N.E.C.",E,99
+71,6899,Brewery/Distillery Byprod N.E.C.,F,99
+71,6900,"Corn Products/Byproducts, N.E.C.",G,99
+71,6901,Flour Mill Byprod N.E.C.,H,99
+71,6902,"Rice Mill Byproduct,  N.E.C.",I,99
+71,6903,Fruit Byprod N.E.C.,J,99
+71,6904,Veg Byprod N.E.C.,K,99
+71,6905,Oilseed Byprod N.E.C.,L,99
+71,6906,"Byprod For Animal, N.E.C.",Y,99
+71,150480,Canola Meal,L,09
+71,153043,Dicalcium Phosphate from bone,A,04
+71,158135,Wheat Gluten,M,01
+71,158196,Rice Protein,I,03
+71,158197,Rice Protein Concentrate,I,03
+71,175663,"Mammalian Organs, Not Trachea, Gullet, Esophagus By Prod",A,07
+71,175664,"Mammalian Trachea, Gullet, Esophagus By Prod",A,08
+71,175665,Gelatin By Prod,A,09
+71,175666,Parts or entire carcasses By Prod,A,10
+71,175667,Turkey Byproduct,B,07
+71,175668,"Quail, frozen",B,08
+71,175669,Poultry meal,B,09
+71,175670,Slaughtered Poultry Meat,B,10
+71,175671,Slaughtered Poultry Organs,B,11
+71,175672,Egg Products (e.g. dried egg powder),B,12
+71,175673,Dried Whole Milk,C,06
+71,175674,Milk Replacer,C,07
+71,175675,Cheese,C,08
+71,175676,Shrimp-like crustaceans,D,06
+71,175677,Tuna,D,07
+71,175678,Squid,D,08
+71,175679,Oil from fish/marine products,D,09
+71,175680,Shank fillet,D,10
+71,175681,Salmon,D,11
+71,175682,Crocodile/Alligator,D,12
+71,175683,Seaweed Meal,D,13
+71,175684,Bait fish/seafood,D,14
+71,175685,"Yeast, standard",F,03
+71,175686,"Yeast, brewers dried",F,04
+71,175687,Yeast Byprod (Yeast Cell Wall),F,05
+71,175688,Wheat flour,H,04
+71,175689,Wheat starch,H,05
+71,175690,Banana Chips,J,05
+71,175691,"Dried Fruits (berries, cherries, raisins, dates, figs, melons, etc.)",J,06
+71,175692,Vegetable Fats/Oils Veg Byprod,K,08
+71,175693,"Vegetable Pulps Veg Byprod, N.E.C.",K,09
+71,175694,Vegetable Flours/Powders Veg Byprod,K,10
+71,175695,Soluble Wheat Protein,M,02
+71,175696,"Wheat and Wheat Byproducts, N.E.C.",M,99
+71,175697,Bakery Byproducts,N,01
+71,175698,Tapioca,N,02
+71,175699,Meat Scraps Waste,N,03
+71,175700,Candy Byproducts,N,04
+71,175701,Vegetable Byproducts,N,05
+71,175702,"Human Food Byproducts, N.E.C.",N,99
+71,175703,"Screenings (oat hull, lentil screenings, etc.)",Y,01
+71,175704,Combination Byproducts for Animals,Y,02
+71,175729,Rice flour,I,04
+71,175731,Rapeseed Meal,L,10
+71,175732,Sunflower Byproducts,L,11
+71,175733,Sesame Cake or Meal,L,12
+71,175734,Oil from Oilseeds,L,13

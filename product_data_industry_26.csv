@@ -1,0 +1,69 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+26,1684,"Coconut Oil, Crude",A,01
+26,1685,Copra (Dried Coconut Meat) Oil Seed Stock,B,01
+26,1686,"Coconut Oil, Refined, Single Ingredient",C,01
+26,1687,"Olive Oil with Other Vegetable Oils, Refined",D,01
+26,1688,Oleomargarine,E,01
+26,1689,"Corn, Maize Oil, Crude",A,02
+26,1690,Grain Oil Seed Stock,B,02
+26,1691,"Corn Oil, Refined, Single Ingredient",C,02
+26,1692,"Cottonseed Oil, Crude",A,03
+26,1693,Cottonseed Oil Seed Stock,B,03
+26,1694,"Cottonseed Oil, Refined, Single Ingredient",C,03
+26,1695,"Olive Oil, Crude  (for Refining)",A,04
+26,1696,"Oil Stock Olives, Olive Pomace",B,04
+26,1697,"Olive Oil, Refined, Single Ingredient",C,04
+26,1698,"Palm Kernel Oil, Crude",A,05
+26,1699,Peanut Oil Seed Stock,B,05
+26,1700,"Palm Kernel Oil, Refined, Single Ingredient",C,05
+26,1701,Liquid Margarine,E,05
+26,1702,"Peanut Oil, Crude",A,06
+26,1703,Palm Kernel Oil Stock,B,06
+26,1704,"Peanut Oil, Refined, Single Ingredient",C,06
+26,1705,"Safflower Oil, Crude",A,07
+26,1706,Soybean Oil Stock,B,07
+26,1707,"Safflower Oil, Refined, Single Ingredient",C,07
+26,1708,"Soybean Oil, Crude",A,08
+26,1709,Safflower Oil Stock,B,08
+26,1710,"Soybean Oil, Refined, Single Ingredient",C,08
+26,1711,"Virgin Olive Oil, Crude",A,09
+26,1712,"Crude Vegetable Oil, N.E.C.",A,99
+26,1713,"Vegetable Oil Seed Stock, N.E.C.",B,99
+26,1714,"Refined Vegetable Oil, Single Ingredient, N.E.C.",C,99
+26,1715,"Blended Vegetable Oils, Refined, N.E.C.",D,99
+26,1716,"Oleomargarine, N.E.C.",E,99
+26,1717,"Vegetable Shortening, N.E.C.",F,99
+26,1718,"Imitation/Substitute Vegetable Oils or Shortening, N.E.C.",H,99
+26,1719,"Vegetable Oils Not Mentioned Elsewhere, N.E.C.",Y,99
+26,24349,"Sesame Oil, Crude",A,10
+26,24350,"Flaxseed/Linseed Oil, Crude",A,11
+26,24351,"Mustard Oil, Crude, See 28O for mustard oil as a flavoring",A,12
+26,24352,"Rapeseed/Canola Oil, Crude",A,13
+26,24353,Sesame Oil Seed Stock,B,09
+26,24354,Flaxseed/Linseed Oil Seed Stock,B,10
+26,24355,Mustard Oil Seed Stock,B,11
+26,24356,Rapeseed/Canola Oil Seed Stock,B,12
+26,24357,"Sesame Oil, Refined, Single Ingredient",C,09
+26,24358,"Flaxseed/Linseed Oil, Refined, Single Ingredient",C,10
+26,24359,"Mustard Oil, Refined, Single Ingredient, See 28O for mustard oil as a flavoring",C,11
+26,24360,"Rapeseed/Canola Oil, Refined, Single Ingredient",C,12
+26,25564,"Narial Ka Tel (Indian coconut oil extracted from ground, dried coconuts)",C,01
+26,25628,"Sarsoon Ka Tel (Indian mustard oil, used for food dishes, pickles and deep frying)",C,11
+26,25782,Lajiao You (Chinese orange-colored seasoning oil made from vegetable oil and red chilies),Y,99
+26,153269,Argan Oil,A,14
+26,153270,Argan Oil,B,13
+26,153271,"Argan Oil, Refined, Single Ingredient",C,13
+26,161571,Vegetable Oil with Dried Herbs,Y,01
+26,161572,Vegetable Oil with Fresh Herbs,Y,02
+26,161573,Blended Vegetable Oil with Dried Herbs,Y,03
+26,161574,Blended Vegetable Oil with Fresh Herbs,Y,04
+26,161575,Herb Flavored Vegetable Oil,Y,05
+26,161576,Herb Flavored Blended Vegetable Oil,Y,06
+26,172985,"Sunflower Oil, Crude",A,15
+26,172986,Sunflower Oil Stock,B,15
+26,172987,"Sunflower Oil, Single Ingredient",C,15
+26,173380,"Avocado Oil, Crude",A,16
+26,173381,"Avocado Oil, Refined, Single Ingredient (Veg)",C,14
+26,177127,"Grapeseed Oil, Crude",A,17
+26,177128,Grapeseed Oil Stock,B,16
+26,177129,"Grapeseed Oil, Refined, Single Ingredient",C,16

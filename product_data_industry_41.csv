@@ -1,0 +1,11 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+41,2964,"Dietary Conventional Foods, N.E.C.",Y,99
+41,2965,Foods with Artificial Sweetners but without Supplemental Nutrients,A,99
+41,2966,"Foods with Supplemental Nutrients Added, with or without Artifical Sweetners",B,99
+41,2967,Foods (including Water) with Excessive Nutritional Claims,C,99
+41,2968,"Foods with Claims Related to Fat, Fatty Acid and/or Cholesterol Content",D,99
+41,2969,Meal Replacements (Not labeled for treatment of disease),E,99
+41,152846,Nutritionally Complete Formulations,G,01
+41,152847,"Nutrtionally Incomplete Formulations (Protein, carbohydrate or fat modulars)",G,02
+41,152848,Oral Rehydration Products,G,03
+41,152849,"Medical Foods, N.E.C.",G,99

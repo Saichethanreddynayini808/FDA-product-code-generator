@@ -1,0 +1,336 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+63,5181,Etidronic Acid (Bone Calcium Regulator),A,01
+63,5182,Albuterol (Bronchodilator),B,01
+63,5183,Barium Hydroxide Lime (Carbon Dioxide Absorbant),C,01
+63,5184,Acetazolamide (Carbonic Anhydrase Inhibitor),D,01
+63,5185,Aprindine (Cardiac Depressant),E,01
+63,5186,Acetyldigitoxin Cardiotonic,F,01
+63,5187,Talopram HCl (Catecholamine Potentiator),G,01
+63,5188,Bisacodyl (Cathartic),H,01
+63,5189,Podophyllum Resin (Caustic),I,01
+63,5190,Ethylmorphine HCl (Chemotic),K,01
+63,5191,Dehydrocholate Sodium (Inj) (Choleretic),M,01
+63,5192,Aceclidine (Cholinergic),N,01
+63,5193,Obidoxime Chloride (Cholinesterase Reactivator),P,01
+63,5194,Dectaflur (Dental Caries Prophylactic),R,01
+63,5195,Zinc-Eugenol (Cement) (Dental Protectant),S,01
+63,5196,Gutta Percha (Dental Restoration Agent),T,01
+63,5197,Captamine HCl (Depigmentor),V,01
+63,5198,Entsulfon Sodium (Detergent),W,01
+63,5199,Albuterol Sulfate (Bronchodilator),B,02
+63,5200,Soda Lime (Carbon Dioxide Absorbant),C,02
+63,5201,Acetazolamide Sodium (Ster) (Carbonic Anhydrase Inhibitor),D,02
+63,5202,Aprindine HCl (Cardiac Depressant),E,02
+63,5203,Actodigin (Cardiotonic),F,02
+63,5204,Bisacodyl Tannex (Cathartic),H,02
+63,5205,Silver Nitrate (Toughened) (Caustic),I,02
+63,5206,Edetate Sodium (Chelating Agent),J,02
+63,5207,Dehydrocholic Acid (Choleretic),M,02
+63,5208,Ambenonium Chloride (Cholinergic),N,02
+63,5209,Pralidoxime Chloride (Cholinesterase Reactivator),P,02
+63,5210,Hetaflur (Dental Caries Prophylactic),R,02
+63,5211,Hydroquinone (Depigmentor),V,02
+63,5212,Green Soap (Detergent),W,02
+63,5213,Azanator Maleate (Bronchodilator),B,03
+63,5214,Dichlorphenamide (Carbonic Anhydrase Inhibitor),D,03
+63,5215,Bucainide Maleate (Cardiac Depressant),E,03
+63,5216,Deslanoside (Cardiotonic),F,03
+63,5217,Bisoxatin Acetate (Cathartic),H,03
+63,5218,Trichloroacetic Acid (Caustic),I,03
+63,5219,Edetate Trisodium (Chelating Agent),J,03
+63,5220,Piprozolin (Choleretic),M,03
+63,5221,Bethanechol Chloride (Cholinergic),N,03
+63,5222,Pralidoxime Iodide (Cholinesterase Reactivator),P,03
+63,5223,Olaflur (Dental Caries Prophylactic),R,03
+63,5224,Monobenzone (Depigmentor),V,03
+63,5225,Bamifylline HCl (Bronchodilator),B,04
+63,5226,Ethoxzolamide (Carbonic Anhydrase Inhibitor),D,04
+63,5227,Capobenate Sodium (Cardiac Depressant),E,04
+63,5228,Digitalis (Cardiotonic),F,04
+63,5229,Calcium Polycarbophil (Cathartic),H,04
+63,5230,Penicillamine (Chelating Agent),J,04
+63,5231,Sincalide (Choleretic),M,04
+63,5232,Dexpanthenol (Cholinergic),N,04
+63,5233,Pralidoxime Mesylate (Cholinesterase Reactivator),P,04
+63,5234,Sodium Fluoride (Dental Caries Prophylactic),R,04
+63,5235,Sodium Ethasulfate (Detergent),W,04
+63,5236,Bitolterol (Bronchodilator),B,05
+63,5237,Methazolamide (Carbonic Anhydrase Inhibitor),D,05
+63,5238,Capobenic Acid (Cardiac Depressant),E,05
+63,5239,Digitoxin (Cardiotonic),F,05
+63,5240,Casanthranol (Cathartic),H,05
+63,5241,Tocamphyl (Choleretic),M,05
+63,5242,Methacholine Bromide (Cholinergic),N,05
+63,5243,Sodium Monofluorophosphate (Dental Caries Prophylactic),R,05
+63,5244,Thonzonium Bromide (Detergent),W,05
+63,5245,Evans Blue (Diagnostic Aid) (Drugs),X,05
+63,5246,Carbuterol HCl (Bronchodilator),B,06
+63,5247,Propazolamide (Carbonic Anhydrase Inhibitor),D,06
+63,5248,Dexpropranolol HCl (Cardiac Depressant),E,06
+63,5249,Digoxin (Cardiotonic),F,06
+63,5250,Cascara (Cathartic),H,06
+63,5251,Methacholine Chloride (Cholinergic),N,06
+63,5252,Stannous Fluoride (Dental Caries Prophylactic),R,06
+63,5253,Tyloxapol (Detergent),W,06
+63,5254,Anazolene Sodium (Diagnostic Aid) (Drugs),X,06
+63,5255,Doxaprost (Bronchodilator),B,07
+63,5256,Sulocarbilate (Carbonic Anhydrase Inhibitor),D,07
+63,5257,Disopyramide (Cardiac Depressant),E,07
+63,5258,Dobutamine (Cardiotonic),F,07
+63,5260,Sodium Phytate (Chelating Agent),J,07
+63,5261,Neostigmine Bromide (Cholinergic),N,07
+63,5262,Fenoterol (Bronchodilator),B,08
+63,5263,Lorajmine HCl (Cardiac Depressant),E,08
+63,5264,Dobutamine HCl (Cardiotonic),F,08
+63,5265,Castor Oil (Cathartic),H,08
+63,5266,Neostigmine Methylsulfate (Cholinergic),N,08
+63,5267,Stannous Pyrophosphate (Diagnostic Aid) (Drugs),X,08
+63,5268,Fenspiride HCl (Bronchodilator),B,09
+63,5269,Oxiramide (Cardiac Depressant),E,09
+63,5270,Gitalin (Cardiotonic),F,09
+63,5271,Danthron (Cathartic),H,09
+63,5272,Deferoxamine (Chelating Agent),J,09
+63,5273,Pyridostigmine Bromide (Cholinergic),N,09
+63,5275,Guaithylline (Bronchodilator),B,10
+63,5276,Pirolazamide (Cardiac Depressant),E,10
+63,5277,Lanatoside C (Cardiotonic),F,10
+63,5278,Lactulose (Cathartic),H,10
+63,5279,Hoquizil HCl (Bronchodilator),B,11
+63,5280,Pranolium Chloride (Cardiac Depressant),E,11
+63,5281,Ouabain (Cardiotonic),F,11
+63,5282,Isoetharine (Bronchodilator),B,12
+63,5283,Procainamide HCl (Cardiac Depressant),E,12
+63,5284,Proscillaridin (Cardiotonic),F,12
+63,5285,Magnesium Citrate(Sol) (Cathartic),H,12
+63,5286,Edetate Calcium Disodium (Chelating Agent),J,12
+63,5287,Carbachol (Cholinergic),N,12
+63,5288,Fluorescein Sodium (Diagnostic Aid) (Drugs),X,12
+63,5289,Metaproterenol Sulfate (Bronchodilator),B,13
+63,5290,Propranolol HCl (Cardiac Depressant),E,13
+63,5291,Quazodine (Cardiotonic),F,13
+63,5292,Edetate Disodium (Chelating Agent),J,13
+63,5293,Oxtriphylline (Bronchodilator),B,14
+63,5294,Pyrinoline (Cardiac Depressant),E,14
+63,5295,Tazolol HCl (Cardiotonic),F,14
+63,5296,Indigotindisulfonate Sodium (Diagnostic Aid) (Drugs),X,14
+63,5297,Piquizil HCl (Bronchodilator),B,15
+63,5298,Quindonium Bromide (Cardiac Depressant),E,15
+63,5300,Mineral Oil (Cathartic),H,15
+63,5301,Pentetate Calcium Trisodium (Chelating Agent),J,15
+63,5302,Demecarium Bromide (Cholinergic),N,15
+63,5303,Pirbuterol HCl (Bronchodilator),B,16
+63,5304,Quinidine Gluconate (Cardiac Depressant),E,16
+63,5305,Oxyphenisatin Acetate (Cathartic),H,16
+63,5306,Echothiophate Iodide (Cholinergic),N,16
+63,5307,Erythrosine Sodium (Diagnostic Aid) (Drugs),X,16
+63,5308,Quinidine Sulfate (Cardiac Depressant),E,17
+63,5309,Phenolphthalein (Cathartic),H,17
+63,5310,Isoflurophate (Cholinergic),N,17
+63,5311,Quinterenol Sulfate (Bronchodilator),B,18
+63,5312,Plantago Seed (Cathartic),H,18
+63,5313,Physostigmine (Cholinergic),N,18
+63,5314,Blastomycin (Diagnostic Aid) (Drugs),X,18
+63,5315,Rimiterol Hbr (Bronchodilator),B,19
+63,5316,Poloxamer 188 (Cathartic),H,19
+63,5317,Physostigmine Salicylate (Cholinergic),N,19
+63,5318,Coccidioidin (Diagnostic Aid) (Drugs),X,19
+63,5319,Sulfonterol HCl (Bronchodilator),B,20
+63,5320,Polycarbophil (Cathartic),H,20
+63,5321,Physostigmine Sulfate (Cholinergic),N,20
+63,5322,Suloxifen Oxalate (Bronchodilator),B,21
+63,5323,Potassium Sodium Tartrate (Cathartic),H,21
+63,5324,Pilocarpine HCl (Cholinergic),N,21
+63,5325,Terbutaline Sulfate (Bronchodilator),B,22
+63,5326,Senna (Cathartic),H,22
+63,5327,Pilocarpine Nitrate (Cholinergic),N,22
+63,5328,Tolbutamide Sodium (Diagnostic Aid) (Drugs),X,22
+63,5329,Xanoxate Sodium (Bronchodilator),B,23
+63,5330,Sennosides A And B (Cathartic),H,23
+63,5331,Sodium Phosphate (Cathartic),H,24
+63,5332,Azuresin (Diagnostic Aid) (Drugs),X,24
+63,5333,Betazole HCl (Diagnostic Aid) (Drugs),X,25
+63,5334,Histamine Phosphate (Diagnostic Aid) (Drugs),X,26
+63,5335,Pentagastrin (Diagnostic Aid) (Drugs),X,27
+63,5336,Indocyanine Green (Diagnostic Aid) (Drugs),X,29
+63,5337,Sulphobromophthalein Sodium (Diagnostic Aid) (Drugs),X,30
+63,5338,Quinaldine Blue (Diagnostic Aid) (Drugs),X,35
+63,5339,Secretin (Diagnostic Aid) (Drugs),X,36
+63,5340,Metyrapone (Diagnostic Aid) (Drugs),X,37
+63,5341,Metyrapone Tartrate (Diagnostic Aid) (Drugs),X,38
+63,5342,Thromboplastin (Diagnostic Aid) (Drugs),X,39
+63,5343,Barium Sulfate (Diagnostic Aid) (Drugs),X,40
+63,5344,Diatrizoate Meglumine (Diagnostic Aid) (Drugs),X,41
+63,5345,Diatrizoate Sodium (Diagnostic Aid) (Drugs),X,42
+63,5346,Diatrizoic Acid (Diagnostic Aid) (Drugs),X,43
+63,5347,Ethiodized Oil (Diagnostic Aid) (Drugs),X,44
+63,5348,Iocarmic Acid (Diagnostic Aid) (Drugs),X,45
+63,5349,Iocetamic Acid (Diagnostic Aid) (Drugs),X,46
+63,5350,Iodamide (Diagnostic Aid) (Drugs),X,47
+63,5351,Iodipamide Meglumine (Inj) (Diagnostic Aid) (Drugs),X,48
+63,5352,Iodipamide Sodium (Inj) (Diagnostic Aid) (Drugs),X,49
+63,5353,Iodoxamic Acid (Diagnostic Aid) (Drugs),X,50
+63,5354,Ioglicic Acid (Diagnostic Aid) (Drugs),X,51
+63,5355,Iopanoic Acid (Diagnostic Aid) (Drugs),X,52
+63,5356,Iophendylate (Diagnostic Aid) (Drugs),X,53
+63,5357,Iosefamic Acid (Diagnostic Aid) (Drugs),X,54
+63,5358,Ioseric Acid (Diagnostic Aid) (Drugs),X,55
+63,5359,Iosumetic Acid (Diagnostic Aid) (Drugs),X,56
+63,5360,Iothalamate Meglumine (Inj) (Diagnostic Aid) (Drugs),X,57
+63,5361,Iothalamate Sodium (Inj) (Diagnostic Aid) (Drugs),X,58
+63,5362,Iothalamic Acid (Diagnostic Aid) (Drugs),X,59
+63,5363,Iotroxic Acid (Diagnostic Aid) (Drugs),X,60
+63,5364,Ioxotrizoic Acid (Diagnostic Aid) (Drugs),X,61
+63,5365,Ipodate Calcium (Diagnostic Aid) (Drugs),X,62
+63,5366,Ipodate Sodium (Diagnostic Aid) (Drugs),X,63
+63,5367,Meglumine (Diagnostic Aid) (Drugs),X,64
+63,5368,Metrizamide (Diagnostic Aid) (Drugs),X,65
+63,5369,Metrizoate Sodium (Diagnostic Aid) (Drugs),X,66
+63,5370,Propyliodone (Diagnostic Aid) (Drugs),X,67
+63,5371,Iopydol (Diagnostic Aid) (Drugs),X,69
+63,5372,Iopydone (Diagnostic Aid) (Drugs),X,70
+63,5373,Iobenzamic Acid (Diagnostic Aid) (Drugs),X,72
+63,5374,Ioglycamic Acid (Diagnostic Aid) (Drugs),X,73
+63,5375,Iopronic Acid (Diagnostic Aid) (Drugs),X,74
+63,5376,Tyropanoate Sodium (Diagnostic Aid) (Drugs),X,75
+63,5377,Iophenoxic Acid (Diagnostic Aid) (Drugs),X,76
+63,5378,Iodized Oil (Diagnostic Aid) (Drugs),X,77
+63,5379,Iodopyracet (Inj) (Diagnostic Aid) (Drugs),X,79
+63,5380,Methiodal Sodium (Diagnostic Aid) (Drugs),X,80
+63,5381,Aminohippurate Sodium (Inj) (Diagnostic Aid) (Drugs),X,82
+63,5382,Mannitol (Diagnostic Aid) (Drugs),X,83
+63,5383,Phenolsulfonphthalein (Diagnostic Aid) (Drugs),X,85
+63,5385,Bone Calcium Regulator N.E.C.,A,99
+63,5386,Bronchodilator N.E.C.,B,99
+63,5387,Carbon Dioxide Absorbant N.E.C.,C,99
+63,5388,Carbonic Anhydrase Inhibitor N.E.C.,D,99
+63,5389,Cardiac Depressant N.E.C.,E,99
+63,5390,Cardiotonic N.E.C.,F,99
+63,5391,Catecholamine Potentiator N.E.C.,G,99
+63,5392,Cathartic N.E.C.,H,99
+63,5393,Caustic N.E.C.,I,99
+63,5394,Chelating Agent N.E.C.,J,99
+63,5395,Chemotic N.E.C.,K,99
+63,5396,Choleretic N.E.C.,M,99
+63,5397,Cholinergic N.E.C.,N,99
+63,5398,Cholinesterase Reactivator N.E.C.,P,99
+63,5399,Dental Caries Prophylactic N.E.C.,R,99
+63,5400,Dental Protectant N.E.C.,S,99
+63,5401,Dental Restoration Agent N.E.C.,T,99
+63,5402,Dentin Desensitizer N.E.C.,U,99
+63,5403,Depigmentor N.E.C.,V,99
+63,5404,Detergent N.E.C.,W,99
+63,5405,Diagostic Aid (Drugs) N.E.C.,X,99
+63,12629,Iodomethamate Sodium Diagnostic Aid (Drugs),X,86
+63,151103,Alendronate Sodium (Bone Calcium Regulator),A,02
+63,151120,Etidronate Disodium (Bone Calcium Regulator),A,03
+63,151121,Pamidronate Disodium (Bone Calcium Regulator),A,04
+63,151122,Paricalcitol (Bone Calcium Regulator),A,05
+63,151123,Raloxifene HCL (Bone Calcium Regulator),A,06
+63,151124,Risedronate Sodium (Bone Calcium Regulator),A,07
+63,151126,Teriparatide Acetate (Bone Calcium Regulator),A,09
+63,151127,Tiludronate Disodium (Bone Calcium Regulator),A,10
+63,151128,Bitolterol Mesylate (Bronchodilator),B,24
+63,151129,Fluticasone Propionate (Bronchodilator),B,25
+63,151130,Ipratropium Bromide (Bronchodilator),B,26
+63,151131,Levalbuterol HCL (Bronchodilator),B,27
+63,151132,Metaproterenol (Bronchodilator),B,28
+63,151133,Pirbuterol Acetate (Bronchodilator),B,29
+63,151134,Theophylline (Bronchodilator),B,30
+63,151135,Adenosine (Cardiac Depressant (Anti-Arrhythmic)),E,18
+63,151136,Amiodarone Hydrochloride (Cardiac Depressant (Anti-Arrhythmic)),E,19
+63,151137,Bretylium Tosylate (Cardiac Depressant (Anti-Arrhythmic)),E,20
+63,151138,Disopyramide Phosphate (Cardiac Depressant (Anti-Arrhythmic)),E,21
+63,151139,Encainide Hydrochloride (Cardiac Depressant (Anti-Arrhythmic)),E,22
+63,151140,Flecainide Acetate (Cardiac Depressant (Anti-Arrhythmic)),E,23
+63,151141,Ibutilide Fumarate (Cardiac Depressant (Anti-Arrhythmic)),E,24
+63,151142,Mexiletine Hydrochloride (Cardiac Depressant (Anti-Arrhythmic),E,25
+63,151143,Milrinone Lactate (Cardiac Depressant (Anti-Arrhythmic)),E,26
+63,151144,Moricizine Hydrochloride (Cardiac Depressant (Anti-Arrhythmic)),E,27
+63,151145,Propafenone Hydrochloride (Cardiac Depressant (Anti-Arrhythmic)),E,28
+63,151146,Ticlopidine Hydrochloride (Cardiac Depressant (Anti-Arrhythmic)),E,29
+63,151147,Tirofiban HCL (Cardiac Depressant (Anti-Arrhythmic)),E,30
+63,151148,Tocainide Hydrochloride (Cardiac Depressant (Anti-Arrhythmic)),E,31
+63,151149,Dexrazoxane (Cardiotonic),F,15
+63,151150,Polyethylene Glycol 3350/Electrolytes (Carthartic),H,25
+63,151151,Altretamine (Caustic),I,04
+63,151152,Trientine Hydrochloride (Chelating Agent),J,16
+63,151153,Zinc Acetate (Chelating Agent),J,17
+63,151154,Monooctanoin (Choleretic),M,06
+63,151155,Acetylcholine Chloride (Cholinergic),N,23
+63,151156,Amlexanox (Cholinergic),N,24
+63,151158,Elliott B Solution (Diluent for Intrathe) (Diagnostic Aid) (Drugs),X,87
+63,151159,Iodamide Meglumine (Diagnostic Aid) (Drugs),X,88
+63,151160,Iodixanol (Diagnostic Aid) (Drugs),X,89
+63,151161,Iodotamate Meglumine (Diagnostic Aid) (Drugs),X,90
+63,151162,Iodoxamate Meglumine (Diagnostic Aid) (Drugs),X,91
+63,151164,Xylose (Diagnostic Aid) (Drugs),X,93
+63,151165,Chlorexidine Gluconate (Detergent),W,07
+63,151364,Ursodiol (Cholinergic),N,25
+63,151456,Cefdinir (Bronchodilator),B,31
+63,151457,Dofetilide (Cardiac Depressant (Anti-Arrhythmic)),E,32
+63,151458,Eptifibatide (Cardiac Depressant (Anti-Arrhythmic)),E,33
+63,151459,Gadoversetamide (Diagnostic Aid) (Drugs),X,94
+63,153760,Formoterol Fumarate,B,32
+63,153762,Ibandronate sodium,A,11
+63,153776,Perflutren Lipid,X,95
+63,155076,Foradil,B,32
+63,155081,Boniva,A,11
+63,155100,Definity,X,95
+63,156896,Fosamax,A,02
+63,157077,Forteo,A,12
+63,157078,Teriparatide Recombinant Human PTH 1-34,A,12
+63,157079,Dyphylline Tablets,B,33
+63,157080,Isoetharine Mesylate Inhalation Aerosol,B,34
+63,157082,Oxyphenisatin,H,07
+63,157083,"3,3', 4', 5- Tetrachlorosalicylanilide",W,03
+63,157179,Milrinone,E,34
+63,157474,Toothpaste with Stannous Flouride,R,06
+63,157754,Clenbuterol (Bronchodilator),B,35
+63,165340,Osteofos 70,A,02
+63,169828,Potassium Nitrate,U,01
+63,173707,Ferric Citrate (Phosphate Binder),L,01
+63,173708,Auryxia (Phosphate Binder),L,01
+63,173709,Lanthanum Carbonate (Phosphate Binder),L,02
+63,173710,Fosrenol (Phosphate Binder),L,02
+63,173711,Sevelamer Carbonate (Phosphate Binder),L,03
+63,173712,Renvela (Phosphate Binder),L,03
+63,173713,Sevelamer Hydrochloride (Phosphate Binder),L,04
+63,173714,Renagel (Phosphate Binder),L,04
+63,173715,Sucroferric Oxyhydroxide (Phosphate Binder),L,05
+63,173716,Velphoro (Phosphate Binder),L,05
+63,174319,Eletriptan Hydrobromide (Antimigraine Agent),O,01
+63,174320,Relpax (Antimigraine Agent),O,01
+63,175008,Almotriptan Malate (Antimigraine Agent),O,02
+63,175009,Axert (Antimigraine Agent),O,02
+63,175010,Frovatriptan Succinate (Antimigraine Agent),O,03
+63,175011,Frova  (Antimigraine Agent),O,03
+63,175012,Naratriptan Hydrochloride (Antimigraine Agent),O,04
+63,175013,Amerge (Antimigraine Agent),O,04
+63,175014,Rizatriptan Benzoate (Antimigraine Agent),O,05
+63,175015,Maxalt  (Antimigraine Agent),O,05
+63,175016,Maxalt-MLT (Antimigraine Agent),O,05
+63,175017,Sumatriptan (Antimigraine Agent),O,06
+63,175018,Sumatriptan Succinate (Antimigraine Agent),O,07
+63,175019,Imitrex (Antimigraine Agent),O,07
+63,175020,Imitrex Statdose (Antimigraine Agent),O,07
+63,175021,Onzetra Xsail (Antimigraine Agent),O,07
+63,175022,Zembrace Symtouch (Antimigraine Agent),O,07
+63,175023,Zolmitriptan (Antimigraine Agent),O,08
+63,175025,Zomig (Antimigraine Agent),O,08
+63,175026,Zomig-ZMT (Antimigraine Agent),O,08
+63,175746,Prucalopride Succinate (Cathartic),H,26
+63,175747,Motegrity (Cathartic),H,26
+63,175789,Ivabradine (Cardiac Depressant),E,35
+63,175790,Ivabradine Hydrochloride (Cardiac Depressant),E,36
+63,175791,Amifampridine (Cholinergic),N,26
+63,175792,Amifampridine Phosphate (Cholinergic),N,27
+63,175809,Corlanor,E,35
+63,175810,Corlanor,E,36
+63,175811,Ruzurgi,N,26
+63,175812,Firdapse,N,27
+63,175879,Lasmiditan Succinate (Antimigraine Agent),O,10
+63,175918,Reyvow,O,10
+63,176094,Lactitol (Cathartic),H,27
+63,176095,Pizensy,H,27
+63,176098,Rimegepant Sulfate (Antimigraine Agent),O,11
+63,176099,Nurtec ODT,O,11

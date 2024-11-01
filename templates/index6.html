@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Code Identifier</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" href="/static/styles.css">
+    <style>
+        /* Custom Styles */
+        body {
+            background-image: url('./products.jpg');
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            padding: 0;
+            opacity: 1;
+        }
+
+        .header {
+            background-color: rgba(15, 114, 169, 1);
+            height: 95px;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+        }
+
+        .btn-upload {
+            cursor: pointer;
+        }
+
+        .upload-block {
+            padding: 20px;
+            cursor: text;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .footer {
+            background-color: rgba(15, 114, 169, 1);
+            color: #fff;
+            text-align: center;
+            font-size: 14px;
+            margin: 0;
+            padding: 18px;
+        }
+
+        .card-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: calc(100vh - 150px);
+        }
+
+        .content-wrapper {
+            width: 80%;
+            max-width: 800px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            padding: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            margin-bottom: 0.5px;
+        }
+
+        .form-container {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 20px;
+        }
+
+        .output-box-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        .output-box {
+            flex: 1;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 18px;
+            color: #333;
+            background-color: #fff;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        #outputLabel {
+            margin-top: 30px;
+        }
+
+        .btn-upload {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn-upload:hover {
+            background-color: #45a049;
+        }
+
+        .nested-placeholder {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border: 3px solid #ccc;
+            border-radius: 5px;
+        }
+
+        #descriptions, #explanations {
+            display: none;
+        }
+
+        .description-box, .explanation-box {
+            flex: 1;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 18px;
+            color: #333;
+            background-color: #fff;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        #descriptions .description-box-container, #explanations .explanation-box-container {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Header Section with Images -->
+<header class="header">
+    <img src="/static/FDA-Social-Graphic.png" alt="FDA Logo" style="margin-left: 0px;" height="95px" width="500px">
+    <img src="/static/logo-precise.jpeg" alt="Precise Logo" style="margin-left: 600px;" height="95px" width="500px">
+</header>
+
+<!-- Main Card Section -->
+<div class="card-container">
+    <div class="content-wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-container mb-3">
+                        <h1 class="text-center mb-4">Product Code Identifier</h1>
+
+                        <!-- Upload Section for Multiple Images -->
+                        <div class="upload-block" id="uploadBlock">
+                            <span id="uploadLabelText" class="text-center mb-4">Upload the product label images</span>
+                            <input type="file" id="imageFiles" class="form-control mb-3" style="width: 40%;" multiple onchange="previewImages()">
+                            <button id="uploadButton" onclick="uploadFromFiles()" class="btn btn-upload">Upload</button>
+                        </div>
+
+                        <!-- Preview of Uploaded Images -->
+                        <div id="imagePreview" class="mb-3"></div>
+
+                        <!-- Options Section -->
+                        <label class="form-check-label">
+                            Subclass:
+                            <input type="checkbox" id="subclassToggle" class="form-check-input" checked>
+                        </label>
+                        <label class="form-check-label">
+                            Show Code Descriptions:
+                            <input type="checkbox" id="descriptionToggle" class="form-check-input">
+                        </label>
+                        <label class="form-check-label">
+                            Show Code Explanations:
+                            <input type="checkbox" id="explanationToggle" class="form-check-input">
+                        </label>
+
+                        <!-- Output Section for Codes -->
+                        <label id="outputLabel" for="Product Code"><h3>FDA Product Code</h3></label>
+                        <div id="output" class="form-control">
+                            <div class="output-box-container">
+                                <div class="output-box">Industry
+                                    <div class="nested-placeholder">Industry Placeholder</div>
+                                </div>
+                                <div class="output-box">Class
+                                    <div class="nested-placeholder">Class Placeholder</div>
+                                </div>
+                                <div class="output-box">Subclass
+                                    <div class="nested-placeholder">Subclass Placeholder</div>
+                                </div>
+                                <div class="output-box">PIC
+                                    <div class="nested-placeholder">PIC Placeholder</div>
+                                </div>
+                                <div class="output-box">Product
+                                    <div class="nested-placeholder">Product Placeholder</div>
+                                </div>
+                            </div>
+                            <div class="output-box">FDA Code
+                                <div class="nested-placeholder">FDA Code Placeholder</div>
+                            </div>
+                        </div>
+
+                        <!-- Sections that will only be shown conditionally -->
+                        <div id="explanations" class="form-control">
+                            <label for="Code Explanations"><h3>Code Explanations</h3></label>
+                            <div class="explanation-box">Industry Explanation
+                                <p id="industry-explanation">Explanation for Industry Code</p>
+                            </div>
+                            <div class="explanation-box">Class Explanation
+                                <p id="class-explanation">Explanation for Class Code</p>
+                            </div>
+                            <div class="explanation-box">Subclass Explanation
+                                <p id="subclass-explanation">Explanation for Subclass Code</p>
+                            </div>
+                            <div class="explanation-box">PIC Explanation
+                                <p id="pic-explanation">Explanation for PIC Code</p>
+                            </div>
+                            <div class="explanation-box">Product Explanation
+                                <p id="product-explanation">Explanation for Product Code</p>
+                            </div>
+                        </div>
+
+                        <div id="descriptions" class="form-control">
+                            <label for="Code Descriptions"><h3>Code Descriptions</h3></label>
+                            <div class="description-box">Industry Description
+                                <p id="industry-description">Description for Industry Code</p>
+                            </div>
+                            <div class="description-box">Class Description
+                                <p id="class-description">Description for Class Code</p>
+                            </div>
+                            <div class="description-box">Subclass Description
+                                <p id="subclass-description">Description for Subclass Code</p>
+                            </div>
+                            <div class="description-box">PIC Description
+                                <p id="pic-description">Description for PIC Code</p>
+                            </div>
+                            <div class="description-box">Product Description
+                                <p id="product-description">Description for Product Code</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Footer Section with Mason Logo -->
+<footer class="footer">
+    &copy; 2024 <img src="/static/Mason.jpeg" alt="Mason Logo" height="15px" width="15px"> George Mason University. All Rights Reserved.
+</footer>
+
+<!-- JavaScript for File Upload and Handling Multiple Images -->
+<script>
+function previewImages() {
+    const fileInput = document.getElementById('imageFiles');
+    const previewContainer = document.getElementById('imagePreview');
+    previewContainer.innerHTML = ''; // Clear any existing previews
+
+    const files = fileInput.files;
+    for (let i = 0; i < files.length; i++) {
+        const file = files[i];
+        const reader = new FileReader();
+
+        reader.onload = function (e) {
+            // Create image element for preview
+            const img = document.createElement('img');
+            img.src = e.target.result;
+            img.classList.add('img-thumbnail');
+            img.style.maxHeight = '150px'; // Limit preview size
+            img.style.margin = '10px';
+            previewContainer.appendChild(img);
+        };
+
+        reader.readAsDataURL(file); // Convert file to base64
+    }
+}
+
+function uploadFromFiles() {
+    const fileInput = document.getElementById('imageFiles');
+    const files = fileInput.files;
+
+    if (files.length === 0) {
+        alert('Please select at least one image.');
+        return;
+    }
+
+    // Change button text to "Processing"
+    const uploadButton = document.getElementById('uploadButton');
+    uploadButton.innerText = 'Processing...';
+    uploadButton.disabled = true;
+
+    // Read the state of the subclass, description, and explanation toggle checkboxes
+    const subclassToggle = document.getElementById('subclassToggle').checked;
+    const descriptionToggle = document.getElementById('descriptionToggle').checked;
+    const explanationToggle = document.getElementById('explanationToggle').checked;
+
+    // Hide sections by default
+    document.getElementById('descriptions').style.display = 'none';
+    document.getElementById('explanations').style.display = 'none';
+
+    // Process each file and convert to base64
+    let promises = [];
+    for (let i = 0; i < files.length; i++) {
+        const file = files[i];
+        const reader = new FileReader();
+        promises.push(new Promise((resolve, reject) => {
+            reader.onload = function (e) {
+                resolve(e.target.result.split(',')[1]); // Extract base64 string
+            };
+            reader.onerror = function (error) {
+                reject(error);
+            };
+            reader.readAsDataURL(file); // Convert file to base64
+        }));
+    }
+
+    // After all files are processed, send to backend
+    Promise.all(promises)
+        .then(base64Images => {
+            const requestBody = {
+                images_base64: base64Images,  // Send array of base64 images
+                include_subclass: subclassToggle, // Send this flag to the server
+                show_descriptions: descriptionToggle, // Send this flag to the server
+                show_explanations: explanationToggle // Send this flag to the server
+            };
+
+            fetch('/get_fda_code', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(requestBody),
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Show the codes with descriptions
+                document.querySelector('.output-box-container .output-box:nth-child(1) .nested-placeholder').innerText = `${data.industry || 'N/A'}: ${data.industry_description || ''}`;
+                document.querySelector('.output-box-container .output-box:nth-child(2) .nested-placeholder').innerText = `${data.class || 'N/A'}: ${data.class_description || ''}`;
+                document.querySelector('.output-box-container .output-box:nth-child(3) .nested-placeholder').innerText = subclassToggle ? `${data.subclass || 'No subclass provided'}: ${data.subclass_description || ''}` : 'No subclass provided';
+                document.querySelector('.output-box-container .output-box:nth-child(4) .nested-placeholder').innerText = `${data.PIC || 'N/A'}: ${data.PIC_description || ''}`;
+                document.querySelector('.output-box-container .output-box:nth-child(5) .nested-placeholder').innerText = `${data.product || 'N/A'}: ${data.product_description || ''}`;
+                document.querySelectorAll('.output-box .nested-placeholder')[5].innerText = data.fda_code || 'N/A';
+
+                // Show and update descriptions if selected
+                if (descriptionToggle) {
+                    document.getElementById('descriptions').style.display = 'block';
+                    document.getElementById('industry-description').innerText = `${data.industry}: ${data.industry_description}`;
+                    document.getElementById('class-description').innerText = `${data.class}: ${data.class_description}`;
+                    document.getElementById('subclass-description').innerText = `${data.subclass}: ${data.subclass_description}`;
+                    document.getElementById('pic-description').innerText = `${data.PIC}: ${data.PIC_description}`;
+                    document.getElementById('product-description').innerText = `${data.product}: ${data.product_description}`;
+                }
+
+                // Show and update explanations if selected
+                if (explanationToggle) {
+                    document.getElementById('explanations').style.display = 'block';
+                    document.getElementById('industry-explanation').innerText = `${data.industry}: ${data.industry_explanation}`;
+                    document.getElementById('class-explanation').innerText = `${data.class}: ${data.class_explanation}`;
+                    document.getElementById('subclass-explanation').innerText = `${data.subclass}: ${data.subclass_explanation}`;
+                    document.getElementById('pic-explanation').innerText = `${data.PIC}: ${data.PIC_explanation}`;
+                    document.getElementById('product-explanation').innerText = `${data.product}: ${data.product_explanation}`;
+                }
+
+                // Reset button after processing is done
+                uploadButton.innerText = 'Upload';
+                uploadButton.disabled = false;
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+                alert('Failed to process the image. Please try again.');
+                uploadButton.innerText = 'Upload';  // Reset button text on error
+                uploadButton.disabled = false;
+            });
+        })
+        .catch(error => {
+            console.error('Error processing images:', error);
+            uploadButton.innerText = 'Upload';  // Reset button text on error
+            uploadButton.disabled = false;
+        });
+}
+</script>
+
+</body>
+</html>

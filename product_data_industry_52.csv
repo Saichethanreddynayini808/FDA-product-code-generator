@@ -1,0 +1,129 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+52,3014,Food Packaging Material (Food Related),B,05
+52,3017,Foreign Object (Food Related),B,02
+52,3020,"Pesticides, Chemical, Etc. (Food Related)",B,03
+52,3023,Water Related To Shellfish Growing Areas (Food Related),B,04
+52,3030,"Kitchen and Tableware, n.e.c., (Foodware, Cookware & Tableware)",A,99
+52,3031,"Food Related Item, N.E.C.",B,99
+52,3032,"Exhibit (Evidence Development), N.E.C.",Y,99
+52,24481,Corn Husks (Food Related),B,06
+52,24482,Snail Shells (Food Related),B,07
+52,24483,"Turtles, Tortoise, Terrapin (see21CFR1240.62) (Live Animals)",D,01
+52,24485,"Live Animals, N.E.C.",D,99
+52,25027,"Sausage Casings, Artificial (Food Related)",B,08
+52,25033,"Skewers, Wood (Food Related)",B,09
+52,25034,Food Manu./Processing Machinery/Parts for Home/Commercial Use,B,10
+52,25046,"DRIED SPICE CONTAINERS (IE. SPICE RACK CONTAINERS,S&P SHAKERS)",A,24
+52,150169,"Dried Condiment Containers (salt, pepper, sugar, etc.) (Foodware, Cookware & Tableware)",A,25
+52,150170,"Cups, Mugs (Foodware, Cookware & Tableware)",A,26
+52,150171,"Pitchers (w/handle, lip spout; and w/o lid), (Foodware, Cookware & Tableware)",A,27
+52,150172,"Plates, any size (Foodware, Cookware & Tableware)",A,28
+52,150173,"Platters (Foodware, Cookware & Tableware)",A,29
+52,150174,"Saucers (Foodware, Cookware & Tableware)",A,30
+52,150175,"Bowls, any size (Foodware, Cookware & Tableware)",A,31
+52,150176,"Coffee/tea pots (Foodware, Cookware & Tableware)",A,32
+52,150177,"Creamers, small containers w/handle, w/lip spout and w/o lid) (Foodware, Cookware & Tableware)",A,33
+52,150178,"Storage containers (w/ or w/o lid), (Foodware, Cookware & Tableware)",A,34
+52,150179,"Specialty dish, w/foot (for food use, e.g., ice cream dish w/foot), (Foodware, Cookware & Tableware)",A,35
+52,150180,"Tumbler, drinking (container w/o handle, w/o stem & w/o foot)(Foodware/Cookware/Table",A,36
+52,150181,"Stemware (container w/o handle, w/stem or w/foot) (Foodware, Cookware & Tableware)",A,37
+52,150182,"Spoons (Foodware, Cookware & Tableware)",A,38
+52,150183,"Forks (Foodware, Cookware & Tableware)",A,39
+52,150184,"Knives (Foodware, Cookware & Tableware)",A,40
+52,150185,"Other Utensils, n.e.c., (spatula, tongs, etc.), (Foodware, Cookware & Tableware)",A,41
+52,150186,"Tea Kettle (Foodware, Cookware & Tableware)",A,50
+52,150187,"Coffee Maker (percolator, drip, espresso, cappuccino) (Foodware, Cookware & Tableware)",A,51
+52,150188,"Griddle or similar item not suitable for holding liquid (Foodware, Cookware & Tableware)",A,52
+52,150189,"Frying pan, cake pan, etc., (Shallow item capable of holding liquid, w/ or w/o lid) (Food/Cook/Table",A,53
+52,150190,"Soup Pan/Pot, Roasting Pan, etc (Deep item capable of holding liquid w/ or w/o lid) Food/Cook/Table",A,54
+52,150280,"Mixed Sets/Service Sets (Note: Use Subclass J, L, N, or P only) Foodware, Cookware & Tableware",A,24
+52,151562,"Psittacine Birds (Live) (see 21CFR1240.65) (Parrots, Cockatoos, Macaws, Parakeets,)",D,02
+52,161780,"Single use baby bottle rubber nipples, Infant Food Items",E,01
+52,161781,"Multiple use baby rubber nipples, Infant Food Items",E,02
+52,161782,"Baby bottle rubber nipples, n.e.c, Infant Food Items.",E,03
+52,161783,"Pacifiers Containing Ingestible Foods (e.g., honey), Infant Food Items",E,04
+52,161856,"Infant Food Items, n.e.c.",E,99
+52,167802,"Turtles, Live Animals",D,01
+52,167803,"Tortoise, Live Animals",D,01
+52,167804,"Terrapin, Live Animals",D,01
+52,167805,"Cockatoos, Live Animals",D,02
+52,167806,"Macaws, Live Animals",D,02
+52,167807,"Parakeets, Live Animals",D,02
+52,167808,"Parrots, Live Animals",D,02
+52,167809,"Avian, Birds of Prey, Live Animals",D,03
+52,167810,"Other Bovine Animals, N.E.C., Live Animals",D,04
+52,167811,"Other Swine Animals, N.E.C., Live Animals",D,05
+52,167812,"Equine, Animals, N.E.C., Live Animals",D,06
+52,167813,"Antelope (Game Animal), Live Animals",D,07
+52,167814,"Bear (Game Animal), Live Animals",D,08
+52,167815,"Caribou (Game Animal), Live Animals",D,09
+52,167816,"Deer (Game Animal), Live Animals",D,10
+52,167817,"Deer, Axis (Game Animal), Live Animals",D,10
+52,167818,"Deer, Black Tail (Game Animal), Live Animals",D,10
+52,167819,"Deer, Coues (Game Animal), Live Animals",D,10
+52,167820,"Deer, Fallow (Game Animal), Live Animals",D,10
+52,167821,"Deer, Mule  (Game Animal), Live Animals",D,10
+52,167822,"Deer, Red (Game Animal), Live Animals",D,10
+52,167823,"Deer, Seka (Game Animal), Live Animals",D,10
+52,167824,"Deer, White Tail Deer (Game Animal), Live Animals",D,10
+52,167825,"Elk (Game Animal), Live Animals",D,11
+52,167826,"Moose  (Game Animal), Live Animals",D,12
+52,167827,"Game Animals, N.E.C., Live Animals",D,13
+52,167828,"Fish, Ornamental (Non-Food), Live Animals",D,14
+52,167829,"Frogs (Amphibian Animals), Live Animals",D,15
+52,167830,"Lizards (Reptiles), Live Animals",D,16
+52,167831,"Snakes, Terrestrial (Reptiles), Live Animals",D,17
+52,167832,"Snakes, Aquatic (Reptiles), Live Animals",D,18
+52,167833,"Reptiles, n.e.c., Live Animals",D,19
+52,167834,"Gerbils (Rodents), Live Animals",D,20
+52,167835,"Guinea Pigs (Rodents), Live Animals",D,21
+52,167836,"Cavy, Live Animals",D,21
+52,167837,"Mice (Rodents), Live Animals",D,22
+52,167838,"Nutria (Rodents), Live Animals",D,23
+52,167839,"Prairie Dogs (Rodents), Live Animals",D,24
+52,167840,"Rats (Rodents), Live Animals",D,25
+52,167841,"Squirrels (Rodents), Live Animals",D,26
+52,167842,"Weasel  (Rodents), Live Animals",D,27
+52,167843,"Rodents, N.E.C., Live Animals",D,28
+52,167844,"Rabbits, Live Animals",D,29
+52,167845,"Hares, Live Animals",D,30
+52,167846,"Jackrabbit, Live Animals",D,30
+52,167847,"Civets, Live Animals",D,31
+52,167848,"Mongoose, Live Animals",D,32
+52,167849,"Mammals, Aquatic, Live Animals",D,33
+52,167850,"Feline Animals, N.E.C., Live Animals",D,34
+52,167851,"Mountain Lion, Live Animals",D,34
+52,167852,"Canine Animals. N.E.C., Live Animals",D,35
+52,167853,"Insects, Live",D,36
+52,167854,"Arachnids, Live",D,37
+52,169202,Bird's Nest,B,12
+52,171897,"Beef Carcass Rinses/Swabs, Exhibit (Evidence Development)",Y,01
+52,171898,"Chicken Carcass Rinses/Swabs, Exhibit (Evidence Development)",Y,02
+52,171899,"Lamb Carcass Rinses/Swabs, Exhibit (Evidence Development)",Y,03
+52,171900,"Pork Carcass Rinses/Swabs, Exhibit (Evidence Development)",Y,04
+52,171901,"Turkey Carcass Rinses/Swabs, Exhibit (Evidence Development)",Y,05
+52,171902,"Other Animal Carcass Rinses/Swabs, Exhibit (Evidence Development)",Y,06
+52,171903,"Farm Environmental Swabs/Samples, Exhibit (Evidence Development)",Y,07
+52,171904,"Process/Manufacturing Environmental Swabs, Exhibit (Evidence Development)",Y,08
+52,172862,Bottles and Jars (with or without lids),A,55
+52,174170,Food Thermometer,A,41
+52,174583,Plastic Closures (Food Related),B,05
+52,174874,"Postharvest Water (for Agriculture use),  Exhibit (Evidence Development)",Y,09
+52,174875,"Preharvest Water (for Agriculture use), Exhibit (Evidence Development)",Y,10
+52,174876,"Spent Sprout Irrigation Water (use for testing), Exhibit (Evidence Development)",Y,11
+52,174972,"Glass, Bottles and Jars",A,55
+52,174973,"Plastic, Bottles and Jars",A,55
+52,174974,"Metal, Bottles and Jars",A,55
+52,174975,"Glass Tumbler, drinking",A,36
+52,174976,"Plastic Tumbler, drinking",A,36
+52,174977,"Metal Tumbler, drinking",A,36
+52,175599,"Fish, Human Consumption, Live Animals",D,38
+52,176135,Shot Glass,A,37
+52,176196,Blenders/Mixers,A,56
+52,176307,"Disposable Gloves, Food Grade (not meant for medical use)",B,13
+52,176308,"Disposable Poly Gloves , Food Grade (not meant for medical use)",B,13
+52,176309,"Disposable Vinyl Gloves, Food Grade (not meant for medical use)",B,13
+52,176310,"Disposable Latex Gloves, Food Grade (not meant for medical use)",B,13
+52,176311,"Disposable Nitrile Gloves, Food Grade (not meant for medical use)",B,13
+52,177118,Banana Palm Leaves (Food Related),B,14
+52,177119,Banana Leaves (Food Related),B,14

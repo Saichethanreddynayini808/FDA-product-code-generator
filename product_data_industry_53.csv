@@ -1,0 +1,182 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+53,3033,"Other Cosmetic and Cosmetic Products, N.E.C.",Y,99
+53,3034,"Other Baby Products, N.E.C.",A,99
+53,3035,"Other Bath Preparations, N.E.C.",B,99
+53,3036,"Other Eye Makeup Preparations, N.E.C.",C,99
+53,3037,"Other Fragrance Preparations, N.E.C.",D,99
+53,3038,"Other Hair Preparations, Non-coloring), N.E.C.",E,99
+53,3039,"Other Hair Coloring Preparations, N.E.C.",F,99
+53,3040,"Other Makeup Preparation, not for the Eyes, N.E.C.",G,99
+53,3041,"Other Manicuring Preparations, N.E.C.",H,99
+53,3042,"Other Oral Hygiene Products, without Fluoride, N.E.C.",I,99
+53,3043,"Other Personal Cleanliness Products (not Antiperspirant), N.E.C.",J,99
+53,3045,"Other Skin Care Preparations, N.E.C.",L,99
+53,3046,"Other Suntan Preparations (not Sunscreen), N.E.C.",M,99
+53,3047,"Other Cosmetic Raw Materials, N.E.C.",P,99
+53,3048,"Cosmetic Packaging and Labeling, N.E.C.",Q,99
+53,24486,Baby Shampoo (Baby Products),A,01
+53,24487,"Lotions, Oils, Powders and  Creams (Baby Products)",A,02
+53,24489,"Bath Oils, Tablets and Salts (Bath Preparations)",B,01
+53,24490,Bubble Baths (Bath Preparations),B,02
+53,24491,Bath Capsules (Bath Preparations),B,03
+53,24493,Eyebrow Pencil (Eye Makeup Preparations),C,01
+53,24494,Eyeliner (Eye Makeup Preparations),C,02
+53,24495,Eye Shadow (Eye Makeup Preparations),C,03
+53,24496,Eye Lotion (Eye Makeup Preparations),C,04
+53,24497,Eye Makeup Remover (Eye Makeup Preparations),C,05
+53,24498,Mascara (Eye Makeup Preparations),C,06
+53,24499,Eyelash and Eyebrow Dye (Eye Makeup Preparations),C,07
+53,24500,Eye Makeup Kits (Eye Makeup Preparations),C,08
+53,24502,Colognes and Toilet Waters (Fragrance Preparations),D,01
+53,24503,Perfumes (Fragrance Preparations),D,02
+53,24504,"Powders (Dusting and Talcum, excluding Aftershave Talc) (Fragrance Preparations)",D,03
+53,24505,Sachets (Fragrance Preparations),D,04
+53,24507,"Hair Conditioners (Hair Preparations, Non-coloring)",E,01
+53,24508,"Hair Sprays (Aerosol Fixatives) (Hair Preparations, Non-coloring)",E,02
+53,24509,"Hair Straighteners (Hair Preparations, Non-coloring)",E,03
+53,24510,"Permanent Waves (Hair Preparations, Non-coloring)",E,04
+53,24511,"Rinses (Hair Preparations, Non-coloring)",E,05
+53,24512,"Shampoos (Hair Preparations, Non-coloring)",E,06
+53,24513,"Tonics, Dressings, and other Hair Grooming Aids (Hair Preparations, Non-coloring)",E,07
+53,24514,"Wave Sets (Hair Preparations, Non-coloring)",E,08
+53,24516,Hair Dyes and Colors (all Types Require Caution Statements and Patch Tests) (Hair Coloring Preparati,F,01
+53,24517,Hair Tints (Hair Coloring Preparations),F,02
+53,24518,Hair Rinses (Coloring) (Hair Coloring Preparations),F,03
+53,24519,Hair Shampoos (Coloring) (Hair Coloring Preparations),F,04
+53,24520,Hair Color Sprays (Hair Coloring Preparations),F,05
+53,24521,"Hair Lighteners, with Color (Hair Coloring Preparations)",F,06
+53,24522,Hair Bleaches (Hair Coloring Preparations),F,07
+53,24524,"Blushers (all Types) (Makeup Preparations, not for Eyes)",G,01
+53,24525,"Face Powders (Makeup Preparations, not for Eyes)",G,02
+53,24526,"Foundations (Makeup Preparations, not for Eyes)",G,03
+53,24527,"Leg and Body Paints (Makeup Preparations, not for Eyes)",G,04
+53,24528,"Lipstick (Makeup Preparations, not for Eyes)",G,05
+53,24529,"Makeup Bases (Makeup Preparations, not for Eyes)",G,06
+53,24531,"Makeup Fixatives (Makeup Preparations, not for Eyes)",G,08
+53,24532,"Face Makeup Kits (Makeup Preparations, not for Eyes)",G,09
+53,24534,Basecoats and Undercoats (Manicuring Preparations),H,01
+53,24535,Cuticle Softeners (Manicuring Preparations),H,02
+53,24536,Nail Creams and Lotions (Manicuring Preparations),H,03
+53,24537,Nail Extenders (Manicuring Preparations),H,04
+53,24538,Nail Polish and Enamel (Manicuring Preparations),H,05
+53,24539,Nail Polish and Enamel Removers (Manicuring Preparations),H,06
+53,24541,"Dentifrices (Aerosol, Liquid, Toothpastes, Toothpowders), without Fluoride (Oral Hygiene Products)",I,01
+53,24542,"Mouthwashes and Breath Fresheners (Liquids and Sprays), without Fluoride (Oral Hygiene Products)",I,02
+53,24544,Bath Soaps and Detergents (not Antiperspirant) (Personal Cleanliness),J,01
+53,24545,Deodorants (underarm)(Not Antiperspirant) (Personal Cleanliness),J,02
+53,24546,Douches (not Antiperspirant) (Personal Cleanliness),J,03
+53,24547,Feminine Deodorants (not Antiperspirant) (Personal Cleanliness),J,04
+53,24549,Aftershave Lotion (Shaving Preparations),K,01
+53,24550,Beard Softeners (Shaving Preparations),K,02
+53,24551,Men's Talcum (Shaving Preparations),K,03
+53,24552,Preshave Lotions (all types) (Shaving Preparations),K,04
+53,24553,"Shaving Cream (Aerosol, Brushless, Lather) (Shaving Preparations)",K,05
+53,24554,"Shaving Soap (Cakes, Sticks, Etc.) (Shaving Preparations)",K,06
+53,24555,"Other Shaving Preparation Products, N.E.C.",K,99
+53,24556,"Cleansing (Cold Creams, Cleansing Lotions, Liquids, Pads) (Skin Care Preparations)",L,01
+53,24557,Depilatories (Skin Care Preparations),L,02
+53,24558,"Face,Body,and Hand (excluding Shaving Preparations) (Skin Care Preparations)",L,03
+53,24559,Foot Powders and Sprays (Skin Care Preparations),L,04
+53,24560,Hormone (Skin Care Preparations),L,05
+53,24561,Moisturizing (Skin Care Preparations),L,06
+53,24562,Night (Skin Care Preparations),L,07
+53,24563,Paste Masks (Mud Packs) (Skin Care Preparations),L,08
+53,24564,Skin Fresheners (Skin Care Preparations),L,09
+53,24565,Wrinkle Smoothing (Skin Care Preparations),L,10
+53,24567,"Suntan Gels, Creams, Liquids (not Sunscreen) (Suntan Preparations)",M,01
+53,24568,Indoor Tanning Preparations (Suntan Preparations),M,02
+53,24569,Oral Tanning Tablets (Suntan Preparations),M,03
+53,24571,Bovine (Bovine Amniotic Fluid) (Cosmetic Raw Material),P,01
+53,24572,Collagen (Cosmetic Raw Material),P,02
+53,24574,Hair Brush (Other Cosmetic and Cosmetic Products),Y,01
+53,24575,Cosmetic Brush (Other Cosmetic and Cosmetic Products),Y,02
+53,24576,Sponges (Other Cosmetic and Cosmetic Products),Y,03
+53,25144,Temporary Tattoos (Other Cosmetic and Cosmetic Products),Y,99
+53,150041,"Cosmetic Products Containing Animal By-Products (Bovine), N.E.C.",R,99
+53,150042,"Cosmetic Products Containing Animal By-Products (Ovine), N.E.C.",S,99
+53,150043,"Cosmetic Products Containing Animal By-Products (Porcine), N.E.C.",T,99
+53,150044,"Cosmetic Products Containing Animal By-Products (Other animal by-products), N.E.C.",U,99
+53,153267,Argan Oil,A,03
+53,153268,Argan Oil,L,11
+53,158587,Children Novelty Eye Makeup Kits,C,09
+53,158591,Children Novelty Face Makeup Kits,G,10
+53,158592,Children Novelty Body Paints,G,11
+53,158593,Children Novelty Lipgloss,G,12
+53,161600,"Baby Products, Cosmetic products containing animal by-products (bovine)",R,01
+53,161601,"Bath Preparations, Cosmetic products containing animal by-products (bovine)",R,02
+53,161602,"Eye Make Up Preparations, Cosmetic products containing animal by-products (bovine)",R,03
+53,161603,"Fragrance Preparations, Cosmetic products containing animal by-products (bovine)",R,04
+53,161604,"Hair Preparations (Non-coloring), Cosmetic products containing animal by-products (bovine)",R,05
+53,161605,"Hair Coloring Preparations, Cosmetic products containing animal by-products (bovine)",R,06
+53,161606,"Makeup Preparations (Not for the Eyes), Cosmetic products containing animal by-products (bovine)",R,07
+53,161607,"Manicuring Products, Cosmetic products containing animal by-products (bovine)",R,08
+53,161608,"Oral Hygiene Products, Cosmetic products containing animal by-products (bovine)",R,09
+53,161609,"Personal Cleanliness, Cosmetic products containing animal by-products (bovine)",R,10
+53,161610,"Shaving Preparations, Cosmetic products containing animal by-products (bovine)",R,11
+53,161611,"Skin Care Preparations, Cosmetic products containing animal by-products (bovine)",R,12
+53,161612,"Suntan Preparations, Cosmetic products containing animal by-products (bovine)",R,13
+53,161613,"Baby Products, Cosmetic products containing animal by-products (ovine)",S,01
+53,161614,"Bath Preparations, Cosmetic products containing animal by-products (ovine)",S,02
+53,161615,"Eye Make Up Preparations, Cosmetic products containing animal by-products (ovine)",S,03
+53,161620,"Fragrance Preparations, Cosmetic products containing animal by-products (ovine)",S,04
+53,161621,"Hair Preparations, Cosmetic products containing animal by-products (ovine)",S,05
+53,161622,"Hair Coloring Preparations, Cosmetic products containing animal by-products (ovine)",S,06
+53,161623,"Makeup Preparations (Not for the Eyes), Cosmetic products containing animal by-products (ovine)",S,07
+53,161624,"Manicuring Preparations, Cosmetic products containing animal by-products (ovine)",S,08
+53,161625,"Oral Hygiene Products, Cosmetic products containing animal by-products (ovine)",S,09
+53,161626,"Personal Cleanliness, Cosmetic products containing animal by-products (ovine)",S,10
+53,161627,"Shaving Preparations, Cosmetic products containing animal by-products (ovine)",S,11
+53,161628,"Skin Care Preparations, Cosmetic products containing animal by-products (ovine)",S,12
+53,161629,"Suntan Preparations, Cosmetic products containing animal by-products (ovine)",S,13
+53,161630,"Baby Products, Cosmetic products containing animal by-products (porcine)",T,01
+53,161631,"Bath Preparations, Cosmetic products containing animal by-products (porcine)",T,02
+53,161632,"Eye Make Up Preparations, Cosmetic products containing animal by-products (porcine)",T,03
+53,161633,"Fragrance Preparations, Cosmetic products containing animal by-products (porcine)",T,04
+53,161634,"Hair Preparations (Non-coloring), Cosmetic products containing animal by-products (porcine)",T,05
+53,161635,"Hair Coloring Preparations, Cosmetic products containing animal by-products (porcine)",T,06
+53,161636,"Makeup Preparations (Not for the Eyes), Cosmetic products containing animal by-products (porcine)",T,07
+53,161637,"Manicuring Preparations, Cosmetic products containing animal by-products (porcine)",T,08
+53,161638,"Oral Hygiene Products, Cosmetic products containing animal by-products (porcine)",T,09
+53,161639,"Personal Cleanliness, Cosmetic products containing animal by-products (porcine)",T,10
+53,161640,"Shaving Preparations, Cosmetic products containing animal by-products (porcine",T,11
+53,161641,"Skin Care Preparations, Cosmetic products containing animal by-products (porcine)",T,12
+53,161642,"Suntan Preparations, Cosmetic products containing animal by-products (porcine)",T,13
+53,161643,"Baby Products, Cosmetic products containing animal by-products (other animal by-products)",U,01
+53,161644,"Bath Preparations, Cosmetic products containing animal by-products (other animal by-products)",U,02
+53,161645,"Eye Make Up Preparations, Cosmetic products containing animal by-products (other animal by-products)",U,03
+53,161646,"Fragrance Preparations, Cosmetic products containing animal by-products (other animal by-products)",U,04
+53,161647,"Hair Preparations (Non-coloring), Cosmetic products containing animal by-products (other)",U,05
+53,161648,"Hair Coloring Preparations, Cosmetic products containing animal by-products (other animal by-prods)",U,06
+53,161649,"Makeup Preparations (Not for the Eyes), Cosmetic prods containing animal by-prods (other animal)",U,07
+53,161650,"Manicuring Preparations, Cosmetic products containing animal by-products (other animal by-products)",U,08
+53,161651,"Oral Hygiene Products, Cosmetic products containing animal by-products (other animal by-products)",U,09
+53,161652,"Personal Cleanliness, Cosmetic products containing animal by-products (other animal by-products)",U,10
+53,161653,"Shaving Preparations, Cosmetic products containing animal by-products (other animal by-products)",U,11
+53,161654,"Skin Care Preparations, Cosmetic products containing animal by-products (other animal by-products)",U,12
+53,161655,"Suntan Preparations, Cosmetic products containing animal by-products (other animal by-products)",U,13
+53,174156,Tattoo Ink,Y,04
+53,174157,Blacklight Ink,Y,04
+53,174158,Glow in the dark,Y,04
+53,174159,Micropigmentation (body),Y,04
+53,174160,Permanent Tattoo Ink,Y,04
+53,174161,Permanent makeup,Y,04
+53,174162,Pre-dispersed Ink,Y,04
+53,174163,Semi-permanent Ink,Y,04
+53,174164,Tattoo,Y,04
+53,174883,Eyelash and Eyebrow Adhesive (Eye Makeup Preparations),C,13
+53,174884,Eyelash and Eyebrow Glue (Eye Makeup Preparations),C,13
+53,174885,Eyelash and Eyebrow Sealant (Eye Makeup Preparations),C,13
+53,174886,"Eyelash and Eyebrow Treatments-Gel, Oil, Primer, Conditioners, Serum, Fortifiers (Eye Makeup Prepara",C,14
+53,174887,Eyelash Cleansers (Eye Makeup Preparations),C,15
+53,174888,Eyelash (Other Cosmetic and Cosmetic Products),Y,05
+53,174889,Eyelash and Eyebrow Brush (Other Cosmetic and Cosmetic Products),Y,06
+53,174890,Eyebrow Extensions-Human Hair or Synthetic (Other Cosmetic and Cosmetic Products),Y,07
+53,174891,Hair Extensions-Human Hair or Synthetic (Other Cosmetic and Cosmetic Products),Y,08
+53,174892,Wigs (Other Cosmetic and Cosmetic Products),Y,08
+53,174893,Toupees (Other Cosmetic and Cosmetic Products),Y,08
+53,174894,Beards (Other Cosmetic and Cosmetic Products),Y,08
+53,174895,Eyelash Extensions-Human Hair or Synthetic (Other Cosmetic and Cosmetic Products),Y,09
+53,174896,False Eyelashes (Other Cosmetic and Cosmetic Products),Y,09
+53,174897,Faux Eyelashes (Other Cosmetic and Cosmetic Products),Y,09
+53,175088,Baby Wipes,A,04
+53,176926,"Rouges (Makeup Preparations, not for Eyes)",G,01

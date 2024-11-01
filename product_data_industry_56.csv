@@ -1,0 +1,205 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+56,3420,Bacitracin Peptide (Peptides),F,01
+56,3421,Bambermycin (Non-Certifiable),L,01
+56,3422,"Amoxicillin Trihydrate (Penicillin, Synthetically Produced)",B,03
+56,3423,Calcium Amphomycin,K,03
+56,3424,Amphotericin B (Antifungal),G,04
+56,3425,"Ampicillin (Penicillin, Synthetically Produced)",B,05
+56,3427,Amikacin Sulfate (Aminoglycosides),D,06
+56,3428,"Ampicillin Trihydrate (Penicillin, Synthetically Produced)",B,07
+56,3429,"Ampicillin Sodium (Penicillin, Synthetically Produced)",B,09
+56,3430,"Penicillin G, Natural",A,10
+56,3431,"Benzylpenicilloyl-Polylysine (Penicillin, Synthetically Produced)",B,10
+56,3432,Dihydrostreptomycin (Aminoglycosides),D,10
+56,3433,Chlortetracycline (Tetracyclines),E,10
+56,3435,Candicidin (Antifungal),G,10
+56,3436,Bleomycin Sulfate (Antitumor),H,10
+56,3437,Erythromycin (Macrolides),I,10
+56,3438,Chloramphenicol,K,10
+56,3439,"Carbenicillin Indanyl Sodium (Penicillin, Synthetically Produced)",B,11
+56,3440,Cefazolin Sodium (Cephalosporins),C,11
+56,3441,Dihydrostreptomycin Sulfate (Aminoglycosides),D,11
+56,3442,Chlortetracycline Hydrochloride (Tetracyclines),E,11
+56,3443,Bacitracin Methylene Disalicylate (Peptides),F,11
+56,3444,Chloramphenicol Palmitate,K,11
+56,3446,Dihydrostreptomycin Sulfate & HCl (Aminoglycosides),D,12
+56,3447,Bacitracin Manganese (Peptides),F,12
+56,3448,Chloramphenicol Sodium Succinate,K,12
+56,3449,Bicyclohexylammonium Fumagillin (Non-Certifiable),L,12
+56,3450,"Disodium Carbenicillin (Penicillin, Synthetically Produced)",B,13
+56,3451,Chlortetracycline Bisulfate (Tetracyclines),E,13
+56,3452,Bacitracin Zinc (Peptides),F,13
+56,3453,"Bacitracin, N.E.C. (Peptides)",F,14
+56,3454,Carbomycin (Non-Certifiable),L,14
+56,3455,"Cloxacillin Sodium (Penicillin, Synthetically Produced)",B,15
+56,3456,Demecloclycline Hydrochloride (Tetracyclines),E,15
+56,3457,Capreomycin Sulfate (Peptides),F,15
+56,3458,Erythromycin Estolate (Macrolides),I,15
+56,3460,"Cloxacillin Benzathine (Penicillin, Synthetically Produced)",B,16
+56,3461,Cephalonium (Non-Certifiable),L,16
+56,3463,Coppermixin (Non-Certifiable),L,18
+56,3464,"Sodium Dicloxacillin Monohydrate (Penicillin, Synthetically Produced)",B,19
+56,3465,Cephacetrile Sodium (Cephalosporins),C,19
+56,3466,"Penicillin V, Natural",A,20
+56,3467,Gentamicin (Aminoglycosides),D,20
+56,3468,Doxycycline (Tetracyclines),E,20
+56,3469,Colistimethate Sodium (Peptides),F,20
+56,3470,Griseofulvin (Antifungal),G,20
+56,3471,Dactinomycin (Antitumor),H,20
+56,3472,Erythromycin Lactobinate (Macrolides),I,20
+56,3473,Clindamycin Hydrochloride Hydrate (Lincomycins),J,20
+56,3474,Cycloserine,K,20
+56,3475,Erythromycin Phosphate (Non-Certifiable),L,20
+56,3476,Cephaloglycin Dihydrate (Cephalosporins),C,21
+56,3477,Gentamicin Sulfate (Aminoglycosides),D,21
+56,3478,Doxycycline Monohydrate (Tetracyclines),E,21
+56,3479,Colistin Sulfate (Peptides),F,21
+56,3480,Clindamycin Palmitate Hydrochloride (Lincomycins),J,21
+56,3481,Doxycycline Hyclate (Tetracyclines),E,22
+56,3483,Erythromycin Thiocyanate (Non-Certifiable),L,22
+56,3484,Cephaloridine (Cephalosporins),C,23
+56,3485,Doxorubicin Hydrochloride (Antitumor),H,24
+56,3486,"Hetacillin (Penicillin, Synthetically Produced)",B,25
+56,3487,Sodium Cephalothin (Cephalosporins),C,25
+56,3488,Gramicidin (Peptides),F,25
+56,3489,Daunorubicin Hydrochloride (Antitumor),H,25
+56,3490,Erythromycin Ethylsuccinate (Macrolides),I,25
+56,3491,Flavomycin (Non-Certifiable),L,25
+56,3492,Cephalexin Monohydrate (Cephalosporins),C,27
+56,3493,"Hetacillin Potassium (Penicillin, Synthetically Produced)",B,29
+56,3494,Cephapirin Sodium (Cephalosporins),C,29
+56,3495,Kanamycin (Aminoglycosides),D,30
+56,3496,Polymyxin B Sulfate (Peptides),F,30
+56,3497,Erythromycin Gluceptate (Macrolides),I,30
+56,3498,Lincomycin Hydrochloride Monohydrate (Lincomycins),J,30
+56,3499,Hygromycin B,L,30
+56,3500,Kanamycin Sulfate (Aminoglycosides),D,31
+56,3502,Erythromycin Stearate (Macrolides),I,35
+56,3503,"Sodium Methicillin (Penicillin, Synthetically Produced)",B,36
+56,3505,Cephradine (Cephalosporins),C,40
+56,3506,Neomycin (Aminoglycosides),D,40
+56,3507,Mithramycin (Antitumor),H,40
+56,3508,Erythromycin Sulfate (Macrolides),I,40
+56,3509,Monensin (Non-Certifiable),L,40
+56,3510,"Sodium Nafcillin Monohydrate (Penicillin, Synthetically Produced)",B,41
+56,3511,Neomycin Sulfate (Aminoglycosides),D,41
+56,3512,Neomycin Palmitate (Aminoglycosides),D,42
+56,3513,Mitomycin (Antitumor),H,45
+56,3514,Neomycin Polycarboxylate (Non-Certifiable),L,45
+56,3515,"Sodium Oxacillin (Penicillin, Synthetically Produced)",B,49
+56,3516,"Neomycin, N.E.C. (Aminoglycosides)",D,49
+56,3517,Paromomycin (Aminoglycosides),D,50
+56,3518,Methacycline (Tetracyclines),E,50
+56,3519,Nystatin (Antifungal),G,50
+56,3520,"Novobiocin, Calcium",K,50
+56,3521,Oleandomycin,L,50
+56,3522,"Penicillamine (Penicillin, Synthetically Produced)",B,51
+56,3523,Paromomycin Sulfate (Aminoglycosides),D,51
+56,3524,Methacycline Hydrochloride (Tetracyclines),E,51
+56,3525,"Novobiocin, Sodium",K,51
+56,3526,"Pencillin Benzathine Synthetic Penicillin (Penicillin, Synthetically Produced)",B,52
+56,3528,Minocycline (Tetracyclines),E,60
+56,3529,Spectinomycin Sulfate Tetrahydrate (Non-Certifiable),L,60
+56,3530,Minocycline Hydrochloride (Tetracyclines),E,61
+56,3531,Sulfomyxin,L,62
+56,3532,Oxytetracycline (Tetracyclines),E,65
+56,3533,Thiostrepton (Non-Certifiable),L,65
+56,3534,Oxytetracycline Calcium (Tetracyclines),E,66
+56,3535,Oxytetracycline Hydrochloride (Tetracyclines),E,67
+56,3536,Streptomycin (Aminoglycosides),D,70
+56,3537,Rifampin,K,70
+56,3538,Tylosin (Non-Certifiable),L,70
+56,3540,Tylosin Phosphate (Non-Certifiable),L,71
+56,3541,Tylosin Tartrate (Non-Certifiable),L,72
+56,3542,Rolitetracycline (Tetracyclines),E,75
+56,3543,Tyrothricin (Peptides),F,75
+56,3544,Troleandomycin,I,75
+56,3545,Rolitetracycline Nitrate (Tetracyclines),E,76
+56,3546,Streptomycin Sulfate (Aminoglycosides),D,79
+56,3547,Tobramycin Sulfate (Aminoglycosides),D,80
+56,3548,Tetracycline (Tetracyclines),E,80
+56,3549,Viomycin Sulfate (Peptides),F,80
+56,3550,Spectinomycin Dihydro-Cl Pentahydrate,K,80
+56,3551,Tetracycline Hydrochloride (Tetracyclines),E,81
+56,3552,"Potassium Phenethicillin (Penicillin, Synthetically Produced)",B,82
+56,3553,Tetracycline Phosphate Complex (Tetracyclines),E,82
+56,3555,Vancomycin Hydrochloride,K,85
+56,3556,Virginiamycin (Non-Certifiable),L,85
+56,3557,"Ticarcillin Sodium (Penicillin, Synthetically Produced)",B,90
+56,3558,Vidarabine,K,90
+56,3559,"Penicillin Natural, N.E.C.",A,99
+56,3560,"Synthetic Penicillin, N.E.C.",B,99
+56,3561,Cephalosporin N.E.C.,C,99
+56,3562,"Aminoglycosides, N.E.C.",D,99
+56,3563,Tetracycline N.E.C.,E,99
+56,3564,Peptide N.E.C.,F,99
+56,3565,Antifungal N.E.C.,G,99
+56,3566,Antitumor N.E.C.,H,99
+56,3567,"Macrolide, N.E.C.",I,99
+56,3568,Lincomycin N.E.C.,J,99
+56,3569,"Miscellaneous Antibiotics, N.E.C.",K,99
+56,3570,"Non-Cert Vet Antibiotic, N.E.C.",L,99
+56,3571,Diag Invitro Antibiotic N.E.C.,X,99
+56,3572,Antibiotic N.E.C.,Y,99
+56,150742,"Nafcillin Sodium (Penicillin, Synthetically Produced)",B,53
+56,150743,"Natamycin (Penicillin, Synthetically Produced)",B,54
+56,150744,"Oxacillin Sodium (Penicillin, Synthetically Produced)",B,55
+56,150745,"Piperacillin Sodium (Penicillin, Synthetically Produced)",B,56
+56,150746,"Bacampicillin Hydrochloride (Penicillin, Synthetically Produced)",B,57
+56,150747,Cefaclor (Cephalosporins),C,50
+56,150748,Cefatetan Desodium (Cephalosporins),C,51
+56,150749,Cefdinir (Cephalosporins),C,52
+56,150750,Cefepime Hydrochloride (Cephalosporins),C,53
+56,150751,Cefixime (Cephalosporins),C,54
+56,150752,Cefmenoxime Hydrochloride (Cephalosporins),C,55
+56,150753,Cefmetazole Sodium (Cephalosporins),C,56
+56,150754,Cefonicid Sodium (Cephalosporins),C,57
+56,150755,Cefoperazone Sodium (Cephalosporins),C,58
+56,150756,Ceforanide (Cephalosporins),C,59
+56,150757,Cefotaxime Sodium (Cephalosporins),C,60
+56,150758,Cefotetan Disodium (Cephalosporins),C,61
+56,150759,Cefoxitin Sodium (Cephalosporins),C,62
+56,150760,Cefpiramide Sodium (Cephalosporins),C,63
+56,150761,Cefpodoxime Proxetil (Cephalosporins),C,64
+56,150762,Cefprozil (Cephalosporins),C,65
+56,150763,Ceftazidime (Cephalosporins),C,66
+56,150764,Ceftazidime Sodium (Cephalosporins),C,67
+56,150765,Ceftibuten (Cephalosporins),C,68
+56,150766,Ceftizoxime Sodium (Cephalosporins),C,69
+56,150767,Ceftriaxone Sodium (Cephalosporins),C,70
+56,150768,Cefuroxime Axetil (Cephalosporins),C,71
+56,150769,Cefuroxime Sodium (Cephalosporins),C,72
+56,150770,Cephalexin Hydrochloride (Cephalosporins),C,73
+56,150771,Cephradine (Cephalosporins),C,74
+56,150772,Loracarbef (Cephalosporins),C,75
+56,150773,Azithromycin (Macarolides),I,76
+56,150774,Clindamycin Phosphate (Lincomycins),J,31
+56,151000,Aztreonam (BACTAM (B-Lactam Antibiotic)),M,01
+56,151001,Sulbactam Sodium/Ampicillin Sodium (BACTAM (B-Lactam Antibiotic)),M,02
+56,151420,Quinupristin (Streptogramins),N,01
+56,151421,Levaquin (Fluoroquinolone),O,01
+56,151422,Moxifloxacin HCL (Fluoroquinolone),O,02
+56,151423,Linezolid (Oxazolidinone),P,01
+56,153747,Cefditoren pivoxil,C,76
+56,155064,Spectracef,C,76
+56,156095,Marbofloxacin (Fluoroquinolone),O,03
+56,156096,Zenequin,O,03
+56,156097,Danofloxacin Mesylate (Fluoroquinolone),O,04
+56,156098,(Fluoroquinolone) N.E.C.,O,99
+56,156581,Enrofloxacin (Fluoroquinolone),O,05
+56,156582,Baytril,O,05
+56,156595,Amikin,D,06
+56,157178,Diamthazole Dihydrochloride,G,05
+56,165360,Zithromax,I,76
+56,175522,Eravacycline Dihydrochloride (Tetracyclines),E,83
+56,175523,Xerava,E,83
+56,175524,Sarecycline Hydrochloride (Tetracyclines),E,84
+56,175525,Seysara,E,84
+56,175526,Omadacycline Tosylate (Tetracyclines),E,85
+56,175527,Nuzyra,E,85
+56,175779,Plazomicin Sulfate (Aminoglycosides),D,81
+56,175780,Rifamycin Sodium (Macrolides),I,77
+56,175797,Zemdri,D,81
+56,175798,Aemcolo,I,77
+56,177030,Tigecycline (Tetracyclines),E,86
+56,177031,Tygacil,E,86

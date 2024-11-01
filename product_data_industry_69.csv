@@ -1,0 +1,112 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+69,6576,"Amprolium Category II, Medicated Animal Feed",B,03
+69,6577,"Amprolium Combo Category I & II, Medicated Animal Feed",C,03
+69,6579,"Amprolium With Ethopabate Category I, Medicated Animal Feed",A,04
+69,6580,"Amprolium With Ethopabate Combo Category I & II, Medicated Animal Feed",C,04
+69,6588,"Bacitracin Methylene Disalicylate Category I, Medicated Animal Feed",A,07
+69,6589,"Bacitracin Methylene Disalicylate Combo Category I & II, Medicated Animal Feed",C,07
+69,6592,"Bacitracin Zinc Combo Category I & II, Medicated Animal Feed",C,08
+69,6593,"Bacitracin Zinc Category I, Medicated Animal Feed",A,08
+69,6594,"Bambermycins Category I, Medicated Animal Feed",A,09
+69,6595,"Bambermycins Combo Category I & II, Medicated Animal Feed",C,09
+69,6600,"Carbadox Category II, Medicated Animal Feed",B,11
+69,6601,"Carbadox Combo Category I & II, Medicated Animal Feed",C,11
+69,6608,"Chlortetracycline Category I, Medicated Animal Feed",A,14
+69,6609,"Chlortetracycline Combo Category I & II, Medicated Animal Feed",C,14
+69,6617,"Chlortetracycline & Sulfamethazine Category II, Medicated Animal Feed",B,17
+69,6618,"Chlortetracycline & Sulfamethazine Combo Category I & II, Medicated Animal Feed",C,17
+69,6620,"Clopidol Category II, Medicated Animal Feed",B,18
+69,6621,"Clopidol Combo Category I & II, Medicated Animal Feed",C,18
+69,6623,"Coumaphos Category I, Medicated Animal Feed",A,19
+69,6624,"Coumaphos Combo Category I & II, Medicated Animal Feed",C,19
+69,6626,"Decoquinate Category I, Medicated Animal Feed",A,20
+69,6627,"Decoquinate Combo Category I & II, Medicated Animal Feed",C,20
+69,6629,"Dichlorvos Category I, Medicated Animal Feed",A,21
+69,6630,"Dichlorvos Combo Category I & II, Medicated Animal Feed",C,21
+69,6636,"Erythromycin(Thiocyanate Salt) Combo Category I & II, Medicated Animal Feed",C,23
+69,6638,"Famphur Category II, Medicated Animal Feed",B,24
+69,6639,"Famphur Combo Category I & II, Medicated Animal Feed",C,24
+69,6647,"Hygromycin B Combo Category I & II, Medicated Animal Feed",C,27
+69,6648,"Hygromycin B Category II, Medicated Animal Feed",B,27
+69,6649,"Iodinated Casein Category I, Medicated Animal Feed",A,28
+69,6650,"Iodinated Casein Combo Category I & II, Medicated Animal Feed",C,28
+69,6655,"Lasalocid Combo Category I & II, Medicated Animal Feed",C,30
+69,6661,"Lincomycin Combo Category I & II, Medicated Animal Feed",C,32
+69,6664,"Melengestrol Acetate Combo Category I & II, Medicated Animal Feed",C,33
+69,6666,"Monensin Category I, Medicated Animal Feed",A,34
+69,6667,"Monensin Combo Category I & II, Medicated Animal Feed",C,34
+69,6672,"Nicarbazin Category II, Medicated Animal Feed",B,36
+69,6673,"Nicarbazin Combo Category I & II, Medicated Animal Feed",C,36
+69,6684,"Novobiocin Category II, Medicated Animal Feed",B,40
+69,6685,"Novobiocin Combo Category I & II, Medicated Animal Feed",C,40
+69,6687,"Nystatin Category I, Medicated Animal Feed",A,41
+69,6688,"Nystatin Combo Category I & II, Medicated Animal Feed",C,41
+69,6694,"Oxytetracycline Combo Category I & II, Medicated Animal Feed",C,43
+69,6695,"Oxytetracycline Category I, Medicated Animal Feed",A,43
+69,6696,"Neomycin & Oxytetracycline Category II, Medicated Animal Feed",B,44
+69,6697,"Neomycin & Oxytetracycline Combo Category I & II, Medicated Animal Feed",C,44
+69,6705,"Poloxalene Category I, Medicated Animal Feed",A,48
+69,6706,"Poloxalene Combo Category I & II, Medicated Animal Feed",C,48
+69,6710,"Pyrantel Tartrate Category II, Medicated Animal Feed",B,50
+69,6711,"Pyrantel Tartrate Combo Category I & II, Medicated Animal Feed",C,50
+69,6713,"Robenidine Category II, Medicated Animal Feed",B,51
+69,6714,"Robenidine Combo Category I & II, Medicated Animal Feed",C,51
+69,6726,"Sulfadimethoxine Ormetoprim Category II, Medicated Animal Feed",B,56
+69,6727,"Sulfadimethoxine Ormetoprim Combo Category I & II, Medicated Animal Feed",C,56
+69,6732,"Sulfamerazine Category II, Medicated Animal Feed",B,58
+69,6733,"Sulfamerazine Combo Category I & II, Medicated Animal Feed",C,58
+69,6735,"Sulfaquinoxaline Category II, Medicated Animal Feed",B,59
+69,6736,"Sulfaquinoxaline Combo Category I & II, Medicated Animal Feed",C,59
+69,6738,"Thiabendazole Category II, Medicated Animal Feed",B,60
+69,6739,"Thiabendazole Combo Category I & II, Medicated Animal Feed",C,60
+69,6741,"Tylosin Category I, Medicated Animal Feed",A,61
+69,6742,"Tylosin Combo Category I & II, Medicated Animal Feed",C,61
+69,6744,"Sulfamethazine & Tylosin Category II, Medicated Animal Feed",B,62
+69,6745,"Sulfamethazine & Tylosin Combo Category I & II, Medicated Animal Feed",C,62
+69,6748,"Virginiamycin Combo Category I & II, Medicated Animal Feed",C,63
+69,6749,"Virginiamycin Category I, Medicated Animal Feed",A,63
+69,6750,"Zoalene Category I, Medicated Animal Feed",A,64
+69,6751,"Zoalene Combo Category I & II, Medicated Animal Feed",C,64
+69,6760,"Fenbendazole Combo Category I & II, Medicated Animal Feed",C,67
+69,6762,"Halofuginone Hydrobromide Category II, Medicated Animal Feed",B,68
+69,6763,"Halofuginone Hydrobromide Combo Category I & II, Medicated Animal Feed",C,68
+69,6765,"Morantel Tartrate Category II, Medicated Animal Feed",B,69
+69,6766,"Morantel Tartrate Combo Category I & II, Medicated Animal Feed",C,69
+69,6768,"Neomycin Category II, Medicated Animal Feed",B,70
+69,6769,"Neomycin Combo Category I & II, Medicated Animal Feed",C,70
+69,6795,"Salinomycin Category I, Medicated Animal Feed",A,79
+69,6796,"Salinomycin Combo Category I & II, Medicated Animal Feed",C,79
+69,6804,"Apramycin Category II, Medicated Animal Feed",B,82
+69,12625,"Apramycin Combo Category I & II, Medicated Animal Feed",C,82
+69,24712,"Lasalocid  Category I, Medicated Animal Feed",A,30
+69,24713,"Lincomycin  Category I, Medicated Animal Feed",A,32
+69,24714,"Narasin  Category I, Medicated Animal Feed",A,84
+69,24716,"Fenbendazole  Category II, Medicated Animal Feed",B,67
+69,24717,"Maduramicin Ammonium  Category II, Medicated Animal Feed",B,83
+69,24806,"Maduramicin Ammonium Combo Category I & II, Medicated Animal Feed",C,83
+69,24807,"Narasin Combo Category I & II, Medicated Animal Feed",C,84
+69,24808,"Nicarbazin with Narasin Combo Category I & II, Medicated Animal Feed",C,85
+69,24809,"Tiamulin Combo Category I & II, Medicated Animal Feed",C,86
+69,150720,"Tilmicosin, Category II, Medicated Animal Feed",B,87
+69,150721,"Pulmotil, Category II, Medicated Animal Feed",B,87
+69,150725,"Category I, N.E.C., Medicated Animal Feed",A,99
+69,150726,"Category II, N.E.C., Medicated Animal Feed",B,99
+69,150727,"Combo, Category I & II, N.E.C., Medicated Animal Feed",C,99
+69,164439,"Zilpaterol Hydrochloride, Category II, Medicated Animal Feed",B,88
+69,172991,"Melengestrol Acetate Category I, Medicated Animal Feed",A,33
+69,172992,"Diclazuril Category I, Medicated Animal Feed",A,22
+69,172994,"Efrotomycin Category I, Medicated Animal Feed",A,24
+69,172996,"Laidlomycin Propionate Potassium Category I, Medicated Animal Feed",A,29
+69,172998,"Semduramycin Category I, Medicated Animal Feed",A,49
+69,173001,"Ractopamine Category I, Medicated Animal Feed",A,50
+69,173002,"Florfenicol Category II, Medicated Animal Feed",B,13
+69,173005,"Ivermectin Category II, Medicated Animal Feed",B,14
+69,175977,"Erythromycin(Thiocyanate Salt) Category II, Medicated Animal Feed",B,23
+69,175979,"Nicarbazin w/Narasin  Category I, Medicated Animal Feed",A,85
+69,175981,"Tiamulin  Category II, Medicated Animal Feed",B,86
+69,175983,Avilamycin Category I Medicated Animal Feed,A,26
+69,175984,Avilamycin and Monensin Category I Medicated Animal Feed,A,89
+69,175985,Avilamycin and Narasin Category I Medicated Animal Feed,A,90
+69,175986,Avilamycin and Salinomycin Sodium Category I Medicated Animal Feed,A,53
+69,175987,Avilamycin and Narasin and Nicarbazin Category I Medicated Animal Feed,A,55
+69,175989,Tylvalosin Category I Medicated Animal Feed,A,47

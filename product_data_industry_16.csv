@@ -1,0 +1,815 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+16,518,Anchovy,A,01
+16,519,"Anchovy, Breaded",B,01
+16,520,"Anchovy, Cakes, Balls, Etc.",C,01
+16,521,"Abalone, Cakes, Balls, Etc.",G,01
+16,522,Abalone,E,01
+16,523,"Abalone, Breaded",F,01
+16,524,"Crab, Cakes, Balls, Etc.",L,01
+16,525,Crab,J,01
+16,526,"Crab, Breaded",K,01
+16,527,"Frog Legs, Cakes, Balls, Etc., Other Aquatic Species",P,01
+16,528,"Frog Legs, Other Aquatic Species",M,01
+16,529,"Frog Legs, Breaded, Other Aquatic Species",N,01
+16,530,"Caviar, Fishery Products, n.e.c.",Y,01
+16,532,Barracuda,A,02
+16,533,Barracuda Breaded,B,02
+16,534,"Barracuda, Cakes, Balls, Etc.",C,02
+16,535,"Clams, Cakes, Balls, Etc.",G,02
+16,536,Clams,E,02
+16,537,"Clams, Breaded",F,02
+16,538,"Crayfish (Crawfish), Fresh Water, Cakes, Balls, Etc.",L,02
+16,539,"Crayfish (Crawfish), Fresh Water",J,02
+16,540,"Crayfish (Crawfish), Fresh Water, Breaded",K,02
+16,541,"Seal, Cakes, Balls, Etc., Other Aquatic Species",P,02
+16,542,"Seal, Other Aquatic Species",M,02
+16,543,"Seal, Breaded, Other Aquatic Species",N,02
+16,544,"Seafood In Cocktail Sauce  (Appetizers), Fishery Products, n.e.c.",Y,02
+16,546,"Bass, Fresh Water (Largemouth, Smallmouth, Etc.)",A,03
+16,547,"Bass, Fresh Water (Largemouth, Smallmouth, Etc.), Breaded",B,03
+16,548,"Bass, Fresh Water (Largemouth, Smallmouth), Cakes, Balls, Etc.",C,03
+16,549,"Oysters, Cakes, Balls, Etc.",G,03
+16,550,Oysters,E,03
+16,551,"Oysters, Breaded",F,03
+16,555,"Squid, Cakes, Balls, Etc., Other Aquatic Species",P,03
+16,556,"Squid, Other Aquatic Species",M,03
+16,557,"Squid, Breaded, Other Aquatic Species",N,03
+16,558,"Fish Paste, Fishery Products, n.e.c.",Y,03
+16,560,"Bass, Salt or Brackisk Water (Stripe Bass, white Perch, Black Bass, Etc.)",A,04
+16,561,"Bass, Salt or Brackisk Water (Stripe Bass, White Perch, Black Bass, Etc.), Breaded",B,04
+16,562,"Bass, Salt or Brackish Water (Stripe Bass, White Perch, Black Bass), Cakes, Balls, Etc.",C,04
+16,563,"Mussels, Cakes, Balls, Etc.",G,04
+16,564,Mussels,E,04
+16,565,"Mussels, Breaded",F,04
+16,566,"Lobster, Cakes, Balls, Etc.",L,04
+16,567,Lobster,J,04
+16,568,"Lobster, Breaded",K,04
+16,572,"Fish Roe, Fishery Products, n.e.c.",Y,04
+16,574,Blue Fish,A,05
+16,575,"Blue Fish, Breaded",B,05
+16,576,"Blue Fish, Cakes, Balls, Etc.",C,05
+16,577,"Scallops, Cakes, Balls, Etc.",G,05
+16,578,Scallops,E,05
+16,579,"Scallops, Breaded",F,05
+16,580,"Shrimp & Prawns, Cakes, Balls, Etc.",L,05
+16,581,Shrimp & Prawns,J,05
+16,582,"Shrimp & Prawns, Breaded",K,05
+16,583,"Terrapin & Turtle, Cakes, Balls, Etc., Other Aquatic Species",P,05
+16,584,"Terrapin & Turtle, Other Aquatic Species",M,05
+16,585,"Terrapin & Turtles, Breaded, Other Aquatic Species",N,05
+16,586,"Gefilte Fish, Fishery Products, n.e.c.",Y,05
+16,588,"Blue Pike, Walleye",A,06
+16,589,"Blue Pike, Walleye Breaded",B,06
+16,590,"Blue Pike,  Walleye Cakes, Balls, Etc.",C,06
+16,591,"Whale, Cakes, Balls, Etc., Other Aquatic Species",P,06
+16,592,"Whale, Other Aquatic Species",M,06
+16,593,"Whale, Breaded, Other Aquatic Species",N,06
+16,596,Bonito,A,07
+16,597,"Bonito, Breaded",B,07
+16,598,"Bonito, Cakes, Balls, Etc.",C,07
+16,600,Butterfish,A,08
+16,601,"Butterfish, Breaded",B,08
+16,602,"Butterfish, Cakes, Balls, Etc.",C,08
+16,604,Carp,A,09
+16,605,"Carp, Breaded",B,09
+16,606,"Carp, Cakes, Balls, Etc.",C,09
+16,611,"Dips Containing Seafoods, Fishery Products, n.e.c.",Y,10
+16,613,Cod,A,12
+16,614,"Cod, Breaded",B,12
+16,615,"Cod, Cakes, Balls, Etc.",C,12
+16,617,Croaker,A,13
+16,618,"Croaker, Breaded",B,13
+16,619,"Croaker, Drum, Cakes, Balls, Etc.",C,13
+16,621,Cusk,A,14
+16,622,"Cusk, Breaded",B,14
+16,623,"Cusk, Cakes, Balls, Etc.",C,14
+16,625,Eel,A,15
+16,626,"Eels, Breaded",B,15
+16,627,"Eels, Cakes, Balls, Etc.",C,15
+16,629,"Flounder (Arrowtooth, Dab, Fluke)",A,16
+16,630,"Flounder (Yellow Tail, Dab, Fluke, Etc.), Breaded",B,16
+16,631,"Flounder (Yellow Tail,Dab,Fluke), Cakes, Balls, Etc.",C,16
+16,633,Groupers,A,17
+16,634,"Groupers, Breaded",B,17
+16,635,"Groupers, Caakes, Balls, Etc.",C,17
+16,637,Haddock,A,18
+16,638,"Haddock, Breaded",B,18
+16,639,"Haddock, Cakes, Balls, Etc.",C,18
+16,641,Hake,A,19
+16,642,"Hake, Breaded",B,19
+16,643,"Hake, Cakes, Balls, Etc.",C,19
+16,645,Halibut,A,20
+16,646,"Halibut, Breaded",B,20
+16,647,"Halibut, Cakes, Balls, Etc.",C,20
+16,649,Herring,A,21
+16,650,"Herring (Glut Herring, Fall Herring, Alewives, Shad, Etc.), Breaded",B,21
+16,651,"Herring (Glut Herring, Fall Herring, Alewives, Shad, Etc.), Cakes, Balls, Etc.",C,21
+16,653,Mackerel (only Scomberomorus spp eg. Spanish or King),A,22
+16,654,"Mackerel, Breaded (only Scomberomorus spp eg. Spanish or King)",B,22
+16,655,"Mackerel, Cakes, Balls, Etc.",C,22
+16,657,Mullet,A,23
+16,658,"Mullet, Breaded",B,23
+16,659,"Mullet, Cakes, Balls, Etc.",C,23
+16,661,"Perch, Ocean",A,24
+16,662,"Ocean Perch (Rosefish, Red Perch, Pacific Perch, Etc.), Breaded",B,24
+16,663,"Ocean Perch (Rosefish, Red Perch, Pacific Perch), Cakes, Balls, Etc.",C,24
+16,665,"Pike, Pickerel, Muskellunge",A,25
+16,666,"Pike (Northern andd Other Pike Fish), Breaded",B,25
+16,667,"Pike (Northern and Other Pike), Cakes, Balls, Etc.",C,25
+16,669,"Perch, Fresh Water (Yellow, Lake)",A,26
+16,670,"Perch, Fresh Water (Yellow Perch, Etc.), Breaded",B,26
+16,671,"Perch,Freshwater (Yellow Perch,Etc), Cakes, Balls, Etc.",C,26
+16,673,Paddlefish,A,27
+16,674,"Paddlefish, Breaded",B,27
+16,675,"Paddlefish, Ckes, Balls, Etc.",C,27
+16,678,"Pollack, Breaded",B,28
+16,679,"Pollack, Cakes, Balls, Etc.",C,28
+16,681,"Pompano (Permit, Pompanito)",A,29
+16,682,"Pompano, Breaded",B,29
+16,683,"Pompano, Cakes, Balls, Etc.",C,29
+16,685,Porgy,A,30
+16,686,"Porgy, Breaded",B,30
+16,687,"Porgy, Cakes, Balls, Etc.",C,30
+16,689,Sable Fish,A,31
+16,690,"Sable Fish (Black Cod), Breaded",B,31
+16,691,"Sable Fish (Black Cod), Cakes, Balls, Etc.",C,31
+16,693,"Salmon (Humpback, Silver, King, Sockeye, Etc.)",A,32
+16,694,"Salmon (Humpback, Silver, King, Sockeye, Etc.), Breaded",B,32
+16,695,"Salmon (Humpback, Silver, King, Sockeye, Etc.), Cakes, Balls, Etc.",C,32
+16,697,"Sardines (Brisling, Sprats, Pilchards, Etc.)",A,33
+16,698,"Sardines, (Brisling, Sprats, Pilchards, Etc.), Breaded",B,33
+16,699,"Sardines (Brisling, Sprats, Pilchards, Etc.), Cakes, Balls, Etc.",C,33
+16,701,Sauger,A,34
+16,702,"Sauger, Breaded",B,34
+16,703,"Sauger, Cakes, Balls, Etc.",C,34
+16,705,Shark,A,35
+16,706,"Shark, Breaded",B,35
+16,707,"Shark, Cakes, Balls, Etc.",C,35
+16,709,Smelt,A,36
+16,710,"Smelt, Breaded",B,36
+16,711,"Smelt, Cakes, Balls, Etc.",C,36
+16,713,"Snapper (Red, Gray, Malabar, etc.)",A,37
+16,714,"Snapper, Red (Red Rockfish), Breaded",B,37
+16,715,"Snapper, Red (Red Rockfish), Cakes, Balls, Etc.",C,37
+16,717,Spot Fish,A,39
+16,718,"Spot Fish, Breaded",B,39
+16,719,"Spot Fish, Cakes,Balls, Etc.",C,39
+16,721,Sturgeon (River and Sea),A,40
+16,722,"Sturgeon (River and Sea), Breaded",B,40
+16,723,"Sturgeon (River and Ocean), Cakes, Balls, Etc.",C,40
+16,725,Suckers (Buffalo Fish),A,41
+16,726,"Suckers (Buffalo Fish, Etc.), Breaded",B,41
+16,727,"Suckers (Buffalo Fish, Etc.), Cakes, Balls, Etc.",C,41
+16,729,Swordfish,A,42
+16,730,"Swordfish, Breaded",B,42
+16,731,"Swordfish, Cakes, Balls, Etc.",C,42
+16,733,Totoava (White Sea Bass),A,43
+16,734,"Totoava (White Sea Bass), Breaded",B,43
+16,735,"Totoava (White Sea Baass), Cakes, Balls, Etc.",C,43
+16,737,"Trout (Rainbow, Brook, Brown, Char, Steelhead, Etc.)",A,44
+16,738,"Trout (Rainbow, Brook, Brown, Char, Etc.), Breaded",B,44
+16,739,"Trout (Rainbow, Brook, Brown, Char, Etc.), Cakes, Balls, Etc.",C,44
+16,741,"Tuna (Albacore, Yellowfin, Bluefin, Skipjack, Etc.)",A,45
+16,742,"Tuna (Albacore, Yellowfin, Bluefin, Skipjack, Etc.), Breaded",B,45
+16,743,"Tuna (Albacore, Yellowfin, Bluefin, Skipjack, Etc.), Cakes, Balls, Etc.",C,45
+16,745,Turbot,A,46
+16,746,"Turbot, Breaded",B,46
+16,747,"Turbot, Cakes, Balls, Etc.",C,46
+16,749,Weakfish (Sea Trout),A,47
+16,750,"Weakfish (Sea Trout), Breaded",B,47
+16,751,"Weakfish (Sea Trout), Cakes, Balls, Etc.",C,47
+16,753,"White Fish (Ciscoes, Lake Herring, Chubs, Tullibees, Etc.)",A,48
+16,754,"White Fish (Ciscoes, Lake Herring, Chubs, Tullibees, Etc.), Breaded",B,48
+16,755,"White Fish (Ciscoes, Lake Herring, Chubs, Tullibees), Cakes, Balls, Etc.",C,48
+16,757,"Whiting (King, Northern and Silver)",A,49
+16,758,"Whiting (King, Northern and Silver), Breaded",B,49
+16,759,"Whiting (King, Northern, and Silver), Cakes, Balls, Etc.",C,49
+16,761,"Fish, N.E.C.",A,99
+16,762,"Fish, Breaded, N.E.C.",B,99
+16,763,"Fish Cakes, Balls, Etc., N.E.C.",C,99
+16,764,"Shellfish Cakes, Balls, Etc., N.E.C.",G,99
+16,765,"Shellfish, N.E.C.",E,99
+16,766,"Shellfish Breaded, N.E.C.",F,99
+16,767,"Crustaceans, Cakes, Balls, Etc., N.E.C.",L,99
+16,768,"Crustaceans, N.E.C.",J,99
+16,769,"Crustaceans, Breaded, N.E.C.",K,99
+16,770,"Other Aquatic Animals, Cakes, Balls, Etc., N.E.C.",P,99
+16,771,"Other Aquatic Animals, N.E.C.",M,99
+16,772,"Other Aquatic Animals, Breaded, N.E.C.",N,99
+16,773,"Fishery Products, N.E.C.",Y,99
+16,23865,Orange Roughy,A,50
+16,23866,"Orange Roughy, Breaded",B,50
+16,23868,"Orange Roughy, Cakes, Balls, Etc.",C,50
+16,23870,Mahi Mahi,A,51
+16,23871,"Mahi Mahi (dolphin fish), Breaded",B,51
+16,23872,"Mahi Mahi (Dolphin Fish), Cakes, Balls, Etc.",C,51
+16,23874,"Gourmay, gourami",A,52
+16,23875,"Gourmay,gourami, Breaded",B,52
+16,23876,"Gourmay,gourami, Cakes, Balls, Etc.",C,52
+16,23878,Milkfish,A,53
+16,23879,"Milkfish, Breaded",B,53
+16,23880,"Milkfish, Cakes, Balls, Etc.",C,53
+16,23882,Marlin,A,54
+16,23883,"Marlin, Breaded",B,54
+16,23884,"Marlin, Cakes, Balls, Etc.",C,54
+16,23886,Corvina,A,55
+16,23887,"Corvina, Breaded",B,55
+16,23888,"Corvina, Cakes, Balls, Etc.",C,55
+16,23890,Filefish,A,56
+16,23891,"Filefish, Breaded",B,56
+16,23892,"Filefish, Cakes, Balls, Etc.",C,56
+16,23894,Dace,A,57
+16,23895,"Dace, Breaded",B,57
+16,23896,"Dace, Cakes, Balls, Etc.",C,57
+16,23898,Tilapia,A,58
+16,23899,"Tilapia, Breaded",B,58
+16,23900,"Tilapia, Cakes, Balls, Etc.",C,58
+16,23902,Scad,A,59
+16,23903,"Scad, Breaded",B,59
+16,23904,"Scad, Cakes, Balls, Etc.",C,59
+16,23906,Sheatfish,A,60
+16,23907,"Sheatfish, Breaded",B,60
+16,23908,"Sheatfish, Cakes, Balls, Etc.",C,60
+16,23910,"Siganid Fry, Spinefoot",A,61
+16,23911,"Siganid Fry, Breaded",B,61
+16,23912,"Siganid Fry, Cakes, Balls, Etc.",C,61
+16,23914,Snake Head,A,62
+16,23915,"Snake Head, Breaded",B,62
+16,23916,"Snake Head, Cakes, Balls, Etc.",C,62
+16,23918,Kingfish (only Menticirrhus spp),A,63
+16,23919,"Kingfish, Breaded (only Menticirrhus spp)",B,63
+16,23920,"Kingfish, Cakes, Balls, Etc.",C,63
+16,23922,Mud Fish,A,64
+16,23923,"Mud Fish, Breaded",B,64
+16,23924,"Mud Fish, Cakes, Balls, Etc.",C,64
+16,23926,Puffer,A,65
+16,23927,"Puffer, Breaded",B,65
+16,23928,"Puffer, Cakes, Balls, Etc.",C,65
+16,23930,"Conch,Conchmeat",E,06
+16,23931,"Conch,Conchmeat, Breaded",F,06
+16,23932,"Conch,Conchmeat, Cakes, Balls, Etc.",G,06
+16,23934,Limpets,E,07
+16,23935,"Limpets, Breaded",F,07
+16,23936,"Limpets, Cakes, Balls, Etc.",G,07
+16,23938,Arkshells,E,08
+16,23939,"Arkshells, Breaded",F,08
+16,23940,"Arkshells, Cakes, Balls, Etc.",G,08
+16,23942,Abalone - style Shellfish (Concholepas concholepas),E,09
+16,23943,"Abalone-style shellfish (Concholepas concholepas), Breaded",F,09
+16,23944,"Abalone-style shellfish (Concholepas concholepas), Cakes, Balls, Etc.",G,09
+16,23946,Cockles,E,10
+16,23947,"Cockles, Breaded",F,10
+16,23948,"Cockles, Cakes, Balls, Etc.",G,10
+16,23950,"Cuttlefish, Other Aquatic Species",M,07
+16,23951,"Cuttlefish, Breaded, Other Aquatic Species",N,07
+16,23952,"Cuttlefish, Cakes, Balls, Etc., Other Aquatic Species",P,07
+16,23954,"Jellyfish, Other Aquatic Species",M,08
+16,23955,"Jellyfish, Breaded, Other Aquatic Species",N,08
+16,23956,"Jellyfish, Cakes, Balls, Etc., Other Aquatic Species",P,08
+16,23958,"Octopus, Other Aquatic Species",M,09
+16,23959,"Octopus, Breaded, Other Aquatic Species",N,09
+16,23960,"Octopus, Cakes, Balls, Etc., Other Aquatic Species",P,09
+16,23962,"Sea Cucumber, Other Aquatic Species",M,10
+16,23963,"Sea Cucumber, Breaded, Other Aquatic Species",N,10
+16,23964,"Sea Cucumber, Cakes, Balls, Etc., Other Aquatic Species",P,10
+16,23966,"Sea Urchin, Other Aquatic Species",M,11
+16,23967,"Sea Urchin, Breaded",N,11
+16,23968,"Sea Urchin, Cakes, Balls, Etc., Other Aquatic Species",P,11
+16,23970,"Sea Slug (Beche de la Mer), Other Aquatic Species",M,12
+16,23971,"Sea Slug (Beche de la Mer), Breaded, Other Aqautic Species",N,12
+16,23972,"Sea Slug (Beche de la Mer), Cakes, Balls, Etc., Other Aquatic Species",P,12
+16,23974,Surimi (Used for Further Processing into Imitation Seafood),R,01
+16,23975,"Crab, Imitation",R,02
+16,23976,"Shrimp, Imitation",R,03
+16,23977,"Lobster, Imitation",R,04
+16,23978,"Scallops, Imitation",R,05
+16,23979,"Other Engineered Seafood Products, N.E.C.",R,99
+16,23980,"Fish Maw, Fishery Products, n.e.c.",Y,07
+16,23981,"Shark Fin, Fishery Products, n.e.c.",Y,08
+16,23982,"Fish Sauce, Fishery Products, n.e.c.",Y,09
+16,24769,Rosefish,A,24
+16,24770,"Perch, Red Fish",A,24
+16,24771,"Perch, Pacific Fish",A,24
+16,24772,"Rockfish, Red",A,24
+16,24773,Dolphin Fish,A,51
+16,24799,"Alligator & Crocodile, Other Aquatic Species",M,13
+16,24800,"Alligator & Crocodile, Breaded, Other Aquatic Species",N,13
+16,24801,"Alligator & Crocodile, Cakes, Balls, Etc., Other Aquatic Species",P,13
+16,25038,"Pollack, Pollock",A,28
+16,25443,Awpo (Korean dried fish seasoned with spices),A,99
+16,25449,"Bagoong Na Isda (fermented, salty Philippine fish paste, typically grey color), Fishery Prod n.e.c.",Y,03
+16,25475,"Budu (Malaysian anchovy-based fish sauce consumed as a condiment on rice, vegetable dip or flavoring",Y,09
+16,25477,Buloot (Indonesian dried baby eel),A,15
+16,25481,"Buro (Salty Philippine fish paste made by fermenting mudfish with rice), Fishery Products, n.e.c.",Y,03
+16,25494,"Chikewo (Fermented, salty Japanese fish paste), Fishery Products, n.e.c.",Y,03
+16,25502,"Chukkal (Fermented, salty Korean fish paste), Fishery Products, n.e.c.",Y,03
+16,25523,Funazushi (salty Japanese fish paste made by fermenting carp (Carassius species) and cooked rice),Y,03
+16,25538,Gravlaks (Swedish or Danish raw salmon cured in salt-sugar-dill mixture),A,32
+16,25546,Hakari (pickled shark from Iceland),A,35
+16,25555,Momoni (strong-smelling dried salted fish used in W. Africa to flavor & enrich soups & stews),A,99
+16,25560,"Muc Kho (Vietnamese dried squid w/chewy texture and adds smokey, salty flavor)",M,03
+16,25570,"Nga Ngapi (salty, fermented Burmese fish paste), Fishery Products, n.e.c.",Y,03
+16,25574,Niboshi (Japanese dried sardines that are eaten as snack or used for making stock),A,33
+16,25587,"Paak (salty Asian or Southeast Asian fish paste; fermented fish or shrimp w/rice), Fishery Prod nec",Y,03
+16,25588,"Padec (salty Laotian fish paste made from fermenting fish w/glutinous rice) Fishery Products, n.e.c.",Y,03
+16,25596,"Patis (strong, salty Philippine fish sauce), Fishery Products, n.e.c.",Y,09
+16,25600,"Phaac (salty Kampuchean fish paste made from fermenting fish w/glutinous rice), Fishery Products nec",Y,03
+16,25606,"Plaa Tuu (small Thai salted mackerel, fried & usually served w/rice)",A,22
+16,25626,Sanjeot (pickled Korean shrimp),J,05
+16,25640,Hirring Gepikilti (pickled herring from Israel),A,21
+16,25641,"Ho See (Chinese dried, grey-brown oysters, used in Philippine and Thai cooking)",E,03
+16,25642,Hoi-Dong (pickled mollusk from Thailand),E,99
+16,25663,Joht (many types of marine products; highly salted & fermented into liquid form used in Korea),Y,09
+16,25671,Kamaboko (Japanese steam fish cake made from pressed white fish & tinted red on top),C,48
+16,25673,"Kapi (fermented salty Thai fish paste; made from small fish), Fishery Products n.e.c.",Y,03
+16,25680,"Shiokara (salty, fermented Japanese fish paste made with entrails and livers)",Y,03
+16,25689,"Som-Fak (salty, fermented fish paste from northeastern Thailand)",Y,03
+16,25696,Su-Zuke (pickled Japanese fish),A,99
+16,25702,Sushi Fish Paste (salty Japanese fish paste made from fermenting fish w/cooked rice),Y,03
+16,25743,Trassi (salty Indonesian or sumatran fish paste made by fermenting small fish w/rice),Y,03
+16,25748,Katsuobushi (Bonito or skipjack tuna roasted & dried; used as a flavoring agent),A,45
+16,25775,Kryddersild (Scandinavian pickled herring),A,21
+16,25781,Kyungyook (Korean whale meat),M,06
+16,25805,Mam (salty Vietnamese or Kampuchean fish paste made by fermenting several varieties of fish w/rice),Y,03
+16,25807,"Mam-Ruot (salty, fermented Kampuchean paste made from fish entrails), Fishery Products, n.e.c.",Y,03
+16,25818,Meolchijeot (Korean picked anchovies),A,01
+16,25822,Min Pada (hot fish pickle from India),A,99
+16,25826,Tsukundani (Japanese pickled fish in soy sauce),A,99
+16,25832,Uni (Japanese sea urchin),M,11
+16,25850,"Yu Low (Chinese fish sauce), Fishery Products, n.e.c.",Y,09
+16,150020,Tongol,A,45
+16,150021,Tongol,B,45
+16,150022,Tongol,C,45
+16,150045,"Aquaculture Harvested Fishery/Seafood Products, N.E.C.,",X,99
+16,150046,"Mixed Fishery/Seafood Products, N.E.C.",W,99
+16,150060,"Drum, Totoaba",A,68
+16,150061,Escolar,A,69
+16,150062,"Shad, Alewife",A,70
+16,150063,Jack,A,71
+16,150064,Kingklip,A,72
+16,150065,"Mackerel (all except Scomberomorus sp, eg Spanish or King see '22')",A,73
+16,150066,Monkfish,A,74
+16,150067,Rockfish,A,75
+16,150068,Saury,A,76
+16,150069,Sole,A,77
+16,150070,Wahoo,A,78
+16,150071,"Yellowtail, Amberjack",A,79
+16,150072,Bream,A,80
+16,150073,Crappie,A,81
+16,150074,"Drum, Totoaba, Breaded",B,68
+16,150075,"Escolar, Breaded",B,69
+16,150076,"Shad, Alewife, Breaded",B,70
+16,150077,"Jack, Breaded",B,71
+16,150078,"Kingklip, Breaded",B,72
+16,150079,"Mackerel,  Breaded (all except Scomberomorus sp, eg Spanish or King see '22')",B,73
+16,150080,"Monkfish, Breaded",B,74
+16,150081,"Rockfish, Breaded",B,75
+16,150082,"Saury, Breaded",B,76
+16,150083,"Sole, Breaded",B,77
+16,150084,"Wahoo, Breaded",B,78
+16,150085,"Yellowtail, Amberjack, Breaded",B,79
+16,150086,"Bream, Breaded",B,80
+16,150087,"Crappie, Breaded",B,81
+16,150088,"Drum, Totoaba, Cakes, Balls, Etc.",C,68
+16,150089,"Escolar, Cakes, Balls, Etc.",C,69
+16,150090,"Shad, Alewife, Cakes, Balls, Etc.",C,70
+16,150091,"Jack, Cakes, Balls, Etc.",C,71
+16,150092,"Kingklip, Cakes, Balls, Etc.",C,72
+16,150093,"Mackerel, Cakes, Balls, Etc. (all except Spanish or King, see '22')",C,73
+16,150094,"Monkfish, Cakes, Balls, Etc.",C,74
+16,150095,"Rockfish, Cakes, Balls, Etc.",C,75
+16,150096,"Saury, Cakes, Balls, Etc.",C,76
+16,150097,"Sole, Cakes, Balls, Etc.",C,77
+16,150098,"Wahoo, Cakes, Balls, Etc.",C,78
+16,150099,"Yellowtail, Amberjack, Cakes, Balls, Etc.",C,79
+16,150100,"Bream, Cakes, Balls, Etc.",C,80
+16,150101,"Crappie, Cakes, Balls, Etc.",C,81
+16,150120,"Salmon, Humpback, Aquaculture Harvested Fishery/Seafood Products",X,03
+16,150121,"Salmon, Silver Aquaculture Harvested Fishery/Seafood Products",X,03
+16,150122,"Salmon, King, Aquaculture Harvested Fishery/Seafood Products",X,03
+16,150123,"Salmon, Sockeye, Aquaculture Harvested Fishery/Seafood Products",X,03
+16,150124,"Trout, Rainbow, Aquaculture Harvested Fishery/Seafood Products",X,05
+16,150132,"Trout, Brook, Aquaculture Harvested Fishery/Seafood Products",X,05
+16,150133,"Trout, Char, Aquaculture Harvested Fishery/Seafood Products",X,05
+16,150134,"Trout, Steelhead, Aquaculture Harvested Fishery/Seafood Products",X,05
+16,150140,"Stuffed Pasta with surimi (n.e.c.), Mixed Fishery/Seafood Products",W,24
+16,150141,"Stuffed Pasta with shrimp (n.e.c.), Mixed Fishery/Seafood Products",W,25
+16,150142,"Stuffed Pasta with crab (n.e.c.), Mixed Fishery/Seafood Products",W,26
+16,150143,"Stuffed Pasta with mixed seafood products (n.e.c.), Mixed Fishery/Seafood Products",W,27
+16,150144,"Clam Sauce, Fishery Products, n.e.c.",Y,15
+16,150145,"Clam Broth, Fishery Products, n.e.c.",Y,16
+16,150146,"Sauce, seafood (n.e.c.), Fishery Products, n.e.c.",Y,17
+16,150147,"Broth, seafood (n.e.c.), Fishery Products, n.e.c.",Y,18
+16,150620,"Hoki, Fish (Vertebrate)",A,49
+16,150621,"Hoki, Fish (Breaded)",B,49
+16,150622,"Hoki, Fish (Cakes, Balls, etc.)",C,49
+16,150623,"Hoki, Fish (Hot Smoked)",I,49
+16,150624,"Hoki, Fish (Cold Smoked)",S,49
+16,154953,Crab Paste,Y,99
+16,160680,"Anchovy, Hot Smoked, Fish",I,01
+16,160681,"Mealchijeot (Korean pickled anchovies), Hot Smoked, Fish",I,01
+16,160682,"Barracuda, Hot Smoked, Fish",I,02
+16,160683,"Bass, Fresh Water (Largemouth, Smallmouth, etc.), Hot Smoked, Fish",I,03
+16,160684,"Bass, Salt or Brackish Water (Stripe Bass, White Perch, Black Bass, etc.), Hot Smoked, Fish",I,04
+16,160700,"Blue Fish, Hot Smoked, Fish",I,05
+16,160701,"Blue Pike, Walleye, Hot Smoked, Fish",I,06
+16,160702,"Bonito, Hot Smoked, Fish",I,07
+16,160703,"Butterfish, Hot Smoked, Fish",I,08
+16,160704,"Carp, Hot Smoked, Fish",I,09
+16,160706,"Cod, Hot Smoked, Fish",I,12
+16,160720,"Croaker, Hot Smoked, Fish",I,13
+16,160740,"Cusk, Hot Smoked, Fish",I,14
+16,160741,"Eel, Hot Smoked, Fish",I,15
+16,160742,"Groupers, Hot Smoked, Fish",I,17
+16,160743,"Flounder (Arrowtooth, Dab, Fluke), Hot Smoked, Fish",I,16
+16,160744,"Haddock, Hot Smoked, Fish",I,18
+16,160745,"Halibut, Hot Smoked, Fish",I,20
+16,160746,"Hake, Hot Smoked, Fish",I,19
+16,160760,"Herring, Hot Smoked, Fish",I,21
+16,160761,"Mackerel, Hot Smoked, Fish (only Scomberomorus spp eg. Spanish or King)",I,22
+16,160762,"Mullet, Hot Smoked, Fish",I,23
+16,160763,"Ocean Perch (Red Perch, Pacific Perch, Redfish)",A,24
+16,160780,"Pike, Pickerel, Muskellunge, Hot Smoked, Fish",I,25
+16,160781,"Perch, Freshwater (Yellow, Lake), Hot Smoked, Fish",I,26
+16,160782,"Paddlefish, Hot Smoked, Fish",I,27
+16,160783,"Pollack, Pollock, Hot Smoked, Fish",I,28
+16,160800,"Pompano (Permit, Pompanito), Hot Smoked, Fish",I,29
+16,160801,"Porgy, Hot Smoked, Fish",I,30
+16,160820,"Sablefish, Hot Smoked, Fish",I,31
+16,160821,"Sauger, Hot Smoked, Fish",I,34
+16,160840,"Salmon (Humpback, Silver, King Sockeye, etc.), Hot Smoked, Fish",I,32
+16,160841,"Sardines (Brisling, Sprats, Pilchards, etc.), Hot Smoked, Fish",I,33
+16,160842,"Shark, Hot Smoked, Fish",I,35
+16,160843,"Smelt, Hot Smoked, Fish",I,36
+16,160844,"Snapper (Red, Gray, Malabar, etc.), Hot Smoked, Fish",I,37
+16,160845,"Spot Fish, Hot Smoked, Fish",I,39
+16,160846,"Sturgeon (River and Sea), Hot Smoked, Fish",I,40
+16,160847,"Suckers (Buffalo Fish), Hot Smoked, Fish",I,41
+16,160848,"Swordfish, Hot Smoked, Fish",I,42
+16,160849,"Totoava (White Sea Bass), Hot Smoked, Fish",I,43
+16,160850,"Trout (Rainbow, Brook, Brown, Char, Steelhead, etc.), Hot Smoked, Fish",I,44
+16,160860,"Tuna (Albacore, Yellowfin, Bluefin, Skipjack, etc.), Hot Smoked, Fish",I,45
+16,160861,"Turbot, Hot Smoked, Fish",I,46
+16,160862,"Weakfish (Sea Trout), Hot Smoked, Fish",I,47
+16,160863,"White Fish (Ciscoes, Lake Herring, Chubs, Tullibees, etc.), Hot Smoked, Fish",I,48
+16,160880,"Whiting (King, Northern and Silver), Hot Smoked, Fish",I,49
+16,160881,"Orange Roughy, Hot Smoked, Fish",I,50
+16,160882,"Mahi Mahi (Dolphin fish), Hot Smoked, Fish",I,51
+16,160883,"Gourmay, gourami, Hot Smoked, Fish",I,52
+16,160884,"Milkfish, Hot Smoked, Fish",I,53
+16,160885,"Marlin, Hot Smoked, Fish",I,54
+16,160886,"Corvina, Hot Smoked, Fish",I,55
+16,160887,"Filefish, Hot Smoked, Fish",I,56
+16,160888,"Dace, Hot Smoked, Fish",I,57
+16,160889,"Scad, Hot Smoked, Fish",I,59
+16,160890,"Tilapia, Hot Smoked, Fish",I,58
+16,160900,"Sheatfish, Hot Smoked, Fish",I,60
+16,160901,"Siganid Fry, Spinefoot, Hot Smoked, Fish",I,61
+16,160902,"Snake Head, Hot Smoked, Fish",I,62
+16,160903,"Kingfish, Hot Smoked, Fish (only Menticirrhus spp)",I,63
+16,160904,"Mud Fish, Hot Smoked, Fish",I,64
+16,160905,"Puffer, Hot Smoked, Fish",I,65
+16,160908,"Drum, Totoaba, Hot Smoked, Fish",I,68
+16,160909,"Escolar, Hot Smoked, Fish",I,69
+16,160910,"Shad, Alewife, Hot Smoked, Fish",I,70
+16,160911,"Jack, Hot Smoked, Fish",I,71
+16,160912,"Kingklip, Hot Smoked, Fish",I,72
+16,160913,"Mackerel (all except Scomberomorus sp, eg Spanish or King see '22'), Hot Smoked, Fish",I,73
+16,160914,"Monkfish, Hot Smoked, Fish",I,74
+16,160915,"Rockfish, Hot Smoked, Fish",I,75
+16,160916,"Saury, Hot Smoked, Fish",I,76
+16,160917,"Sole, Hot Smoked, Fish",I,77
+16,160918,"Wahoo, Hot Smoked, Fish",I,78
+16,160919,"Yellowtail, Amberjack, Hot Smoked, Fish",I,79
+16,160920,"Bream, Hot Smoked, Fish",I,80
+16,160921,"Crappie, Hot Smoked, Fish",I,81
+16,160922,"Fish, Hot Smoked N.E.C.",I,99
+16,160960,"Ocean Perch (Red Perch, Pacific Perch, Redfish), Hot Smoked, Fish",I,24
+16,160980,"Anchovy, Cold Smoked, Fish",S,01
+16,160981,"Barracuda, Cold Smoked, Fish",S,02
+16,160982,"Bass, Fresh Water (Largemouth, Smallmouth, etc.), Cold Smoked, Fish",S,03
+16,160983,"Bass, Salt or Brackish Water (Stripe Bass, White Perch, Black Bass, etc.), Cold Smoked, Fish",S,04
+16,161000,"Blue Fish, Cold Smoked, Fish",S,05
+16,161001,"Blue Pike, Walleye, Cold Smoked, Fish",S,06
+16,161002,"Bonito, Cold Smoked, Fish",S,07
+16,161003,"Butterfish, Cold Smoked, Fish",S,08
+16,161004,"Carp, Cold Smoked, Fish",S,09
+16,161006,"Cod, Cold Smoked, Fish",S,12
+16,161007,"Croaker, Cold Smoked, Fish",S,13
+16,161008,"Cusk, Cold Smoked, Fish",S,14
+16,161009,"Eel, Cold Smoked, Fish",S,15
+16,161010,"Flounder (Arrowtooth, Dab, Fluke), Cold Smoked, Fish",S,16
+16,161011,"Groupers, Cold Smoked, Fish",S,17
+16,161012,"Haddock, Cold Smoked, Fish",S,18
+16,161013,"Hake, Cold Smoked, Fish",S,19
+16,161014,"Halibut, Cold Smoked, Fish",S,20
+16,161015,"Herring, Cold Smoked, Fish",S,21
+16,161016,"Mackerel, Cold Smoked, Fish (only Scomberomorus spp eg. Spanish or King)",S,22
+16,161017,"Mullet, Cold Smoked, Fish",S,23
+16,161018,"Ocean Perch (Red Perch, Pacific Perch, Redfish), Cold Smoked, Fish",S,24
+16,161019,"Pike, Pickerel, Muskellunge, Cold Smoked, Fish",S,25
+16,161020,"Perch Freshwater (Yellow, Lake), Cold Smoked, Fish",S,26
+16,161021,"Paddlefish, Cold Smoked, Fish",S,27
+16,161022,"Pollack, Pollock, Cold Smoked, Fish",S,28
+16,161023,"Pompano (Permit, Pompanito), Cold Smoked, Fish",S,29
+16,161024,"Porgy, Cold Smoked, Fish",S,30
+16,161025,"Sablefish, Cold Smoked, Fish",S,31
+16,161026,"Salmon (Humpback, Silver, King, Sockeye, etc.), Cold Smoked, Fish",S,32
+16,161027,"Sardines (Brisling, Sprats, Pilchards, etc.), Cold Smoked, Fish",S,33
+16,161028,"Sauger, Cold Smoked, Fish",S,34
+16,161029,"Shark, Cold Smoked, Fish",S,35
+16,161030,"Smelt, Cold Smoked, Fish",S,36
+16,161031,"Snapper (Red, Gray, Malabar, etc.), Cold Smoked, Fish",S,37
+16,161032,"Spot Fish, Cold Smoked, Fish",S,39
+16,161033,"Sturgeon (River and Sea), Cold Smoked, Fish",S,40
+16,161034,"Suckers (Buffalo Fish), Cold Smoked, Fish",S,41
+16,161035,"Swordfish, Cold Smoked, Fish",S,42
+16,161036,"Totoava (White Sea Bass), Cold Smoked, Fish",S,43
+16,161037,"Trout (Rainbow, Brook, Brown, Char, Steelhead, etc.), Cold Smoked, Fish",S,44
+16,161038,"Tuna (Albacore, Yellowfin, Bluefin, Skipjack, etc.), Cold Smoked, Fish",S,45
+16,161039,"Turbot, Cold Smoked, Fish",S,46
+16,161040,"Weakfish (Sea Trout), Cold Smoked, Fish",S,47
+16,161041,"White Fish (Ciscoes, Lake Herring, Chubs, Tullibees, etc.), Cold Smoked, Fish",S,48
+16,161042,"Whiting (King, Northern and Silver), Cold Smoked, Fish",S,49
+16,161043,"Orange Roughy, Cold Smoked, Fish",S,50
+16,161044,"Mahi Mahi (Dolphin fish), Cold Smoked, Fish",S,51
+16,161045,"Gourmay, gourami, Cold Smoked, Fish",S,52
+16,161046,"Milkfish, Cold Smoked, Fish",S,53
+16,161047,"Marlin, Cold Smoked, Fish",S,54
+16,161048,"Corvina, Cold Smoked, Fish",S,55
+16,161049,"Filefish, Cold Smoked, Fish",S,56
+16,161050,"Dace, Cold Smoked, Fish",S,57
+16,161051,"Tilapia, Cold Smoked, Fish",S,58
+16,161052,"Scad, Cold Smoked, Fish",S,59
+16,161053,"Sheatfish, Cold Smoked, Fish",S,60
+16,161054,"Siganid Fry, Spinefoot, Cold Smoked, Fish",S,61
+16,161055,"Snake Head, Cold Smoked, Fish",S,62
+16,161056,"Kingfish, Cold Smoked, Fish (only Menticirrhus spp)",S,63
+16,161057,"Mud Fish, Cold Smoked, Fish",S,64
+16,161058,"Puffer, Cold Smoked, Fish",S,65
+16,161062,"Drum, Totoaba, Cold Smoked, Fish",S,68
+16,161063,"Escolar, Cold Smoked, Fish",S,69
+16,161064,"Shad, Alewife, Cold Smoked, Fish",S,70
+16,161065,"Jack, Cold Smoked, Fish",S,71
+16,161066,"Kingklip, Cold Smoked, Fish",S,72
+16,161067,"Mackerel (all except Scomberomorus sp, eg Spanish or King see '22'), Cold Smoked, Fish",S,73
+16,161068,"Monkfish, Cold Smoked, Fish",S,74
+16,161069,"Rockfish, Cold Smoked, Fish",S,75
+16,161070,"Saury, Cold Smoked, Fish",S,76
+16,161071,"Sole, Cold Smoked, Fish",S,77
+16,161072,"Wahoo, Cold Smoked, Fish",S,78
+16,161073,"Yellowtail, Amberjack, Cold Smoked, Fish",S,79
+16,161074,"Bream, Cold Smoked, Fish",S,80
+16,161075,"Crappie, Cold Smoked, Fish",S,81
+16,161076,"Fish, Cold Smoked N.E.C.",S,99
+16,161080,"Abalone, Hot Smoked, Shellfish",O,01
+16,161081,"Clams, Hot Smoked, Shellfish",O,02
+16,161082,"Oysters, Hot Smoked, Shellfish",O,03
+16,161083,"Mussels, Hot Smoked, Shellfish",O,04
+16,161084,"Scallops, Hot Smoked, Shellfish",O,05
+16,161085,"Conch, Conchmeat, Hot Smoked, Shellfish",O,06
+16,161086,"Limpets, Hot Smoked, Shellfish",O,07
+16,161087,"Arkshells, Hot Smoked, Shellfish",O,08
+16,161088,"Abalone-style Shellfish (Concholepas concholepas), Hot Smoked, Shellfish",O,09
+16,161089,"Cockles, Hot Smoked, Shellfish",O,10
+16,161090,"Shellfish, Hot Smoked N.E.C.",O,99
+16,161091,"Abalone, Cold Smoked, Shellfish",T,01
+16,161092,"Clams,  Cold Smoked, Shellfish",T,02
+16,161093,"Oysters, Cold Smoked, Shellfish",T,03
+16,161094,"Mussels, Cold Smoked, Shellfish",T,04
+16,161095,"Scallops, Cold Smoked, Shellfish",T,05
+16,161096,"Conch, conchmeat, Cold Smoked, Shellfish",T,06
+16,161097,"Limpets, Cold Smoked, Shellfish",T,07
+16,161098,"Arkshells, Cold Smoked, Shellfish",T,08
+16,161099,"Abalone-style shellfish (Concholepas concholepas), Cold Smoked, Shellfish",T,09
+16,161100,"Cockles, Cold Smoked, Shellfish",T,10
+16,161101,"Shellfish, Cold Smoked N.E.C.",T,99
+16,161102,"Spiny Lobster, Rock Lobster",J,06
+16,161103,"Langostino, lingostino",J,07
+16,161104,Slipper Lobster,J,08
+16,161105,"Spiny Lobster, Rock Lobster, Breaded",K,06
+16,161106,"Langostino, lingostino, Breaded",K,07
+16,161107,"Slipper Lobster, Breaded",K,08
+16,161108,"Spiny Lobster, Rock Lobster, Cakes, Balls, Etc.",L,06
+16,161109,"Langostino, lingostino, Cakes, Balls, Etc.",L,07
+16,161110,"Slipper Lobster, Cakes, Balls, Etc.",L,08
+16,161111,"Snails, Aquatic Breaded, Other Aquatic Species",N,14
+16,161112,"Snails, terrestrial (e.g., land) Breaded, Other Aquatic Species",N,15
+16,161113,"Snails, Aquatic, Other Aquatic Species",M,14
+16,161114,"Snails, terrestrial (e.g., land), Other Aquatic Species",M,15
+16,161115,"Snails, Aquatic Cakes, Balls, Etc., Other Aquatic Species",P,14
+16,161116,"Snails, terrestrial (e.g., land) Cakes, Balls, Etc., Other Aquatic Species",P,15
+16,161117,"Frog Legs, Hot Smoked, Other Aquatic Species",U,01
+16,161118,"Seal, Hot Smoked, Other Aquatic Species",U,02
+16,161119,"Squid, Hot Smoked, Other Aquatic Species",U,03
+16,161120,"Snails, Hot Smoked, Other Aquatic Species",U,04
+16,161121,"Terrapin and Turtile, Hot Smoked, Other Aquatic Species",U,05
+16,161122,"Whale, Hot Smoked, Other Aquatic Species",U,06
+16,161123,"Cuttlefish, Hot Smoked, Other Aquatic Species",U,07
+16,161124,"Jellyfish, Hot Smoked, Other Aquatic Species",U,08
+16,161125,"Octopus, Hot Smoked, Other Aquatic Species",U,09
+16,161126,"Sea Cucumber, Hot Smoked, Other Aquatic Species",U,10
+16,161127,"Sea Urchin, Hot Smoked, Other Aquatic Species",U,11
+16,161128,"Sea Slug (Beche de la Mer) Hot Smoked, Other Aquatic Species",U,12
+16,161129,"Alligator & Crocodile, Hot Smoked, Other Aquatic Species",U,13
+16,161130,"Other Aquatic Species, Hot Smoked, N.E.C.",U,99
+16,161131,"Snails, Aquatic Hot Smoked, Other Aquatic Species",U,14
+16,161132,"Snails, terrestrial (e.g., land) Hot Smoked, Other Aquatic Species",U,15
+16,161133,"Frog Legs, Cold Smoked, Other Aquatic Species",V,01
+16,161134,"Seal, Cold Smoked, Other Aquatic Species",V,02
+16,161135,"Squid, Cold Smoked, Other Aquatic Species",V,03
+16,161136,"Terrapin and Turtle, Cold Smoked, Other Aquatic Species",V,05
+16,161137,"Whale, Cold Smoked, Other Aquatic Species",V,06
+16,161138,"Cuttlefish, Cold Smoked, Other Aquatic Species",V,07
+16,161139,"Jellyfish, Cold Smoked, Other Aquatic Species",V,08
+16,161140,"Octopus, Cold Smoked, Other Aquatic Species",V,09
+16,161141,"Sea Cucumber, Cold Smoked, Other Aquatic Species",V,10
+16,161142,"Sea Urchin, Cold Smoked, Other Aquatic Species",V,11
+16,161143,"Sea Slug (Beche de la Mer) Cold Smoked, Other Aquatic Species",V,12
+16,161144,"Alligator & Crocodile, Cold Smoked, Other Aquatic Species",V,13
+16,161145,"Snails, Aquatic Cold Smoked, Other Aquatic Species",V,14
+16,161146,"Snails, terrestrial (e.g., land) Cold Smoked, Other Aquatic Species",V,15
+16,161147,"Other Aquatic Species, Cold Smoked, N.E.C.",V,99
+16,161148,"Bass, hybrid striped, Aquaculture Harvested Fishery/Seafood Products",X,01
+16,161150,"Salmon, all, Aquaculture Harvested Fishery/Seafood Products",X,03
+16,161151,"Sturgeon, Aquaculture Harvested Fishery/Seafood Products",X,04
+16,161152,"Trout, all, Aquaculture Harvested Fishery/Seafood Products",X,05
+16,161153,"Tilapia, Aquaculture Harvested Fishery/Seafood Products",X,06
+16,161154,"Crayfish, Aquaculture Harvested Fishery/Seafood Products",X,20
+16,161155,"Shrimp and prawns, Aquaculture Harvested Fishery/Seafood Products",X,21
+16,161156,"Clams, Aquaculture Harvested Fishery/Seafood Products",X,30
+16,161157,"Mussels, Aquaculture Harvested Fishery/Seafood Products",X,31
+16,161158,"Oysters, Aquaculture Harvested Fishery/Seafood Products",X,32
+16,161159,"Scallops, Aquaculture Harvested Fishery/Seafood Products",X,33
+16,161160,"Alligators, Aquaculture Harvested Fishery/Seafood Products",X,40
+16,161161,"Turtles, Aquaculture Harvested Fishery/Seafood Products",X,41
+16,161162,"Frogs, Aquaculture Harvested Fishery/Seafood Products",X,42
+16,161163,"Meals separated in serving container with fish/fish products, Mixed Fishery/Seafood Products",W,01
+16,161164,"Meals separated in serving container with crustaceans (e.g., crab, crayfish, lobster, shrimp/prawns)",W,02
+16,161165,"Meals separated in serving container w/shellfish (clams, oysters, mussels, scallops, etc.)",W,03
+16,161166,Meals separated in serving containers w/mixed fishery/seafood products,W,04
+16,161167,"Shrimp Chow Mein Dinners, Mixed Fishery/Seafood Products",W,05
+16,161168,"Shrimp egg rolls, Mixed Fishery/Seafood Products",W,06
+16,161169,"Crabmeat ravioli, Mixed Fishery/Seafood Products",W,07
+16,161170,"Hors d'oeuvre containing fishery/seafood products, Mixed Fishery/Seafood Products",W,08
+16,161171,"Seafood Newburg, Mixed Fishery/Seafood Products",W,09
+16,161172,"Shrimp Creole, Mixed Fishery/Seafood Products",W,10
+16,161173,"Fish fillet sandwiches, Mixed Fishery/Seafood Products",W,11
+16,161174,"Tuna fish sandwiches, Mixed Fishery/Seafood Products",W,12
+16,161175,"Oyster chowder/soup/stew/bisque, Mixed Fishery/Seafood Products",W,13
+16,161176,"Clam chowder/soup/stew/bisque, Mixed Fishery/Seafood Products",W,14
+16,161177,"Fish chowder/soup/stew/bisque, Mixed Fishery/Seafood Products",W,15
+16,161178,"Turtle chowder/soup/stew/bisque, Mixed Fishery/Seafood Products",W,16
+16,161179,"Lobster chowder/soup/stew/bisque, Mixed Fishery/Seafood Products",W,17
+16,161180,"Shrimp chowder/soup/stew/bisque, Mixed Fishery/Seafood Products",W,18
+16,161181,"Sharkfin chowder/soup/stew/bisque, Mixed Fishery/Seafood Products",W,19
+16,161182,"Crab chowder/soup/stew/bisque, Mixed Fishery/Seafood Products",W,20
+16,161183,"Seafood chowder/soup/stew/bisque, n.e.c., Mixed Fishery/Seafood Products",W,21
+16,161184,"Seafood salad (shrimp, crab, etc.), Mixed Fishery/Seafood Products",W,22
+16,161185,"Shrimp Sauce, Fishery Products, n.e.c.",Y,11
+16,161186,"Shrimp Paste, Fishery Products, n.e.c.",Y,12
+16,161187,"Oyster Sauce, Fishery Products, n.e.c.",Y,13
+16,161800,"Clam Paste, Fishery Products, n.e.c.",Y,14
+16,161801,"Congee, Seafood Chowder/Soup/Stew/Bisque, Mixed Fishery/Seafood Products",W,23
+16,169742,Goby,A,83
+16,169743,Threadfin,A,84
+16,169744,"Goby, Breaded",B,83
+16,169745,"Threadfin, Breaded",B,84
+16,169746,"Goby, Cakes, Balls, Etc.",C,83
+16,169747,"Threadfin, Cakes, Balls, Etc.",C,84
+16,169748,"Goby, Hot Smoked, Fish",I,83
+16,169749,"Threadfin, Hot Smoked, Fish",I,84
+16,169750,"Goby, Cold Smoked, Fish",S,83
+16,169751,"Threadfin, Cold Smoked, Fish",S,84
+16,170742,"Dace, Aquaculture Harvested Fishery/Seafood Products",X,44
+16,170743,"Eel, Aquaculture Harvested Fishery/Seafood Products",X,45
+16,171502,Barramundi,A,85
+16,171503,"Barramundi, Breaded",B,85
+16,171504,"Barramundi, Cakes, Balls, Etc .",C,85
+16,171505,"Barramundi, Hot Smoked, Fish",I,85
+16,171506,"Barramundi, Cold Smoked , Fish",S,85
+16,171507,Asian Seabass,A,85
+16,171508,Pla Krapong,A,85
+16,171509,Koduva,A,85
+16,171510,Kalaanji,A,85
+16,171511,Pandugappa,A,85
+16,171512,Bhetki,A,85
+16,171513, Asian Seabass,B,85
+16,171514, Pla Krapong,B,85
+16,171515,  Koduva,B,85
+16,171516,Kalaanji,B,85
+16,171517,Pandugappa,B,85
+16,171518, Bhetki,B,85
+16,171519,Asian Seabass,C,85
+16,171520,Pla Krapong,C,85
+16,171521,Koduva,C,85
+16,171522,Kalaanji,C,85
+16,171523, Pandugappa,C,85
+16,171524, Bhetki,C,85
+16,171525,Asian Seabass,I,85
+16,171526,Pla Krapong,I,85
+16,171527,  Koduva,I,85
+16,171528, Kalaanji,I,85
+16,171529,Pandugappa,I,85
+16,171530,  Bhetki,I,85
+16,171531,Asian Seabass,S,85
+16,171532, Pla Krapong,S,85
+16,171533, Koduva,S,85
+16,171534,Kalaanji,S,85
+16,171535,Pandugappa,S,85
+16,171536,Bhetki,S,85
+16,171842,Sculpin,A,86
+16,171843,Atlantic Sea Robin,A,86
+16,171844,Cabezon,A,86
+16,171845,Pygmy,A,86
+16,171846,"Patagonian Toothfish, Chilean Seabass",A,87
+16,171847,Stoplight Parrotfish,A,87
+16,171848,Mero,A,87
+16,171849,Gemfish,A,88
+16,171850,Kahawa,A,89
+16,171851,Sailfish,A,90
+16,171852,Spearfish,A,91
+16,171853,Trevally,A,92
+16,171854,"Sculpin, Breaded",B,86
+16,171855,"Patagonian Toothfish, Chilean Seabass, Breaded",B,87
+16,171856,"Gemfish, Breaded",B,88
+16,171857,"Kahawa, Breaded",B,89
+16,171858,"Sailfish, Breaded",B,90
+16,171859,"Spearfish, Breaded",B,91
+16,171860,"Trevally, Breaded",B,92
+16,171861,"Atlantic Sea Robin, Breaded",B,86
+16,171862,"Cabezon, Breaded",B,86
+16,171863,"Pygmy, Breaded",B,86
+16,171864,"Stoplight Parrotfish, Breaded",B,87
+16,171865,"Mero, Breaded",B,87
+16,171866,"Sculpin, Cakes, Balls, Etc.",C,86
+16,171867,"Patagonian Toothfish, Chilean Seabass, Cakes, Balls, Etc.",C,87
+16,171868,"Gemfish, Cakes, Balls, Etc.",C,88
+16,171869,"Kahawa, Cakes, Balls, Etc.",C,89
+16,171870,"Sailfish, Cakes, Balls, Etc.",C,90
+16,171871,"Spearfish, Cakes, Balls, Etc.",C,91
+16,171872,"Trevally, Cakes, Balls, Etc.",C,92
+16,171873,"Sculpin, Hot Smoked, Fish",I,86
+16,171874,"Patagonian Toothfish, Chilean Seabass, Hot Smoked, Fish",I,87
+16,171875,"Gemfish, Hot Smoked, Fish",I,88
+16,171876,"Kahawa, Hot Smoked, Fish",I,89
+16,171877,"Sailfish, Hot Smoked, Fish",I,90
+16,171878,"Spearfish, Hot Smoked, Fish",I,91
+16,171879,"Trevally, Hot Smoked, Fish",I,92
+16,171880,"Atlantic Sea Robin, Hot Smoked, Fish",I,86
+16,171881,"Cabezon, Hot Smoked, Fish",I,86
+16,171882,"Pygmy, Hot Smoked, Fish",I,86
+16,171883,"Stoplight Parrotfish, Hot Smoked, Fish",I,87
+16,171884,"Mero, Hot Smoked, Fish",I,87
+16,171885,"Sculpin, Cold Smoked, Fish",S,86
+16,171886,"Patagonian Toothfish, Chilean Seabass, Cold Smoked, Fish",S,87
+16,171887,"Gemfish, Cold Smoked, Fish",S,88
+16,171888,"Kahawa, Cold Smoked, Fish",S,89
+16,171889,"Sailfish, Cold Smoked, Fish",S,90
+16,171890,"Spearfish, Cold Smoked, Fish",S,91
+16,171891,"Trevally, Cold Smoked, Fish",S,92
+16,171892,"Atlantic Sea Robin, Cold Smoked, Fish",S,86
+16,171893,"Cabezon, Cold Smoked, Fish",S,86
+16,171894,"Pygmy, Cold Smoked, Fish",S,86
+16,171895,"Stoplight Parrotfish, Cold Smoked, Fish",S,87
+16,171896,"Mero, Cold Smoked, Fish",S,87
+16,171905,Horse Mackeral,A,59
+16,171906,"Horse Mackeral, Breaded",B,59
+16,171907,"Horse Mackeral, Cakes, Balls, Etc.",C,59
+16,171908,"Horse Mackeral, Cold Smoked, Fish",S,59
+16,171909,"Horse Mackeral, Hot Smoked, Fish",I,59
+16,173600,"Pompano (Permit, Pompanito) Aquaculture Harvested Fishery/Seafood Products",X,07
+16,174325,Wolffish,A,93
+16,174326,Cobia,A,94
+16,174327,"Wolffish, Breaded",B,93
+16,174328,"Cobia, Breaded",B,94
+16,174329,"Wolffish, Cakes, Balls, Etc.",C,93
+16,174330,"Cobia, Cakes, Balls, Etc.",C,94
+16,174331,"Wolffish, Hot Smoked, Fish",I,93
+16,174332,"Cobia, Hot Smoked, Fish",I,94
+16,174333,"Wolffish, Cold Smoked Fish",S,93
+16,174334,"Cobia, Cold Smoked Fish",S,94
+16,174335,"Wolffish, Aquaculture Harvested Fishery/Seafood",X,46
+16,174336,"Cobia, Aquaculture Harvested Fishery/Seafood",X,47
+16,175485,"Crab, Aquaculture Harvested Fishery/Seafood",X,48
+16,175486,"Lobster, Aquaculture Harvested Fishery/Seafood",X,49
+16,175487,"Langostino/Langoustine, Aquaculture Harvested Fishery/Seafood",X,50
+16,175573,Stingray,A,95
+16,175574,Skate Fish,A,96
+16,175575,"Stingray, Breaded",B,95
+16,175576,"Skate Fish, Breaded",B,96
+16,175577,"Stingray, Cakes, Balls, Etc.",C,95
+16,175578,"Skate Fish, Cakes, Balls, Etc.",C,96
+16,175579,"Stingray, Hot Smoked, Fish",I,95
+16,175580,"Skate Fish, Hot Smoked, Fish",I,96
+16,175581,"Stingray, Cold Smoked, Fish",S,95
+16,175582,"Skate Fish, Cold Smoked, Fish",S,96
+16,175813,"Sea Bream, Aquaculture Harvested Fishery/Seafood",X,51
+16,175961,"Shellfish Dumplings, Mixed Fishery/Seafood Products",W,28
+16,175964,Shrimp Dumplings,W,28
+16,175965,Har Gaw,W,28
+16,175966,"Fish Dumplings, Mixed Fishery/Seafood Products",W,29
+16,175967,"Crustaceans Dumplings, Mixed Fishery/Seafood Products",W,30
+16,175968,"Other Aquatic Species, Dumpling, Mixed Fishery/Seafood Products",W,31
+16,175969,Octopus Dumplings,W,31
+16,176020,"Jack, Aquaculture Harvested Fishery/Seafood",X,52

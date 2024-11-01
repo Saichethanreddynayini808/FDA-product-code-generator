@@ -1,0 +1,139 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+40,2877,Cookies (Baby),A,01
+40,2878,Barley Cereal (Baby),B,01
+40,2880,Bean-Pea (Baby),D,01
+40,2881,"Berry Fruit, Juice and Drink (Baby)",E,01
+40,2882,Beef and Beef Combination Dinner (Baby),F,01
+40,2883,Chicken and Chicken Combination Dinner (Baby),G,01
+40,2884,"High Meat, Plain (Beef, Poultry, Etc.) Dinner (Baby)",H,01
+40,2885,Egg Yolk (Baby),J,01
+40,2886,"Apple Pudding and Custard (Cobblers, Etc.) (Baby)",K,01
+40,2887,Beef Soups and Soup Mix (Baby),L,01
+40,2888,Total Diet Study (Baby and Infant),X,01
+40,2889,Teething Biscuits (Baby),A,02
+40,2890,Corn Cereal (Baby),B,02
+40,2891,Corn (Baby),D,02
+40,2892,"Citrus Fruit, Juice and Drink (Baby)",E,02
+40,2893,Lamb and Lamb Combination Dinner (Baby),F,02
+40,2894,Turkey and Turkey Combination Dinner (Baby),G,02
+40,2895,Apricot Pudding and Custard (Baby),K,02
+40,2896,Chicken Soups and Soup Mix (Baby),L,02
+40,2897,High Protein Cereal (Baby),B,03
+40,2898,"Fruits used as Vegetables (Tomatoes, Squash, Etc.) (Baby)",D,03
+40,2899,"Core Fruit, Juice and Drink (Baby)",E,03
+40,2900,Liver and Liver Combination Dinner (Baby),F,03
+40,2901,Banana Pudding and Custard (Baby),K,03
+40,2902,Vegetable Soups and Soup Mix (Baby),L,03
+40,2903,Oat Cereal (Baby),B,04
+40,2904,Leaf and Stem Vegetables (Baby),D,04
+40,2905,"Pit Fruit, Juice and Drink (Baby)",E,04
+40,2906,Veal and Veal Combination Dinner (Baby),F,04
+40,2907,Berry Pudding and Custard (Baby),K,04
+40,2908,Rice Cereal (Baby),B,05
+40,2909,Mixed Vegetables (Baby),D,05
+40,2910,"Subtropical and Tropical Fruit, Juice and Drink (Baby)",E,05
+40,2911,Wheat Cereal (Baby),B,06
+40,2912,Root Vegetables (Baby),D,06
+40,2913,"Vine Fruit, Juice and Drink (Baby)",E,06
+40,2914,Chocolate Pudding and Custard (Baby),K,06
+40,2915,Orange Pudding and Custard (Baby),K,07
+40,2916,Plum Pudding and Custard (Baby),K,08
+40,2917,Vanilla Pudding and Custard (Baby),K,09
+40,2918,Mixed Grain Cereal (Baby),B,10
+40,2919,"Pear Fruit, Juice and Drink (Baby)",E,10
+40,2920,"High Meat (Beef, Pork, Etc.) Vegetable Dinner (Baby)",H,10
+40,2921,Mixed Egg with Vegetables (Baby),J,10
+40,2922,"Plum Fruit, Juice and Drink (Baby)",E,11
+40,2923,"Prune Fruit, Juice and Drink (Baby)",E,12
+40,2924,"Mixed Cereal, with Fruit (Baby)",B,20
+40,2926,Mixed Fruit (Baby),E,20
+40,2927,Chicken and Turkey Sticks (Baby),G,20
+40,2928,High Meat (Poultry) Vegetable Dinner (Baby),H,20
+40,2930,"Mixed Cereal, with Egg or Meat (Baby)",B,30
+40,2932,Mixed Fruit Juice (Baby),E,30
+40,2933,Chicken Noodle Dinner (Baby),G,30
+40,2934,"High Meat (Beef, Poultry, Etc.) Cheese Dinner (Baby)",H,30
+40,2936,Fruit Flavored Drink,E,40
+40,2937,Vegetable Chicken Dinner (Baby),G,40
+40,2938,Beef Macaroni Dinner (Baby),F,50
+40,2939,Vegetable Turkey Dinner (Baby),G,50
+40,2940,Mixed Fruit Pudding and Custard (Baby),K,50
+40,2941,Beef Noodle Dinner (Baby),F,51
+40,2942,Beef Lasagna Dinner (Baby),F,52
+40,2943,Beef Spaghetti Dinner (Baby),F,53
+40,2944,Meat Sticks Dinner (Baby),F,54
+40,2945,Vegetable Bacon Dinner (Baby),F,55
+40,2946,Vegetable Beef Dinner (Baby),F,56
+40,2947,Vegetable Ham Dinner (Baby),F,57
+40,2948,Vegetable Lamb Dinner (Baby),F,58
+40,2949,Vegetable Liver Dinner (Baby),F,59
+40,2950,"Baked Goods, N.E.C. (Baby)",A,99
+40,2951,"Cereal, N.E.C. (Baby)",B,99
+40,2953,"Vegetables, N.E.C. (Baby)",D,99
+40,2954,"Processed Fruit, Juice and Drink, N.E.C.",E,99
+40,2955,"Meats and Combination Meat Dinner, N.E.C. (Baby)",F,99
+40,2956,"Poultry and Combination Poultry Dinner, N.E.C. (Baby)",G,99
+40,2957,High Meat Dinner and Cheese Foods N.E.C. (Baby),H,99
+40,2958,"Fish-Seafood Products, N.E.C. (Baby)",I,99
+40,2959,Egg Products (Baby),J,99
+40,2960,"Pudding and Custard, N.E.C. (Baby)",K,99
+40,2961,Soups and Soup Mix (Baby),L,99
+40,2962,"Market Basket Sampling, N.E.C. (Baby and Infant)",X,99
+40,2963,Baby and Junior Food N.E.C.,Y,99
+40,153323,"Protein Component, Infant Formula Raw Material Component",M,01
+40,153324,"Fat Component, Infant Formula Raw Material Component",M,02
+40,153325,"Carbohydrate Component, Infant Formula Raw Material Component",M,03
+40,153326,"Infant Formula Raw Material Component, N.E.C.,",M,99
+40,167643,Toast (Baby),A,03
+40,167644,Crackers (Baby),A,04
+40,167645,Crackers With Vegetables (Baby),A,05
+40,167646,Crisps (Baby),A,06
+40,167647,Instant Cereal Made With Formula (Baby),B,32
+40,167687,Instant Cereal with Fruit (Baby),B,31
+40,167688,Instant Cereal with Vegetables (Baby),B,33
+40,167690,"Milk Base Infant Formula Product (0-12 months), Ready to Feed",N,01
+40,167691,"Soy Base Infant Formula Product (0-12 months), Ready to Feed",N,02
+40,167692,"Whey Base Infant Formula Product (0-12 months), Ready to Feed",N,03
+40,167693,"Other Formula Products, N.E.C., Ready to Feed",N,99
+40,167694,"Milk Base Infant Formula Product (0-12 months), Liquid Concentrate",O,01
+40,167695,"Soy Base Infant Formula Product (0-12 months), Liquid Concentrate",O,02
+40,167696,"Whey Base Infant Formula Product (0-12 months), Liquid Concentrate",O,03
+40,167697,"Other Formula Products, N.E.C., Liquid Concentrate",O,99
+40,167698,"Milk Base Infant Formula Product (0-12 months), Powder Formula",P,01
+40,167699,"Soy Base Infant Formula Product (0-12 months), Powder Formula",P,02
+40,167700,"Whey Base Infant Formula Product (0-12 months), Powder Formula",P,03
+40,167701,"Other Formula Products, N.E.C., Powder Formula",P,99
+40,167702,Macaroni and Cheese (Baby),Q,01
+40,167703,Pasta with Tomato Sauce (Baby),Q,02
+40,167704,Pasta with Vegetables (Baby),Q,03
+40,167705,Pasta with Vegetables and Cheese (Baby),Q,04
+40,167706,"Other Pasta and Noodle Combination Dinners without Meat, N.E.C. (Baby)",Q,99
+40,167713,Ready to Feed Infant Formula Products Samples for Testing (0-12 months),R,01
+40,167715,Liquid Concentrate Infant Formula Products Samples for Testing  (0-12 months),R,02
+40,167716,Powder Infant Formula Products Samples for Testing (0-12 months),R,03
+40,167717,"Other Formula Products for Sample Testing (not for sale), N.E.C.",R,99
+40,170623,"Bovine Milk-Based, Human Milk Fortifiers",S,01
+40,170624,"Human Milk-Based, Human Milk Fortifiers",S,02
+40,170642,"Human Milk, Infant Formula Raw Material Component",M,04
+40,177059,"Plant-based Infant Formula Product (0-12 months), Ready to Feed",N,04
+40,177060,"Goat Milk Based Infant Formula Product (0-12 months), Ready to Feed",N,05
+40,177061,"Sheep Milk Based Infant Formula product (0-12 months), Ready to Feed",N,06
+40,177062,"Toddler Milk Based Formula/Drink Product (12-36 months), Ready to Feed",N,07
+40,177063,"Toddler Soy Based Formula/Drink Product (12-36 months), Ready to Feed",N,08
+40,177064,"Toddler Whey Base Formula/Drink (12-36 months), Ready to Feed",N,09
+40,177065,"Toddler Plant-based Formula/Drink Product (12-36 months), Ready to Feed",N,10
+40,177066,"Toddler Goat Milk Based Formula/Drink Product (12-36 months), Ready to Feed",N,11
+40,177067,"Toddler Sheep Milk Based Formula/Drink (12-36 months), Ready to Feed",N,12
+40,177068,"Plant-based Infant Formula Product (0-12 months), Liquid Concentrate",O,04
+40,177069,"Goat Milk Based Infant Formula Product (0-12 months), Liquid Concentrate",O,05
+40,177070,"Sheep Milk Based Infant Formula Product (0-12 months), Liquid Concentrate",O,06
+40,177071,"Plant-Based Infant Formula Product (0-12 months), Powder Formula",P,04
+40,177072,"Goat Milk Infant Based Formula Product (0-12 months), Powder Formula",P,05
+40,177073,"Sheep Milk Infant Based Formula Product (0-12 months), Powder Formula",P,06
+40,177074,"Toddler Milk Based Formula/Drink Product (12-36 months), Powder Formula",P,07
+40,177075,"Toddler Soy Based Formula/Drink Product (12-36 months), Powder Formula",P,08
+40,177076,"Toddler Whey Base Formula/Drink Product (12-36 months), Powder Formula",P,09
+40,177077,"Toddler Plant-based Formula/Drink Product (12-36 months), Powder Formula",P,10
+40,177078,"Toddler Goat Milk Based Formula/Drink Product (12-36 months), Powder Formula",P,11
+40,177079,"Toddler Sheep Milk Based Formula/Drink Product (12-36 months), Powder Formula",P,12
+40,177080,"Toddler Nutritional Drink/Formula?(12-36 months), not intended for medical use, n.e.c.",Y,01

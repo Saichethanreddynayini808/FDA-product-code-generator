@@ -1,0 +1,71 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+4,257,Macaroni Enriched,A,01
+4,258,Chinese Egg Roll Skins,B,01
+4,259,"Noodles, Chow Mein",C,01
+4,260,"Macaroni In Combination With Noodles, N.E.C.",Y,01
+4,261,Macaroni,A,02
+4,262,"Noodles, Egg",B,02
+4,263,"Noodles, Enriched",C,02
+4,264,Macaroni With Non-Fat Milk,A,03
+4,265,"Noodles, Egg, Enriched",B,03
+4,266,"Noodles, Lo Mein",C,03
+4,267,Milk Macaroni,A,04
+4,268,"Noodles, Vegetable",C,04
+4,269,Spaghetti,A,05
+4,270,"Noodles, Wheat and Soy",C,05
+4,271,Vermicelli,A,06
+4,272,Wonton Noodle Skins,C,06
+4,273,Vegetable Macaroni Products,A,07
+4,274,Vegetable Spaghetti Products,A,08
+4,275,"Macaroni, Wheat and Soy",A,09
+4,276,"Macaroni, Whole Wheat",A,10
+4,277,Vegetable Vermicelli Products,A,11
+4,278,"Macaroni and Spaghetti Products,N.E.C.",A,99
+4,279,"Egg Noodles, N.E.C.",B,99
+4,280,"Noodles And Noodle Products, N.E.C.",C,99
+4,281,"Macaroni/Noodle Products Not Elsewhere Mentioned, N.E.C.",Y,99
+4,23847,Alimentary Paste,A,12
+4,23848,Egg or Spring Roll Skins,B,01
+4,23849,"Noodles, Instant",C,07
+4,23850,"Oriental Noodles (flavored with Shrimp,Chicken,Beef,Lobster,Crab,Plain,Etc.)",C,08
+4,23851,"Noodles, Imitation",C,09
+4,23852,Rice Vermicelli,Y,02
+4,23853,Bean Thread,Y,03
+4,23854,Rice sticks,Y,04
+4,23855,Rice flakes/paper,Y,05
+4,25157,"Pasta, Angelhair",A,05
+4,25158,Fettuccine,A,05
+4,25159,"Pasta, (Non-Vegetable Types)",A,05
+4,25177,"Pasta, Lasagna",A,05
+4,25178,"Pasta, Gnocchi",A,05
+4,25179,"Pasta, Linguine",A,05
+4,25444,Ba Mee Noodle (Flat or round Chinese-style Thai egg noodles,C,08
+4,25457,"Banh Canh Noodle (Clear, Vietnamese spaghetti-like noodles made from rice, wheat and other starches",C,08
+4,25458,Banh Pho Noodle (Flat rice noodles (like rice sticks) used in Vietnamese noodle soup),Y,04
+4,25462,"Bean Thread (Thin, translucent Chinese noodles made from mung bean starch)",Y,03
+4,25480,"Bun Noodle (thin Vietnamese rice vermicelli, used in soups and stuffings)",Y,02
+4,25487,Cha Soba Noodle (Japanese buckwheat noodle flavored with green tea),C,08
+4,25518,"Farfel (Israeli egg-noodle dough either grated or minced, cooked in soups)",B,02
+4,25527,"Gan Mian Noodle (dried, eggless Chinese noodles made w/wheat flour and water)",C,08
+4,25542,"Gwayteed Noodle (fresh Thai rice noodle, sold in wide sheets or cut like fettuccine)",C,08
+4,25563,Naeng Myung Noodle (chewy Korean buckwheat & starch (potato/corn) noodle; served cold in beef broth),C,08
+4,25585,"Orzo (Greek, rice-shaped noodles used in meat dishes and soups)",C,99
+4,25591,Pancit Noodle (Philippine rice noodles),C,08
+4,25637,Sen Mee Noodle (thin Thai rice vermicelli sold in skeins),Y,02
+4,25639,Sha He Fen Noodle (fresh Chinese rice noodles usually sold in square sheets),C,08
+4,25681,"Shiratake Noodle (Japanese yam threads, gelatinous noodle-like substance from mountain yam starch)",C,08
+4,25682,Shiso Somen Noodle (Japanese wheat noodles flavored w/salted plum & beefsteak leaf),C,08
+4,25688,Soba Noodle (Japanese noodles made from buckwheat wheat flour and water),C,08
+4,25690,"Somen Noodle (very thin, fine Japanese white wheat noodles)",C,08
+4,25694,Spaetzle Noodle (German egg noodle that is made by grating/finely chopping partially dried dough),B,02
+4,25699,Sun Mian Noodle (fresh eggless Chinese noodles made from wheat flour and water),C,08
+4,25710,Tamago Somen Noodle (Japanese wheat noodles flavored w/fresh egg),C,08
+4,25742,"Trahana noodle (rice like Greek noodle, made w/wheat flour eggs & sour milk)",C,99
+4,25761,"Kishimen Noodle (wide, flat Japanese noodles made w/wheat flour and water)",C,08
+4,25776,Kuan Dan Mian Noodle (wide Chinese egg noodles made with wheat flour),C,08
+4,25829,"Udon Noodle (thick chewy Japanese wheat noodle, w/square edges, resembles dried Western fettucine)",C,08
+4,25844,Yamaimo Soba Noodle (chewy Japanese vegetable starch noodle made w/yam flour),C,08
+4,25845,Yang Fen Noodle (Chinese seaweed noodles similar to bean threads),C,08
+4,172822,Yellow Noodles,C,10
+4,172823,Asian Yellow Noodles,C,10
+4,172824,Yellow Wheat Noodles,C,10

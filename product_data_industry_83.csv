@@ -1,0 +1,539 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+83,21144,"Antigens, If, Toxoplasma Gondii",G,LZ
+83,21145,"Antisera, Fluorescent, Sporothrix Schenekii",G,MA
+83,21146,"Light, Wood'S, Fluorescence",G,MB
+83,21147,"Antisera, Latex Agglutination, Cryptococcus Neoformans",G,MD
+83,21148,"Antisera, Fluorescent, Cryptococcus Neoformans",G,ME
+83,21149,"Antigen, Latex Agglutination, Coccidioides Immitis",G,MG
+83,21150,"Antiserum, Positive Control, Coccidioides Immitis",G,MH
+83,21151,"Antigen, Cf And/Or Id, Coccidioides Immitis",G,MI
+83,21152,"Antigens, Histoplasma Capsulatum, All",G,MJ
+83,21153,"Antiserum, Positive Control, Histoplasma Capsulatum",G,MK
+83,21154,"Antisera, Fluorescent, Histoplasma Capsulatum",G,ML
+83,21155,"Antigens, Iha, Toxoplasma Gondii",G,MM
+83,21156,"Antigens, Cf, Toxoplasma Gondii",G,MN
+83,21157,"Antigen, Latex Agglutination, Entamoeba Histolytica & Rel. Spp.",G,MO
+83,21158,"Antisera, Control For Nontreponemal Tests",G,MP
+83,21159,"Antigens, Nontreponemal, All",G,MQ
+83,21160,"Sera, Reactive And Non-Specific Control, Fta-Abs Test",G,MR
+83,21161,"Anti-Human Globulin, Fta-Abs Test",G,MS
+83,21162,"Antigens, Ha, Treponema Pallidum",G,MT
+83,21163,"Test, Sorbent, FTA-ABS",G,MW
+83,21164,"Antisera, Fluorescent Antibody For Fta-Abs Test",G,MX
+83,21165,"Antisera, Fluorescent, All Types, Escherichia Coli",G,MY
+83,21166,"Antigens, All Types, Escherichia Coli",G,MZ
+83,21167,"Antisera, All Types, Escherichia Coli",G,
+83,21168,"Antisera, All Types, Shigella Spp.",G,NB
+83,21169,"Antigens, Febrile, Slide And Tube, All Groups, Salmonella Spp.",G,NC
+83,21170,"Antigen, Iha, T. Cruzi",G,ND
+83,21171,"Antigen, Latex Agglutination, T. Cruzi",G,NE
+83,21172,"Antigen, Cf, T. Cruzi",G,NF
+83,21173,"Antigens, Cf (Including Cf Control), Coxsackievirus A 1-24, B 1-6",G,NG
+83,21174,"Antigen, Fluorescent Antibody Test, Schistosoma Mansoni",G,NH
+83,21175,"Antisera, Neutralization, Echovirus 1-34",G,NI
+83,21176,"Antigens, Ha, Echovirus 1-34",G,NJ
+83,21177,"Antisera, Cf, Echovirus 1-34",G,NK
+83,21178,"Antigens, Cf (Including Cf Control), Echovirus 1-34",G,NL
+83,21179,"Antisera, Fluorescent, Coxsackievirus A 1-24, B 1-6",G,NM
+83,21180,"Antisera, Neutralization, Coxsackievirus A 1-24, B 1-6",G,NN
+83,21181,"Antisera, Cf, Coxsackievirus A 1-24, B 1-6",G,NO
+83,21182,"Antiserum, Cf, Epstein-Barr Virus",G,NP
+83,21183,"Antigen, Cf (Including Cf Control), Epstein-Barr Virus",G,NQ
+83,21184,"Antisera, Neutralization, Influenza Virus A, B, C",G,NR
+83,21185,"Antisera, Hai, Influenza Virus A, B, C",G,NS
+83,21186,"Antigens, Ha (Including Ha Control), Influenza Virus A, B, C",G,NT
+83,21187,"Antisera, Cf, Influenza Virus A, B, C",G,NW
+83,21188,"Antigens, Cf (Including Cf Control), Influenza Virus A, B, C",G,NX
+83,21189,"Antisera, Fluorescent, Adenovirus 1-33",G,NY
+83,21190,"Antisera, Neutralization, Adenovirus 1-33",G,NZ
+83,21191,"Antisera, Cf, Adenovirus 1-33",G,OA
+83,21192,"Antigens, Ha (Including Ha Control), Adenovirus 1-33",G,OB
+83,21193,"Antisera, Hai, Adenovirus 1-33",G,OC
+83,21194,"Antigens, Cf (Including Cf Control), Adenovirus 1-33",G,OD
+83,21195,"Antisera, Fluorescent, Poliovirus 1-3",G,OE
+83,21196,"Antisera, Neutralization, Poliovirus 1-3",G,OF
+83,21197,"Antisera, Cf, Poliovirus 1-3",G,OG
+83,21198,"Antigens, Cf (Including Cf Control), Poliovirus 1-3",G,OH
+83,21199,"Antiserum, Fluorescent, Rabies Virus",G,OI
+83,21200,"Antisera, Neutralization, Rubella",G,OJ
+83,21201,"Antisera, Hai (Including Hai Control), Rubella",G,OK
+83,21202,"Antigen, Ha (Including Ha Control), Rubella",G,OL
+83,21203,"Antisera, Cf, Rubella",G,OM
+83,21204,"Antigen, Cf (Including Cf Control), Rubella",G,ON
+83,21205,"Antisera, Fluorescent, All Globulins, Salmonella Spp.",G,OO
+83,21206,"Antisera, C. Acnes (553, 605)",G,OP
+83,21207,"Antiserum, Fluorescent, C. Diphtheriae",G,OS
+83,21208,"Antigen, B. Parapertussis",G,OT
+83,21209,"Antisera, Agglutinating, B. Parapertussis",G,OW
+83,21210,"Antigen, B. Pertussis",G,OX
+83,21211,"Antisera, Agglutinating, B. Pertussis, All",G,OY
+83,21212,"Antisera, Fluorescent, B. Pertussis",G,OZ
+83,21213,"Antigen, Indirect Fluorescent Antibody Test, Echinococcus Granulosus",G,PD
+83,21214,"Antisera, Positive Control, Echinococcus Spp.",G,PE
+83,21215,"Antigen, Agglutinating, Echinococcus Spp.",G,PF
+83,21216,"Antigen, Latex Agglutination, Trichinella Spiralis",G,PG
+83,21217,"Antiserum, Bentonite Flocculation, Trichinella Spiralis",G,PH
+83,21218,"Antigen, Bentonite Flocculation, Trichinella Spiralis",G,PI
+83,21219,"Antiserum, Fluorescent, Q Fever",G,PJ
+83,21220,"Antiserum, Rickettsialpox",G,PK
+83,21221,"Antiserum, Murine Typhus Fever",G,PM
+83,21222,"Antiserum, Typhus Fever",G,PN
+83,21223,"Antigen, Cf, Typhus Fever Group",G,PO
+83,21224,"Antiserum, Rocky Mountain Spotted Fever",G,PP
+83,21225,"Antigen, Cf, Spotted Fever Group",G,PQ
+83,21226,"Antiserum, Cf, Q Fever",G,PR
+83,21227,"Antigen, Cf, Q Fever",G,PS
+83,21228,"Antiserum, Cf, Psittacosis (Chlamydia Group)",G,PT
+83,21229,"Antigen, Cf, Psittacosis (Chlamydia Group)",G,PW
+83,21230,"Antisera, Neutralizion, Reovirus 1-3",G,PX
+83,21231,"Antisera, Hai, Reovirus 1-3",G,PY
+83,21232,"Antisera, Cf, Reovirus 1-3",G,PZ
+83,21233,"Antigens, Ha (Including Ha Control), Reovirus 1-3",G,QA
+83,21234,"Antigens, Cf (Including Cf Control), Reovirus 1-3",G,QB
+83,21235,"Antisera, Cf, Equine Encephalitis Virus, Eee, Wee",G,QC
+83,21236,"Antigens, Cf (Including Cf Control), Equine Encephalitis Virus, Eee, Wee",G,QD
+83,21237,"Antisera, Neutralization, All Types, Rhinovirus",G,QE
+83,21238,"Antiserum, Neutralization, Respiratory Syncytial Virus",G,QF
+83,21239,"Antigen, Cf (Including Cf Controls), Respiratory Syncytial Virus",G,QG
+83,21240,"Antigen, Cf (Including Cf Control), Cytomegalovirus",G,QH
+83,21241,"Antiserum, Cf, Cytomegalovirus",G,QI
+83,21242,"Antiserum, Cf, Lymphocytic Choriomeningitis Virus",G,QJ
+83,21243,"Antigen, Cf, Lymphocytic Choriomeningitis Virus",G,QK
+83,21244,"Antisera, Fluorescent, Herpesvirus Hominis 1,2",G,QL
+83,21245,"Antisera, Neutralization, Herpesvirus Hominis",G,QM
+83,21246,"Antigen, Cf (Including Cf Control), Herpesvirus Hominis 1,2",G,QN
+83,21247,"Antisera, Cf, Herpesvirus Hominis 1,2",G,QO
+83,21248,"Antisera, Neutralization, Parainfluenza Virus 1-4",G,QP
+83,21249,"Antisera, Hai, Parainfluenza Virus 1-4",G,QQ
+83,21250,"Antigens, Ha (Including Ha Control), Parainfluenza Virus 1-4",G,QR
+83,21251,"Antigens, Cf (Including Cf Control), Parainfluenza Virus 1-4",G,QS
+83,21252,"Antisera, Cf, Parainfluenza Virus 1-4",G,QT
+83,21253,"Antigen, Cf, (Including Cf Control), Varicella-Zoster",G,QW
+83,21254,"Antiserum, Cf, Varicella-Zoster",G,QX
+83,21255,"Antigen, Ha (Including Ha Control), Mumps Virus",G,QY
+83,21256,"Antiserum, Neutralization, Mumps Virus",G,QZ
+83,21257,"Antiserum, Fluorescent, Mumps Virus",G,RA
+83,21258,"Antiserum, Cf, Mumps Virus",G,RB
+83,21259,"Antigen, Cf (Including Cf Control), Mumps Virus",G,RC
+83,21260,"Antiserum, Hai, Mumps Virus",G,RD
+83,21261,"Antiserum, Fluorescent, Rubeola",G,RE
+83,21262,"Antiserum, Cf, Rubeola",G,RF
+83,21263,"Antiserum, Hai, Rubeola",G,RG
+83,21264,"Antigen, Ha (Including Ha Control), Rubeola",G,RH
+83,21265,"Antiserum, Neutralization, Rubeola",G,RI
+83,21266,"Antigen, Cf, (Including Cf Control), Rubeola",G,RJ
+83,21267,"Antisera, Fluorescent, Echovirus 1-34",G,RK
+83,21268,"Antigens, All Groups, Salmonella Spp.",G,RL
+83,21269,"Antisera, All Groups, Salmonella Spp.",G,RM
+83,21270,"Antisera, Fluorescent, All Types, Hemophilus Spp.",G,RO
+83,21271,"Antisera, All Types, H. Influenza",G,RP
+83,21272,"Antiserum, Fluorescent, Mycobacterium Tuberculosis",G,RT
+83,21273,"Antisera, All Fluorescent, Leptospira Spp.",G,RW
+83,21274,"Antisera, All Leptospira Spp.",G,RX
+83,21275,"Antigens, All, Leptospira Spp.",G,RY
+83,21276,"Antisera, Fluorescent, All, Mycoplasma Spp.",G,RZ
+83,21277,"Antisera, All Mycoplasma Spp.",G,SA
+83,21278,"Antigens, Cf, All, Mycoplasma Spp.",G,SB
+83,21279,"Antiserum, Fluorescent, Erysipelothrix Rhusiopathiae",G,SD
+83,21280,"Antiserum, Erysipelothrix Rhusiopathiae",G,SE
+83,21281,"Antigen, Erysipelothrix Rhusiopathiae",G,SF
+83,21282,"Antisera, Fluorescent, All Types, Listeria Monocytogenes",G,SG
+83,21283,"Antisera, All Types, Listeria Monocytogenes",G,SH
+83,21284,"Antigens, Slide And Tube, All Types, Listeria Monocytogenes",G,SI
+83,21285,"Antiserum, Fluorescent, Francisella Tularensis",G,SJ
+83,21286,"Antiserum, Francisella Tularensis",G,SK
+83,21287,"Antigens, Slide And Tube, Francisella Tularensis",G,SL
+83,21288,"Antisera, Fluorescent, Brucella Spp.",G,SM
+83,21289,"Antiserum, Positive And Negative Febrile Antigen Control Serum",G,SN
+83,21290,"Antigens (Febrile), Agglutination, Brucella Spp.",G,SO
+83,21291,"Antiserum, Fluorescent, Campylobacter Fetus",G,SP
+83,21292,"Antiserum, Vibrio Cholerae, All Varieties",G,SQ
+83,21293,"Antisera, Fluorescent, Pseudomonas Pseudomallei",G,SR
+83,21294,"Antisera, Fluorescent, Pseudomonas Aeruginosa",G,SS
+83,21295,"Antiserum, Pseudomonas Pseudomallei",G,ST
+83,21296,"Antiserum, Flavobacterium Meningosepticum, All Groups",G,SW
+83,21297,"Antisera, Acinetobacter Calcoaceticus, All Varieties",G,SX
+83,21298,"Antisera, Fluorescent, All Globulins, Proteus Spp.",G,SY
+83,21299,"Antigens, Febrile (Weil-Felix), All Groups",G,SZ
+83,21300,"Antisera, All, Serratia Marcesans",G,TA
+83,21301,"Antisera, Fluorescent, All Types, Klebsiella Spp.",G,TB
+83,21302,"Antisera, All Types, Klebsiella Spp.",G,TC
+83,21303,"Antisera, Fluorescent, All Globulins, Shigella Spp.",G,TD
+83,21304,"Antisera, Arizona Spp., All",G,TE
+83,21305,"Antisera, Bethesda - Ballerup Polyvalent, Citrobacter Spp.",G,TF
+83,21306,"Antiserum, Fluorescent (Direct Test), All Groups, N. Gonorrhoeae",G,TH
+83,21307,"Antisera, Fluorescent, All Groups, N. Meningitidis",G,TI
+83,21308,"Antisera, All Groups, N. Meningitidis",G,TJ
+83,21309,"Phages, Staphylococcal Typing, All Types",G,TL
+83,21310,"Antisera, Fluorescent, All Types, Staphylococcus Spp.",G,TN
+83,21311,Anti-Streptokinase,G,TO
+83,21312,"Exoenzymes, Multiple, Streptococcal",G,TP
+83,21314,"Antideoxyribonuclease, Streptococcus Spp.",G,TR
+83,21316,"Antisera, Fluorescent, All Groups, Streptococcus Spp.",G,TX
+83,21317,"Antigens, All Groups, Streptococcus Spp.",G,TY
+83,21318,"Antisera, All Groups, Streptococcus Spp.",G,TZ
+83,21319,"Antisera, Fluorescent, All Types, Streptococcus Pneumoniae",G,WB
+83,21320,"Antisera, All Types, Streptococcus Pneumoniae",G,WC
+83,21321,"Indirect Fluorescent Antibody Test, Entamoeba Histolytica & Rel Sp",G,WD
+83,22532,"Antisera, Fluorescent, B. Parapertussis",J,RW
+83,22533,"Antiserum, Fluorescent, Epstein-Barr Virus",J,RY
+83,22534,"Media, Culture, Amino Acid Assay",J,RZ
+83,22535,"Culture Media, Antibiotic Assay",J,SA
+83,22536,"Culture Media, Vitamin Assay",J,SB
+83,22537,"Culture Media, General Nutrient Broth",J,SC
+83,22538,"Culture Media, Selective Broth",J,SD
+83,22539,"Culture Media, Multiple Biochemical Test",J,SE
+83,22540,"Culture Media, Single Biochemical Test",J,SF
+83,22541,"Culture Media, Non-Selective And Non-Differential",J,SG
+83,22542,"Culture Media, Non-Selective And Differential",J,SH
+83,22543,"Culture Media, Selective And Differential",J,SI
+83,22544,"Culture Media, Selective And Non-Differential",J,SJ
+83,22545,"Supplement, Culture Media",J,SK
+83,22546,"Culture Media, Anaerobic Transport",J,SL
+83,22547,"Culture Media, Non-Propagating Transport",J,SM
+83,22548,"Culture Media, Propagating Transport",J,SN
+83,22549,"Culture Media, Antimicrobial Susceptibility Test, Excluding Mueller Hinton Agar",J,SO
+83,22550,"Kit, Anaerobic Identification",J,SP
+83,22552,"Kit, Identification, Dermatophyte",J,SR
+83,22553,"Kit, Identification, Enterobacteriaceae",J,SS
+83,22554,"Kit, Fastidious Organisms",J,ST
+83,22555,"Kit, Identification, Glucose Nonfermenter",J,SW
+83,22556,"Kit, Identification, Neisseria Gonorrhoeae",J,SX
+83,22557,"Kit, Identification, Mycobacteria",J,SY
+83,22558,"Kit, Identification, Pseudomonas",J,SZ
+83,22559,"Monitor, Microbial Growth",J,TA
+83,22560,"Device, Media Dispensing/Stacking",J,TB
+83,22561,"Device, Microtiter Diluting/Dispensing",J,TC
+83,22562,"Plasma, Coagulase, Human, Horse and Rabbit",J,TL
+83,22563,"Box, Glove, Anaerobic",J,TM
+83,22564,"Susceptibility Test Discs, Antimicrobial",J,TN
+83,22565,"Discs, Strips And Reagents, Microorganism Differentiation",J,TO
+83,22566,"Bath, Incubators/Water, All",J,TQ
+83,22567,"Kit, Quality Control For Culture Media",J,TR
+83,22569,"Susceptibility Test Powders, Antimicrobial",J,TT
+83,22570,"System, Transport, Aerobic",J,TW
+83,22571,"Transport Systems, Anaerobic",J,TX
+83,22572,"Culture Media, For Isolation Of Pathogenic Neisseria",J,TY
+83,22573,"Culture Media, Antimicrobial Susceptibility Test, Mueller Hinton Agar/Broth",J,TZ
+83,22576,"Antigen, Positive Control, Cryptococcus Neoformans",J,WK
+83,22577,"Antigen, Treponema Pallidum For Fta-Abs Test",J,WL
+83,22581,"Antigen, Cf, Aspergillus Spp.",J,WT
+83,22582,"Antigen, Cf, B. Dermatitidis",J,WW
+83,22583,"Kit, Screening, Staphylococcus Aureus",J,WX
+83,22584,Manual Antimicrobial Susceptibility Test Systems,J,WY
+83,22585,"Kit, Screening, Trichomonas",J,WZ
+83,22586,"Kit, Screening, Urine",J,XA
+83,22587,"Kit, Identification, Yeast",J,XB
+83,22588,"Kit, Screening, Yeast",J,XC
+83,22760,"Antiserum, Positive Control, Aspergillus Spp.",K,FG
+83,22761,"Antiserum, Positive Control, Blastomyces Dermatitidis",K,FH
+83,22762,"Strip, Virulence, Corynebacterium Diphtheriae",K,FI
+83,22807,"Antigen, Id, Ha, Cep, Entamoeba Histolytica & Rel. Spp.",K,HW
+83,22884,"Antisera, C. Acnes",K,LH
+83,23131,Automated Colony Counter,K,ZB
+83,23132,Manual Colony Counter,K,ZC
+83,23137,"Culture Media, Enriched",K,ZI
+83,23138,"Device, Gas Generating",K,ZJ
+83,23139,"Reader, Zone, Automated",K,ZK
+83,23288,"Enzyme Linked Immunoabsorbent Assay, Rubella",L,FX
+83,23289,"Enzyme Linked Immunoabsorbent Assay, Varicella-Zoster",L,FY
+83,23290,"Enzyme Linked Immunoabsorbent Assay, Cytomegalovirus",L,FZ
+83,23291,"Device, Oxidase Test for Gonorrhea",L,GA
+83,23292,Gonococcal Antibody Tests,L,GB
+83,23293,"Enzyme Linked Immunoabsorbent Assay, Herpes Simplex Virus",L,GC
+83,23294,"Enzyme Linked Immunoabsorbent Assay, Toxoplasma Gondii",L,GD
+83,23324,Staphylococcus Aureus Protein A Insoluble,L,HJ
+83,23325,"Antigen, Id, Candida Albicans",L,HK
+83,23326,"Reagents, Antibody, Legionella, Direct & Indirect Fluorescent",L,HL
+83,23333,Staphylococcus Aureus Somatic Antigens,L,HT
+83,23334,"Erythrocyte Suspension, Multi Species, Serological Reagent And Equipment",L,HW
+83,23338,"Antigens, All Groups, Shigella Spp.",L,IA
+83,23339,"Device, General Purpose, Microbiology, Diagnostic",L,IB
+83,23340,"Antiserum, Coagglutination (Direct) Neisseria Gonorrhoeae",L,IC
+83,23342,"Reagent/Device, Inoculum Calibration",L,IE
+83,23351,"Antisera, Conjugated Fluorescent, Cytomegalovirus",L,IN
+83,23352,"Device, Specimen Collection",L,IO
+83,23353,"Enzyme Linked Immunoabsorption Assay, Treponema Pallidum",L,IP
+83,23354,"Enzyme Linked Immunoabsorbent Assay, Rotavirus",L,IQ
+83,23355,"Antigen, Enzyme Linked Immunoabsorbent Assay, Neisseria Gonorrhoeae",L,IR
+83,23363,"Enzyme Linked Immunoabsorbent Assay, Rubeola",L,JB
+83,23364,"Enzyme Linked Immunoabsorbent Assay, (Chlamydiae Group)",L,JC
+83,23367,"Device, Antimicrobial Drug Removal",L,JF
+83,23368,Quality Control Slides,L,JG
+83,23372,"Antisera, If, Toxoplasma Gondii",L,JK
+83,23375,"Antibody Igm, If, Epstein-Barr Virus",L,JN
+83,23376,"Antigen, Iha, Cytomegalovirus",L,JO
+83,23377,"Antiserum, Fluorescent, Chlamydia Trachomatis",L,JP
+83,23383,"Enzyme Linked Immunoabsorbent Assay, Mumps Virus",L,JY
+83,23384,"Enzyme Linked Immunoabsorbent Assay, Mycoplasma Spp.",L,JZ
+83,23385,"Culture Media, Antimicrobial Susceptibility Test",L,KA
+83,23387,"Antigens, Indirect Hemagglutination (Iha) Herpes Simplex Virus",L,KC
+83,23392,"Antisera, Immunoperoxidase, Chlamydia Spp.",L,KH
+83,23393,"Antisera, Fluorescent, Chlamydia Spp.",L,KI
+83,23401,"Antibody Igm,If, Cytomegalovirus Virus",L,KQ
+83,23403,"Device, Parasite Concentration",L,KS
+83,23404,"Respiratory Syncytial Virus, Antigen, Antibody, Ifa",L,KT
+83,23409,"Direct Agglutination Test, Toxoplasma Gondii",L,LA
+83,23416,"Reagents, Clostridium Difficile Toxin",L,LH
+83,23421,Epstein-Barr Virus Nuclear Antigen Test,L,LM
+83,23492,Hepatitis A Test (Antibody And Igm Antibody),L,OL
+83,23493,"Hepatitis B Test (B Core, Be Antigen, Be Antibody, And B Core Igm)",L,OM
+83,23494,"Automated Antimicrobial Susceptibility Test System, Short Incubation",L,ON
+83,23495,"Reagent, Leishmanii Serological",L,OO
+83,23496,"Solution, Antimicrobial",L,OP
+83,23531,"DNA-Reagents, Mycobacterium SPP.",L,QF
+83,23532,"DNA Reagents, Mycoplasma SPP.",L,QG
+83,23533,"DNA Reagents, Legionella",L,QH
+83,23534,Hepatitis Delta Serological Reagents,L,QI
+83,23537,Gram Positive Identification Panel,L,QL
+83,23538,Gram Negative Identification Panel,L,QM
+83,23539,"Latex Agglutination Assay, Rubella",L,QN
+83,23540,"DNA Reagents, Campylobacter SPP.",L,QO
+83,23541,Campylobacter Spp.,L,QP
+83,23555,"Candida Spp., Direct Antigen, Id",L,RF
+83,23556,Instrument For Auto Reader & Interpretation Of Overnight Suscept. Systems,L,RG
+83,23557,Instrument For Auto Reader Of Overnight Microorganism Identification System,L,RH
+83,23576,Neisseria Controls,L,SC
+83,23577,"Rubella, Other Assays",L,SD
+83,23578,"Epstein-Barr Virus, Other",L,SE
+83,23579,"DNA Reagents, Epstein-Barr Virus",L,SF
+83,23580,"Candida Species, Antibody Detection",L,SG
+83,23581,"Antigen, Blastomyces Dermatitidis, Other",L,SH
+83,23582,"Antiserum, Blastomyces Dermatitidis, Other",L,SI
+83,23583,"Antigen, Rubella, Other",L,SJ
+83,23584,"DNA Reagents, Chlamydia",L,SK
+83,23585,"DNA Reagents, Neisseria",L,SL
+83,23586,"DNA Reagents, Salmonella SPP.",L,SM
+83,23587,"DNA Reagents, Shigella SPP.",L,SN
+83,23588,"DNA Reagents, Cytomegalovirus",L,SO
+83,23590,"Reagent, Rickettsia Serological",L,SQ
+83,23591,"Reagent, Borrelia Serological Reagent",L,SR
+83,23616,"Test Reagents, Neisseria Gonorrhoeae Biochemical",L,TS
+83,23617,"Panels, Test, Susceptibility, Antimicrobial",L,TT
+83,23618,"Susceptibility Test Cards, Antimicrobial",L,TW
+83,23619,"Discs, Elution",L,TX
+83,23687,Pneumocystis Carinii,L,YF
+83,23698,Campylobacter Pylori,L,YR
+83,23765,"Kit, DNA Detection, Human Papillomavirus",M,AQ
+83,23796,"DNA Probe, Reagent, Histoplasma Capsulatum",M,BT
+83,23804,"Antigen, C. Difficile",M,CB
+83,23805,"DNA Probe, Haemophilus SPP.",M,CC
+83,23806,"Antigen, EBV, Capsid",M,CD
+83,23807,Respiratory Syncytial Virus - Elisa,M,CE
+83,24939,Antistreptolysin - Titer/Streptolysin O Reagent,G,TQ
+83,24940,"DNA-Probe, Agent, Listeria",M,CG
+83,24941,"DNA-Probe, Stapf Aureus",M,CS
+83,24942,"DNA-Probe, Strep Pneumoniae",M,CT
+83,24943,"System, Blood Culturing",M,DB
+83,24944,DNA-Probe - Blastomyces Dermatitidis,M,DC
+83,24945,"DNA-Probe, Reagents, Cryptococcal",M,DE
+83,24946,"DNA-Probe, Reagents, Coccidioides Immitis",M,DF
+83,24947,"Reagents, Cysticercosis",M,DJ
+83,24948,"DNA-Probe, Reagents, Streptococcal",M,DK
+83,24949,"Elisa, Trichinella Spiralis",M,DT
+83,24950,"Antigen, Elisa, Cryptococcus",M,DU
+83,24951,C. Trachomatis (Chlamydia Group),M,GM
+83,24952,Giardia Spp.,M,HI
+83,24953,Cryptosporidium Spp.,M,HJ
+83,24954,"Enzyme Linked Immunosorbent Assay, T. Cruzi",M,IU
+83,24955,"Immunofluorescent Assay, T. Cruzi",M,IV
+83,24956,"Enzyme Linked Immunosorbent Assay, Coccidioides Immitis",M,IY
+83,24958,"Enzyme Linked Immunoabsorbent Assay, Histoplasma Capsulatum",M,IZ
+83,24959,"Susceptibility Test Powders, Antimycobacterial",M,JA
+83,25308,"Test, Anti-tumor Cell Susceptibility",M,HR
+83,25309,"Culture Media, Antimycobacteria, Susceptibility Test",M,JD
+83,25310,"Culture Media, Antifungal, Susceptibility Test",M,JE
+83,25311,"Legionella, SSP., Elisa",M,JH
+83,25312,"DNA Probe, Trichomonas Vaginalis",M,JK
+83,25313,"EIA, Blastomyces Dermatitidis",M,JL
+83,25314,"DNA Probe, Gardnerella Vaginalis",M,JM
+83,25315,"Kit, Serological, Positive Control",M,JX
+83,25316,"Kit, Serological, Negative Control",M,JY
+83,25317,"Kit, Direct Antigen, Positive Control",M,JZ
+83,25318,"Kit, Direct Antigen, Negative Control",M,KA
+83,25321,"Device, Detection, Hepatitus, Viral B DNA",M,KT
+83,25322,"DNA Probe, Nucleic Acid Amplification, Chlamydia",M,KZ
+83,25323,"DNA Probe, Yeast",M,LA
+83,150540,"Assay, Enzyme Linked Immunosorbent, Parvovirus B19 IgG",M,YL
+83,150541,"Assay, Enzyme Linked Immunosorbent, Parvovirus, B19 IgM",M,YM
+83,150648,"Assay, Enzyme Linked Immunosorbent, Hepatitis C Virus",M,ZO
+83,150649,"Assay, Hybridization and/or Nucleic Acid Amplification For Detection of Hepatitis C RNA, Hepatitis C",M,ZP
+83,151324,"System, Nucleic Acid Amplification, Mycobacterium Tuberculosis Complex",M,WA
+83,151327,"Test, Immunity, Cell Mediated, Mycobacterium Tuberculosis",N,CD
+83,151802,"Assay, Nucleic Acid Amplification, Growth Identification, Mycobacterium Tuberculosis",N,DZ
+83,152304,"Test, Urea (Breath or Blood)",M,SQ
+83,152305,"Enzyme Linked Immunosorbent Assay, Herpes Simplex Virus, HSV-1",M,XJ
+83,152306,"Enzyme Linked Immunosorbent Assay Herpes Simplex Virus, HSV-2",M,YF
+83,152308,"System, Test, Genotypic Detection, Resistant Markers, Staphylococcus Colonies",M,YI
+83,152763,"Assay, Endotoxin Activity, Chemiluminescent",N,GS
+83,153170,"Assay, Direct, Nucleic Acid Amplification, Influenza Virus",N,IA
+83,153171,"Assay, Direct, Nucleic Acid Amplification, Parainfluenza Virus",N,HZ
+83,153172,"Assay, Direct, Nucleic Acid Amplification, Respiratory Syncytial Virus",N,HY
+83,153177,"Assay, Nucleic Acid Amplification, Bacillus Anthracis",N,HT
+83,153195,"System, Test, Genotypic Detection, Resistant Markers, Enterococcus Species",N,IJ
+83,153503,"System, Mycolic Acid Analysis, Mycobacterium Tuberculosis",N,JO
+83,153526,"Acid Amplification Assay System, Group B Streptococcus, Direct Specimen Test",N,JR
+83,153889,"System, Nucleic Acid Amplification Test, DNA, Methicillin Resistant",N,QX
+83,153891,"Antigen, Invasive Fungal Pathogens",N,QZ
+83,153933,"Kit, Immunochromatographic, Bacillus Anthracis Differential Antibody",N,PO
+83,153957,"ELISA, Antibody, West Nile Virus",N,OP
+83,153961,"Antigen, Galactomannan, Aspergillus Spp",N,OM
+83,155167,"Susceptibiltiy Test Plate, Antinfungal",N,GZ
+83,155168,"Enzyme Linked Immunoabsorbent Assay, B Anthracis",N,RL
+83,155219,"Antigen, Inflammatory response marker, sepsis",N,TM
+83,155694,"Bacteriophage and controls, b. Anthracis lysis",N,VQ
+83,156734,"Gas chromatography, bacillus anthracis membrane fatty acids",N,WZ
+83,156735,"Test, qualitative, detection of dengue igm and igg antibodies",N,WY
+83,156814,"Nucleic acid amplification, novel influenza a virus, specific rna segment",N,XD
+83,157254,"Fish (fluorescent in situ hybridization) kit, protein nucleic acid, rna, staphylococcus aureus",N,XX
+83,157577,"Fish (fluorescent in situ hybridization) kit, protein nucleic acid, rna, yeast",N,ZS
+83,157836,"Fish (fluorescent in situ hybridization) kit, protein nucleic acid, enterococcus faecalis",O,AH
+83,157837,"Nucleic acid amplification assay system, enterovirus (ev) rna in cerebrosinal (csf) specimens, direc",O,AI
+83,157976,Plasmodium spp. Detection reagents,O,AX
+83,158179,"Assay, genotyping, hepatitis c virus",O,BF
+83,158394,"Multiplex nucleic acid assay system, viral nucleic acid in respiratory specimens, multiple respirato",O,CC
+83,164119,Jbaids tularemia detection kit,O,EH
+83,164180,Human metapneumovirus (hmpv) rna assay system,O,EM
+83,164199,Nucleic acid assay for detection and differentiation of influenza a virus subtypes,O,EP
+83,164799,Yersinia spp. Reagents,O,IH
+83,166101,Parainfluenza multiplex nucleic acid assay,O,OU
+83,166242,"Multiplex immunoassay for t. Gondii, rubella, cytomegalovirus and herpes simplex virus 1 and 2",O,PM
+83,166243,"Multiplex immunoassay for measles virus, mumps virus, rubella and varicella zoster virus",O,PL
+83,166604,Herpes simplex virus nucleic acid amplification assay,O,QO
+83,166723,"2009 h1n1 influenza virus (swine origin), nucleic acid or antigen, detection and identification",O,QW
+83,166844,T-cell xtend reagent,O,RL
+83,166956,"antisera, fluorescent, human metapneumovirus",O,MG
+83,166957,"multiplex flow immunoassay, t.gondii, rubella and cmv.",O,MI
+83,166958,"novel influenza a virus, a/h5 ns1 protein",O,MS
+83,166959,"mycobacterium tuberculosis, cell mediated immune response, enzyme-linked immunospot test",O,JN
+83,166960,enzyme linked immunosorbent assay for the detection of lipoarabinomannan antigen of mycobacteria,O,JO
+83,167322,Non-sars coronavirus multiplex nucleic acid assay,O,TG
+83,167388,Research use only/microbiology,O,TT
+83,167663,Methicillin - resistant and sensitive staphylococcus aureus blood culture test-bt,O,US
+83,167762,Nucleic amplification assays for the detection of leishmania nucleic acids,O,UZ
+83,168022,"Assay, direct, nucleic acid amplification, q fever",O,VF
+83,169642,"Immunohistochemical assay, helicobacter pylori",O,WF
+83,170102,"Kit, rna detection, human papillomavirus",O,YB
+83,170862,Group a streptococcus nucleic acid amplification assay system,O,YZ
+83,171022,Influenza a and influenza b multiplex nucleic acid assay,O,ZE
+83,171442,Bordetella pertussis dna assay system,O,ZZ
+83,171443,Chlamydophila pneumoniae dna assay system,O,ZY
+83,171444,Mycoplasma pneumoniae dna assay system,O,ZX
+83,171566,C.DIFFICILE TOXIN GENE AMPLIFICATION ASSAY,O,ZN
+83,171570,ANTI-JCV ANTIBODY DETECTION ASSAY,O,YP
+83,171572,Norovirus serological reagent,O,UC
+83,171576,DENGUE SEROLOGICAL REAGENTS,O,SU
+83,172202,Measles IgM Immunoassay,P,CL
+83,172347,Investigational use only - Microbiology,P,CY
+83,172782,"Fungal organisms, nucleic acid-based assay",P,EO
+83,172783,Gram-Negative bacteria and associated resistance markers,P,EN
+83,172902,"System, nucleic acid-based, mycobacterium tuberculosis complex, resistance marker, direct specimen",P,EU
+83,172974,"System, mass spectrometry, maldi tof, microorganism identification, cultured isolates",P,EX
+83,173050,"Groups A, C and G Beta-Hemolytic Streptococcus Nucleic Acid Amplification System",P,GX
+83,173052,HSV-1 and HSV-2 CNS Nucleic-Acid Based Panel,P,GH
+83,173076,Verigene Gram-Positive Blood Culture (GC-GP) Nucleic Acid Test,P,AM
+83,173087,"Herpes virus (VZV, HSV1, HSV2), DNA Detection Assay for cutaneous and mucocutaneous lesion samples",P,GI
+83,173096,Gastrointestinal pathogen panel multiplex nucleic acid-based assay system,P,CH
+83,173097,Gastrointestinal bacterial panel multiplex nucleic acid-based assay system,P,CI
+83,173205,Candida species nucleic acid detection system,P,II
+83,173325,Reagents for detection of Norovirus Nucleic Acid,P,IQ
+83,173335,Leishmania spp. antigen detection assay,P,IT
+83,173803,Meningitis/Encephalitis pathogen multiplex nucleic acid detection system,P,LO
+83,174223,"System, nucleic acid amplification test, DNA, carbapenem non-susceptible gram negative organism, col",P,MY
+83,174318,Multi-Analyte controls,P,MN
+83,174321,Device to detect and measure procalcitonin (PCT) in human clinical specimens,P,MT
+83,174418,C. Difficile Nucleic Acid Amplification Test Assay,O,MN
+83,174450,"System, nucleic acid amplification test, DNA, antimicrobial resistance marker, direct specimen",P,OC
+83,174452,"Reagents, Zika Virus nucleic acid",P,OA
+83,174458,"Reagents, Ebola Zaire virus (detected in the West Africa outbreak in 2014) nucleic acid",P,OG
+83,174547,Vaginitis and bacterial vaginosis nucleic acid detection system,P,QA
+83,174550,Microbial colony image assessment system,P,PU
+83,174586,Data acquisition software,P,QQ
+83,174589,"GBS culture media, selective and differential",P,QZ
+83,174592,RT-qPCR Assay for mRNA Transcript Immune Biomarkers,P,RE
+83,174593,Procalcitonin assay,P,RI
+83,174640,"Devices detecting influenza A, B, and C virus antigens",P,SZ
+83,174652,Assay to measure procalcitonin to aid in the risk assessment of critically ill patients on their fir,P,TF
+83,174661,"Phenotypic test kit, non-susceptible/elevated MIC organisms, cultured isolates",P,TJ
+83,174675,Multiplex flow immunoassay,P,UQ
+83,174710,Rickettsia spp. nucleic acid based detection assay,P,VQ
+83,174859,Zika virus Serological Reagents,P,YS
+83,174861,"FISH (fluorescence in situ hybridization) kit, nucleic acid, Plasmodium sp.",P,YN
+83,174914,"Test, urea adult and pediatric (breath),",O,ZA
+83,174915,Dengue nucleic acid amplification assay (naat),O,ZB
+83,174916,Cytomegalovirus (cmv) dna quantitative assay,P,AB
+83,174938,MERS-CoV and common respiratory pathogens multiplex nucleic acid detection system,P,ZF
+83,174943,Coccidioides spp. nucleic acid detection system for respiratory specimens,Q,AA
+83,174999,Lower respiratory microbial nucleic acid detection system,Q,BH
+83,175001,"Mass spectrometry, MALDI TOF, microorganism identification, cultured isolates",Q,BN
+83,175003,"System, microbial growth monitor of normally sterile body fluid culture",Q,BQ
+83,175030,Direct blood bacterial nucleic acid detection system,Q,BX
+83,175044,Assayed quality control material for clinical microbiology assays,Q,CH
+83,175058,Dengue virus antigen assay,Q,CU
+83,175077,Variola virus nucleic acid-based detection assay,P,RA
+83,175081,Non-variola orthopoxvirus real-time PCR primer and probe set,P,BK
+83,175092,TRICHOMONAS VAGINALIS NUCLEIC ACID AMPLIFICATION TEST SYSTEM,O,UY
+83,175275,Respiratory panel,Q,DP
+83,175277,MERS-CoV and common respiratory pathogens semi-quantitative and quantitative multiplex nucleic acid,Q,DS
+83,175304,Mycoplasma genitalium nucleic acid detection system,Q,EP
+83,175311,Qualitative cytomegalovirus nucleic acid-based detection device for congenital cytomegalovirus infec,Q,DZ
+83,175313,Microbial nucleic acid storage and stabilization device,Q,BD
+83,175349,Monocyte distribution width quantitative measurement for sepsis risk assessment,Q,FS
+83,175482,"System, test, infectious mononucleosis",K,TN
+83,175513,Lateral flow immunochromatography assay for host infection biomarkers,Q,GN
+83,175514,Zika virus serological reagents,Q,FO
+83,175542,Serology tests used for infectious disease screening of blood and plasma donations,Q,HM
+83,175583,Nucleic-acid tests used for infectious disease screening of blood and plasma donations,Q,HO
+83,175590,Multiple osteoarticular pathogen antigen kit,Q,HV
+83,175592,Positive blood culture identification and AST kit,P,RH
+83,175608,"Quality control material, genetics, RNA",Q,IG
+83,175611,Device to detect antigens of biothreat microbial agents in human clinical specimens,Q,ID
+83,175736,Babesia spp. serological reagents,Q,IN
+83,175737,Anaplasma spp. and ehrlichia spp. serological reagents,Q,IO
+83,175738,Rickettsia spp. (spotted fever group or typhus group) serological reagents,Q,IP
+83,175739,Orientia spp. (scrub typhus) serological reagents,Q,IQ
+83,175772,Assay for detection of infection in chronic wounds,Q,FA
+83,175773,Culture-based short-term incubation antimicrobial resistance assay,Q,IV
+83,175819,"Reagents, 2019-novel coronavirus nucleic acid",Q,JR
+83,175847,HIV-1 genotyping assay using NGS technology,Q,IC
+83,175851,"Reagent, coronavirus serological",Q,KO
+83,175852,Coronavirus antigen detection test system.,Q,KP
+83,175931,"Stains, microbiologic",J,TS
+83,175945,Device to detect or measure nucleic acid from viruses associated with head and neck cancers,O,JY
+83,175971,COVID-19 multi-analyte respiratory panel nucleic acid devices,Q,LT
+83,175972,COVID-19 test home collection kit devices,Q,LW
+83,175997,"Transport medium, notified per the VTM guidance",Q,MC
+83,176004,Nucleic acid amplification test for the quantitation of epstein-barr virus (EBV) DNA,Q,LX
+83,176006,Nucleic acid amplification test for the quantitation of BK virus (BK) DNA,Q,MI
+83,176010,COVID-19 Multi-Analyte Antigen Device,Q,MN
+83,176034,A device to detect and identify microbial agents in human clinical specimens that cause fever,Q,MV
+83,176038,"Mass spectrometry, microorganism identification, blood culture",Q,NJ
+83,176067,Multi-target respiratory specimen nucleic acid test including SARS-CoV-2 and other microbial agents,Q,OF
+83,176137,Immunoassay for host biomarkers of infection,Q,PS
+83,176188,Automated system for sample preparation and identification of microorganisms from cultured isolates,Q,QV
+83,176190,Respiratory specimen nucleic acid SARS-CoV-2 test,Q,QX
+83,176191,Culture plate imaging system for qualitative assessment of resistant organisms,Q,QY
+83,176195,Device to preserve and stabilize relative abundances of microbial nucleic acids in clinical samples,Q,PO
+83,176342,Coronavirus marker detection,Q,SH
+83,176345,Orthopedic infection microbial multiplex nucleic acid detection system,Q,SN
+83,176644,HIV self-tests,Q,SS
+83,176645,Bartonella spp. serological reagents,Q,IM
+83,176646,Lab-based HIV NAT diagnostic and/or supplemental test,Q,ST
+83,176647,Point of Care HIV serology diagnostic and/or supplemental test,Q,SU
+83,176648,Point of Care HIV NAT diagnostic and/or supplemental test,Q,SV
+83,176649,NGS whole genome sequencing for SARS-CoV-2 genetic analysis,Q,TA
+83,176734,"Test, HIV detection",M,ZF
+83,176750,"Reagents, monkeypox virus nucleic acid.",Q,TP
+83,176751,"Reagents, non-variola Orthopoxvirus nucleic acid.",Q,TQ
+83,176768,Assayed external control material for microbiology nucleic acid amplification (NAT) assays for blood,Q,TM
+83,176770,Deformability cytometry for sepsis risk assessment,Q,UT
+83,176777,Simple in vitro diagnostic device for the detection of secreted proteins from Bacillus spp. in human,Q,UU
+83,176798,A simple point-of-care device to directly detect SARS-CoV-2 viral targets from clinical specimens in,Q,VF
+83,176951,Multiplex nucleic acid detection system for biothreat agents,Q,VR
+83,176980,SARS-CoV-2 serology test,Q,VP
+83,177007,Over-the-counter molecular test to detect SARS-CoV-2,Q,WB
+83,177014,Lateral Flow Immunochromatography Assay For Host Biomarkers of Respiratory Infection,Q,XA
+83,177022,Simple point-of-care device to detect SAR-CoV-2 nucleic acid targets from clinical specimens in near,Q,WR
+83,177084,System for detection of nucleic acid from non-viral microorganism(s) causing STIs using home,Q,YA
+83,177091,Over-the-Counter COVID-19 Antigen Test,Q,YT
+83,177123,Positive blood culture processor for inoculum preparation used for antimicrobial susceptibility test,Q,ZX

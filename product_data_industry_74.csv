@@ -1,0 +1,416 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+74,20123,Electrocardiograph,D,PS
+74,20124,"Probe, Blood-Flow, Extravascular",D,PT
+74,20125,"Flowmeter, Blood, Cardiovascular",D,PW
+74,20128,"Phlebograph, Impedance",D,QB
+74,20129,Phonocardiograph,D,QC
+74,20130,"Stethoscope, Electronic",D,QD
+74,20131,"Catheter, Oximeter, Fiberoptic",D,QE
+74,20133,"Microsphere, Trace",D,QG
+74,20134,"Cardiograph, Apex (Vibrocardiograph)",D,QH
+74,20136,"Computer, Diagnostic, Programmable",D,QK
+74,20137,"Catheter, Intravascular, Diagnostic",D,QO
+74,20138,"Kit, Balloon Repair, Catheter",D,QP
+74,20139,"Cannula, Catheter",D,QR
+74,20140,"Occluder, Catheter Tip",D,QT
+74,20141,"Wire, Guide, Catheter",D,QX
+74,20142,"Catheter, Percutaneous",D,QY
+74,20143,"Catheter, Steerable",D,RA
+74,20144,"Stylet, Catheter",D,RB
+74,20145,Trocar,D,RC
+74,20146,"Dilator, Vessel, For Percutaneous Catheterization",D,RE
+74,20147,"Catheter, Electrode Recording, Or Probe, Electrode Recording",D,RF
+74,20148,"Transmitters And Receivers, Physiological Signal, Radiofrequency",D,RG
+74,20149,"Monitor, Line Isolation",D,RI
+74,20150,"System, Signal Isolation",D,RJ
+74,20151,"Dc-Defibrillator, High Energy, (Including Paddles)",D,RK
+74,20152,"Tester, Defibrillator",D,RL
+74,20153,"Compressor, Cardiac, External",D,RM
+74,20154,"Device, Counter-Pulsating, External",D,RN
+74,20155,"Pacemaker, Cardiac, External Transcutaneous (Non-Invasive)",D,RO
+74,20156,"Tourniquet, Automatic Rotating",D,RP
+74,20157,"Amplifier And Signal Conditioner, Transducer Signal",D,RQ
+74,20158,"Amplifier And Signal Conditioner, Biopotential",D,RR
+74,20159,"Transducer, Blood-Pressure, Extravascular",D,RS
+74,20160,"Monitor, Cardiac (Incl. Cardiotachometer & Rate Alarm)",D,RT
+74,20161,"Adaptor, Lead Switching, Electrocardiograph",D,RW
+74,20162,"Electrode, Electrocardiograph",D,RX
+74,20163,"Monitor, Blood-Gas, On-Line, Cardiopulmonary Bypass",D,RY
+74,20164,Oscillometer,D,RZ
+74,20165,"Cable, Transducer And Electrode, Patient, (Including Connector)",D,SA
+74,20166,"Plethysmograph, Impedance",D,SB
+74,20167,"Recorder, Paper Chart",D,SF
+74,20168,"Recorder, Magnetic Tape, Medical",D,SH
+74,20169,"Detector And Alarm, Arrhythmia",D,SI
+74,20170,"Alarm, Blood-Pressure",D,SJ
+74,20171,"Computer, Blood-Pressure",D,SK
+74,20172,"Alarm, Leakage Current, Portable",D,SM
+74,20173,"System, Balloon, Intra-Aortic and Control",D,SP
+74,20174,"Device, Bypass, Ventricular (Assist)",D,SQ
+74,20175,"Stimulator, Carotid Sinus Nerve",D,SR
+74,20176,"Clip, Vascular",D,SS
+74,20177,"Clip, Vena-Cava",D,ST
+74,20178,"Bag, Polymeric Mesh, Pacemaker",D,SW
+74,20179,"Prosthesis, Vascular Graft, Of 6mm And Greater Diameter",D,SY
+74,20180,"Battery, Pacemaker",D,SZ
+74,20181,"Tester, Pacemaker Electrode Function",D,TA
+74,20182,"Electrode, Pacemaker, Permanent",D,TB
+74,20183,"Analyzer, Pacemaker Generator Function",D,TC
+74,20184,"Adaptor, Lead, Pacemaker",D,TD
+74,20185,"Pulse-Generator, Pacemaker, External",D,TE
+74,20186,"Tools, Pacemaker Service",D,TF
+74,20187,"Magnet, Test, Pacemaker",D,TG
+74,20189,"Sizer, Heart-Valve, Prosthesis",D,TI
+74,20190,"Holder, Heart-Valve, Prosthesis",D,TJ
+74,20191,"Filter, Intravascular, Cardiovascular",D,TK
+74,20192,"Adaptor, Stopcock, Manifold, Fitting, Cardiopulmonary Bypass",D,TL
+74,20193,"Filter, Blood, Cardiopulmonary Bypass, Arterial Line",D,TM
+74,20194,"Reservoir, Blood, Cardiopulmonary Bypass",D,TN
+74,20195,"Defoamer, Cardiopulmonary Bypass",D,TP
+74,20196,"Console, Heart-Lung Machine, Cardiopulmonary Bypass",D,TQ
+74,20197,"Heat-Exchanger, Cardiopulmonary Bypass",D,TR
+74,20198,"Sucker, Cardiotomy Return, Cardiopulmonary Bypass",D,TS
+74,20199,"Monitor And/Or Control, Level Sensing, Cardiopulmonary Bypass",D,TW
+74,20200,"Gas Control Unit, Cardiopulmonary Bypass",D,TX
+74,20201,"Sensor, Blood-Gas, In-Line, Cardiopulmonary Bypass",D,TY
+74,20202,"Oxygenator, Cardiopulmonary Bypass",D,TZ
+74,20203,"Control, Pump Speed, Cardiopulmonary Bypass",D,WA
+74,20204,"Pump Blood, Cardiopulmonary Bypass, Roller Type",D,WB
+74,20205,"Controller, Temperature, Cardiopulmonary Bypass",D,WC
+74,20206,"Suction Control, Intracardiac, Cardiopulmonary Bypass",D,WD
+74,20207,"Tubing, Pump, Cardiopulmonary Bypass",D,WE
+74,20208,"Catheter, Cannula And Tubing, Vascular, Cardiopulmonary Bypass",D,WF
+74,20211,"System, Thermal Regulating",D,WJ
+74,20215,"Dilator, Vessel, Surgical",D,WP
+74,20216,"Stripper, Vein, External",D,WQ
+74,20217,"Instruments, Surgical, Cardiovascular",D,WS
+74,20218,"Stripper, Artery, Intraluminal",D,WX
+74,20219,"Device, Biopsy, Endomyocardial",D,WZ
+74,20220,"Clamp, Vascular",D,XC
+74,20221,"Catheter, Embolectomy",D,XE
+74,20222,"Catheter, Septostomy",D,XF
+74,20223,"Computer, Diagnostic, Pre-Programmed, Single-Function",D,XG
+74,20224,"Transmitters And Receivers, Electrocardiograph, Telephone",D,XH
+74,20225,"Display, Cathode-Ray Tube, Medical",D,XJ
+74,20226,Echocardiograph,D,XK
+74,20227,"Injector, Indicator",D,XL
+74,20228,Densitometer,D,XM
+74,20229,"System, Measurement, Blood-Pressure, Non-Invasive",D,XN
+74,20230,"Transducer, Pressure, Catheter Tip",D,XO
+74,20231,"Transducer, Vessel Occlusion",D,XP
+74,20232,"Cuff, Blood-Pressure",D,XQ
+74,20233,Ballistocardiograph,D,XR
+74,20234,"Gauge, Pressure, Coronary, Cardiopulmonary Bypass",D,XS
+74,20235,"Injector And Syringe, Angiographic",D,XT
+74,20236,"System, Phonocatheter, Intracavitary",D,XW
+74,20237,"System, Catheter Control, Steerable",D,XX
+74,20238,"Pulse-Generator, Pacemaker, Implantable",D,XY
+74,20239,"Patch, Pledget and Intracardiac, PETP, PTFE, Polypropylene",D,XZ
+74,20240,"Introducer, Catheter",D,YB
+74,20241,Vectorcardiograph,D,YC
+74,20242,"Heart-Valve, Replacement",D,YE
+74,20243,"Prosthesis, Vascular Graft, Of Less Then 6mm Diameter",D,YF
+74,20244,"Catheter, Flow Directed",D,YG
+74,20927,"Prosthesis, Arterial Graft, Bovine Carotid Artery",F,ZC
+74,22174,"Injector, Contrast Medium, Automatic",I,ZQ
+74,22464,"Filter, Blood, Cardiotomy Suction Line, Cardiopulmonary Bypass",J,OD
+74,22470,"Plethysmograph, Photoelectric, Pneumatic Or Hydraulic",J,OM
+74,22471,"Transducer, Apex Cardiographic",J,ON
+74,22472,"Transducer, Heart Sound",J,OO
+74,22473,"Transducer, Ultrasonic",J,OP
+74,22474,"Generator, Pulse, Pacemaker, External Programmable",J,OQ
+74,22475,"Generator, Pulsatile Flow, Cardiopulmonary Bypass",J,OR
+74,22478,"Sleeve, Limb, Compressible",J,OW
+74,22763,"Materials, Repair Or Replacement, Pacemaker",K,FJ
+74,22765,"Pump, Blood, Cardiopulmonary Bypass, Non-Roller Type",K,FM
+74,23000,"Catheter, Continuous Flush",K,RA
+74,23001,"Probe, Thermodilution",K,RB
+74,23002,"Tester, Electrode, Surface, Electrocardiographic",K,RC
+74,23003,"Device, Embolization, Arterial",K,RD
+74,23004,"Analyzer, Pacemaker Generator Function, Indirect",K,RE
+74,23005,"Charger, Pacemaker",K,RF
+74,23006,"Programmer, Pacemaker",K,RG
+74,23007,"Ring, Annuloplasty",K,RH
+74,23008,"Accessory Equipment, Cardiopulmonary Bypass",K,RI
+74,23009,"Filter, Prebypass, Cardiopulmonary Bypass",K,RJ
+74,23010,"Manometer, Blood-Pressure, Venous",K,RK
+74,23011,"Detector, Bubble, Cardiopulmonary Bypass",K,RL
+74,23224,"Dc-Defibrillator, Low-Energy, (Including Paddles)",L,DD
+74,23225,"Stethoscope, Manual",L,DE
+74,23226,"Electrode, Pacemaker, Temporary",L,DF
+74,23357,"Catheter, Angioplasty, Peripheral, Transluminal",L,IT
+74,23359,"Aid, Cardiopulmonary Resuscitation",L,IX
+74,23500,Pulse-Generator Program Module,L,OT
+74,23502,"Catheters, Transluminal Coronary Angioplasty, Percutaneous & Operative",L,OX
+74,23504,"Heart, Artificial",L,OZ
+74,23505,"System, Esophageal Pacing",L,PA
+74,23506,Cardiac ablation percutaneous catheter,L,PB
+74,23507,"Device, Angioplasty, Laser, Coronary",L,PC
+74,23636,"Pulse-Generator, Single Chamber, Sensor Driven, Implantable",L,WO
+74,23637,"Pulse-Generator, Dual Chamber, Implantable",L,WP
+74,23638,"Heart-Valve, Mechanical",L,WQ
+74,23639,"Tissue, Heart-Valve",L,WR
+74,23640,"Defibrillator, Automatic Implantable Cardioverter",L,WS
+74,23641,"Occluder, Balloon, Vena-Cava",L,WT
+74,23642,"Pulse-Generator, Single Chamber, Antitachycardia",L,WW
+74,23643,"Device, Laser Peripheral Angioplasty",L,WX
+74,23645,Tissue Graft Of Less Than 6mm,L,WZ
+74,23646,Tissue Graft Of 6mm And Greater,L,XA
+74,23669,"Probe, Test, Heart-Valve",L,XN
+74,23692,Angioscope,L,YK
+74,23750,"Marker, Cardiopulmonary Bypass (Vein Marker)",M,AB
+74,23752,"Catheter, Percutaneous (Valvuloplasty)",M,AD
+74,23753,"Occluder, Patent Ductus, Arteriosus",M,AE
+74,23754,"Stent, Cardiovascular",M,AF
+74,23760,"Graft, Vascular, Synthetic/Biologic Composite",M,AL
+74,23771,"Syringe, Balloon Inflation",M,AV
+74,24817,"Catheter, Peripheral, Atherectomy",M,CW
+74,24818,"Catheter, Coronary, Atherectomy",M,CX
+74,24823,"Device, Removal, Pacemaker Electrode, Percutaneous",M,FA
+74,24831,"Patch, Pericardial",M,FX
+74,24832,Endothelial cell harvesting kit,M,FY
+74,24834,"Device, Hemostasis, Vascular",M,GB
+74,24838,Valvulotome,M,GZ
+74,24839,"Monitor, Physiological, Patient",M,HX
+74,24840,"Heart-Valve, Allograft",M,IE
+74,24841,"System, Endovascular Graft, Aortic Aneurysm Treatment",M,IH
+74,24843,"Shunt, Portosystemic, Endoprosthesis",M,IR
+74,25209,"CPB Check Valve, Retrograde Flow, In-line",M,JJ
+74,25210,"Catheter, Intravascular Occluding, Temporary",M,JN
+74,25217,Automated external defibrillators (non-wearable),M,KJ
+74,25219,"Monitor, ST Segment",M,LC
+74,25220,"Monitor, St Segment with Alarm",M,LD
+74,25221,"Electrode, Electrodcardiograph, Multi-function",M,LN
+74,25222,"Electrocardiograph, Ambulatory with Analysis Algorithm",M,LO
+74,25223,"Device, Transcatheter Cardiac Occlusion",M,LV
+74,25224,"Device, Percutaneous Retrieval",M,MX
+74,25225,"Valve, Pressure Relief, Cardiopulmonary Bypass",M,NJ
+74,25227,"System, Laser, Transmyocardial Revascularization",M,NO
+74,25230,"Rotator, Prosthetic Heart Valve",M,OP
+74,25232,Intravascular Radiation Delivery System,M,OU
+74,25233,Atrial Defibrillator,M,PC
+74,25234,Auxillary Power Supply (AC or DC) for Low-energy DC-Defibrillator,M,PD
+74,25235,Auxillary Power Supply (AC or DC) for External Transcutaneous Cardiac Pacemaker,M,PE
+74,150567,"Support, Cardiac",N,AP
+74,150569,"Tunneler, Stainless Steel, Graft, Vascular",M,ZY
+74,150571,"Graft, Bypass, Coronary Artery",N,AV
+74,152131,"Defibrillator, Implantable, Dual-Chamber",M,RM
+74,152133,"System, Network and Communication, Physiological Monitors",M,SX
+74,152134,"Catheter, Intracardiac Mapping, High-Density Array",M,TD
+74,152135,"System, Pacing, Temporary, Acute, Internal Atrial Defibrillation",M,TE
+74,152136,"Oximeter, Tissue Saturation",M,UD
+74,152143,"Glue, Surgical, Arteries",M,UQ
+74,152145,"Wearable, Defibrillator, Automatic, External",M,VK
+74,152148,"Conduit, Valved, Pulmonic",M,WH
+74,152149,"Monitor, Physiological, Patient (Without Arrhythmia Detection or Alarms)",M,WI
+74,152150,"Electrocardiograph, Ambulatory (Without Analysis)",M,WJ
+74,152151,"Device, Stabilizer, Heart",M,WS
+74,152152,"Recorder, Event, Implantable Cardiac (Without Arrhythmia Detection)",M,XC
+74,152153,"Recorder, Event, Implantable Cardiac (With Arrhythmia Detection)",M,XD
+74,152504,"Device, Coronary Saphenous Vein Bypass Graft, Temporary, for Embolization Protection",N,FA
+74,153174,"Electrode, Pacing and Cardioversion, Temporary, Epicardial",N,HW
+74,153194,"Defibrillator, Automatic Implantable Cardioverter, with Cardiac Resynchronization",N,IK
+74,153205,"System, appendage closure, left atrial",N,GV
+74,153383,"Stent, Coronary, Drug-Eluting",N,IQ
+74,153384,"Stent, Carotid",N,IM
+74,153385,"Stent, Renal",N,IN
+74,153386,"Stent, Iliac",N,IO
+74,153387,"Stent, Superficial Femoral Artery",N,IP
+74,153391,"Stent, Superficial Femoral Artery,",N,IU
+74,153603,"Pulse Generator, Pacemaker, Implantable, with Cardiac Resynchronization",N,KE
+74,153904,"Sensor, Pressure, Aneurysm, Implantable",N,QH
+74,153905,"Stabilizer, Heart, Non-Metallic, Reprocessed",N,QG
+74,153926,Pulmonary valve prosthesis percutaneously delivered,N,PV
+74,153927,"Prosthesis, Mitral Valve, Percutaneously Delivered",N,PU
+74,153928,"Prosthesis, Aortic Valve, Percutaneously Delivered",N,PT
+74,153930,"Cuff, Blood-Pressure, Reprocessed",N,PP
+74,154980,"System, Balloon,Intra-Aortic And Control,Reprocessed",N,KO
+74,154981,"Injector,Contrast Medium Automatic, Reprocessed",N,KP
+74,154982,"Guidewire,  Catheter, Reprocessed",N,KQ
+74,154983,"System, Catheter Control, Reprocessed",N,KR
+74,154984,"Catheter, Steerable, Reprocessed",N,KS
+74,154985,"Injector and Syringe,Angiographic,Reprocessed",N,KT
+74,154986,"Injector and Syringe,Angiographic,Balloon Inflation,Reprocessed",N,KU
+74,154987,"Actuator, Syringe, For Injector, Reprocessed",N,KW
+74,154988,"Catheter, Mapping, Intracardiac, Reprocessed",N,LG
+74,154989,"Catheter, Recording, Electrode, Reprocessed",N,LH
+74,154990,"Catheter, Angiograpy, Reprocessed",N,LI
+74,154991,"Stripper, Vein, External, Reprocessed",N,LJ
+74,154992,"Catheter,Oximeter, Fiber Optic, Reprocessed",N,MB
+74,154993,"Oximeter, Tissue Saturation, Reprocessed",N,MD
+74,154994,"Trocar, Reprocessed",N,MK
+74,154995,"Catheter,Angioplast,Peripheral,Transluminal, Reprocessed",N,MM
+74,154996,Over-the-counter automated external defibrillator,N,SA
+74,154997,"Catheter, Carotid, Temporary, For Embolization Capture",N,TE
+74,155674,"Catheter, angioplasty, peripheral, transluminal, dual-ballon",N,VM
+74,155675,"Pacemaker electrode, permanent, drug-eluting",N,VN
+74,155834,"Electrode, permanentm pacemaker",N,VY
+74,155835,"Pulse generator, permanent, implantable",N,VZ
+74,156714,"Catheter, percutaneous transluminal coronary angioplasty (ptca), cutting/scoring",N,WX
+74,157505,"Basin, inflatable, hypothermia",N,ZE
+74,157734,"Catheter, percutaneous, cardiac ablation, for treatment of atrial flutter",O,AD
+74,157735,"Catheter, percutaneous, cardiac ablation, for treatment of atrial fibrillation",O,AE
+74,158074,"Occluder, internal vessel, temporary",O,BC
+74,158075,"Barrier, adhesion, cardiovascular",O,BD
+74,158175,"Catheter, ultrasound, intravascular",O,BJ
+74,158177,"Catheter, pressure monitoring, cardiac",O,BI
+74,163206,"Surgical cardiac ablation device, for treatment of atrial fibrillation",O,CM
+74,163208,"Oximeter, infrared, sporting, aviation",O,CH
+74,163209,"Surgical device, for ablation of cardiac tissue",O,CL
+74,163982,"Tissue adhesive, aortic aneurysmorrhaphy",O,DT
+74,164079,Antimicrobial blood pressure cuff,O,ED
+74,164219,Angiography/angioplasty kit,O,EQ
+74,164220,Angioscopic valvulotime kit,O,ER
+74,164221,Cardiac catheterization kit,O,ES
+74,164222,Cardioplegia solution administration kit,O,ET
+74,164223,Cardiopulmonary bypass catheter kit,O,EU
+74,164224,Cardiopulmonary resuscitation aid kit,O,EV
+74,164225,Cadriovascular catheter sheath introducer kit,O,EX
+74,164227,Cardiovascular procedure kit,O,EZ
+74,164228,Cardiovascular surgical instruments tray,O,FA
+74,164229,Catheter guide wire kit,O,FB
+74,164230,Catheter introducer kit,O,FC
+74,164231,Catheter introducer kit,O,FD
+74,164232,Central venous blood pressure kit,O,FE
+74,164233,Central venous catheter tray,O,FF
+74,164234,Ct biopsy tray,O,FG
+74,164235,Digital angiography tray,O,FH
+74,164236,Laser blood flow kit,O,FI
+74,164237,Lead introducer kit,O,FJ
+74,164238,Percutaneous atrial catheter kit,O,FK
+74,164239,Percutaneous sheath introducer kit,O,FL
+74,164241,Winged intravenous catheterization kit,O,FN
+74,164419,"Catheter, intravascular, plaque morphology evaluation",O,GZ
+74,164459,"Heart valve, more than minimally manipulated allograft",O,HA
+74,165762,Pulmonary (pulmonic) valvuloplasty catheters/percutaneous valvuloplasty catheter,O,MZ
+74,166734,"Optical coherence tomography, intravascular catheter",O,RD
+74,166867,"clamp, vascular, reprocessed",N,MF
+74,166868,ventricular bypass (assist) device,O,KR
+74,166869,pericardial patch to facilitate revision surgeries,O,MH
+74,166870,vessel guard or cover,O,MR
+74,166871,"marker, ostia, aorto-saphenous vein",K,PK
+74,166872,coronary covered stent,N,IV
+74,166873,right ventricular bypass (assist) device,O,JE
+74,166874,drug eluting permanent left ventricular (lv) pacemaker electrode,O,JX
+74,167222,Pacemaker/icd/crt non-implanted components,O,SR
+74,168365,"Pulse Generator, External Pacemaker, Dual Chamber",O,VJ
+74,169788,Reprocessed intravascular ultrasound catheter,O,WQ
+74,171045,Transcatheter septal occluder (atrial),O,ZG
+74,171046,Transcatheter septal occluder (ventricular),O,ZH
+74,171142,Balloon aortic valvuloplasty,O,ZT
+74,171577,ENDOVASCULAR SUTURING SYSTEM,O,TD
+74,171582,Pulmonic replacement heart valve,P,AL
+74,171682,Nonabsorbable expanded polytetrafluoroethylene surgical suture for chordae tendinae repair or replac,P,AW
+74,172182,Pediatric ventricular assist device,P,CK
+74,172302,"Implantable pulse generator, programmer and battery charger",P,CW
+74,172322,Artificial chordae tendinae delivery system,P,CX
+74,172582,Catheter for crossing total occlusions,P,DU
+74,172970,Non-invasive central venous manometer,P,FA
+74,173010,Mitraclip Delivery System,N,KM
+74,173015,Low patient acuity monitoring system,P,FY
+74,173100,"System, hemodynamic, implantable",M,OM
+74,173326,Drug-Eluting Peripheral Transluminal Angioplasty Catheter,O,NU
+74,173341,Coronary vascular physiologic simulation software,P,JA
+74,173365,Catheter remote control system,P,JB
+74,173586,Stent delivery system,P,KK
+74,173587,"Agent, occluding, vascular, permanent",P,JQ
+74,173604,Temporary non-roller type cardiac support blood pump,O,ZD
+74,173607,Combination compression/decompression manual chest pump with impedance respiratory valve,P,IZ
+74,173647,Multivariate vital signs index,P,LB
+74,173705,Esophageal thermal regulation and gastric suctioning device,P,LA
+74,174324,Leadless pacemaker,P,NJ
+74,174419,Short-term intravascular filter catheter,P,NS
+74,174454,Absorbable coronary drug-eluting stent,P,NY
+74,174456,Aortic stent,P,NF
+74,174457,"Catheter, percutaneous, cutting/scoring",P,NO
+74,174464,CPR aid feedback device (no software),P,MJ
+74,174482,"Membrane, lung, (for long-term respiratory support)",B,YS
+74,174510,Percutaneous Catheter,P,PN
+74,174516,Reprocessed catheter introducer,P,NE
+74,174521,Apical closure device,P,NQ
+74,174527,"Sleeve, head and neck, compressible",P,PS
+74,174587,Early warning and physiological status indicator/index,P,PW
+74,174597,"Iliac covered stent, arterial",P,RL
+74,174629,"Intracardiac patch or pledget, biologically derived",P,SQ
+74,174631,Aortic Annuloplasty Ring,P,ST
+74,174697,"Temporary catheter, embolic protection, transcatheter intracardiac procedures",P,UM
+74,174735,"Reservoir, blood, cardiopulmonary bypass, exempt",P,TN
+74,174736,"Syringe, Balloon Inflation, Exempt",P,TM
+74,174737,"Wire, guide, catheter, exempt",P,TL
+74,174858,Drug-coated peripheral transluminal angioplasty catheter,P,RC
+74,174878,Temporary non-roller type right heart support blood pump,P,YX
+74,174901,Software for visualization of vascular anatomy and intravascular devices,P,ZO
+74,174903,"Aortic heart valve, more than minimally manipulated allograft",P,AP
+74,174904,"System, endovascular graft, arteriovenous (av) dialysis access circuit stenosis treatment",P,FV
+74,174905,CPR aid device without feedback,P,MK
+74,174929,Dual lumen ECMO cannula,P,ZS
+74,174933,"Left atrial appendage clip, implantable",P,ZX
+74,174946,Pacing system analyzer,Q,AB
+74,174984,Adjunctive predictive cardiovascular indicator,Q,AQ
+74,175056,Acute coronary syndrome event detector,Q,BI
+74,175060,Percutaneous catheter for creation of an arteriovenous fistula for hemodialysis access,P,QK
+74,175079,Electrocardiograph for over-the-counter use with or without arrhythmia detection,Q,DA
+74,175080,Photoplethysmograph analysis software for over-the-counter use,Q,DB
+74,175295,Angiographic coronary vascular physiologic simulation software,Q,EK
+74,175305,Peripheral mechanical thrombectomy with aspiration,Q,EW
+74,175306,Mechanical thrombolysis catheter,Q,EY
+74,175307,Coronary mechanical thrombectomy with aspiration,Q,EX
+74,175308,Aspiration thrombectomy catheter,Q,EZ
+74,175321,Intravascular bleed monitor,Q,FJ
+74,175453,"Stent, iliac vein",Q,AN
+74,175454,Implantable pulse generator,Q,FV
+74,175459,"System, oxygen, aqueous",M,WG
+74,175597,"Scaffold, dissection repair",Q,CT
+74,175817,"Apparatus, autotransfusion",C,AC
+74,175818,"Trousers, anti-shock",L,HX
+74,175825,Reverse central venous recanalization system,Q,JH
+74,175827,Extracorporeal system for long-term respiratory / cardiopulmonary failure,Q,JZ
+74,175955,Patient monitor with independent remote display and operation,Q,LJ
+74,175956,"Intensive care unit, respiratory failure and hemodynamic instability tool, COVID-19",Q,LM
+74,175957,"Left ventricular ejection fraction screening tool, COVID-19",Q,LL
+74,175958,Extracorporeal system for carbon dioxide removal,Q,LN
+74,175990,"Septostomy catheter, reprocessed",Q,LZ
+74,176035,Coronary artery disease risk score,Q,MW
+74,176036,Adjunctive open loop fluid therapy recommender,Q,MS
+74,176040,Medium-term adjunctive predictive cardiovascular indicator,Q,NL
+74,176049,Shockwave intravascular lithotripsy system,Q,MG
+74,176054,"Remote or wearable patient monitoring device for drug induced QT prolongation monitoring, Covid-19",Q,NY
+74,176055,"System, communication, powered, covid-19",Q,NZ
+74,176056,PPG sensor wearable for hypercoagulation detection and covid-19 screening,Q,OA
+74,176058,"Temporary non-roller type left or right heart support blood pump, covid-19",Q,OC
+74,176059,Extracorporeal system for long-term respiratory / cardiopulmonary failure for emergency use,Q,OD
+74,176060,Adjunctive hemodynamic indicator with decision point,Q,NV
+74,176066,Extracorporeal system For carbon dioxide removal,Q,OH
+74,176070,"Software for optical camera-based measurement of pulse rate, heart rate, breathing rate, and/or resp",Q,ME
+74,176071,Hardware and software for optical camera-based measurement of heart rate and respiratory rate,Q,OK
+74,176149,Interventional cardiovascular implant simulation software device,Q,QI
+74,176151,"Blood pump for ECMO, long-term (> 6 hours) use",Q,NR
+74,176321,Single lumen ECMO cannula,Q,HW
+74,176339,Organ care system (OCS) heart system,Q,IK
+74,176638,"Hybrid stent graft, thoracic aortic lesion treatment",Q,SK
+74,176757,Ingestible event marker,O,ZW
+74,176771,Adjunctive Heart Failure Status Indicator,Q,UO
+74,176775,Reprocessed Atherectomy Catheter,Q,TF
+74,176956,Cardiovascular Delivery Catheter System Positioning and Stabilization Device,Q,WA
+74,176963,"Tubing, long term support greater than 6 hours",Q,WF
+74,177006,"Stent graft, bypass, superficial femoral artery",Q,WM
+74,177037,Cardiovascular machine learning-based notification Software,Q,XO
+74,177038,Pulmonary stent,Q,WC
+74,177040,"Stent graft, infrapopliteal, venous arterialization",Q,WN
+74,177044,Temperature regulation device for esophageal protection during cardiac ablation,Q,XV
+74,177045,Extravascular support for an arteriovenous fistula for vascular access,Q,VQ
+74,177048,Adjunctive Epicardial Vascular Physiologic Status Indicator,Q,XZ
+74,177049,Coronary Artery Disease machine learning-based notification software,Q,XX
+74,177050,"Esophageal protection device for use in percutaneous cardiac catheter ablation procedures, mechanica",Q,XU
+74,177055,"Embolization Agent, Vascular",Q,VG
+74,177056,Reduced Ejection Fraction machine learning-based notification software,Q,YE
+74,177086,"Ablation catheter, renal denervation",Q,YI
+74,177089,Infant pulse rate and oxygen saturation monitor for over-the-counter use,Q,YU
+74,177099,Percutaneous Cardiac Ablation Catheter for Treatment of Atrial Fibrillation with Irreversible Electr,Q,ZI
+74,177101,Neonatal ICU continuous non-invasive blood pressure monitor (includes alarms),Q,YF
+74,177108,Laser-powered inferior vena cava filter retrieval catheter,Q,RJ
+74,177113,Outpatient Cardiac Telemetry,Q,YX
+74,177114,Hospital Cardiac Telemetry,Q,YW
+74,177122,Endovascular system for treatment of thoracoabdominal and pararenal aortic lesions,Q,ZK
+74,177261,Percutaneously Delivered Prostheses and Tricuspid Valves,N,PW
+74,177300,"Temporary Embolization Assist Device, Peripheral",Q,ZU

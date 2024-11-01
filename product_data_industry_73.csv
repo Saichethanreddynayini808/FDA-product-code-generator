@@ -1,0 +1,249 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+73,19526,"Protector, Dental",B,RW
+73,19527,"Stool, Anesthesia",B,RX
+73,19528,"Cabinet, Table And Tray, Anesthesia",B,RY
+73,19532,"Analyzer, Gas, Nitrogen, Partial Pressure, Blood-Phase, Non-Indwelling",B,SD
+73,19533,"Analyzer, Gas, Helium, Gaseous-Phase",B,SE
+73,19534,"Absorber, Carbon-Dioxide",B,SF
+73,19535,"Algesimeter, Powered",B,SI
+73,19536,"Mask, Gas, Anesthetic",B,SJ
+73,19537,"Cuff, Tracheal Tube, Inflatable",B,SK
+73,19538,"Filter, Conduction, Anesthetic",B,SN
+73,19539,"Catheter, Conduction, Anesthetic",B,SO
+73,19540,"Needle, Conduction, Anesthetic (W/Wo Introducer)",B,SP
+73,19541,"Stylet, Tracheal Tube",B,SR
+73,19544,"Catheters, Suction, Tracheobronchial",B,SY
+73,19545,"Gas Machine, Anesthesia",B,SZ
+73,19547,"Hook, Ether",B,TB
+73,19548,"Bag, Reservoir",B,TC
+73,19550,"Compressor, Air, Portable",B,TI
+73,19551,"Strap, Head, Gas Mask",B,TK
+73,19552,"Ventilator, Emergency, Powered (Resuscitator)",B,TL
+73,19553,"Ventilator, Emergency, Manual (Resuscitator)",B,TM
+73,19554,"Tube, Tracheostomy (W/Wo Connector)",B,TO
+73,19555,"Dropper, Ether",B,TP
+73,19556,"Airway, Nasopharyngeal",B,TQ
+73,19557,"Tube, Tracheal (W/Wo Connector)",B,TR
+73,19558,"Tube, Bronchial (W/Wo Connector)",B,TS
+73,19559,"Humidifier, Respiratory Gas, (Direct Patient Interface)",B,TT
+73,19561,"Calculator, Predicted Values, Pulmonary Function",B,TY
+73,19563,"Forceps, Tube Introduction",B,WB
+73,19564,"Needle, Emergency Airway",B,WC
+73,19565,"Spirometer, Therapeutic (Incentive)",B,WF
+73,19570,"Apparatus, Electronanesthesia",B,WL
+73,19573,"Analyzer, Gas, Water Vapor, Gaseous-Phase",B,XA
+73,19575,"Gauge, Gas Pressure, Cylinder/Pipeline",B,XH
+73,19576,"Clip, Nose",B,XJ
+73,19577,"Gas, Calibration (Specified Concentration)",B,XK
+73,19578,"Algesimeter, Manual",B,XL
+73,19579,"Stimulator, Nerve, Ac-Powered",B,XM
+73,19580,"Stimulator, Nerve, Battery-Powered",B,XN
+73,19581,"Transducer, Gas Pressure",B,XO
+73,19582,"Transducer, Gas Flow",B,XP
+73,19583,Rhinoanemometer (Measurement Of Nasal Decongestion),B,XQ
+73,19584,"Meter, Airway Pressure (Inspiratory Force)",B,XR
+73,19585,"Calibrator, Volume, Gas",B,XW
+73,19586,"Calibrator, Pressure, Gas",B,XX
+73,19587,"Flowmeter, Calibration, Gas",B,XY
+73,19588,"Condenser, Heat And Moisture (Artificial Nose)",B,YD
+73,19589,"Attachment, Breathing, Positive End Expiratory Pressure",B,YE
+73,19590,"Mask, Oxygen, Low Concentration, Venturi",B,YF
+73,19591,"Mask, Oxygen",B,YG
+73,19592,"Drain, Tee (Water Trap)",B,YH
+73,19593,"Percussor, Powered-Electric",B,YI
+73,19594,"Unit, Liquid-Oxygen, Portable",B,YJ
+73,19595,"Tent, Oxygen, Electrically Powered",B,YK
+73,19596,"Tent, Oxygen",B,YL
+73,19597,"Tube, Thorpe, Uncompensated",B,YM
+73,19598,"Chair, Posture, For Cardiac And Pulmonary Treatment",B,YN
+73,19599,"Bottle, Blow",B,YO
+73,19600,"Mouthpiece, Breathing",B,YP
+73,19601,"Transducer, Gas Pressure, Differential",B,YR
+73,19603,"Ventilator, External Body, Negative Pressure, Adult (Cuirass)",B,YT
+73,19604,"Device, Rebreathing",B,YW
+73,19605,"Tubing, Pressure And Accessories",B,YX
+73,19608,"Connector, Airway (Extension)",B,ZA
+73,19609,"Catheter, Nasal, Oxygen",B,ZB
+73,19610,"Calculator, Pulmonary Function Data",B,ZC
+73,19611,"Ventilator, Non-Continuous (Respirator)",B,ZD
+73,19612,"Heater, Breathing System W/Wo Controller (Not Humidifier Or Nebulizer",B,ZE
+73,19613,"Spirometer, Diagnostic",B,ZG
+73,19614,"Meter, Peak Flow, Spirometry",B,ZH
+73,19615,"Spirometer, Monitoring (W/Wo Alarm)",B,ZK
+73,19616,"Computer, Oxygen-Uptake",B,ZL
+73,19617,"Calculator, Pulmonary Function Interpretator (Diagnostic)",B,ZM
+73,19618,"Cart, Emergency, Cardiopulmonary (Excluding Equipment)",B,ZN
+73,19619,"Set, Tubing and Support, Ventilator (w Harness)",B,ZO
+73,19620,"Monitor, Breathing Frequency",B,ZQ
+73,19621,"Mixer, Breathing Gases, Anesthesia Inhalation",B,ZR
+73,19622,Stethoscope Head,B,ZS
+73,19623,"Stethoscope, Esophageal, With Electrical Conductors",B,ZT
+73,19624,"Stethoscope, Esophageal",B,ZW
+73,19626,"Vaporizer, Anesthesia, Non-Heated",C,AD
+73,19627,"Airway, Oropharyngeal, Anesthesiology",C,AE
+73,19628,Nebulizer (Direct Patient Interface),C,AF
+73,19629,"Circulator, Breathing-Circuit",C,AG
+73,19631,"Circuit, Breathing (W Connector, Adaptor, Y Piece)",C,AI
+73,19633,"Laryngoscope, Non-Rigid",C,AL
+73,19634,"Yoke Assembly, Medical Gas",C,AM
+73,19635,"Regulator, Pressure, Gas Cylinder",C,AN
+73,19636,"Airway, Esophageal (Obturator)",C,AO
+73,19637,"Monitor, Airway Pressure (Includes Gauge And/Or Alarm)",C,AP
+73,19639,"Cannula, Nasal, Oxygen",C,AT
+73,19640,"Generator, Oxygen, Portable",C,AW
+73,19641,"Flowmeter, Tube, Thrope, Back-Pressure Compensated",C,AX
+73,19642,Anesthesia conduction kit,C,AZ
+73,19643,"Monitor, Air Embolism, Ultrasonic",C,BA
+73,19646,"Chamber, Hyperbaric",C,BF
+73,19647,"Spreader, Cuff",C,BG
+73,19648,"Device, Fixation, Tracheal Tube",C,BH
+73,19649,"Tube, Tracheal/Bronchial, Differential Ventilation (W/Wo Connector)",C,BI
+73,19650,"Ventilator, Continuous (Respirator)",C,BK
+73,19651,"Absorbent, Carbon-Dioxide",C,BL
+73,19652,"Apparatus, Gas-Scavenging",C,BN
+73,19653,"Attachment, Intermitant Mandatory Ventilation (Imv)",C,BO
+73,19654,"Valve, Non-Rebreathing",C,BP
+73,19655,"Analyzer, Gas, Enflurane, Gaseous-Phase (Anesthetic Conc.)",C,BQ
+73,19656,"Analyzer, Gas, Nitrous-Oxide, Gaseous Phase (Anesthetic Conc.)",C,BR
+73,19657,"Analyzer, Gas, Halothane, Gaseous-Phase (Anesthetic Conc.)",C,BS
+73,19658,"Kit, Sampling, Arterial Blood",C,BT
+73,19659,"Analyzer, Ion, Hydrogen-Ion (Ph), Blood-Phase, Indwelling",C,BZ
+73,19660,"Analyzer, Gas, Carbon-Dioxide, Partial Pressure, Blood-Phase, Indwelling",C,CC
+73,19661,"Analyzer, Gas, Oxygen, Partial Pressure, Blood-Phase, Indwelling",C,CE
+73,19662,"Analyzer, Gas, Nitrogen, Gaseous-Phase",C,CI
+73,19663,"Analyzer, Gas, Carbon-Monoxide, Gaseous-Phase",C,CJ
+73,19664,"Analyzer, Gas, Carbon-Dioxide, Gaseous-Phase",C,CK
+73,19665,"Analyzer, Gas, Oxygen, Gaseous-Phase",C,CL
+73,19666,"Plethysmograph, Pressure",C,CM
+73,19667,"Flowmeter, Nonback-Pressure Compensated, Bourdon Gauge",C,CN
+73,19668,"Bed, Rocking, Breathing Assist",C,CO
+73,19669,"Nebulizer, Medicinal, Non-Ventilatory (Atomizer)",C,CQ
+73,19670,"Applicator (Laryngo-Tracheal), Topical Anesthesia",C,CT
+73,19671,"Laryngoscope, Rigid",C,CW
+73,19672,"Support, Patient Position",C,CX
+73,20305,"Cylinder, Compressed Gas, And Valve",E,CX
+73,20448,"Brush, Cleaning, Tracheal Tube",E,PE
+73,20775,"Monitor (Apnea Detector), Ventilatory Effort",F,LS
+73,20793,"Tent, Pediatric Aerosol",F,NC
+73,20808,"Hood, Oxygen, Infant",F,OG
+73,22193,Pneumotachometer,J,AX
+73,22194,"Support, Breathing Tube",J,AY
+73,22255,"Analyzer, Oxyhemoglobin Concentration, Blood-Phase, Indwelling",J,ED
+73,22256,"Analyzer, Gas, Neon, Gaseous-Phase",J,EF
+73,22257,"Analyzer, Gas, Argon, Gaseous-Phase",J,EG
+73,22258,"Plethysmograph, Volume",J,EH
+73,22272,"Monitor, Lung Water Measurement",J,EZ
+73,22276,"Valve, Switching (Ploss)",J,FE
+73,22466,Tube Tracheostomy and Tube Cuff,J,OH
+73,22769,"Humidifier, Non-Direct Patient Interface (Home-Use)",K,FZ
+73,22771,"Mask, Oxygen, Non-Rebreathing",K,GB
+73,22779,"Gas, Collecting Vessel",K,GK
+73,22792,"Mask, Scavenging",K,HA
+73,22887,"Monitor, Oxygen, Cutaneous, For Infant Not Under Gas Anesthesia",K,LK
+73,22943,"Stimulator, Nerve, Peripheral, Electric",K,OI
+73,23335,"Trousers, Anti-Shock",L,HX
+73,23388,"Monitor, Carbon-Dioxide, Cutaneous",L,KD
+73,23423,"Laser, Neodymium:Yag, Pulmonary Surgery",L,LO
+73,23480,"Changer, Tube, Endotracheal",L,NZ
+73,23597,"Ventilator, High Frequency",L,SZ
+73,23659,"Monitor, Oxygen, Cutaneous, For Uses Other Than For Infant Not Under Gas Anesthesia",L,PP
+73,25188,"Needle, Spinal, Short Term",M,IA
+73,25190,Ventilatory Effort Recorder,M,NR
+73,25205,"Ventilator, Continuous, Non-life-supporting",M,NS
+73,25206,"Ventilator, Continuous, Minimal Ventilatory Support",M,NT
+73,25207,Accessory to Continuous Ventilator (respirator),M,OD
+73,152124,"Apparatus, Nitric Oxide Delivery",M,RN
+73,152125,"Apparatus, Nitric Oxide, Backup Delivery",M,RO
+73,152126,"Analyzer, Nitric Oxide",M,RP
+73,152127,"Analyzer, Nitrogen Dioxide",M,RQ
+73,152503,"Conserver, Oxygen",N,FB
+73,153180,"Analyzer, Gas, Desflurane, Gaseous-Phase (Anesthetic Concentration)",N,HO
+73,153181,"Analyzer, Gas, Sevofllurane, Gaseous-Phase (Anesthetic Concentration)",N,HP
+73,153182,"Analyzer, Gas, Isoflurane, Gaseous-Phase (Anesthetic Concentration)",N,HQ
+73,153186,"Device, Positive Pressure Breathing, Intermittent",N,HJ
+73,153187,"Resuscitator, Manual, Non Self-Inflating",N,HK
+73,153887,"Catheter, Suction, Tracheobronchial, Reprocessed",N,QV
+73,153890,"Ventilator, Continuous, Minimal Ventilatory Support, Home Use",N,QY
+73,153940,"Monitor, Apnea, Home Use",N,PF
+73,153953,"Continuous, Ventilator, Home Use",N,OU
+73,154973,"Oximeter, Ear",D,PZ
+73,154974,Oximeter,D,QA
+73,154975,"Oximeter, Reprocessed",N,LF
+73,154976,"Tube, Tracheal, Reprocessed",N,MA
+73,154977,"Mask, Ventilator, Non-Continuous,Reprocessed",N,MC
+73,154978,"Needle, Spinal, Short Term, Reprocessed",N,MR
+73,154979,"Needle, Conduction, Anesthesia, Reprocessed",N,NH
+73,155676,"Spacer, drug delivery",N,VO
+73,155677,"Holding chambers, drug delivery direct patient interface",N,VP
+73,156754,"Kit, tracheotomy care",N,XA
+73,158220,"Humidifier, respiratory, mask (direct patient interface)",O,BN
+73,163419,Lung sound monitor,O,CR
+73,164259,Airway suction kit,O,FO
+73,164261,Anesthesia kit,O,FQ
+73,164262,Tracheobronchial suction catheter kit,O,FR
+73,164263,Tracheal suction set,O,FS
+73,164264,Spinal epidural anesthesia kit,O,FT
+73,164265,Spinal anesthesia kit,O,FU
+73,164266,Regional anesthesia kit,O,FV
+73,164299,Blood specimen collection kit (excludes hiv testing),O,FZ
+73,164300,Brachial plexus anesthesia kit,O,GA
+73,164301,Caudal anesthesia kit,O,GB
+73,164302,Continuous brachial plexus block tray,O,GC
+73,164303,Custom anesthesia kit,O,GD
+73,164304,Epidural anesthesia kit,O,GE
+73,164305,Glossopharyngeal anesthesia kit,O,GF
+73,164306,Humidifier nebulizer kit,O,GG
+73,164307,Laryngoscope kit,O,GH
+73,164308,Nasal endotracheal tube holder kit,O,GI
+73,164309,Nerve block tray,O,GJ
+73,164310,Orotrachael intubation guide kit,O,GK
+73,164311,Oxygen administration kit,O,GL
+73,166161,Bronchial thermoplasty system,O,OY
+73,166722,Sonarmed airway monitoring system,O,QU
+73,166845,"Device, Heimlich Maneuver Assist",M,ZT
+73,166846,Portable oxygen generator,O,LF
+73,166861,Continuous ventilator,O,NZ
+73,166862,diaphragmatic/phrenic nerve laparoscopically-implanted stimulator,O,IR
+73,170482,Non-bronchoscopic bronchoalveolar lavage catheter,O,YI
+73,171122,Intraoral pressure gradient device,O,ZR
+73,172222,Portable liquid oxygen unit stand,P,CM
+73,172972,Computer-Assisted Personalized Sedation System,P,DR
+73,173099,"Stimulator, hypoglossal nerve, implanted, apnea",M,NQ
+73,173112,Oral Airway Assist,P,HS
+73,173652,Absorbable lung biopsy plug,O,MT
+73,174166,External airway,P,MB
+73,174248,Catheter introducer,P,NC
+73,174453,Impedance measuring device utilizing oscillation techniques,P,NV
+73,174460,AeriSeal System,P,OI
+73,174595,Device indicating an exhalation event,P,RK
+73,174741,"Analyzer, nitrogen dioxide, exempt",P,UG
+73,174774,Pressure monitoring (air/gas) kit,P,XE
+73,174880,Implanted phrenic nerve stimulator for central sleep apnea,P,SR
+73,174902,Abnormal breath sound device,P,HZ
+73,175036,High flow/high velocity humidified oxygen delivery device,Q,AV
+73,175062,Positive airway pressure system,Q,BY
+73,175063,"Prosthesis, tracheal, expandable",J,CT
+73,175089,"Apparatus, Suction, Patient Care",D,WM
+73,175095,"Oximeter, wellness",P,GJ
+73,175096,"Stimulator, Diaphragmatic/Phrenic Nerve, Implanted",G,ZE
+73,175287,"Valve, pulmonary",N,JK
+73,175290,"Forceps, biopsy, electric surgical hemostasis within tracheobronchial tree",Q,EC
+73,175291,Retrograde intubation set,Q,CX
+73,175297,Ventilatory electrical impedance tomograph,Q,EB
+73,175451,Isocapnic ventilation device,Q,FB
+73,175510,Electrical tumor treatment fields,Q,GZ
+73,175531,One-way air-leak valve,O,AZ
+73,175929,"Inhaler, metered dose or dry powder, CDER or CBER led",Q,KS
+73,175954,"Vaporizer, CDER or CBER led",Q,LI
+73,175970,Pulse oximeter for low-acuity settings,Q,LS
+73,176119,Emergency resuscitator,Q,OU
+73,176136,Neurological stimulation for emergency use,Q,PR
+73,176343,Software option for anesthesia gas machine to achieve and maintain targeted end tidal oxygen and ane,Q,SF
+73,176642,Device for sleep apnea testing based on mandibular movement,Q,RS
+73,176731,Nitric Oxide Generator and Delivery System,Q,TB
+73,176752,Ultrasound Guided Nerve Block Assist,Q,RG
+73,176950,Monitor for opioid induced impairment of oxygenation,Q,VT
+73,177082,Emergency ventilator,Q,OT
+73,177104,Adjunctive pain measurement device for anesthesiology,Q,VE
+73,177120,Pulse Oximeter For Over-The-Counter Use,O,LK
+73,177124,Over-the-counter device to assess risk of sleep apnea,Q,ZM

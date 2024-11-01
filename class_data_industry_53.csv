@@ -1,0 +1,21 @@
+INDID,CLASSID,CLASSDESC
+53,A,Baby Prod
+53,B,Bath Prep
+53,C,Eye Makeup Prep
+53,D,Fragrance Prep
+53,E,Hair Preps(Non-Coloring)
+53,F,Hair Coloring Prep
+53,G,Makeup Prep(Not For Eyes)
+53,H,Manicuring Prep
+53,I,Oral Hygiene Prod
+53,J,Personal Cleanliness
+53,K,Shaving Prep
+53,L,Skin Care Prep
+53,M,Suntan Preparations
+53,P,Cosmetic Raw Material
+53,Q,Cosmetic Packaging/Labeling
+53,R,Cosmetic Prods Containing Animal By Prod (Bovine)
+53,S,Cosmetic Prods Containing Animal By Prod (Ovine)
+53,T,Cosmetic Prods Containing Animal By Prod (Porcine)
+53,U,Cosmetic Prods Containing Animal By Prod (Other)
+53,Y,"Cosmetics and Cosmetic Products,n.e.c."

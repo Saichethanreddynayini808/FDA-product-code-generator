@@ -1,0 +1,18 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+5,282,"Corn Flakes,Puffs,Krispies,Loops Ready To Eat",A,01
+5,283,"Corn Grits, Brewers Enriched White or Yellow Corn Grits,Corn Meal Mush, Quick or Instant Cooking",B,01
+5,284,"Oat Flakes, Rolled Oats,Puffs,Krispies,Loops Ready To Eat",A,02
+5,285,"Oatmeal, Regular, Fruit or Spice Added, Quick or Instant Cooking",B,02
+5,286,"Rice Flakes,Puffs,Krispies,Loops Ready To Eat",A,03
+5,287,"Cream Rice,Quick or Instant Cooking",B,03
+5,288,"Wheat Flakes,Puffs,Krispies,Loops,Shredded,Wheat Germ Ready To Eat",A,04
+5,289,"Cream Wheat, Quick or Instant Cooking",B,04
+5,290,"Mixed Cereal Flakes,Shredded and Other Forms Ready To Eat",A,05
+5,291,"Mixed Cereal, Quick or Instant Cooking",B,05
+5,292,"Breakfast Foods Ready To Eat,N.E.C.",A,99
+5,293,"Breakfast Food Quick or Instant Cooking, N.E.C.",B,99
+5,294,"Cereal Preparations Not Elsewhere Mentioned, N.E.C.",Y,99
+5,23856,"Bran Flakes,Shredded and Other Forms Ready To Eat",A,06
+5,160044,Granola Bars,Y,01
+5,173762,"Buckwheat Cereal, Quick or Instant Cooking",B,06
+5,174985,"Wheat Flakes (Buckwheat), Puffs, Krispies, Loops, Shredded Wheat Germ Ready-to-Eat",A,04

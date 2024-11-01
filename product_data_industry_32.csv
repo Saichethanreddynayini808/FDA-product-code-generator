@@ -1,0 +1,58 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+32,2056,Ale,A,01
+32,2057,"Wine, White (Still)",B,01
+32,2058,Bitters (Liquors),C,01
+32,2059,Porter,A,02
+32,2060,"Wine, Red (Still)",B,02
+32,2061,Stout,A,03
+32,2062,"Wine, Rose (Still)",B,03
+32,2063,Brandy (Liquors),C,03
+32,2064,Beer or Lager,A,04
+32,2065,Champagne,B,04
+32,2066,Cognac (Liquors),C,04
+32,2067,Malt Liquor,A,05
+32,2068,"Wine, Sparkling (Naturally Carbonated)",B,05
+32,2069,Cordials (Liquors),C,05
+32,2070,"Wine, Sparkling (Artificially Carbonated)",B,06
+32,2071,Gin (Liquors),C,06
+32,2072,Rum (Liquors),C,07
+32,2073,Vodka (Liquors),C,08
+32,2074,Whiskey (Liquors),C,09
+32,2075,"Malt Beverages, N.E.C.",A,99
+32,2076,"Wines, N.E.C.",B,99
+32,2077,"Liquors, N.E.C.",C,99
+32,2078,"Premixed Liquor Drink, N.E.C.",D,99
+32,2079,"Imitation Wine or Liquor, N.E.C.",I,99
+32,2080,"Alcoholic Beverage, N.E.C.",Y,99
+32,24390,Wine Coolers,B,07
+32,25162,Bourbon (Liquors),C,09
+32,25163,Irish Cream (Liquors),C,05
+32,25174,Scotch Whiskey (Liquors),C,09
+32,25424,"Amazake (Japanese, high-alcohol, creamy, thick, rice wine)",B,99
+32,25428,"Airag (fermented, alcoholic beverage from Mongolia, usually made w/mare's milk, may use donkey camel",Y,99
+32,25438,"Araka (fermented, alcoholic Russian beverage typically made from mare's milk)",Y,99
+32,25440,"Arrack (distilled liquor made from rice, coconut, sweet potato found in Mid East, India, Asia",C,99
+32,25465,"Binubudan (Philippine high-alcohol, clear wine made from polished rice)",B,99
+32,25473,Brem Bali (Indonesian distilled alcohol spirit made from glutinous rice),C,99
+32,25483,Burukutu (Nigerian native beer brewed from red guinea corn),A,04
+32,25489,"Chao-Ching-Yu (Chinese, high-alcohol wine made from polished rice)",B,99
+32,25522,"Fuli (Fermented, alcoholic Finish beverage typically made from mare's milk)",Y,99
+32,25584,"Oo (Thai clear, high-alcohol wine made from glutinous rice)",B,99
+32,25615,Raki (clear Middle Eastern distilled alcoholic spirit flavored w/anise seed),C,99
+32,25617,"Ruhi (Indian, clear high-alcohol wine made from polished rice)",B,99
+32,25619,"Sake (clear wine, made from polished rice, traditionally served warm w/meals in Japan, & China)",B,01
+32,25666,Jung Jang (Korean high-alcohol clear wine made from polished rice),B,99
+32,25667,Kaeldermelk (fermented alcoholic Norwegian beverage typically made from mare's milk),Y,99
+32,25676,"Shaohsing (Chinese high-alcohol rice wine; similar to chao-ching-yu but deeper color, made w/wheat)",B,99
+32,25686,"Situta (fermented, alcoholic Middle Eastern beverage typically made from mare's milk)",Y,99
+32,25703,"Tahkjoo (unrefined Korean rice wine, has milky color)",B,99
+32,25719,Tapai (Malaysian high-alcohol wine made from glutinous rice),B,99
+32,25773,"Kra-Chae (Thai, clear high-alcohol wine made from polished rice)",B,99
+32,25777,"Kumiss (fermented alcoholic beverage typically made from mare's milk, found in Scandinavia, Russia)",Y,99
+32,25783,Lambanog (clear Philippine alcoholic spirit distilled from palm wine made from coconut sap),C,99
+32,25786,Lao Rong (clear Thai distilled alcoholic spirit made from steamed rice),C,99
+32,25798,Ma Tung (fermented Chinese alcoholic beverage typically made from mare's milk; also use donkey/camel,Y,99
+32,25803,Makkoli (low-alcohol Korean rice beer),A,04
+32,25843,Yakjoo (filtered Korean rice wine having yellowish color),B,99
+32,161580,Tequila (Liquors),C,10
+32,161581,"Ginseng, Gensing, Alcoholic Beverage, N.E.C.",Y,01

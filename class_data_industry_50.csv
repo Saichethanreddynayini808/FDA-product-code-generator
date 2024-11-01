@@ -1,0 +1,14 @@
+INDID,CLASSID,CLASSDESC
+50,C,Raw Material For Color Manufacturing
+50,D,"Cert. For Food, Drugs And Cosmetics"
+50,E,Cert. For Foods Only
+50,F,"Cert. For Food, Drug and Medical Devices"
+50,G,Cert. For Food And Drug
+50,H,Cert. For Drugs And Cosmetics
+50,I,Cert. For Drugs Only
+50,J,Cert. For Cosmetics Only
+50,K,Cert. For Medical Devices Only
+50,L,Color Exempt From Cert. Food Use
+50,M,Color Exempt From Cert. Drug Use
+50,N,Color Exempt From Cert. Cosmetic Use
+50,O,Color Exempt From Cert. Medical Device Use

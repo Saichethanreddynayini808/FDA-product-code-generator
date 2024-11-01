@@ -1,0 +1,26 @@
+INDID,CLASSID,CLASSDESC
+62,A,A-Hypercalcemic
+62,B,A-Hyperlipidemic
+62,C,A-Hypertensive
+62,D,A-Hypocalcemic
+62,E,A-Hypotensive
+62,F,"A-Infective, Topical"
+62,G,A-Inflammatory
+62,H,A-Microbial
+62,I,A-Neoplastic
+62,J,A-Parkinsonian
+62,K,A-Peristaltic
+62,L,"A-Protozoal, A-Leishmanial, A-Malarial"
+62,M,A-Pruritic
+62,N,A-Psoriatic
+62,O,Anti-Hypertensive - Part II
+62,P,A-Pyretic
+62,Q,A-Rheumatic
+62,R,A-Schistosomal
+62,S,A-Seborrheic
+62,T,A-Secretory
+62,U,A-Tussive/Cold
+62,V,A-Viral
+62,W,Astring/A-Perspirant
+62,Y,Anti-Inflammatory - Part II
+62,Z,Anti-neoplastic - Part II

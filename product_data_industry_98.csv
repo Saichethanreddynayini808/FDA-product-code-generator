@@ -1,0 +1,125 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+98,165660,"Cigarette Tobacco, Bulk",A,01
+98,165663,"Cigarette Tobacco, (N.E.C.)",A,99
+98,165664,Cigarettes,B,01
+98,165667,"Cigarettes, Not Elsewhere Classified (N.E.C.)",B,99
+98,165668,"Chewing Tobacco, Loose Leaf",C,01
+98,165669,"Chewing Tobacco, Plug",C,02
+98,165670,"Chewing Tobacco, Twist",C,03
+98,165671,"Snuff, Dry",C,04
+98,165672,"Snuff, Moist",C,05
+98,165673,Snus,C,06
+98,165674,"Dissolvable Tobacco, Tablets",C,07
+98,165675,"Smokeless Tobacco, Not Elsewhere Classified (N.E.C.)",C,99
+98,165676,"Roll-Your-Own Tobacco, Loose Leaf",D,01
+98,165677,"Roll-Your-Own Tobacco, Kit",D,02
+98,165680,"Roll Your Own Tobacco, Not Elsewhere Classified (N.E.C)",D,99
+98,166741,"Cigarettes, Light, Mild, or Low",B,06
+98,166744,"Chewing Tobacco, Light, Mild, or Low, Loose Leaf",C,08
+98,166745,"Chewing Tobacco, Light, Mild, or Low, Plug",C,09
+98,166746,"Chewing Tobacco, Light, Mild, or Low, Twist",C,10
+98,166747,"Snuff, Light, Mild, or Low, Dry",C,11
+98,166748,"Snuff, Light, Mild, or Low, Moist",C,12
+98,166749,"Snus, Light, Mild, or Low",C,13
+98,168602,Kreteks,B,09
+98,173782,Cigarette Paper,E,01
+98,173783,Cigarette Filters,E,02
+98,173784,"Bidis, Thin",B,10
+98,173785,Cigarette Tipping Paper,E,03
+98,173786,Roll-Your-Own Paper,F,01
+98,173787,Roll-Your-Own Filters,F,02
+98,173788,Roll-Your-Own Tube,F,03
+98,173789,"Dissolvable Tobacco, Stick",C,14
+98,173790,Roll-Your-Own Tipping Paper,F,04
+98,173791,"Dissolvable Tobacco, Strip",C,15
+98,173792,Smokeless Tobacco Pouches,C,16
+98,173793,"Smokeless Tobacco, Bulk",C,17
+98,173794,"Roll-Your-Own Tobacco, Loose Leaf, Light, Mild, or Low",D,05
+98,173795,"Roll-Your-Own Tobacco, Bulk",D,06
+98,174348,"Cigar Tobacco, Bulk",G,01
+98,174349,Cigar,G,02
+98,174350,"Cigar, Tobacco, Leaf",G,03
+98,174351,Cigar Wrapper,H,01
+98,174352,Cigar Filter,H,02
+98,174353,Cigar Tip,H,03
+98,174354,Cigar Tipping Paper,H,04
+98,174355,Cigar Paper,H,05
+98,174356,Cigar Binder,H,06
+98,174357,"Pipe Tobacco, Bulk",I,01
+98,174358,Pipe Tobacco,I,02
+98,174359,"Pipe Tobacco, Kit",I,03
+98,174360,"Pipe Tobacco, Light, Mild, or Low",I,04
+98,174361,"Waterpipe Tobacco, Bulk",J,01
+98,174362,Waterpipe Tobacco,J,02
+98,174363,Waterpipe Tobacco Base,K,01
+98,174364,Waterpipe Tobacco Bowl,K,02
+98,174365,Waterpipe Tobacco Charcoal,K,03
+98,174366,Waterpipe Tobacco Diffuser,K,04
+98,174367,Waterpipe Tobacco Flavor Enhancer,K,05
+98,174368,Waterpipe Tobacco Foil/Screen,K,06
+98,174369,Waterpipe Tobacco Gasket,K,07
+98,174370,Waterpipe Tobacco Grommet,K,08
+98,174371,Waterpipe Tobacco Hose,K,09
+98,174372,Waterpipe Tobacco Cooling Attachment,K,10
+98,174373,Waterpipe Tobacco Mouthpiece,K,11
+98,174374,Waterpipe Tobacco Valve,K,12
+98,174375,Waterpipe Tobacco Stem,K,13
+98,174376,Waterpipe Tobacco Water Filtration Additives,K,14
+98,174377,E-Cigarette,L,01
+98,174378,"E-Cigarette, Kit",L,02
+98,174379,E-Hookah,L,03
+98,174380,"E-Hookah, Kit",L,04
+98,174381,E-Cigar,L,05
+98,174382,"E-Cigar, Kit",L,06
+98,174383,E-Pipe,L,07
+98,174384,"E-Pipe, Kit",L,08
+98,174385,Advanced Personal Vaporizer,L,09
+98,174386,"Advanced Personal Vaporizer, Kit",L,10
+98,174387,Vape Pen,L,11
+98,174388,"Vape Pen, Kit",L,12
+98,174390,E-Liquid,M,01
+98,174391,Ends Adapter,M,02
+98,174392,Ends Atomizer,M,03
+98,174393,Ends Battery,M,04
+98,174394,Ends Bridge,M,05
+98,174395,Ends Cartomizer,M,06
+98,174396,Ends Cartridge,M,07
+98,174397,Ends Charger,M,08
+98,174398,Ends Clearomizer,M,09
+98,174399,Ends Coil,M,10
+98,174400,Ends Digital Display/Lights,M,11
+98,174401,Ends Drip Tip,M,12
+98,174402,Ends Drip Well,M,13
+98,174403,Ends Filler Material,M,14
+98,174404,Ends Filter,M,15
+98,174405,Ends Mouthpiece,M,16
+98,174406,Ends Software,M,17
+98,174407,Ends Tank,M,18
+98,174408,Nicotine Transdermal Patch,N,01
+98,174409,Nicotine Gum,N,02
+98,174410,Nicotine Oral Tablet,N,03
+98,174411,Nicotine Inhaler,N,04
+98,174412,Nicotine Nasal Spray,N,05
+98,174413,Nicotine Oral Spray,N,06
+98,174414,Nicotine Lozenge/Dissolvable,N,07
+98,174415,Nicotine Gel,N,08
+98,174416,Nicotine Powder,N,09
+98,174417,Nicotine Drink,N,10
+98,174562,"Cigarette Component, Part or Accessory, NEC",E,99
+98,174563,"Roll-Your-Own Tobacco Component, Part or Accessory, NEC",F,99
+98,174564,"Cigar, NEC",G,99
+98,174565,"Cigar Component or Part, NEC",H,99
+98,174566,"Pipe Tobacco, NEC",I,99
+98,174567,"Waterpipe Tobacco, NEC",J,99
+98,174568,"Waterpipe Tobacco Component or Part, NEC",K,99
+98,174569,"Electronic Nicotine Delivery System, NEC",L,99
+98,174570,"Electronic Nicotine Delivery System Component/Part, NEC",M,99
+98,174571,"Nicotine Delivery Product, NEC",N,99
+98,174572,Pipe,O,01
+98,174573,Pipe Bowl,O,02
+98,174574,Pipe Stem,O,03
+98,174575,Pipe Shank,O,04
+98,174576,Pipe Filter,O,05
+98,174577,"Pipe, Pipe Component or Part, N.E.C.",O,99
+98,174578,Waterpipe Tobacco Kit,K,15
+98,174579,Waterpipe,K,16

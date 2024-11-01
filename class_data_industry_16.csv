@@ -1,0 +1,23 @@
+INDID,CLASSID,CLASSDESC
+16,A,Fish
+16,B,"Fish,Breaded"
+16,C,"Fish,Cakes,Balls,etc"
+16,E,Shellfish
+16,F,"Shellfish,Breaded"
+16,G,"Shellfish,Cakes,Balls,etc"
+16,I,"Fish, Hot Smoked (protein is coagulated throughout"
+16,J,Crustaceans
+16,K,"Crustaceans,Breaded"
+16,L,"Crustaceans,Cakes,Balls,etc"
+16,M,Other Aquatic Species
+16,N,"Other Aquatic Species, Breaded"
+16,O,"Shellfish, Hot Smoked (protein is coagulated)"
+16,P,"Other Aquatic Species,Cakes,Balls,etc"
+16,R,Engineered Seafood
+16,S,"Fish, Cold Smoked (protein is not coagulated)"
+16,T,"Shellfish, Cold Smoked (protein is not coagulated)"
+16,U,"Other Aquatic Species, Hot Smoked (coagulated)"
+16,V,"Other Aquatic Species, Cold Smoked (not coagulated"
+16,W,Mixed Fishery/Seafood Products
+16,X,Aquaculture Harvested Fishery/Seafood Products
+16,Y,"Fishery Prod,n.e.c."

@@ -1,0 +1,88 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+72,6907,Meat (Mammalian Muscle) Prod Pet Dog Food,B,01
+72,6908,Meat (Mammalian Muscle) Prod Pet Cat Food,A,01
+72,6909,Pellet Pet Bird Food,C,01
+72,6910,Meat Pet Fish Food,D,01
+72,6911,Poultry Prod Pet Dog Food,B,02
+72,6912,Poultry Prod Pet Cat Food,A,02
+72,6913,Mash Pet Bird Food,C,02
+72,6914,Grain Pet Fish Food,D,02
+72,6915,Fish-Seafood Prod Pet Dog Food,B,03
+72,6916,Fish-Seafood Prod Pet Cat Food,A,03
+72,6917,Grains/Seeds Pet Bird Food,C,03
+72,6918,Veg Pet Fish Food,D,03
+72,6919,Cereal/Veg Prod Pet Dog Food,B,04
+72,6920,Cereal/Veg Prod Pet Cat Food,A,04
+72,6921,Suet Pet Bird Food,C,04
+72,6922,Comb Prod Pet Fish Food,D,04
+72,6923,Comb Prod Pet Dog Food,B,05
+72,6924,Comb Prod Pet Cat Food,A,05
+72,6925,Pet Dog Food N.E.C.,B,99
+72,6926,Pet Cat Food N.E.C.,A,99
+72,6927,Pet Bird Food N.E.C.,C,99
+72,6928,Pet Fish Food N.E.C.,D,99
+72,6929,"Other Pet Food, N.E.C.",E,99
+72,6930,"Lab Animal Food, N.E.C.",L,99
+72,6931,"Pet/Lab Animal Food, N.E.C.",Y,99
+72,174227,"Rawhide, Beef, Pet Chews (Non-Nutritive)",F,01
+72,174228,"Rawhide, Horse, Pet Chews (Non-Nutritive)",F,02
+72,174229,"Rawhide, Pork, Pet Chews (Non-Nutritive)",F,03
+72,174230,"Rawhide, Sheep, Pet Chews (Non-Nutritive)",F,04
+72,174231,"Rawhide, Combination Products, Pet Chews (Non-Nutritive)",F,05
+72,174232,"Ears, Pork, Pet Chews (Non-Nutritive)",F,06
+72,174233,"Ears, Beef, Pet Chews (Non-Nutritive)",F,07
+72,174234,"Ears, Sheep, Pet Chews (Non-Nutritive)",F,08
+72,174235,"Ears, Combination Products, Pet Chews (Non-Nutritive)",F,09
+72,174236,"Feet, Poultry, Pet Chews (Non-Nutritive)",F,10
+72,174237,"Feet, Pork, Pet Chews (Non-Nutritive)",F,11
+72,174238,"Feet, Beef, Pet Chews (Non-Nutritive)",F,12
+72,174239,"Feet, Sheep, Pet Chews (Non-Nutritive)",F,13
+72,174240,"Bone, Beef, Pet Chews (Non-Nutritive)",F,14
+72,174241,"Bone, Sheep, Pet Chews (Non-Nutritive)",F,15
+72,174242,"Bone, Pork, Pet Chews (Non-Nutritive)",F,16
+72,174243,"Bone, Poultry, Pet Chews (Non-Nutritive)",F,17
+72,174244,"Noses, Pork, Pet Chews (Non-Nutritive)",F,18
+72,174245,"Tongues, Beef, Pet Chews (Non-Nutritive)",F,19
+72,174246,"Pizzles, Beef, Pet Chews (Non-Nutritive)",F,20
+72,174247,"Bully Stick (Pizzles, Beef), Pet Chews (Non-Nutritive)",F,20
+72,174249,"Pizzles, Pork, Pet Chews (Non-Nutritive)",F,21
+72,174250,"Pizzles, Sheep, Pet Chews (Non-Nutritive)",F,22
+72,174251,"Ligaments, Beef, Pet Chews (Non-Nutritive)",F,23
+72,174252,"Ligaments, Pork, Pet Chews (Non-Nutritive)",F,24
+72,174253,"Ligaments, Sheep, Pet Chews (Non-Nutritive)",F,25
+72,174254,"Antlers, Deer, Wild Game Chews, Pet Chews (Non-Nutritive)",F,26
+72,174255,"Antlers, Elk, Wild Game Chews, Pet Chews (Non-Nutritive)",F,27
+72,174256,"Antlers, Moose, Wild Game Chews, Pet Chews (Non-Nutritive)",F,28
+72,174257,"Pet Chews (Non-Nutritive), N.E.C.",F,99
+72,174258,"Meat (Mammalian muscle), Pet Treats",G,01
+72,174259,"Poultry Products, Pet Treats",G,02
+72,174260,Fish-Seafood Products. Pet Treats,G,03
+72,174261,"Cereal/Veg/Grain Products (corn, oats, barley, etc.), Pet Treats",G,04
+72,174262,"Combination Products, Pet Treats",G,05
+72,174263,"Oil-based Products,  Pet Treats",G,06
+72,174264,"Pet Treats with Dairy Products, Pet Treats",G,07
+72,174265,"Pet Treats, N.E.C.",G,99
+72,175705,Honey Treat Sticks for Birds,C,05
+72,175706,Egg Sticks/Powder Pet Bird Food,C,06
+72,175707,Mineral/Calcium Block (including Cuttle Bones),C,07
+72,175708,Combination Treat Sticks,C,08
+72,175709,Seafood Pet Fish Food,D,05
+72,175710,"Pet Food for cold blooded animals, not fish (e.g. reptiles, turtles)",E,01
+72,175711,"Pet Food for small warm blooded pets (e.g. rabbits, gerbils, guinea pigs)",E,02
+72,175712,"Honey sticks for small animals (e.g hampsters, guinea pigs, rabbits)",E,03
+72,175713,Worms,E,04
+72,175714,Frozen mice,E,05
+72,175715,Insects,E,06
+72,175716,"Alfalfa Products (small cubes, rolls) for small animals",E,07
+72,175717,Plankton/Microplankton for feeding aquarium coral,E,08
+72,175718,"Combination Nutritive Chew (e.g., alfalfa and mineral chew)",E,09
+72,175719,"Hooves, Beef, Pet Chews (Non-Nutritive)",F,29
+72,175720,"Hooves, Pork, Pet Chews (Non-Nutritive)",F,30
+72,175721,"Hooves, Sheep, Pet Chews (Non-Nutritive)",F,31
+72,175722,"Pet Chews containing gullet, trachea or esophagus (Non-Nutritive)",F,32
+72,175723,"Smoked Chews (e.g., Smoked snouts) (Non-Nutritive)",F,33
+72,175724,Fruit based Pet Treats,G,08
+72,175725,"Pet Treats containing gullet, trachea or esophagus",G,09
+72,175726,"Mammalian Organ Pet Treat (e.g., liver bonbons)",G,10
+72,175727,"Liquid nectar, Pet Treats",G,11
+72,175728,Rat/Mouse Food,L,01

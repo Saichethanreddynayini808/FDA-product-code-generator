@@ -1,0 +1,211 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+90,20269,"Apron, Leaded",E,AJ
+90,20270,"Screen, Leaded, Operator Radiation Protector",E,AK
+90,20332,"Controller, Temperature, Radiographic",E,GT
+90,20333,"Dryer, Film, Radiographic",E,GW
+90,20334,"Processor, Radiographic-Film, Automatic, Dental",E,GY
+90,20584,Barium enema kit,F,CD
+90,21402,"Chair, Pneumoencephalographic",H,BK
+90,22100,"Transducer, Ultrasonic, Diagnostic",I,TX
+90,22101,"Assembly, Tube Housing, X-Ray, Diagnostic",I,TY
+90,22102,"Assembly, Tube Housing, X-Ray, Therapeutic",I,TZ
+90,22103,"Source, Wire, Iridium, Radioactive",I,WA
+90,22104,"System, Radiation Therapy, Radionuclide",I,WB
+90,22105,"Device, Beam Limiting, Teletherapy, Radionuclide",I,WD
+90,22106,"Monitor, Patient Position, Light-Beam",I,WE
+90,22107,"Needle, Isotope, Gold, Titanium, Platinum",I,WF
+90,22108,"Seed, Isotope, Gold, Titanium, Platinum",I,WG
+90,22109,"Source, Teletherapy, Radionuclide",I,WH
+90,22110,"Source, Isotope, Sealed, Gold, Titanium, Platinum",I,WI
+90,22111,"System, Applicator, Radionuclide, Manual",I,WJ
+90,22112,"Cyclotron, Medical",I,WK
+90,22113,"System, Radiation Therapy, Neutron, Medical",I,WL
+90,22114,"Synchrotron, Medical",I,WM
+90,22115,"Cassette, Measurement, Ardran-Crooks",I,WN
+90,22116,"Apron, Protective",I,WO
+90,22117,"Glove, Protective, Radiographic",I,WP
+90,22118,"Curtain, Protective, Radiographic",I,WQ
+90,22119,"Holder, Syringe, Lead",I,WR
+90,22120,"Shield, Eye, Radiological",I,WS
+90,22121,"Shield, Gonadal",I,WT
+90,22122,"Shield, Vial",I,WW
+90,22123,"Barrier, Control Panel, X-Ray, Movable",I,WX
+90,22124,"Holder, Head, Radiographic",I,WY
+90,22125,"Film, Radiographic",I,WZ
+90,22126,"Cassette, Radiographic Film",I,XA
+90,22127,"Illuminator, Radiographic-Film",I,XC
+90,22128,"Source, Calibration, Sealed, Nuclear",I,XD
+90,22129,"Test-Pattern, Radiographic",I,XF
+90,22130,"Phantom, Anthropomorphic, Radiographic",I,XG
+90,22131,"Camera, Focal Spot, Radiographic",I,XH
+90,22132,"Block, Beam-Shaping, Radiation Therapy",I,XI
+90,22133,"Grid, Radiographic",I,XJ
+90,22134,"System, Imaging, X-Ray, Electrostatic",I,XK
+90,22135,"Device, Spot-Film",I,XL
+90,22137,"Synchronizer, Ecg/Respirator, Radiographic",I,XO
+90,22138,"Table, Radiographic, Stationary Top",I,XQ
+90,22139,"Table, Radiographic, Tilting",I,XR
+90,22140,"Processor, Radiographic-Film, Automatic",I,XW
+90,22141,"Processor, Cine Film",I,XX
+90,22142,"Holder, Radiographic Cassette, Wall-Mounted",I,XY
+90,22143,"Tube Mount, X-Ray, Diagnostic",I,YB
+90,22144,"Generator, Orthovoltage, Therapeutic X-Ray",I,YC
+90,22145,"Generator, Low Voltage, Therapeutic X-Ray",I,YD
+90,22146,"Accelerator, Linear, Medical",I,YE
+90,22147,"Betatron, Medical",I,YG
+90,22148,"Generator, Dermatological (Grenz Ray), Therapeutic X-Ray",I,YH
+90,22149,"Collimator, Orthovoltage, Therapeutic X-Ray",I,YI
+90,22150,"Collimator, Low Voltage, Therapeutic X-Ray",I,YJ
+90,22151,"Collimator, High Voltage, Therapeutic X-Ray",I,YK
+90,22152,"Collimator, Dermatological, Therapeutic X-Ray",I,YL
+90,22154,"System, Imaging, Pulsed Doppler, Ultrasonic",I,YN
+90,22155,"System, Imaging, Pulsed Echo, Ultrasonic",I,YO
+90,22156,"Phantom, Anthropomorphic, Nuclear",I,YP
+90,22157,"Phantom, Flood Source, Nuclear",I,YQ
+90,22159,"System, Rebreathing, Radionuclide",I,YT
+90,22160,"Scanner, Rectilinear, Nuclear",I,YW
+90,22161,"Camera, Scintillation (Gamma)",I,YX
+90,22162,"Synchronizer, Electrocardiograph, Nuclear",I,YY
+90,22163,"Bed, Scanning, Nuclear",I,YZ
+90,22164,"Camera, Positron",I,ZC
+90,22165,"Probe, Uptake, Nuclear",I,ZD
+90,22166,"System, X-Ray, Tomographic",I,ZF
+90,22167,"System, X-Ray, Photofluorographic",I,ZG
+90,22168,"System, X-Ray, Mammographic",I,ZH
+90,22169,"System, X-Ray, Angiographic",I,ZI
+90,22170,"Camera, X-Ray, Fluorographic, Cine Or Spot",I,ZJ
+90,22171,"System, X-Ray, Mobile",I,ZL
+90,22172,"Generator, High-Voltage, X-Ray, Diagnostic",I,ZO
+90,22173,"Programmer, Changer, Film/Cassette, Radiographic",I,ZP
+90,22175,"Aperture, Radiographic",I,ZS
+90,22176,"Cone, Radiographic",I,ZT
+90,22177,"Collimator, Automatic, Radiographic",I,ZW
+90,22178,"Collimator, Manual, Radiographic",I,ZX
+90,22179,"Table, Radiographic, Non-Tilting, Powered",I,ZZ
+90,22180,"System, X-Ray, Fluoroscopic, Image-Intensified",J,AA
+90,22181,"System, X-Ray, Fluoroscopic, Non-Image-Intensified",J,AB
+90,22182,"System, X-Ray, Film Marking, Radiographic",J,AC
+90,22183,"System, Therapeutic, X-Ray",J,AD
+90,22184,"Microtron, Medical",J,AE
+90,22185,"Monitor, Ultrasonic, Nonfetal",J,AF
+90,22186,"Couch, Radiation Therapy, Powered",J,AI
+90,22187,"System, X-Ray, Tomography, Computed",J,AK
+90,22188,"Scanner, Whole Body, Nuclear",J,AM
+90,22189,"Counter, Whole Body, Nuclear",J,AN
+90,22190,"Scanner, Fluorescent",J,AO
+90,22191,"System, Applicator, Radionuclide, Remote-Controlled",J,AQ
+90,22192,"Phantom, Test-Pattern, Radionuclide",J,AR
+90,22578,"System, Tomographic, Nuclear",J,WM
+90,22778,"Densitometer, Bone",K,GI
+90,22972,"System, Simulation, Radiation Therapy",K,PQ
+90,22973,"System, X-Ray, Stationary",K,PR
+90,22974,"System, Tomography, Computed, Emission",K,PS
+90,22975,"Calibrator, Dose, Radionuclide",K,PT
+90,22976,"Device, Beam Limiting, X-Ray, Diagnostic",K,PW
+90,22977,"Changer, Radiographic Film/Cassette",K,PX
+90,22978,"Shield, Protective, Personnel",K,PY
+90,22979,"Generator, High Voltage, X-Ray, Therapeutic",K,PZ
+90,22980,"Device, Beam Limiting, X-Ray, Therapeutic",K,QA
+90,23042,"Medium, Contrast, Radiologic",K,TA
+90,23095,"Cradle, Patient, Radiologic",K,XH
+90,23096,"Table, Radiologic",K,XJ
+90,23097,"Source, Brachytherapy, Radionuclide",K,XK
+90,23254,Transilluminator (Diaphanoscope),L,EK
+90,23328,"System, Radiation Therapy, Charged-Particle, Medical",L,HN
+90,23329,"Instrument, Quality-Assurance, Radiologic",L,HO
+90,23432,"System, Image Processing",L,LZ
+90,23433,"Digitizer, Image, radiological",L,MA
+90,23434,"Device, Digital Image Storage",L,MB
+90,23435,"Camera, Multi Format, radiological",L,MC
+90,23436,"System, Digital Image Communications",L,MD
+90,23456,"Applicator, Hyperthermia, Interstitial",L,MZ
+90,23458,"Applicator, Hyperthermia, Deep Heating, Ultrasound",L,NB
+90,23459,"Applicator, Hyperthermia, Superficial, RF/Microwave",L,NC
+90,23464,"System, Nuclear Magnetic Resonance Imaging",L,NH
+90,23465,"System, Nuclear Magnetic Resonance Spectroscopic",L,NI
+90,23483,"System, RF/Microwave Hyperthermia, Cancer Treatment",L,OC
+90,23526,"Media, Reusable Image",L,QA
+90,23596,"System, Ultrasound Hyperthermia, Cancer Treatment",L,SY
+90,23736,"Illuminator, Radiographic-Film, Explosion-Proof",J,AG
+90,25406,"Screen, Intensifying, Radiographic",E,AM
+90,25408,"Doppler, Fetal, Ultrasound",L,XE
+90,25409,"Monitor, Fetal Doppler Ultrasound",M,AA
+90,25410,"Contrast Media, Ultrasound",M,JS
+90,25411,"Coil, Magnetic Resonance, Specialty",M,OS
+90,25412,"Irradiator, Blood to Prevent Graft Versus Host Disease",M,OT
+90,25413,Solid State X-Ray Imager (Flat Panel/Digital Imager),M,QB
+90,150581,"Analyzer, Medical Image",M,YN
+90,150590,"Tester, Acoustic, Bone Quality",N,AN
+90,150591,"Microspheres, Radionuclide",N,AW
+90,151334,"Imager, Breast, Electrical Impedance",N,CL
+90,151500,"Full Field Digital, System, X-Ray, Mammographic",M,UE
+90,151523,"System, Imaging, Holography, Acoustic",N,CS
+90,152402,Bone Sonometer,M,UA
+90,152403,"System, X-Ray, Extraoral Source, Digital",M,UH
+90,152404,"Media, Coupling, Ultrasound",M,UI
+90,152405,"System, Planning, Radiation Therapy Treatment",M,UJ
+90,152408,"Cabinet, X-Ray System",M,WP
+90,152409,Accessory - Film Dosimetry System,M,WW
+90,155198,"Needle, Isotope, Reprocessed",N,MP
+90,156389,"Computer aided detection system (cad), colon",N,WE
+90,157554,"Dosimeter, ionizing radiation, implanted",N,ZT
+90,157936,"X-ray, tomography, computed, dental",O,AS
+90,164819,Arthrogram tray,O,II
+90,164820,Biopsy needle guide kit,O,IJ
+90,164821,Radiology dental tray,O,IK
+90,164822,Discography kit,O,IL
+90,164823,MRI disposable kit,O,IM
+90,164824,Prostate seeding kit,O,IN
+90,164825,Radiographic contrast tray,O,IO
+90,164826,Radiology diagnostic kit,O,IP
+90,165459,Conformal brachytherapy source,O,NL
+90,167021,"lung computed tomography system, computer-aided detection",O,EB
+90,167022,chest x-ray computer aided detection,O,MJ
+90,167304,Digital breast tomosynthesis,O,TE
+90,167582,Tomographic imager combining emission computed tomography with nuclear magnetic resonance,O,UO
+90,167855,Hydrogel spacer,O,VB
+90,169502,Interventional fluoroscopic x-ray system,O,WB
+90,169763,"Image-intensified fluoroscopic x-ray system, mobile",O,XO
+90,173043,Prostate immobilizer rectal balloon,P,CT
+90,173053,"Display, diagnostic radiology",P,GY
+90,173370,Cross-sectional mammographic xray system,O,LQ
+90,173768,"System, thermographic, liquid crystal, powered (adjunctive use)",K,XZ
+90,173769,"System, thermographic, liquid crystal, nonpowered (adjunctive use)",K,YA
+90,173770,"System, thermographic, liquid crystal (sole diagonistic screen)",L,HR
+90,173771,"System, thermographic, liquid crystal",L,HM
+90,173772,"System, telethermographic (adjunctive use)",L,HQ
+90,173773,"System, telethermographic (sole diagnostic screen)",L,HP
+90,173774,"System, telethermographic, infrared",I,YM
+90,174481,Automated Breast Ultrasound,P,AA
+90,174665,X-ray field indicator light (laser),R,GC
+90,174866,Computer-assisted diagnostic software for lesions suspicious for cancer,P,OK
+90,174923,"Diagnostic ultrasonic transducer, robotic",O,QQ
+90,174924,Liver iron concentration imaging companion diagnostic for deferasirox,P,CS
+90,174925,Cream for x-ray attenuation,P,DK
+90,174970,Radiological computer-assisted triage and notification software,Q,AS
+90,175038,Radiological computer assisted detection/diagnosis software for fracture,Q,BS
+90,175224,Cephalometer,E,AG
+90,175225,"Cone, Radiographic, Lead-Lined",E,AH
+90,175226,"Unit, X-Ray, Intraoral",E,AP
+90,175227,"Collimator, X-Ray",E,HB
+90,175228,"Unit, X-Ray, Extraoral With Timer",E,HD
+90,175229,"C-Arm Fluoroscopic X-Ray System, Medical Diagnostic X-Ray Equipment",R,CC
+90,175276,Radiological computer assisted detection/diagnosis software for lesions suspicious for cancer,Q,DQ
+90,175320,Radiological computer-assisted prioritization software for lesions,Q,FM
+90,175508,X-ray angiographic imaging based coronary vascular simulation software device,Q,HA
+90,175593,Fluoroscopic x-ray image intensifier,Q,HX
+90,175594,Solid state fluoroscopic x-ray imager,Q,HY
+90,175609,Automated Radiological Image Processing Software,Q,IH
+90,175824,Image acquisition guided by artificial intelligence,Q,JU
+90,175828,Radiological image processing software for radiation therapy,Q,KB
+90,176044,Optoacoustic Imaging System,Q,NK
+90,176213,Radiation therapy marking device,Q,RN
+90,176765,Phase-Changing Fiducial Marker for Radiation Therapy,Q,UV
+90,176772,Radiological Image Processing Software for Ablation Therapy Planning and Evaluation,Q,TZ
+90,176776,Fludeoxyglucose F18-guided radiation therapy system,Q,VA
+90,176794,Radiological machine learning based quantitative imaging software with change control plan,Q,VD
+90,176952,"Generator, measurement, and/or delivery system for hyperpolarized MR imaging agents and accessories,",Q,VW
+90,177033,Vaginal Hydrogel Packing System,Q,XR
+90,177036,"cabinet, emission computed tomography system",Q,XL
+90,177096,Post-ablation tissue response prediction software,Q,ZL
+90,177112,Radiology software for referral of findings related to fibrotic lung disease,Q,WO

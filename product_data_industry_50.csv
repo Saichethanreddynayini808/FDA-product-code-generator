@@ -1,0 +1,379 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+50,3007,Annato Seeds For Color Manufacturing,C,01
+50,3012,"Raw Materials For Color Manufacturing, N.E.C.",C,99
+50,154553,Red Coloring Agent Made From Rice,C,02
+50,154554,FD&C Blue #1,D,01
+50,154555,Brilliant Blue FCF,D,01
+50,154556,FD&C Green #3,D,02
+50,154557,Fast Green FCF,D,02
+50,154558,FD&C Red #40,D,03
+50,154559,Allura Red AC,D,03
+50,154560,FD&C Red #40 Aluminum Lake,D,03
+50,154561,FD&C Yellow #5,D,04
+50,154562,Tartrazine,D,04
+50,154563,FD&C Yellow #6,D,05
+50,154564,Sunset Yellow FCF,D,05
+50,154565,FD&C Lakes,D,06
+50,154566,"FD&C Certified Colors, N.E.C.",D,99
+50,154567,Citrus Red #2,E,01
+50,154568,C.I. Solent Red 80,E,01
+50,154569,Orange B,E,02
+50,154570,C.I. Acid Orange 137,E,02
+50,154571,Cert. Colors for Use in Foods Only N.E.C.,E,99
+50,154572,FD&C Blue #2,F,01
+50,154573,Indigotine,F,01
+50,154574,"Cert. Colors For Use in Foods, Drugs, and Medical Devices, Only, N.E.C.",F,99
+50,154575,FD&C Red #3,G,01
+50,154576,Erythrosine,G,01
+50,154577,"Cert. Colors For Use In Food and Drugs, Only, N.E.C",G,99
+50,154578,FD&C Blue #1 Aluminum Lake,H,01
+50,154579,D&C Blue #4,H,02
+50,154580,Alphazurine FG,H,02
+50,154581,D&C Green #5,H,03
+50,154582,Alizarin Cyanine Green F,H,03
+50,154583,D&C Green #6,H,04
+50,154584,Quinizarin Green SS,H,04
+50,154585,D&C Green #8,H,05
+50,154586,Pyranine,H,05
+50,154587,D&C Orange #4,H,06
+50,154588,Orange II,H,06
+50,154589,D&C Orange #5,H,07
+50,154590,Dibromofluorescein,H,07
+50,154591,D&C Orange #10,H,08
+50,154592,Diodofluorescein,H,08
+50,154593,D&C Orange #11,H,09
+50,154594,Erythrosine Yellowish NA,H,09
+50,154595,D&C Red #6,H,10
+50,154596,Lithol Rubin B,H,10
+50,154597,D&C Red #7,H,11
+50,154598,Lithol Rubin BCA,H,11
+50,154599,D&C Red #17,H,12
+50,154600,Toney Red,H,12
+50,154601,D&C Red #21,H,13
+50,154602,Tetrabromofluorescein,H,13
+50,154603,D&C Red# 22,H,14
+50,154604,Eosin YS,H,14
+50,154605,D&C Red #27,H,15
+50,154606,Tetrachloro-tetrabromo Fluorescein,H,15
+50,154607,D&C Red #28,H,16
+50,154608,Phloxine B,H,16
+50,154609,D&C Red #30,H,17
+50,154610,Helindone Pink,H,17
+50,154611,D&C Red #31,H,18
+50,154612,Brilliant Lake Red R,H,18
+50,154613,D&C Red #33,H,19
+50,154614,Acid Fuchsin D,H,19
+50,154615,D&C Red #34,H,20
+50,154616,Deep Maroon,H,20
+50,154617,D&C Red #36,H,21
+50,154618,Flaming Red,H,21
+50,154619,FD&C Yellow #5 Aluminum Lake,H,22
+50,154620,D&C Yellow #7,H,23
+50,154621,Fluorescein,H,23
+50,154622,Ext. D&C Yellow #7,H,24
+50,154623,Naphthol Yellow S,H,24
+50,154624,D&C Yellow #8,H,25
+50,154625,Uranine,H,25
+50,154626,D&C Yellow #10,H,26
+50,154627,"Quinoline Yellow WS, Predominantly Mono NA Sulfonate",H,26
+50,154628,D&C Yellow #11,H,27
+50,154629,Quinoline Yellow SS,H,27
+50,154630,FD&C Red #4,H,28
+50,154631,Ponceau SX,H,28
+50,154632,D&C Violet #2,H,29
+50,154633,Alizurol Purple SS,H,29
+50,154634,D&C Lakes,H,30
+50,154635,"Cert. Colors For Use In Drugs and Cosmetics, only, N.E.C",H,99
+50,154636,D&C Red #39,I,01
+50,154637,Alba Red,I,01
+50,154638,Z Red,I,01
+50,154639,C.I. Pigment Red 100,I,01
+50,154640,"Cert. Colors For Use In Drugs, Only, N.E.C.",I,99
+50,154641,D&C Brown #1,J,01
+50,154642,Resorcin Brown,J,01
+50,154643,Ext. D&C Violet #2,J,02
+50,154644,Alizarine Violet,J,02
+50,154645,"Cert. Colors For Use In Cosmetics Only, N.E.C.",J,99
+50,154646,"Cert. Colors For Use In Medical Devices Only, N.E.C.",K,99
+50,154647,Diluents In Color Additive Mixtures For Food Use Exempt From Certification,L,01
+50,154648,"Algae Meal, Dried",L,02
+50,154649,Annatto Extract,L,03
+50,154650,C.I. Natural Orange 4,L,03
+50,154651,Bixin,L,03
+50,154652,Astaxanthin,L,04
+50,154653,Beet Juice,L,05
+50,154654,Beet Powder (Dehydrated Beets),L,06
+50,154655,Beet Powder,L,06
+50,154656,Beet Red,L,06
+50,154657,Beta-Carotene,L,07
+50,154658,C.I. Natural Yellow 26,L,07
+50,154659,C.I. Food Orange 5,L,07
+50,154660,Canthaxanthin,L,08
+50,154661,C.I. Food Orange 8,L,08
+50,154662,Caramel,L,09
+50,154663,Burnt Sugar,L,09
+50,154664,C.I. Natural Brown 10,L,09
+50,154665,Carrot Oil,L,10
+50,154666,Cochineal Extract,L,11
+50,154667,Carmine,L,11
+50,154668,C.I. Natural Red 4,L,11
+50,154669,Aluminum Calcium Lake,L,11
+50,154670,Corn Endosperm Oil,L,12
+50,154671,Toasted Partially Defatted Cooked Cottonseed Flour,L,13
+50,154672,Ferrous Gluconate,L,14
+50,154673,Ferrous Lactate,L,15
+50,154674,Fruit Juice,L,16
+50,154675,Red Berry,L,16
+50,154676,Grape Color Extract,L,17
+50,154677,Grape Skin Extract,L,18
+50,154678,Enocianina,L,18
+50,154679,Haematococcus Algae Meal,L,19
+50,154680,Synthetic Iron Oxide,L,20
+50,154681,Synthetic Ferrous Oxide,L,20
+50,154682,Synthetic Ferric Oxide,L,20
+50,154683,Paprika,L,21
+50,154684,Paprika Oleoresin,L,22
+50,154685,Phaffia Yeast,L,23
+50,154686,Riboflavin,L,24
+50,154687,Vitamin B2,L,24
+50,154688,Saffron,L,25
+50,154689,Sodium Copper Chlorphyllin,L,26
+50,154690,Tagetes (Aztec Marigold) Meal and Extract,L,27
+50,154691,Titanium Dioxide,L,28
+50,154692,Turmeric,L,29
+50,154693,Curcumin,L,29
+50,154694,C.I. Natural Yellow 3,L,29
+50,154695,Turmeric Oleoresin,L,30
+50,154696,Ultramarine Blue,L,31
+50,154697,Vegetable Juice,L,32
+50,154699,Red Cabbage Juice,L,32
+50,154702,Beta-Apo-8'-Carotenal,L,33
+50,154703,C.I. Food Orange 6,L,33
+50,154704,"Colors For Food Use (Not Certified), N.E.C.",L,99
+50,154707,Diluents In Color Additive Mixtures For Drug Use Exempt From Certification,M,01
+50,154708,Alumina (Dried Aluminum Hydroxide),M,02
+50,154709,Dried Aluminum Hydroxide,M,02
+50,154710,Aluminum Powder,M,03
+50,154711,Annatto Extract,M,04
+50,154712,Bismuth Oxychloride,M,05
+50,154713,Bronze Powder,M,06
+50,154714,Calcium Carbonate,M,07
+50,154715,Canthaxanthin,M,08
+50,154716,C.I. Food Orange 8,M,08
+50,154717,Caramel,M,09
+50,154718,Burnt Sugar,M,09
+50,154719,C.I. Natural Brown 10,M,09
+50,154720,Carmine,M,10
+50,154721,C.I. Natural Red 4,M,10
+50,154722,Aluminum Calcium Lake,M,10
+50,154723,Chlorophyllin-Copper Complex,M,11
+50,154724,Potassium Sodium Copper Chlorophyllin,M,11
+50,154725,Cochineal Extract,M,12
+50,154726,Beta-Carotene,M,13
+50,154727,C.I. Natural Yellow26,M,13
+50,154728,C.I. Food Orange 5,M,13
+50,154729,Chromium Hydorxide Green,M,14
+50,154730,Chromium Oxide Green,M,15
+50,154731,"Copper, Metallic Powder",M,16
+50,154732,Dihydroxyacetone,M,17
+50,154733,Ferric Ammonium Ferrocyanide,M,18
+50,154734,Ferric Ferrocyanide,M,19
+50,154735,C.I. Pigment Blue 27,M,19
+50,154736,Guanine,M,20
+50,154737,Mica,M,21
+50,154738,Pyrophllite,M,22
+50,154739,Synthetic Iron Oxide,M,23
+50,154740,Talc,M,24
+50,154741,Titanium Dioxide,M,25
+50,154742,"Colors For Drug Use (Not Certified), N.E.C.",M,99
+50,154746,"1,4-Bis[(2-Hydroxyethyl)",O,01
+50,154747,"1,4-Bis[4-(2-Methacryloxyethyl) Amino]-9,10-Anthracenedione",O,02
+50,154748,"1,4-Bis[4-(2-Methacryloxyethyl)Phenylamino] Anthraquinone Copolymers",O,03
+50,154749,Carbazole Violet,O,04
+50,154750,"Chlorophyllin-Copper Complex, Oil Soluble",O,05
+50,154751,Chromium-Cobalt-Aluminum Oxide,O,06
+50,154752,Chromium Oxide Green,O,07
+50,154753,Hyroxide Greens,O,07
+50,154754,C.I. Pigment Green 18,O,07
+50,154755,C.I. Vat Orange 1,O,08
+50,154756,"16,23-Dihydrodinaphtho[2,3-a:2', 3'-i] Naphtha [2', 3' 6,7] Indolo [2,3c] Carbazole-5, 10, 17, 22, 2",O,09
+50,154757,"N,N'-(9, 10-Dihydro-9,10-Dioxo-1,5-Anthracenediyl) Bisbenzamide",O,10
+50,154758,"7,16-Dichloro-6, 15-Dihydro-5,9,14,18-Anthrazinetetrone",O,11
+50,154759,"16,17-Dimethoxydinaphtho[1,2,3-cd:3',2',1'-Im] Perylene-5,10-Dione",O,12
+50,154760,"4-[2,4-Dimethylpheny) Azo]-2,4-Dihydro-5-Methyl-2-Phenyl-3H-Pyrazol-3-One",O,13
+50,154761,D&C Blue #6,O,14
+50,154762,Indigo,O,14
+50,154763,D&C Blue #9,O,15
+50,154764,Indanthrene Blue BC,O,15
+50,154765,D&C Green #5,O,16
+50,154766,D&C Green #6,O,17
+50,154767,Quinizarin Green SS,O,17
+50,154768,D&C Red #17,O,18
+50,154769,D&C Violet #2,O,19
+50,154770,D&C Yellow #10,O,20
+50,154771,"2-[[2,5-Diethoxy-4-[(4-Methylpheny)Thiol]Pheny]Azo]-1,3,5-Benzenetriol",O,21
+50,154772,6-Ethoxy-2(6-Ethoxy-3-Oxobenzo[b]Thien-2(3H)-Ylidene) Benxo[b]Thiophen-3(2H)-One,O,22
+50,154773,FD&C Blue #2,O,23
+50,154774,FD&C Blue #2 Aluminum Lake On Alumina,O,24
+50,154775,FD&C Blue #2 Aluminum Lake,O,25
+50,154776,[Phthalocyaninato(2-)] Copper,O,26
+50,154777,Iron Oxides,O,27
+50,154778,Ferric Ammonium Citrate,O,28
+50,154779,Logwood Extract,O,29
+50,154780,Mica-Based Pearlescent Pigments,O,30
+50,154781,Phthalocyanine Green,O,31
+50,154782,Poly(Hydroxyethyl Methacrylate)-Dye Copolymers,O,32
+50,154783,Pyrogallol,O,33
+50,154784,Titanium Dioxide,O,34
+50,154785,Vinyl Alcohol/Methyl Methacrylate-Dye Reaction Products,O,35
+50,154786,"Colors For Medical Device Use (Not Certified), N.E.C.",O,99
+50,154793,Aluminum Powder,N,01
+50,154794,Annatto,N,02
+50,154795,Bismuth Citrate,N,03
+50,154796,Bismuth Oxychloride,N,04
+50,154797,Bronze Powder,N,05
+50,154798,Caramel,N,06
+50,154799,Carmine,N,07
+50,154800,C.I. Natural Red 4,N,07
+50,154801,Aluminum Calcium Lake,N,07
+50,154802,Beta-Carotene,N,08
+50,154803,C.I. Natural Yellow 26,N,08
+50,154804,C.I. Food Orange 5,N,08
+50,154805,Chromium Hydroxide Green,N,09
+50,154806,Chromium Oxide Green,N,10
+50,154807,Copper Powder,N,11
+50,154808,Dihdroxyacetone,N,12
+50,154809,Disodium EDTA-Copper,N,13
+50,154810,Ferric Ammonium Ferrocyanide,N,14
+50,154811,Ferric Ferrocyanide,N,15
+50,154812,Guanin ( Pearl Essence),N,16
+50,154813,Guaiazulene (Azulene),N,17
+50,154814,Henna,N,18
+50,154815,Iron Oxides,N,19
+50,154816,Lead Acetate,N,20
+50,154817,Luminescent Zinc Sulfide,N,21
+50,154818,Manganese Violet,N,22
+50,154819,Mica,N,23
+50,154820,Potassium Sodium Copper Chlorphyllin,N,24
+50,154821,Chlorophyllin-Copper Complex,N,24
+50,154822,Pyrophyllite,N,25
+50,154823,Silver,N,26
+50,154824,Titanium Dioxide,N,27
+50,154825,Ultramarines,N,28
+50,154826,"Ultramarine, Blue",N,28
+50,154827,"Ultramarine, Green",N,28
+50,154828,"Ultramarine, Pink",N,28
+50,154829,"Ultramarine, Red",N,28
+50,154830,"Ultramarine, Violet",N,28
+50,154831,Zinc Oxide,N,29
+50,154832,"Colors For Cosmetic Use (Not Certified), N.E.C.",N,99
+50,154833,Zinc Oxide,M,29
+50,154850,"Aga-Koji (Red Coloring Agent, Made From Rice Used In Taiwan)",C,02
+50,154853,"Chu-Chong (Red Coloring Agent, Made From Rice Used in China and Taiwan)",C,02
+50,154854,"Sekihan (Red Coloring Agent, Made From Rice, Used in Japan)",C,02
+50,164879,Kudzu Root,L,35
+50,164880,Yegi,L,35
+50,164881,Forskolin,L,36
+50,164882,Artemisia,L,37
+50,164946,Common turmeric,L,29
+50,164947,Curcuma domestica,L,29
+50,164948,Curcumae longae Rhizoma,L,29
+50,164949,Curcuminoid,L,29
+50,164950,Curcuminoids,L,29
+50,164951,Halada,L,29
+50,164952,Haldi,L,29
+50,164953,Haridra,L,29
+50,164954,Indian Saffron,L,29
+50,164955,Jiang huang,L,29
+50,164956,Jiang huang (rhizome),L,29
+50,164957,Nisha,L,29
+50,164958,Pian Jiang Huang,L,29
+50,164959,Radix Curcumae,L,29
+50,164960,Rajani,L,29
+50,164961,Rhizoma Curmae Longae,L,29
+50,164962,Yellow ginger,L,29
+50,164963,Yu jin,L,29
+50,164999,Bidarikand,L,35
+50,165000,Daidzein,L,35
+50,165001,Dolichos hirsutus,L,35
+50,165002,Dolichos lobatus,L,35
+50,165003,Fen Ke,L,35
+50,165004,Fenge,L,35
+50,165005,Gange,L,35
+50,165006,Ge gen,L,35
+50,165007,Ge hua,L,35
+50,165008,Ge yua,L,35
+50,165009,Gen ge,L,35
+50,165010,Hedysarum tuberosum,L,35
+50,165011,Gang e teng,L,35
+50,165012,Indian Kudzu,L,35
+50,165013,Isoflavones,L,35
+50,165014,Japanese Arrowroot,L,35
+50,165015,Kakkon Kwaao Khruea,L,35
+50,165016,"Mealy Kudzu, Pueraria",L,35
+50,165017,Neustanthus chinensis,L,35
+50,165018,Pachyrhizus thunbergianus,L,35
+50,165019,Pueraria candollei,L,35
+50,165020,Pueraria hirsute,L,35
+50,165021,Pueraria lobata,L,35
+50,165022,Pueraria lobata var. chinensis;,L,35
+50,165023,Pueraria montana var. thomsonii,L,35
+50,165024,Pueraria mirifica,L,35
+50,165025,Pueraria montana var. lobata,L,35
+50,165026,Pueraria pseudohirsuta,L,35
+50,165027,Pueraria thomsonii Benth,L,35
+50,165028,Pueraria thunbergiana,L,35
+50,165029,Pueraria tuberose,L,35
+50,165030,Radix Puerariae,L,35
+50,165031,Red Indian Kudzu,L,35
+50,165032,Thai Kudzu Root Extract,L,35
+50,165033,Vidarikand,L,35
+50,165034,White Indian Kudzu,L,35
+50,165035,Ye ge,L,35
+50,165036,Yege,L,35
+50,165037,Borforsin,L,36
+50,165038,Coleus barbatus (Andrews),L,36
+50,165039,Benth,L,36
+50,165040,Coleus forskohlii,L,36
+50,165041,Coleus forskohlii auct.,L,36
+50,165042,Colforsin,L,36
+50,165043,Forskohlii,L,36
+50,165044,HL-362,L,36
+50,165045,L-75-1362B,L,36
+50,165046,Plectranthus barbatus,L,36
+50,165047,Absinthe,L,37
+50,165048,Absinthii Herba,L,37
+50,165049,Absinthites,L,37
+50,165050,Absinthium,L,37
+50,165051,Aci pelin,L,37
+50,165052,AHAE,L,37
+50,165053,AHE,L,37
+50,165054,Ajenjo,L,37
+50,165055,Ak pelin,L,37
+50,165056,Armoise,L,37
+50,165057,Artemisia herba-alba,L,37
+50,165058,Artesian Absinthium,L,37
+50,165059,Buyuk pelin,L,37
+50,165060,Common Wood Worm,L,37
+50,165061,Common Wormwood,L,37
+50,165062,Desert Wood Worm,L,37
+50,165063,Green Ginger,L,37
+50,165064,Herba Alba,L,37
+50,165065,Herba Artemisae,L,37
+50,165066,Curcuma longa L.,L,29
+50,165067,Pueraria montana (Lour.) Merr. Var. Lobata (Willd.) Maesen & S.M. Aleida,L,35
+50,165068,Plecranthus barbatus Andrews,L,36
+50,165069,Artemisia absinthium L.,L,37
+50,165103,Herbe d'Absinthe,L,37
+50,165104,Indhana,L,37
+50,165105,Lapsent,L,37
+50,165106,Pelin otu,L,37
+50,165107,Quing Hao,L,37
+50,165108,Shih,L,37
+50,165109,Vilayati Afsanteen,L,37
+50,165110,Wermut,L,37
+50,165111,Wermutkraut,L,37
+50,165112,Western Wormwood,L,37
+50,165113,Wormwood,L,37
+50,165114,Wurmkraut,L,37
+50,165136,Artemisia absinthium L.,L,37

@@ -1,0 +1,810 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+62,4800,Calcitonin (Anti-Hypercalcemic),A,01
+62,4801,Alipamide (Anti-Hypertensive),C,01
+62,4802,Dihydrotachysterol (Anti-Hypocalcemic),D,01
+62,4803,Ciclafrine HCl (Anti-Hypotensive),E,01
+62,4805,Alclofenac (Anti-Inflammatory),G,01
+62,4806,Nibroxane (Anti-Microbial),H,01
+62,4807,Acronine (Anti-Neoplastic),I,01
+62,4808,Benztropine Mesylate (Anti-Parkinsonian),J,01
+62,4809,Difenoximide HCl  (Anti-Peristaltic),K,01
+62,4810,"Carnidazole (Anti-Protozoal, Anti-Leishmanial, Anti-Malarial)",L,01
+62,4811,Camphor (Anti-Pruritic),M,01
+62,4812,Anthralin (Anti-Psoriatic),N,01
+62,4813,Antimony Potassium Tartrate (Anti-Schistosomal),R,01
+62,4814,Resorcinol Monoacetate (Anti-Seborrheic),S,01
+62,4815,Deprostil (Anti-Secretory),T,01
+62,4816,Benzonatate (Anti-Tussive/Cold),U,01
+62,4817,Amantadine HCl (Anti-Viral),V,01
+62,4818,Alcloxa (Astringent/Anti-Perspirant),W,01
+62,4819,Sodium Sulfate (Anti-Hypercalcemic),A,02
+62,4820,Clofibrate (Anti-Hyperlipidemic),B,02
+62,4821,Althiazide (Anti-Hypertensive),C,02
+62,4823,"Aminacrine HCl (Anti-Infective, Topical)",F,02
+62,4824,Algestone Acetonide (Anti-Inflammatory),G,02
+62,4825,Ambomycin (Anti-Neoplastic),I,02
+62,4826,Difenoxin (Anti-Peristaltic),K,02
+62,4827,"Flubendazole (Anti-Protozoal, Anti-Leishmanial, Anti-Malarial)",L,02
+62,4828,Azaribine (Anti-Psoriatic),N,02
+62,4829,Auranofin (Anti-Rheumatic),Q,02
+62,4830,Becanthone HCl (Anti-Schistosomal),R,02
+62,4831,Butamirate Citrate (Anti-Tussive/Cold),U,02
+62,4832,Aranotin (Anti-Viral),V,02
+62,4833,Aldioxa (Astringent/Anti-Perspirant),W,02
+62,4834,Colestipol (Anti-Hyperlipidemic),B,03
+62,4835,Amiquinsin HCl (Anti-Hypertensive),C,03
+62,4837,Alpha Amylase (Anti-Inflammatory),G,03
+62,4838,Anthramycin (Anti-Neoplastic),I,03
+62,4839,Diphenoxylate HCl (Anti-Peristaltic),K,03
+62,4840,"Flunidazole (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,03
+62,4841,Methdilazine (Anti-Pruritic),M,03
+62,4842,Aurothioglucose (Anti-Rheumatic),Q,03
+62,4843,Hycanthone (Anti-Schistosomal),R,03
+62,4844,Aluminum Acetate (Sol) (Astringent/Anti-Perspirant),W,03
+62,4845,Colestipol HCl (Anti-Hyperlipidemic),B,04
+62,4846,"Bithionolate Sodium (Anti-Infective, Topical)",F,04
+62,4847,Amcinafal (Anti-Inflammatory),G,04
+62,4849,Fluperamide,K,04
+62,4850,Methdilazine HCl (Anti-Pruritic),M,04
+62,4851,Gold Sodium Thiomalate (Anti-Rheumatic),Q,04
+62,4852,Lucanthone HCl (Anti-Schistosomal),R,04
+62,4853,Cytarabine HCl (Anti-Viral),V,04
+62,4854,Aluminum Subacetate (Sol) Astringent/Anti-Perspirant),W,04
+62,4855,Halofenate (Anti-Hyperlipidemic),B,05
+62,4856,"Bromchlorenone (Anti-Infective, Topical)",F,05
+62,4857,Amcinafide (Anti-Inflammatory),G,05
+62,4858,Carmantadine (Anti-Parkinsonian),J,05
+62,4859,Loperamide   (Anti-Peristaltic),K,05
+62,4860,Trimeprazine Tartrate (Anti-Pruritic),M,05
+62,4861,Niridazole (Anti-Schistosomal),R,05
+62,4862,Carbetapentane Citrate (Anti-Tussive/Cold),U,05
+62,4863,Famotine HCl (Anti-Viral),V,05
+62,4864,Lifibrate (Anti-Hyperlipidemic),B,06
+62,4865,Bethanidine Sulfate (Anti-Hypertensive),C,06
+62,4866,"Cetalkonium Chloride (Anti-Infective, Topical)",F,06
+62,4867,Apazone (Anti-Inflammatory),G,06
+62,4868,Azetepa (Anti-Neoplastic),I,06
+62,4869,Malethamer (Anti-Peristaltic),K,06
+62,4870,"Monensin (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,06
+62,4871,Indoxole (Anti-Pyretic),P,06
+62,4872,Oxamniquine (Anti-Schistosomal),R,06
+62,4873,Chlophedianol HCl (Anti-Tussive/Cold),U,06
+62,4874,Floxuridine (Anti-Viral),V,06
+62,4875,Calcium Hydroxide (Astringent/Anti-Perspirant),W,06
+62,4876,Nafenopin (Anti-Hyperlipidemic),B,07
+62,4877,Bupicomide (Anti-Hypertensive),C,07
+62,4878,"Cetylpyridinium Chloride (Anti-Infective, Topical)",F,07
+62,4879,Bendazac (Anti-Inflammatory),G,07
+62,4880,Azotomycin (Anti-Neoplastic),I,07
+62,4881,Dopamantine (Anti-Parkinsonian),J,07
+62,4882,Paregoric  (Anti-Peristaltic),K,07
+62,4883,Phenylbutazone (Anti-Rheumatic),Q,07
+62,4884,Pararosaniline Pamoate (Anti-Schistosomal),R,07
+62,4885,Codeine (Anti-Tussive/Cold),U,07
+62,4886,Fosfonet Sodium (Anti-Viral),V,07
+62,4887,White Lotion Astringent/Anti-Perspirant),W,07
+62,4888,Pimetine HCl (Anti-Hyperlipidemic),B,08
+62,4889,"Chlorhexidine HCl (Anti-Infective, Topical)",F,08
+62,4890,Benoxaprofen (Anti-Inflammatory),G,08
+62,4891,Benzodepa (Anti-Neoplastic),I,08
+62,4892,Ethopropazine HCl (Anti-Parkinsonian),J,08
+62,4893,"Ronidazole (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,08
+62,4894,Menthol (Anti-Pruritic),M,08
+62,4895,Salicylate Meglumine (Anti-Rheumatic),Q,08
+62,4896,Stibophen (Anti-Schistosomal),R,08
+62,4897,Codeine Phosphate (Anti-Tussive/Cold),U,08
+62,4898,Idoxuridine (Anti-Viral),V,08
+62,4899,Zinc Chloride Astringent/Anti-Perspirant),W,08
+62,4900,Tibric Acid (Anti-Hyperlipidemic),B,09
+62,4901,"Domiphen Bromide (Anti-Infective, Topical)",F,09
+62,4902,Busulfan (Anti-Neoplastic),I,09
+62,4903,Levodopa (Anti-Parkinsonian),J,09
+62,4904,"Tinidazole (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,09
+62,4905,Liquid Phenol (Anti-Pruritic),M,09
+62,4906,Teroxalene HCl (Anti-Schistosomal),R,09
+62,4907,Kethoxal (Anti-Viral),V,09
+62,4908,Zinc Oxide Astringent/Anti-Perspirant),W,09
+62,4909,Clonidine HCl (Anti-Hypertensive),C,10
+62,4910,"Fenticlor (Anti-Infective, Topical)",F,10
+62,4911,Bromelains (Anti-Inflammatory),G,10
+62,4912,Cactinomycin (Anti-Neoplastic),I,10
+62,4913,"Acetarsone (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,10
+62,4914,Codoxime (Anti-Tussive/Cold),U,10
+62,4915,Memotine HCl (Anti-Viral),V,10
+62,4916,Clopamide (Anti-Hypertensive),C,11
+62,4917,"Fludazonium Chloride (Anti-Infective, Topical)",F,11
+62,4918,Cicloprofen (Anti-Inflammatory),G,11
+62,4919,Calusterone (Anti-Neoplastic),I,11
+62,4920,Procyclidine HCl (Anti-Parkinsonian),J,11
+62,4921,Dextromethorphan Hydrobromide (Anti-Tussive/Cold),U,11
+62,4922,Methisazone (Anti-Viral),V,11
+62,4923,Bismuth Subgallate Astringent/Anti-Perspirant),W,11
+62,4924,Cyclopenthiazide (Anti-Hypertensive),C,12
+62,4925,"Basic Fuchsin (Anti-Infective, Topical)",F,12
+62,4926,Cintazone (Anti-Inflammatory),G,12
+62,4927,Carmustine (Anti-Neoplastic),I,12
+62,4928,Ethyl Dibunate (Anti-Tussive/Cold),U,12
+62,4929,Ribavirin (Anti-Viral),V,12
+62,4930,"Furazolidone (Anti-Infective, Topical)",F,13
+62,4931,Cliprofen (Anti-Inflammatory),G,13
+62,4932,Chlorambucil (Anti-Neoplastic),I,13
+62,4933,Hydrocodone Bitartrate (Anti-Tussive/Cold),U,13
+62,4934,Rimantadine HCl (Anti-Viral),V,13
+62,4935,Debrisoquin Sulfate (Anti-Hypertensive),C,14
+62,4936,"Gentian Violet (Anti-Infective, Topical)",F,14
+62,4937,Clopirac (Anti-Inflammatory),G,14
+62,4938,Cirolemycin (Anti-Neoplastic),I,14
+62,4939,Levopropoxyphene Napsylate (Anti-Tussive/Cold),U,14
+62,4940,Statolon (Anti-Viral),V,14
+62,4941,Zinc Sulfate Astringent/Anti-Perspirant),W,14
+62,4942,Diapamide (Anti-Hypertensive),C,15
+62,4943,"Halquinols (Anti-Infective, Topical)",F,15
+62,4944,Cortodoxone (Anti-Inflammatory),G,15
+62,4945,Cyclophosphamide (Anti-Neoplastic),I,15
+62,4946,"Imidocarb HCl (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,15
+62,4947,Noscapine (Anti-Tussive/Cold),U,15
+62,4948,Diazoxide (Anti-Hypertensive),C,16
+62,4949,"Hexachlorophene (Anti-Infective, Topical)",F,16
+62,4950,Desonide (Anti-Inflammatory),G,16
+62,4951,Cytarabine (Anti-Neoplastic),I,16
+62,4952,Pemerid Nitrate (Anti-Tussive/Cold),U,16
+62,4953,Tilorone HCl (Anti-Viral),V,16
+62,4954,Alum (Astringent/Anti-Perspirant),W,16
+62,4955,Epithiazide (Anti-Hypertensive),C,17
+62,4956,"Hydrogen Peroxide (Sol) (Anti-Infective, Topical)",F,17
+62,4957,Desoximetasone (Anti-Inflammatory),G,17
+62,4958,Dacarbazine (Anti-Neoplastic),I,17
+62,4959,"Ipronidazole (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,17
+62,4960,Pipazethate (Anti-Tussive/Cold),U,17
+62,4961,Aluminum Chloride Astringent/Anti-Perspirant),W,17
+62,4962,Guanabenz (Anti-Hypertensive),C,18
+62,4963,"Ichthammol (Anti-Infective, Topical)",F,18
+62,4964,Diclofenac Sodium (Anti-Inflammatory),G,18
+62,4965,Dromostanolone Propionate (Anti-Neoplastic),I,18
+62,4966,"Nitarsone (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,18
+62,4967,Suxemerid Sulfate (Anti-Tussive/Cold),U,18
+62,4968,Guanacline Sulfate (Anti-Hypertensive),C,19
+62,4969,"Imidecyl Iodine (Anti-Infective, Topical)",F,19
+62,4970,Diflumidone Sodium (Anti-Inflammatory),G,19
+62,4971,Duazomycin (Anti-Neoplastic),I,19
+62,4972,Pholcodine (Anti-Tussive/Cold),U,19
+62,4973,Guanadrel Sufate (Anti-Hypertensive),C,20
+62,4974,"Iodine (Anti-Infective, Topical)",F,20
+62,4975,Diflunisal (Anti-Inflammatory),G,20
+62,4976,Enpromate (Anti-Neoplastic),I,20
+62,4977,"Hydroxystilbamidine Isethionate (Anti-Protozoal, A-Leishmanial, A-Malari",L,20
+62,4978,Guancydine (Anti-Hypertensive),C,21
+62,4979,Difluprednate (Anti-Inflammatory),G,21
+62,4980,Epipropidine (Anti-Neoplastic),I,21
+62,4981,Guanethidine Monosulfate (Anti-Hypertensive),C,22
+62,4982,"Iodoform (Anti-Infective, Topical)",F,22
+62,4983,Diftalone (Anti-Inflammatory),G,22
+62,4984,"Acedapsone (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,22
+62,4985,Guanethidine Sulfate (Anti-Hypertensive),C,23
+62,4986,"Isopropyl Alcohol (Anti-Infective, Topical)",F,23
+62,4987,Drocinonide (Anti-Inflammatory),G,23
+62,4988,Fluorouracil (Anti-Neoplastic),I,23
+62,4989,"Amodiaquine HCl (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,23
+62,4990,Guanisoquin Sulfate (Anti-Hypertensive),C,24
+62,4991,"Mafenide Acetate (Anti-Infective, Topical)",F,24
+62,4992,Etodolic Acid (Anti-Inflammatory),G,24
+62,4993,Hydroxyurea (Anti-Neoplastic),I,24
+62,4994,"Amiquinate (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,24
+62,4995,Guanoclor Sulfate (Anti-Hypertensive),C,25
+62,4996,"Meralein Sodium (Anti-Infective, Topical)",F,25
+62,4997,Fenamole (Anti-Inflammatory),G,25
+62,4998,Lomustine (Anti-Neoplastic),I,25
+62,4999,Guanoctine HCl (Anti-Hypertensive),C,26
+62,5000,"Ammoniated Mercury (Anti-Infective, Topical)",F,26
+62,5001,Fenbufen (Anti-Inflammatory),G,26
+62,5002,Mechlorethamine Hydrochloride (Anti-Neoplastic),I,26
+62,5003,Guanoxabenz (Anti-Hypertensive),C,27
+62,5004,"Methylbenzethonium Chloride (Anti-Infective, Topical)",F,27
+62,5005,Fenclorac (Anti-Inflammatory),G,27
+62,5006,Megestrol Acetate (Anti-Neoplastic),I,27
+62,5007,Guanoxan Sulfate (Anti-Hypertensive),C,28
+62,5008,"Nifuroxime (Anti-Infective, Topical)",F,28
+62,5009,Fenoprofen (Anti-Inflammatory),G,28
+62,5010,Melengestrol Acetate (Anti-Neoplastic),I,28
+62,5011,"Cycloguanil Pamoate (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,28
+62,5012,Guanoxyfen Sulfate (Anti-Hypertensive),C,29
+62,5013,"Nitrofurazone (Anti-Infective, Topical)",F,29
+62,5014,Fenoprofen Calcium (Anti-Inflammatory),G,29
+62,5015,Melphalan (Anti-Neoplastic),I,29
+62,5016,"Hydroxychloroquine Sulfate (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,29
+62,5017,Hydralazine HCl (Anti-Hypertensive),C,30
+62,5018,"Nitromersol (Anti-Infective, Topical)",F,30
+62,5019,Fenpipalone (Anti-Inflammatory),G,30
+62,5020,Mercaptopurine (Anti-Neoplastic),I,30
+62,5021,"Mefloquine (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,30
+62,5022,Hydroflumethiazide (Anti-Hypertensive),C,31
+62,5023,"Oxychlorosene (Anti-Infective, Topical)",F,31
+62,5024,Flazalone (Anti-Inflammatory),G,31
+62,5025,Methotrexate (Anti-Neoplastic),I,31
+62,5026,"Menoctone (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,31
+62,5027,Indoramin (Anti-Hypertensive),C,32
+62,5028,"Oxychlorosene Sodium (Anti-Infective, Topical)",F,32
+62,5029,Fluazacort (Anti-Inflammatory),G,32
+62,5030,Methotrexate Sodium (Anti-Neoplastic),I,32
+62,5031,Leniquinsin (Anti-Hypertensive),C,33
+62,5032,"Potassium Permanganate (Anti-Infective, Topical)",F,33
+62,5033,Flufenamic Acid (Anti-Inflammatory),G,33
+62,5034,Meturedepa (Anti-Neoplastic),I,33
+62,5035,"Primaquine Phosphate (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,33
+62,5036,Mebutamate (Anti-Hypertensive),C,34
+62,5037,"Povidone Iodine (Anti-Infective, Topical)",F,34
+62,5038,Flumizole (Anti-Inflammatory),G,34
+62,5039,Mitocarcin (Anti-Neoplastic),I,34
+62,5040,"Pyrimethamine (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,34
+62,5041,Mecamylamine HCl (Anti-Hypertensive),C,35
+62,5042,"Sepazonium Chloride (Anti-Infective, Topical)",F,35
+62,5043,Flunisolide Acetate (Anti-Inflammatory),G,35
+62,5044,Mitocromin (Anti-Neoplastic),I,35
+62,5045,"Silver Nitrate (Anti-Infective, Topical)",F,36
+62,5046,Flunixin (Anti-Inflammatory),G,36
+62,5047,Mitogillin (Anti-Neoplastic),I,36
+62,5048,"Quinine Dihydrochloride (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,36
+62,5049,"Silver Protein (Milk) (Anti-Infective, Topical)",F,37
+62,5050,Flunixin Meglumine (Anti-Inflammatory),G,37
+62,5051,Mitomalcin (Anti-Neoplastic),I,37
+62,5052,"Quinine Sulfate (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,37
+62,5053,Methyldopa (Anti-Hypertensive),C,38
+62,5054,"Silver Sulfadiazine (Anti-Infective, Topical)",F,38
+62,5055,Fluocortin Butyl (Anti-Inflammatory),G,38
+62,5056,Mitosper (Anti-Neoplastic),I,38
+62,5057,Methyldopate HCl (Anti-Hypertensive),C,39
+62,5058,"Sodium Hypochlorite (Sol) (Anti-Infective, Topical)",F,39
+62,5059,Furobufen (Anti-Inflammatory),G,39
+62,5060,Mitotane (Anti-Neoplastic),I,39
+62,5061,"Symclosene (Anti-Infective, Topical)",F,40
+62,5062,Mycophenolic Acid (Anti-Neoplastic),I,40
+62,5063,"Metronidazole (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,40
+62,5064,Minoxidil (Anti-Hypertensive),C,41
+62,5065,"Thimerfonate Sodium (Anti-Infective, Topical)",F,41
+62,5066,Ibuprofen (Anti-Inflammatory),G,41
+62,5067,Nogalamycin (Anti-Neoplastic),I,41
+62,5068,"Moxnidazole (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,41
+62,5069,Pargyline HCl (Anti-Hypertensive),C,42
+62,5070,"Thimerosal (Anti-Infective, Topical)",F,42
+62,5071,Indomethacin (Anti-Inflammatory),G,42
+62,5072,Oxisuran (Anti-Neoplastic),I,42
+62,5073,Pazoxide (Anti-Hypertensive),C,43
+62,5074,"Triclobisonium Chloride (Anti-Infective, Topical)",F,43
+62,5075,Peliomycin (Anti-Neoplastic),I,43
+62,5076,"Sulnidazole (Anti-Protozoal, A-Leishmanial, A-Malarial)",L,43
+62,5077,Pentolinium Tartrate (Anti-Hypertensive),C,44
+62,5078,"Troclosene Potassium (Anti-Infective, Topical)",F,44
+62,5079,Intrazole (Anti-Inflammatory),G,44
+62,5080,Pipobroman (Anti-Neoplastic),I,44
+62,5081,Phenoxybenzamine HCl (Anti-Hypertensive),C,45
+62,5082,"Nidroxyzone (Anti-Infective, Topical)",F,45
+62,5083,Isoxicam (Anti-Inflammatory),G,45
+62,5084,Piposulfan (Anti-Neoplastic),I,45
+62,5085,"Camphorated Parachlorophenol (Anti-Infective, Topical)",F,46
+62,5086,Ketoprofen (Anti-Inflammatory),G,46
+62,5087,Prazosin HCl (Anti-Hypertensive),C,47
+62,5088,"Carbamide Peroxide (Sol) (Anti-Infective, Topical)",F,47
+62,5089,Meclofenamic Acid (Anti-Inflammatory),G,47
+62,5090,Procarbazine Hydrochloride (Anti-Neoplastic),I,47
+62,5091,Quinazosin HCl (Anti-Hypertensive),C,48
+62,5092,Mefenamic Acid (Anti-Inflammatory),G,48
+62,5093,Puromycin (Anti-Neoplastic),I,48
+62,5094,Rauwolfia Serpentina (Anti-Hypertensive),C,49
+62,5095,Naproxen (Anti-Inflammatory),G,49
+62,5096,Puromycin Hydrochloride (Anti-Neoplastic),I,49
+62,5097,Rescinnamine (Anti-Hypertensive),C,50
+62,5098,"Yellow Mercuric Oxide (Anti-Infective, Topical)",F,50
+62,5099,Naproxen Sodium (Anti-Inflammatory),G,50
+62,5100,Pyrazofurin (Anti-Neoplastic),I,50
+62,5101,Reserpine (Anti-Hypertensive),C,51
+62,5102,Naproxol (Anti-Inflammatory),G,51
+62,5103,Riboprine (Anti-Neoplastic),I,51
+62,5104,Saralasin Acetate (Anti-Hypertensive),C,52
+62,5105,Nimazone (Anti-Inflammatory),G,52
+62,5106,Semustine (Anti-Neoplastic),I,52
+62,5107,Sodium Nitroprusside (Anti-Hypertensive),C,53
+62,5108,Orgotein (Anti-Inflammatory),G,53
+62,5109,Simtrazene (Anti-Neoplastic),I,53
+62,5110,Syrosingopine (Anti-Hypertensive),C,54
+62,5111,Oxaprozin (Anti-Inflammatory),G,54
+62,5112,Sparsomycin (Anti-Neoplastic),I,54
+62,5113,Oxyphenbutazone (Anti-Inflammatory),G,55
+62,5114,Streptonigrin (Anti-Neoplastic),I,55
+62,5115,Paranyline HCl (Anti-Inflammatory),G,56
+62,5116,Strepozocin (Anti-Neoplastic),I,56
+62,5117,Trimazosin HCl (Anti-Hypertensive),C,57
+62,5118,Phenbutazone Sodium Glycerate (Anti-Inflammatory),G,57
+62,5119,Testolactone (Anti-Neoplastic),I,57
+62,5120,Trimethaphan Camsylate (Anti-Hypertensive),C,58
+62,5121,Thiamiprine (Anti-Neoplastic),I,58
+62,5122,Trimethidinium Methosulfate (Anti-Hypertensive),C,59
+62,5123,Piroxicam (Anti-Inflammatory),G,59
+62,5124,Thioguanine (Anti-Neoplastic),I,59
+62,5125,Trimoxamine HCl (Anti-Hypertensive),C,60
+62,5126,Pirprofen (Anti-Inflammatory),G,60
+62,5127,Thiotepa (Anti-Neoplastic),I,60
+62,5129,Prednazate (Anti-Inflammatory),G,61
+62,5130,Trestolone Acetate (Anti-Neoplastic),I,61
+62,5131,Deserpedine (Anti-Hypertensive),C,62
+62,5132,Prodolic Acid (Anti-Inflammatory),G,62
+62,5133,Triethylenemelamine (Anti-Neoplastic),I,62
+62,5134,Proquazone (Anti-Inflammatory),G,63
+62,5135,Uracil Mustard (Anti-Neoplastic),I,63
+62,5136,Uredepa (Anti-Neoplastic),I,64
+62,5137,Urethan (Anti-Neoplastic),I,65
+62,5138,Vinblastine Sulfate (Anti-Neoplastic),I,66
+62,5139,Vincristine Sulfate (Anti-Neoplastic),I,67
+62,5140,Seclazone (Anti-Inflammatory),G,68
+62,5141,Vindesine (Anti-Neoplastic),I,68
+62,5142,Sudoxicam (Anti-Inflammatory),G,69
+62,5143,Vinglycinate Sulfate (Anti-Neoplastic),I,69
+62,5144,Sulindac (Anti-Inflammatory),G,70
+62,5145,Vinleurosine Sulfate (Anti-Neoplastic),I,70
+62,5146,Suprofen (Anti-Inflammatory),G,71
+62,5147,Vinrosidine Sulfate (Anti-Neoplastic),I,71
+62,5148,Tesicam (Anti-Inflammatory),G,72
+62,5149,Tesimide (Anti-Inflammatory),G,73
+62,5150,Tolmetin (Anti-Inflammatory),G,75
+62,5151,Tolmetin Sodium (Anti-Inflammatory),G,76
+62,5152,Tricolonide (Anti-Inflammatory),G,77
+62,5153,Triflumidate (Anti-Inflammatory),G,78
+62,5154,Cormethasone Acetate (Anti-Inflammatory),G,80
+62,5155,Diflorasone Diacetate (Anti-Inflammatory),G,81
+62,5156,Dimethyl Sulfoxide (Anti-Inflammatory),G,82
+62,5157,Halcinonide (Anti-Inflammatory),G,83
+62,5158,Endrysone (Anti-Inflammatory),G,85
+62,5159,Anti-Hypercalcemic N.E.C.,A,99
+62,5160,Anti-Hyperlipidemic N.E.C.,B,99
+62,5161,Anti-Hypertensive N.E.C.,C,99
+62,5162,Anti-Hypocalcemic N.E.C.,D,99
+62,5163,Anti-Hypotensive N.E.C.,E,99
+62,5164,"Anti-Infective, Topical N.E.C.",F,99
+62,5165,Anti-Inflammatory N.E.C.,G,99
+62,5166,Anti-Microbial N.E.C.,H,99
+62,5167,Anti-Neoplastic N.E.C.,I,99
+62,5168,Anti-Parkinsonian N.E.C.,J,99
+62,5169,Anti-Peristaltic N.E.C.,K,99
+62,5170,"Anti-Protozoal, Anti-Leishmanial, Anti-Malarial, N.E.C.",L,99
+62,5171,Anti-Pruritic N.E.C.,M,99
+62,5172,Anti-Psoriatic N.E.C.,N,99
+62,5173,Anti-Pyretic N.E.C.,P,99
+62,5174,Anti-Rheumatic N.E.C.,Q,99
+62,5175,Anti-Schistosomal N.E.C.,R,99
+62,5176,Anti-Seborrheic N.E.C.,S,99
+62,5177,Anti-Secretory N.E.C.,T,99
+62,5178,Anti-Tussive/Cold N.E.C.,U,99
+62,5179,Anti-Viral N.E.C.,V,99
+62,5180,Astringent/Anti-Perspirant N.E.C.,W,99
+62,12628,"Quinine Ethylcarbonate (Anti-Protozoal, A-Leishmania, A-Malarial)",L,38
+62,150974,"Calcitonin, Salmon (Anti-Hypercalcemic)",A,03
+62,150975,Calcitriol (Anti-Hypercalcemic),A,04
+62,150976,Alclometasone Dipropionate (Anti-Hyperlipidemic),B,10
+62,150977,Cerivastatin (Anti-Hyperlipidemic),B,11
+62,150978,Mezlocillin Sodium Monohydrate (Anti-Hyperlipidemic),B,12
+62,150979,Midodrine (Anti-Hypotensive),E,02
+62,150980,"Aliperetinate (Anti-Infective, Topical)",F,51
+62,150981,"Calcium Mupirocin (Anti-Infective, Topical)",F,52
+62,150982,"Mometasone Furoate (Anti-Infective, Topical)",F,53
+62,150983,"Rifabutin (Anti-Infective, Topical)",F,54
+62,150984,"Zalcitabine (Anti-Infective, Topical)",F,55
+62,150985,Allopurinol Sodium (Anti-Inflammatory),G,86
+62,150986,Bromfenac (Anti-Inflammatory),G,87
+62,150987,Carprofen (Anti-Inflammatory),G,88
+62,150988,Cyclosporine (Anti-Inflammatory),G,89
+62,150989,Diclofenac Potassium (Anti-Inflammatory),G,90
+62,150990,Etodolac (Anti-Inflammatory),G,91
+62,150991,Flurbiprofen (Anti-Inflammatory),G,92
+62,150992,Flurbiprofen Sodium (Anti-Inflammatory),G,93
+62,150993,Ketorolac Tromethamine (Anti-Inflammatory),G,94
+62,150994,Loteprednol Etabonate (Anti-Inflammatory),G,95
+62,150995,Meclofenamate Sodium (Anti-Inflammatory),G,96
+62,150996,Nabumetone (Anti-Inflammatory),G,97
+62,150997,Rimexolone (Anti-Inflammatory),G,98
+62,150998,Tobramycin (Anti-Microbial),H,02
+62,150999,Trovafloxacin/Azithromycin (Anti-Microbial),H,03
+62,151002,Capecitabine (Anti-Neoplastic),I,72
+62,151003,Cisplatin (Anti-Neoplastic),I,73
+62,151004,Cladribine (Anti-Neoplastic),I,74
+62,151005,Docetaxel (Anti-Neoplastic),I,75
+62,151006,Estramustine Phosphate Sodium (Anti-Neoplastic),I,76
+62,151007,Etoposide (Anti-Neoplastic),I,77
+62,151008,Etoposide Phosphate (Anti-Neoplastic),I,78
+62,151009,Fludarabine Phosphate (Anti-Neoplastic),I,79
+62,151010,Gemcitabine HCL (Anti-Neoplastic),I,80
+62,151011,Goserelin Acetate (Anti-Neoplastic),I,81
+62,151012,Idarubicin Hydrochloride (Anti-Neoplastic),I,82
+62,151013,Ifosfamide (Anti-Neoplastic),I,83
+62,151014,Irinotecan HCL (Anti-Neoplastic),I,84
+62,151015,Letrozole (Anti-Neoplastic),I,85
+62,151016,Leuprolide Acetate (Anti-Neoplastic),I,86
+62,151017,Liposomal Daunorubicin (Anti-Neoplastic),I,87
+62,151018,Masoprocol (Anti-Neoplastic),I,88
+62,151019,Melphalan Hydrochloride (Anti-Neoplastic),I,89
+62,151020,Mitoxantrone Hydrochloride (Anti-Neoplastic),I,90
+62,151021,Paclitaxel (Anti-Neoplastic),I,91
+62,151022,Pentostatin (Anti-Neoplastic),I,92
+62,151023,Streptozocin (Anti-Neoplastic),I,93
+62,151024,Teniposide (Anti-Neoplastic),I,94
+62,151025,Topotecan (Anti-Neoplastic),I,95
+62,151026,Toremifene Citrate (Anti-Neoplastic),I,96
+62,151027,Valrubicin (Anti-Neoplastic),I,97
+62,151028,Vinorelbine Tartrate (Anti-Neoplastic),I,98
+62,151029,"Loperamide Hydrochloride (Anti-Peristaltic, Anti-Diarrheal)",K,08
+62,151030,"Olsalazine Sodium (Anti-Peristaltic, Anti-Diarrheal)",K,09
+62,151031,"Omeprazole (Anti-Peristaltic, Anti-Diarrheal)",K,10
+62,151032,Cabergoline (Anti-Parkinsonian),J,12
+62,151033,Donepezil HCL (Anti-Parkinsonian),J,13
+62,151034,Pergolide Mesylate (Anti-Parkinsonian),J,14
+62,151035,Pramipexole (Anti-Parkinsonian),J,15
+62,151036,Riluzole (Anti-Parkinsonian),J,16
+62,151037,Ropinirole HCL (Anti-Parkinsonian),J,17
+62,151038,Selegiline Hydrochloride (Anti-Parkinsonian),J,18
+62,151039,Tolcapone (Anti-Parkinsonian),J,19
+62,151040,"Atovaquone (Anti-Protozoal, A-Leishmanial, Anti-Malarial)",L,44
+62,151041,"Eflornithine Hydrochloride (Anti-Protozoal, A-Leishmanial, Anti-Malarial)",L,45
+62,151042,"Halofantrine Hydrochloride (Anti-Protozoal, A-Leishmanial, Anti-Malarial)",L,46
+62,151043,"Ivermectin (Anti-Protozoal, A-Leishmanial, Anti-Malarial)",L,47
+62,151044,"Malathion (Anti-Protozoal, A-Leishmanial, Anti-Malarial)",L,48
+62,151045,"Mefloquine Hydrochloride (Anti-Protozoal, A-Leishmanial, Anti-Malarial)",L,49
+62,151046,"Metronidazole Hydrochloride (Anti-Protozoal, A-Leishmanial, Anti-Malarial)",L,50
+62,151047,"Pentamidine Isethionate (Anti-Protozoal, A-Leishmanial, Anti-Malarial)",L,51
+62,151048,"Permethrin (Anti-Protozoal, A-Leishmanial, Anti-Malarial)",L,52
+62,151049,Acitretin (Anti-Psoriatic),N,03
+62,151050,Calcipotriene (Anti-Psoriatic),N,04
+62,151051,Etretinate (Anti-Psoriatic),N,05
+62,151052,Tazarotene (Anti-Psoriatic),N,06
+62,151053,Nisoldipine (Anti-Hypertensive - Part II),O,01
+62,151054,Penbutolol Sulfate (Anti-Hypertensive - Part II),O,02
+62,151055,Perindopril Erbumine (Anti-Hypertensive - Part II),O,03
+62,151056,Quinapril Hydrochloride (Anti-Hypertensive - Part II),O,04
+62,151057,Ramipril (Anti-Hypertensive - Part II),O,05
+62,151058,Reserpine (Anti-Hypertensive - Part II),O,06
+62,151059,Sodium Nitroprusside (Anti-Hypertensive - Part II),O,07
+62,151060,Spirapril Hydrochloride (Anti-Hypertensive - Part II),O,08
+62,151061,Telmisartan (Anti-Hypertensive - Part II),O,09
+62,151062,Oxamiquine (Anti-Schistosomal),R,10
+62,151063,Praziquantel (Anti-Schistosomal),R,11
+62,151064,Adapalene (Anti-Seborrheic),S,02
+62,151065,Azelaic Acid (Anti-Seborrheic),S,03
+62,151066,Lansoprazole (Anti-Secretory),T,02
+62,151067,Nizatidine (Anti-Secretory),T,03
+62,151068,Octreotide Acetate (Anti-Secretory),T,04
+62,151069,Dextromethorphan Polistirex (Anti-Tussive/Cold),U,20
+62,151070,Hydrocodone Polistirex/Chlorphenir.Poli (Anti-Tussive/Cold),U,21
+62,151071,Abacavir Sulfate (Anti-Viral),V,17
+62,151072,Acyclovir (Anti-Viral),V,18
+62,151073,Acyclovir Sodium (Anti-Viral),V,19
+62,151074,Amprenavir (Anti-Viral),V,20
+62,151075,Cidofovir (Anti-Viral),V,21
+62,151076,Delavirdine Mesylate (Anti-Viral),V,22
+62,151077,Didanosine (Anti-Viral),V,23
+62,151078,Efavirenz (Anti-Viral),V,24
+62,151079,Famciclovir (Anti-Viral),V,25
+62,151080,Foscarnet Sodium (Anti-Viral),V,26
+62,151081,Ganciclovir (Anti-Viral),V,27
+62,151082,Ganciclovir Sodium (Anti-Viral),V,28
+62,151083,Imiquimod (Anti-Viral),V,29
+62,151084,Indinavir Sulfate (Anti-Viral),V,30
+62,151086,Lamivudine (Anti-Viral),V,32
+62,151087,Nelfinavir Mesylate (Anti-Viral),V,33
+62,151088,Nevirapine (Anti-Viral),V,34
+62,151089,Penciclovir (Anti-Viral),V,35
+62,151090,Podofilox (Anti-Viral),V,36
+62,151091,Ritonavir (Anti-Viral),V,37
+62,151092,Saquinavir (Anti-Viral),V,38
+62,151093,Stavudine (Anti-Viral),V,39
+62,151094,Trifluridine (Anti-Viral),V,40
+62,151095,Trimetrexate Glucoronate (Anti-Viral),V,41
+62,151096,Valacyclovir HCL (Anti-Viral),V,42
+62,151097,Zidovudine (Anti-Viral),V,43
+62,151098,"Sulfsalazine (Anti-Inflammatory, Part II)",Y,01
+62,151099,"Sulindac (Anti-Inflammatory, Part II)",Y,02
+62,151100,"Suprofen (Anti-Inflammatory, Part II)",Y,03
+62,151101,"Zomepirac Sodium (Anti-Inflammatory, Part II)",Y,04
+62,151102,Carboplatin (Anti-neoplastic - Part II),Z,01
+62,151360,Terazosin Hydrochloride (Anti-Hypertensive - Part II),O,10
+62,151361,Trandolapril (Anti-Hypertensive - Part II),O,11
+62,151362,Valsartan (Anti-Hypertensive - Part II),O,12
+62,151363,Verapamil Hydrochloride (Anti-Hypertensive - Part II),O,13
+62,151380,"Amlodipine Besylate (Anti-Hypertensive, Part II)",O,14
+62,151381,Benazepril Hydrochloride (Anti-Hypertensive - Part II),O,15
+62,151382,Bepridil Hydrochloride (Anti-Hypertensive - Part II),O,16
+62,151383,Betaxolol Hydrochloride (Anti-Hypertensive - Part II),O,17
+62,151384,Bisoprolol Fumarate (Anti-Hypertensive - Part II),O,18
+62,151385,Candesartan Cilexetil (Anti-Hypertensive - Part II),O,19
+62,151386,Captopril (Anti-Hypertensive - Part II),O,20
+62,151387,Carteolol Hydrochloride (Anti-Hypertensive - Part II),O,21
+62,151388,Carvedilol (Anti-Hypertensive - Part II),O,22
+62,151389,Clonidine (Anti-Hypertensive - Part II),O,23
+62,151390,Diltiazem Hydrochloride (Anti-Hypertensive - Part II),O,24
+62,151391,Diltiazem Malate (Anti-Hypertensive - Part II),O,25
+62,151392,Dorzolamide Hydrochloride (Anti-Hypertensive - Part II),O,26
+62,151393,Doxazosin Mesylate (Anti-Hypertensive - Part II),O,27
+62,151394,Enalapril Maleate (Anti-Hypertensive - Part II),O,28
+62,151395,Enalaprilate  (Anti-Hypertensive - Part II),O,29
+62,151396,Eprosartan Mesylate (Anti-Hypertensive - Part II),O,30
+62,151397,Esmolol Hydrochloride (Anti-Hypertensive - Part II),O,31
+62,151398,Felodipine  (Anti-Hypertensive - Part II),O,32
+62,151399,Fenoldopam (Anti-Hypertensive - Part II),O,33
+62,151400,Fosinopril Sodium (Anti-Hypertensive - Part II),O,34
+62,151401,Guanabenz Acetate (Anti-Hypertensive - Part II),O,35
+62,151402,Guanfacine Hydrochloride (Anti-Hypertensive - Part II),O,36
+62,151403,Irbesartan (Anti-Hypertensive - Part II),O,37
+62,151404,Isradipine (Anti-Hypertensive - Part II),O,38
+62,151405,Labetalol Hydrochloride (Anti-Hypertensive - Part II),O,39
+62,151406,Lisinopril (Anti-Hypertensive - Part II),O,40
+62,151407,Losartan Potassium (Anti-Hypertensive - Part II),O,41
+62,151408,Metipranolol Hydrochloride (Anti-Hypertensive - Part II),O,42
+62,151409,Metoprolol Succinate (Anti-Hypertensive - Part II),O,43
+62,151410,Metoprolol Tartrate (Anti-Hypertensive - Part II),O,44
+62,151411,Metyrosine (Anti-Hypertensive - Part II),O,45
+62,151412,Mibefradil Dihydrochloride (Anti-Hypertensive - Part II),O,46
+62,151413,Moexipril Hydrochloride (Anti-Hypertensive - Part II),O,47
+62,151414,Nicardipine Hydrochloride (Anti-Hypertensive - Part II),O,48
+62,151415,Nimodipine (Anti-Hypertensive - Part II),O,49
+62,151440,Colesevelam Hydrochloride (Anti-Hyperlipidemic),B,13
+62,151441,"Balsalazide Disodium (Anti-Inflammatory, Part II)",Y,05
+62,151442,"Levobetaxolol  (Anti-Inflammatory, Part II)",Y,06
+62,151443,"Meloxicam (Anti-Inflammatory, Part II)",Y,07
+62,151444,"Rizatripitan Sulfate (Anti-Inflammatory, Part II)",Y,08
+62,151445,Bexarotene (Anti-neoplastic - Part II),Z,02
+62,151446,Epirubicin Hydrochloride (Anti-neoplastic - Part II),Z,03
+62,151447,Triptorelin Pamoate (Anti-neoplastic - Part II),Z,04
+62,151448,Verteporfin (Anti-neoplastic - Part II),Z,05
+62,151449,Comtan (Anti-Parkinsonian),J,20
+62,151451,Aminolevulinic Acid Hydrochloride (Anti-Psoriatic),N,07
+62,151454,Oseltamivir Phosphate (Anti-Viral),V,45
+62,151455,Zanamivir (Anti-Viral),V,46
+62,151486,Accuretic (Anti-Hypertensive),C,64
+62,151487,Lisinopril (Anti-Hypertensive),C,65
+62,152528,Docosanol (Anti-Viral),V,47
+62,152529,Valganciclovir (Anti-Viral),V,48
+62,152530,Videx EC (Anti-Viral),V,49
+62,152623,Esomeprazole Magnesium (Anti-Secretory),T,06
+62,152626,Lopinavir (Anti-Protozoal),L,54
+62,152631,Arsenic Trioxide (Anti-neoplastic - Part II),Z,06
+62,153745,Bosentan,C,66
+62,153751,Efalizumab (Anti-Psoriatic),N,08
+62,153752,Emtricitabine,V,50
+62,153754,Epinastine HCI,M,10
+62,153755,Eplerenone,C,67
+62,153768,Nitazoxanide,K,11
+62,153770,Olmesartan Medoxomil,C,68
+62,153771,Omapatrilat,C,69
+62,153774,Pantoprazole Sodium,T,07
+62,153781,Valdeconxib,Q,10
+62,153783,Zoledronic Acid,A,05
+62,153803,Treprostinil Sodium,C,70
+62,154537,Rofecoxib,G,09
+62,154538,Vioxx,G,09
+62,155058,Bortezomib,Z,08
+62,155059,Velcade,Z,08
+62,155060,Tracleer,C,66
+62,155061,Budensonide,Y,09
+62,155062,Entocort EC,Y,09
+62,155068,Raptiva (Anti-Psoriatic),N,08
+62,155069,Emtriva,V,50
+62,155071,Elestat,M,10
+62,155072,Inspra,C,67
+62,155078,Gefitinib,Z,09
+62,155079,Iressa,Z,09
+62,155087,Alinia,K,11
+62,155089,Benicar,C,68
+62,155090,Vanlev,C,69
+62,155092,Oxaliplatin,Z,10
+62,155093,Eloxatin,Z,10
+62,155098,Protonix,T,07
+62,155104,Remodulin,C,70
+62,155106,Bextra,Q,10
+62,155108,Zometa,A,05
+62,156909,Tamiflu,V,45
+62,157055,Clonidine Transdermal Patches,C,04
+62,157057,Aminopyrine,G,40
+62,157058,Bromfenac Sodium,G,43
+62,157061,Bithionol (Anti-Microbial),H,04
+62,157065,Potassium Arsenite,I,46
+62,157070,Lexiva,V,52
+62,157072,Fosamprenavir,V,52
+62,157073,Reyataz,V,53
+62,157074,Atazanavir,V,53
+62,157075,Zirconium,W,05
+62,157180,Tenofovir Disoproxil Fumerate,V,15
+62,157182,Ziagen,V,17
+62,157186,Fowler's Solution,I,46
+62,157187,Viread,V,15
+62,161260,Carlopam (Anti-Hypertensive),C,63
+62,161261,Fenoldopam Mesylate (Anti-Hypertensive),C,63
+62,165341,Amlip-5,O,14
+62,165363,Atacand,O,19
+62,165370,Voltaren,G,18
+62,165371,Nexpro-20,T,06
+62,165377,"Advil, Motrin",G,41
+62,165378,Xarb 150,O,37
+62,165379,Orudis,G,46
+62,165380,Orudis KT,G,46
+62,165381,Lupizole,T,02
+62,165382,RePace 25,O,41
+62,165385,Prilosec,K,10
+62,165399,Revaldo-20,Q,10
+62,172602,Ethyl Alcohol (Anti-Microbial),H,05
+62,173021,Dasatinib,Z,13
+62,173022,Sprycel,Z,13
+62,173023,Sunitinib Malate,Z,14
+62,173024,Sutent,Z,14
+62,173025,Pazopanib Hydrochloride,Z,15
+62,173026,Votrient,Z,15
+62,173040,Decitabine,Z,16
+62,173070,Lanreotide Acetate (Anti-Secretory),T,08
+62,173071,Somatuline (Anti-Secretory),T,08
+62,173072,Pasireotide Diaspartate (Anti-Secretory),T,09
+62,173073,Signifor (Anti-Secretory),T,09
+62,173206,Enfuvirtide (Anti-Viral),V,56
+62,173207,Fuzeon,V,56
+62,173208,Darunavir Ethanolate (Anti-Viral),V,57
+62,173209,Prezista,V,57
+62,173210,Entecavir (Anti-Viral),V,58
+62,173211,Baraclude,V,58
+62,173212,Etravirine (Anti-Viral),V,59
+62,173213,Intelence,V,59
+62,173214,Maraviroc (Anti-Viral),V,60
+62,173215,Selzentry,V,60
+62,173216,Raltegravir Potassium (Anti-Viral),V,61
+62,173217,Isentress,V,61
+62,173218,Rilpivirine Hydrochloride (Anti-Viral),V,62
+62,173219,Edurant,V,62
+62,173220,Telaprevir (Anti-Viral),V,63
+62,173221,Incivek,V,63
+62,173222,Copegus,V,12
+62,173223,Rebetol,V,12
+62,173224,Ribasphere,V,12
+62,173225,Virazole,V,12
+62,173226,Telbivudine (Anti-Viral),V,64
+62,173227,Tyzeka,V,64
+62,173228,Tipranavir (Anti-Viral),V,65
+62,173229,Aptivus,V,65
+62,173231,Abacavir Sulfate; Dolutegravir; Lamivudine (Anti-Viral),V,66
+62,173232,Triumeq,V,66
+62,173233,Abacavir Sulfate; Lamivudine (Anti-Viral),V,67
+62,173234,Epzicom,V,67
+62,173235,Abacavir Sulfate; Lamivudine; Zidovudine (Anti-Viral),V,68
+62,173236,Trizivir,V,68
+62,173237,Acyclovir; Hydrocortisone (Anti-Viral),V,69
+62,173238,Xerese,V,69
+62,173239,Adefovir Dipivoxil (Anti-Viral),V,70
+62,173240,Hepsera,V,70
+62,173241,Boceprevir (Anti-Viral),V,71
+62,173242,Victrelis,V,71
+62,173243,Cobicistat; Elvitegravir; Emtricitabine; Tenofovir Disoproxil Fumerate (Anti-Viral),V,72
+62,173244,Stribild,V,72
+62,173245,Dolutegravir Sodium (Anti-Viral),V,73
+62,173246,Tivicay,V,73
+62,173249,Efavirenz; Emtricitabine; Tenofovir Disoproxil Fumerate (Anti-Viral),V,75
+62,173250,Atripla,V,75
+62,173251,Emtricitabine; Rilpivirine Hydrochloride; Tenofovir Disoproxil Fumerate (Anti-Viral),V,76
+62,173252,Complera,V,76
+62,173253,Emtricitabine; Tenofovir Disoproxil Fumerate (Anti-Viral),V,77
+62,173254,Truvada,V,77
+62,173255,Lamivudine; Zidovudine (Anti-Viral),V,78
+62,173256,Combivir,V,78
+62,173257,Lopinavir; Ritonavir (Anti-Viral),V,79
+62,173258,Kaletra,V,79
+62,173623,Omega-3-Acid Ethyl Esters (Anti-Hyperlipidemic),B,14
+62,173624,Lovaza,B,14
+62,173625,Omacor,B,14
+62,173626,Omtryg,B,14
+62,174295,Ipilimumab (Anti-Neoplastic - Part II),Z,25
+62,174296,Yervoy (Anti-Neoplastic - Part II),Z,25
+62,174560,Ingenol Mebutate (Anti-neoplastic - Part II),Z,36
+62,174561,Picato (Anti-neoplastic - Part II),Z,36
+62,175516,Tecovirimat (Anti-Viral),V,80
+62,175517,TPOXX,V,80
+62,175518,Doravirine (Anti-Viral),V,81
+62,175519,Pifeltro,V,81
+62,175520,Baloxavir Marboxil (Anti-Viral),V,82
+62,175521,Xofluza,V,82
+62,175528,"Tafenoquine Succinate (A-Protozoal, A-Leishmanial, A-Malarial)",L,55
+62,175529,"Krintafel (A-Protozoal, A-Leishmanial, A-Malarial)",L,55
+62,175530,"Arakoda (A-Protozoal, A-Leishmanial, A-Malarial)",L,55
+62,175759,Olaparib (Anti-neoplastic - Part II),Z,37
+62,175760,Lynparza,Z,37
+62,175788,Apalutamide (Anti-neoplastic-Part II),Z,38
+62,175808,Erleada,Z,38
+62,175843,Levoleucovorin Calcium (Anti-Neoplastic - Part II),Z,52
+62,175844,Fusilev,Z,52
+62,175845,Trifarotene (Anti-Inflammatory),G,64
+62,175846,Aklief,G,64
+62,175859,Istradefylline (Anti-Parkinsonian),J,21
+62,175860,Baricitinib (Anti-Rheumatic),Q,05
+62,175861,Upadacitinib (Anti-Rheumatic),Q,06
+62,175862,Alpelisib (Anti-Neoplastic - Part II),Z,39
+62,175863,Abiraterone Acetate (Anti-Neoplastic - Part II),Z,40
+62,175864,Binimetinib (Anti-Neoplastic - Part II),Z,41
+62,175865,Ceritinib (Anti-Neoplastic - Part II),Z,42
+62,175866,Dacomitinib (Anti-Neoplastic - Part II),Z,43
+62,175867,Darolutamide (Anti-Neoplastic - Part II),Z,44
+62,175868,Duvelisib (Anti-Neoplastic - Part II),Z,45
+62,175869,Encorafenib (Anti-Neoplastic - Part II),Z,46
+62,175870,Entrectinib (Anti-Neoplastic - Part II),Z,47
+62,175871,Erdafitinib (Anti-Neoplastic - Part II),Z,48
+62,175872,Fedratinib Hydrochloride (Anti-Neoplastic - Part II),Z,49
+62,175873,Ivosidenib (Anti-Neoplastic - Part II),Z,50
+62,175874,Levoleucovorin (Anti-Neoplastic - Part II),Z,51
+62,175875,Alimta (Anti-Neoplastic - Part II),Z,53
+62,175876,Pexidartinib Hydrochloride (Anti-Neoplastic - Part II),Z,54
+62,175877,Selinexor (Anti-Neoplastic - Part II),Z,55
+62,175878,Talazoparib Tosylate (Anti-Neoplastic - Part II),Z,56
+62,175897,Nourianz,J,21
+62,175898,Olumiant,Q,05
+62,175899,Rinvoq,Q,06
+62,175900,Piqray,Z,39
+62,175901,Yonsa,Z,40
+62,175902,Zytiga,Z,40
+62,175903,Mektovi,Z,41
+62,175904,Zykadia,Z,42
+62,175905,Vizimpro,Z,43
+62,175906,Nubeqa,Z,44
+62,175907,Copiktra,Z,45
+62,175908,Braftovi,Z,46
+62,175909,Rozlytrek,Z,47
+62,175910,Balversa,Z,48
+62,175911,Inrebic,Z,49
+62,175912,Tibsovo,Z,50
+62,175913,Khapzory,Z,51
+62,175914,Pemetrexed Disodium,Z,53
+62,175915,Turalio,Z,54
+62,175916,Xpovio,Z,55
+62,175917,Talzenna,Z,56
+62,175932,Regorafenib (Anti-Neoplastic - Part II),Z,57
+62,175933,Stivarga,Z,57
+62,176025,Remdesivir,V,83
+62,176026,Veklury,V,83
+62,176072,Avapritinib  (Anti-Neoplastic - Part II),Z,58
+62,176073,Ayvakit,Z,58
+62,176074,Tazemetostat Hydrobromide  (Anti-Neoplastic - Part II),Z,59
+62,176075,Tazverik,Z,59
+62,176076,Selumetinib Sulfate (Anti-Neoplastic - Part II),Z,60
+62,176077,Koselugo,Z,60
+62,176078,Tucatinib (Anti-Neoplastic - Part II),Z,61
+62,176079,Tukysa,Z,61
+62,176080,Pemigatinib (Anti-Neoplastic - Part II),Z,62
+62,176081,Pemazyre,Z,62
+62,176082,Capmatinib Hydrochloride (Anti-Neoplastic - Part II),Z,63
+62,176083,Tabrecta,Z,63
+62,176084,Selpercatinib (Anti-Neoplastic - Part II),Z,64
+62,176085,Retevmo,Z,64
+62,176086,Ripretinib (Anti-Neoplastic - Part II),Z,65
+62,176087,Qinlock,Z,65
+62,176088,Lurbinectedin (Anti-Neoplastic - Part II),Z,66
+62,176089,Zepzelca,Z,66
+62,176104,Opicapone (Anti-Parkinsonian),J,22
+62,176105,Ongentys,J,22
+62,176106,Artesunate,L,56
+62,176315,Norvir,V,37
+62,176316,Nirmatrelvir (Anti-Viral),V,84
+62,176317,Paxlovid,V,84
+62,176318,Molnupiravir,V,85
+62,176742,Deucravacitinib (Anti-Psoriatic),N,11
+62,176743,Sotyktu,N,11
+62,176759,Erlotinib Hydrochloride (Anti-Neoplastic - Part II),Z,67
+62,176760,Tarceva,Z,67
+62,176932,Sofosbuvir (Anti-Viral),V,86
+62,176933,Ledipasvir (Anti-Viral),V,87
+62,176934,Cabotegravir (Anti-Viral),V,88
+62,176935,Elbasvir (Anti-Viral),V,89
+62,176936,Glecaprevir (Anti-Viral),V,90
+62,176937,Epclusa,V,86
+62,176938,Vosevi,V,86
+62,176939,Sovaldi,V,86
+62,176940,Harvoni,V,87
+62,176941,Apretude,V,88
+62,176942,Vocabria,V,88
+62,176943,Cabenuva,V,88
+62,176944,Zepatier,V,89
+62,176945,Mavyret,V,90
+62,177009,Exemestane (Anti-Neoplastic - Part II),Z,68
+62,177010,Aromasin,Z,68
+62,177024,Azacitidine (Anti-Neoplastic - Part II),Z,69
+62,177025,Onureg,Z,69
+62,177026,Vidaza,Z,69
+62,177132,Temsirolimus (Anti-Neoplastic - Part II),Z,70
+62,177133,Torisel,Z,70

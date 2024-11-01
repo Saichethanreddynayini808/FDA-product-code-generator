@@ -1,0 +1,27 @@
+INDID,CLASSID,CLASSDESC
+64,A,Disinfect
+64,B,Diuretic
+64,C,Emetic
+64,D,Emollient/Lubricant
+64,E,Enzyme
+64,F,Enzyme Inhib
+64,G,Estrogen
+64,H,Expectorant
+64,I,Fibrinolytic
+64,J,"Gas, Medicinal"
+64,K,"Gas, Diluent"
+64,L,Glucocorticoid
+64,M,Gonad-Stim Princ
+64,N,Hematinic
+64,O,Monoclonal Antibodies
+64,P,Hemostatic
+64,Q,Histidine Decarboxylase Inhib
+64,R,Hormone
+64,S,Hypnotic
+64,T,Immunosuppress
+64,U,Inhibitor
+64,V,Ion-Exchange Resin
+64,W,Irrigation Sol
+64,X,Keratolytic
+64,Y,Biologic Response Modifiers
+64,Z,Peritoneal Dialysis Solution

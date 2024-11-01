@@ -1,0 +1,90 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+34,2251,Buttermilk Chocolate (except Chocolate Candy and Chocolate Beverage Base),B,01
+34,2252,"Chocolate Candy Bar, with Nuts and Fruit",G,01
+34,2253,"Chocolate Candy Bar, with Nuts or Nut Products (not Coconut)",C,01
+34,2254,"Chocolate Candy Bar, with Coconut",D,01
+34,2255,"Chocolate Candy Bar, with Fruit and Fruit Products",E,01
+34,2256,"Chocolate Candy Bar, without Nuts and Fruit",F,01
+34,2257,Breakast Cocoa,H,01
+34,2258,Imitation Chocolate,J,01
+34,2259,Cocoa Bean Press Cake (except Chocolate Candy and Chocolate Beverage Base),B,02
+34,2260,"Chocolate Candy Pieces, with Nuts and Fruit",G,02
+34,2261,"Chocolate Candy Pieces, with Nuts or Nut Products (not Coconut)",C,02
+34,2262,"Chocolate Candy Pieces, with Coconut",D,02
+34,2263,"Chocolate Candy Pieces, with Fruit and Fruit Products",E,02
+34,2264,"Chocolate Candy Pieces, without Nuts and Fruit",F,02
+34,2265,Chocolate Dairy Mix,H,02
+34,2266,Imitation Cocoa,J,02
+34,2267,Cocoa Butter (except Chocolate Candy and Chocolate Beverage Base),B,03
+34,2268,"Chocolate Covered Candy Bar, with Nuts and Fruit",G,03
+34,2269,"Chocolate Covered Candy Bar, with Nuts or Nut Products (not Coconut)",C,03
+34,2270,"Chocolate Covered Candy Bar, with Coconut",D,03
+34,2271,"Chocolate Covered Candy Bar, with Fruit and Fruit Products",E,03
+34,2272,"Chocolate Covered Candy Bar, without Nuts and Fruit",F,03
+34,2273,Cocoa Dairy Mix,H,03
+34,2274,Imitation Chocolate Candy,J,03
+34,2275,"Cocoa Nibs, Cracked Cocoa (except Chocolate Candy and Chocolate Beverage Base)",B,04
+34,2276,"Chocolate Covered Candy Pieces, with Nuts and Fruit",G,04
+34,2277,"Chocolate Covered Candy Pieces, with Nuts or Nut Products (not Coconut)",C,04
+34,2278,"Chocolate Covered Candy Pieces, with Coconut",D,04
+34,2279,"Chocolate Covered Candy Pieces, with Fruit and Fruit Products",E,04
+34,2280,"Chocolate Covered Candy Pieces, without Nuts and Fruit",F,04
+34,2281,Imitation Chocolate and Cocoa Beverage Base,J,04
+34,2282,"Chocolate Liquor, Bitter Chocolate, Bitter Chocolate Coatings, Etc. (except Choc. Candy and Choc. Be",B,05
+34,2283,"Chocolate Covered Mints, with Nuts and Fruit",G,05
+34,2284,"Chocolate Covered Mints, with Nuts or Nut Products (not Coconut)",C,05
+34,2285,"Chocolate Covered Mints, with Coconut",D,05
+34,2286,"Chocolate Covered Mints, with Fruit and Fruit Products",E,05
+34,2287,"Chocolate Covered Mints, without Nuts and Fruit",F,05
+34,2288,Chocolate Syrup (except Chocolate Candy and Chocolate Beverage Base),B,06
+34,2289,"Chocolate Marshmallows, with Nuts and Fruit",G,06
+34,2290,"Chocolate Marshmallows, with Nuts or Nut Products (not Coconut)",C,06
+34,2291,"Chocolate Marshmallows, with Coconut",D,06
+34,2292,"Chocolate Marshmallows, with Fruit and Fruit Products",E,06
+34,2293,"Chocolate Marshmallows, without Nuts and Fruit",F,06
+34,2294,Low Fat Cocoa (except Chocolate Candy and Chocolate Beverage Base),B,07
+34,2295,"Mixed or Assorted Chocolate Candies (Bars, Boxes, Loose Form), with Nuts and Fruit",G,07
+34,2296,"Mixed or Assorted Chocolate Candies (Bars, Boxes, Loose Form), with Nuts or Nut Products (not Coconu",C,07
+34,2297,"Mixed or Assorted Chocolate Candies (Bars, Boxes, Loose Form), with Coconut",D,07
+34,2298,"Mixed or Assorted Chocolate Candies (Bars, Boxes, Loose Form), with Fruit and Fruit Products",E,07
+34,2299,"Mixed or Assorted Chocolate Candies (Bars, Boxes, Loose Form), without Nuts and Fruit",F,07
+34,2300,Medium Fat Cocoa (except Chocolate Candy and Chocolate Beverage Base),B,08
+34,2301,"Chocolate Suckers and Novelties, with Nuts and Fruit",G,08
+34,2302,Choc/Choc Cov Candy Nut Prod Sucker/Novelty,C,08
+34,2303,"Chocolate Suckers and Novelties, with Coconut",D,08
+34,2304,"Chocolate Suckers and Novelties, with Fruit and Fruit Products",E,08
+34,2305,"Chocolate Suckers and Novelties, without Nuts and Fruit",F,08
+34,2306,"Milk Chocolate, Sweet Milk Chocolate and Coating (except Chocolate Candy and Chocolate Beverage Base",B,09
+34,2307,"Chocolate Candy, Taffy Type (Chewy Rolls, Etc.), with Nuts and Fruit",G,09
+34,2308,"Chocolate Candy, Taffy Type (Chewy Rolls, Etc.), with Nuts or Nut Products (not Coconut)",C,09
+34,2309,"Chocolate Candy, Taffy Type (Chewy Rolls, Etc.), with Coconut",D,09
+34,2310,"Chocolate Candy, Taffy Type (Chewy Rolls, Etc.), with Fruit and Fruit Products",E,09
+34,2311,"Chocolate Candy, Taffy Type (Chewy Rolls, Etc.), without Nuts and Fruit",F,09
+34,2312,Skim Milk Chocolate and Coating (except Chocolate Candy and Chocolate Beverage Base),B,10
+34,2313,Sweetened Cocoa (except Chocolate Candy and Chocolate Beverage Base),B,11
+34,2314,Sweet Chocolate and Coating (except Chocolate Candy and Chocolate Beverage Base),B,12
+34,2315,Sweet Chocolate and Vegetable Fat Coating (except Chocolate Candy and Chocolate Beverage Base),B,13
+34,2316,Cocoa (except Chocolate Candy and Chocolate Beverage Base),B,14
+34,2317,Cocoa Bean N.E.C.,A,99
+34,2318,"Chocolate and Cocoa, N.E.C.",B,99
+34,2319,"Chocolate and Chocolate Covered Candy, with Nuts and Fruit, N.E.C.",G,99
+34,2320,"Chocolate and Chocolate Covered Candy, with Nuts or Nut Products, N.E.C. (not Coconut)",C,99
+34,2321,"Chocolate and Chocolate Covered Candy, with Coconut, N.E.C.",D,99
+34,2322,"Chocolate and Chocolate Covered Candy, with Fruit and Fruit Products, N.E.C.",E,99
+34,2323,"Chocolate and Chocolate Covered Candy, without Nuts and Fruit, N.E.C.",F,99
+34,2324,"Chocolate and Cocoa Beverage Base, N.E.C.",H,99
+34,2325,"Imitation Chocolate and Cocoa Products, N.E.C.",J,99
+34,2326,"Chocolate and Cocoa Products, N.E.C.",Y,99
+34,154834,Chocolate Chips,K,01
+34,154835,Chocolate Morsels,K,01
+34,154836,White Chocolate Chips,K,02
+34,154837,White Chocolate Morsels,K,02
+34,154838,Flavored Chocolate Chips,K,03
+34,154839,Chocolate Chips With Butterscotch Flavor,K,03
+34,154840,Chocolate Bars,K,04
+34,154841,White Chocolate Bars,K,05
+34,154842,Flavored Chocolate Bars,K,06
+34,154843,Chocolate Chunks,K,07
+34,154844,White Chocolate Chunks,K,08
+34,154845,Liquid Chocolate,K,09
+34,154846,"Chocolate and Cocoa Products For Baking, N.E.C.",K,99

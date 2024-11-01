@@ -1,0 +1,21 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+97,155874,"Nondestructive Tests, Ultrasonic Non-Medical Devices",R,AC
+97,155875,"Gauging, Ultrasonic Non-Medical Devices",R,AD
+97,155876,"Ranging, Ultrasonic Non-Medical Devices",R,AE
+97,155877,"Cleaner, Ultrasonic Non-Medical Devices",R,AF
+97,155878,"Welder, Ultrasonic Non-Medical Devices",R,AG
+97,155879,"Jewelry Cleaner, Ultrasonic Non-Medical Devices",R,AH
+97,155880,Motion Detector/Occupancy Ultrasonic  Non-Medical Devices,R,AI
+97,155881,"Security System, Ultrasonic Non-Medical Devices",R,AJ
+97,155882,"Pest Repeller, Ultrasonic Non-Medical Devices",R,AK
+97,155883,"Massager, Ultrasonic Non-Medical Devices",R,AL
+97,155884,"Humidifier, Ultrasonic Non-Medical Devices",R,AM
+97,155885,"Auto Focus Camera, Ultrasonic Non-Medical Devices",R,AN
+97,155886,"Intrusion Alarm/Security, Ultrasonic Non-Medical Devices",R,AO
+97,155887,"Audio System/Radio, Sonic Non-Medical Products",R,AQ
+97,155888,"Telephone Ringer, Sonic Non-Medical Products",R,AR
+97,155889,Veterinary Diagnostic Ultrasonic Products,R,AS
+97,155890,Veterinary Therapy Ultrasonic Products,R,AT
+97,156076,"Scientific Use Ultrasonic Products, Non-Medical Devices",R,AP
+97,166756,Sound amplification product,R,HO
+97,171538,Ultrasonic cutter,R,IC

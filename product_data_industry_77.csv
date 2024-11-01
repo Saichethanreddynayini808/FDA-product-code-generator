@@ -1,0 +1,270 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+77,19543,"Currette, Biopsy, Bronchoscope (Non-Rigid)",B,ST
+77,19549,"Brush, Biopsy, Bronchoscope (Non-Rigid)",B,TG
+77,19566,"Forceps, Biopsy, Bronchoscope (Non-Rigid)",B,WH
+77,20441,"Balloon, Epistaxis",E,MX
+77,20443,"Catheter, Nasopharyngeal",E,NW
+77,20444,"Telescope, Laryngeal-Bronchial",E,NZ
+77,20445,Nasopharyngoscope (Flexible Or Rigid),E,OB
+77,20446,Bronchoscope (Flexible Or Rigid),E,OQ
+77,20447,Esophagoscope (Flexible Or Rigid),E,OX
+77,20449,"Hearing-Aid, Group And Auditory Trainer",E,PF
+77,20450,"Stimulator, Transdermal",E,PG
+77,20451,"Pump, Nebulizer, Manual",E,PN
+77,20452,"Splint, Nasal",E,PP
+77,20456,"Source, Carrier, Fiberoptic Light",E,QH
+77,20457,Bur,E,QJ
+77,20458,Laryngostroboscope,E,QL
+77,20459,Laryngoscope,E,QN
+77,20460,Otoscope,E,RA
+77,20461,"Drill, Surgical, ENT (Electric or Pneumatic) Including Handpiece",E,RL
+77,20463,"Hearing-Aid, Air-Conduction",E,SD
+77,20464,"Larynx, Artificial (Battery-Powered)",E,SE
+77,20466,"Polymer, Ent Synthetic-Pife, Silicon Elastomer, Polyethylene, Polyurethane",E,SH
+77,20467,"Polymer, Natural-Absorbable Gelatin Material",E,SI
+77,20469,"Tack, Sacculotomy (Cody Tack)",E,SX
+77,20471,"Tube, Shunt, Endolymphatic",E,SZ
+77,20472,"Replacement, Ossicular Prosthesis, Total",E,TA
+77,20473,"Prosthesis, Partial Ossicular Replacement",E,TB
+77,20474,"Mold, Middle-Ear",E,TC
+77,20475,"Tube, Tympanostomy",E,TD
+77,20476,"Unit, Examining/Treatment, Ent",E,TF
+77,20477,"Tube, Toynbee Diagnostic",E,TK
+77,20479,Gustometer,E,TM
+77,20480,"Stimulator, Nerve",E,TN
+77,20481,"Stimulator, Caloric-Water",E,TP
+77,20482,"Adaptor, Short Increment Sensitivity Index (Sisi)",E,TR
+77,20483,"Generator, Electronic Noise (For Audiometric Testing)",E,TS
+77,20484,"Cushion, Earphone (For Audiometric Testing)",E,TT
+77,20485,"Calibrator, Hearing-Aid/Earphone And Analysis Systems",E,TW
+77,20486,"Tester, Auditory Impedance",E,TY
+77,20487,"Set, Audiometer Calibration",E,WA
+77,20488,"Chamber, Acoustic (For Audiometric Testing)",E,WC
+77,20489,"Protector, Hearing (Insert)",E,WD
+77,20490,"Protector, Hearing (Circumaural)",E,WE
+77,20491,"Laser, ENT Microsurgical Carbon-Dioxide",E,WG
+77,20492,"Prosthesis, Laryngeal (Taub)",E,WL
+77,20493,Audiometer,E,WO
+77,20494,"Saw, Surgical, ENT (Electric or Pneumatic)",E,WQ
+77,20495,"Device, Antichoke, Suction",E,WT
+77,20496,"Device, Antichoke, Tongs",E,WW
+77,20497,"Mediastinoscope, ENT",E,WY
+77,20897,"Prosthesis, Larynx (Stents and Keels)",F,WN
+77,22195,"Prosthesis, Facial, Mandibular Implant",J,AZ
+77,22259,"Claw, Foreign Body, Bronchoscope (Non-Rigid)",J,EI
+77,22260,"Tubing, Instrumentation, Bronchoscope (Brush Sheath A/O Aspirating)",J,EJ
+77,22261,"Forceps, Biopsy, Bronchoscope (Rigid)",J,EK
+77,22262,"Curette, Biopsy, Bronchoscope (Rigid)",J,EL
+77,22465,"Polymer, Ent Synthetic, Porous Polyethylene",J,OF
+77,22493,"Pump, Nebulizer, Electrically Powered",J,PW
+77,22601,"Block, Cutting, Ent",J,XS
+77,22602,"Crimper, Wire, Ent",J,XT
+77,22603,"Die, Wire Bending, Ent",J,XW
+77,22604,"Forceps, Wire Closure, Ent",J,XX
+77,22605,"Jig, Piston Cutting, Ent",J,XY
+77,22606,"Punch, Gelfoam",J,XZ
+77,22607,"Scissors, Wire Cutting, Ent",J,YA
+77,22608,"Vise, Ossicular Finger",J,YB
+77,22611,"Chisel, Middle-Ear",J,YE
+77,22612,"Clamp, Ossicle Holding",J,YF
+77,22613,"Curette, Ear",J,YG
+77,22614,"Excavator, Ear",J,YH
+77,22615,"Gauge, Mastoid",J,YI
+77,22616,"Gauge, Measuring",J,YJ
+77,22618,"Hook, Microsurgical Ear",J,YL
+77,22619,"Inserter, Myringotomy Tube",J,YM
+77,22620,"Inserter, Sacculotomy Tack",J,YN
+77,22621,"Knife, Ear",J,YO
+77,22622,"Knife, Myringotomy",J,YP
+77,22623,"Loop, Wire",J,YQ
+77,22624,"Nipper, Malleus",J,YR
+77,22625,"Perforator, Ear-Lobe",J,YS
+77,22626,"Pick, Microsurgical Ear",J,YT
+77,22627,"Press, Vein",J,YW
+77,22628,"Punch, Attic",J,YX
+77,22629,"Rasp, Ear",J,YY
+77,22630,"Rod, Measuring Ear",J,YZ
+77,22631,"Rongeur, Mastoid",J,ZA
+77,22632,"Scissors, Ear",J,ZB
+77,22633,"Searcher, Mastoid",J,ZC
+77,22634,"Snare, Ear",J,ZD
+77,22635,"Spoon, Ear",J,ZE
+77,22636,"Tube, Ear Suction",J,ZF
+77,22648,"Knife, Laryngeal",J,ZY
+77,22649,"Saw, Laryngeal",J,ZZ
+77,22650,"Set, Laryngeal Injection",K,AA
+77,22651,"Trocar, Laryngeal",K,AB
+77,22652,"Tube, Laryngectomy",K,AC
+77,22656,"Microrule, Ent",K,AH
+77,22657,"Mirror, Ent",K,AI
+77,22658,"Mobilizer, Ent",K,AJ
+77,22659,"Probe, Ent",K,AK
+77,22663,"Curette, Ethmoid",K,AO
+77,22664,"Curette, Nasal",K,AP
+77,22666,"Irrigator, Sinus",K,AR
+77,22667,"Knife, Nasal",K,AS
+77,22668,"Perforator, Antrum",K,AT
+77,22669,"Punch, Antrum",K,AW
+77,22670,"Punch, Ethmoid",K,AX
+77,22671,"Punch, Nasal",K,AY
+77,22673,"Rasp, Nasal",K,BA
+77,22674,"Rongeur, Nasal",K,BB
+77,22675,"Saw, Nasal",K,BC
+77,22676,"Scissors, Nasal",K,BD
+77,22677,"Snare, Nasal",K,BE
+77,22678,"Trephine, Sinus",K,BF
+77,22679,"Trocar, Sinus",K,BG
+77,22680,Adenotome,K,BH
+77,22681,"Bougie, Eustachian",K,BI
+77,22682,"Curette, Adenoid",K,BJ
+77,22683,"Curette, Salpingeal",K,BK
+77,22684,"Depressor, Metal Tongue, Ent",K,BL
+77,22686,"Gag, Mouth",K,BN
+77,22687,"Guillotine, Tonsil",K,BO
+77,22688,"Hook, Tonsil Suturing",K,BP
+77,22689,"Knife, Tonsil",K,BQ
+77,22691,"Punch, Adenoid",K,BS
+77,22692,"Punch, Tonsil",K,BT
+77,22693,"Screw, Oral",K,BW
+77,22694,"Screw, Tonsil",K,BX
+77,22695,"Set, Filliform, Eustachian",K,BY
+77,22696,"Snare, Tonsil",K,BZ
+77,22697,Tonsillectome,K,CA
+77,22698,"Tube, Tonsil Suction",K,CB
+77,22699,"Bistoury, Tracheal",K,CC
+77,22700,"Bougie, Esophageal, Ent",K,CD
+77,22702,"Dilator, Esophageal, Ent",K,CF
+77,22703,"Dilator, Tracheal",K,CG
+77,22704,"Hook, Tracheal",K,CH
+77,22705,"Trocar, Tracheal",K,CI
+77,22706,"Applicator, Ent",K,CJ
+77,22707,"Blower, Powder, Ent",K,CL
+77,22708,"Dropper, Ent",K,CM
+77,22709,Ear Wick,K,CN
+77,22710,"Inhaler, Nasal",K,CO
+77,22711,"Syringe, Ent",K,CP
+77,22796,"Stimulator, Caloric-Air",K,HH
+77,22797,"Polymer, Ent Synthetic-Polyamide (Mesh Or Foil Material)",K,HJ
+77,22799,"Hearing-Aid, Master",K,HL
+77,22895,"Masker, Tinnitis",K,LW
+77,22896,Electroglottograph,K,LX
+77,22897,"Tube, Shunt, Endolymphatic with Valve",K,LZ
+77,22898,"Irrigator, Powered Nasal",K,MA
+77,22988,"Tube, Tympanostomy with Semi-Permeable Membrane",K,QL
+77,23046,"Trocar, Ent",K,TE
+77,23047,"Punch, Ent",K,TF
+77,23048,"Knife, Ent",K,TG
+77,23049,"Device, Anti-Stammering",K,TH
+77,23050,Bronchoscope Accessory,K,TI
+77,23059,"Tube, Aspirating, Bronchoscope, Rigid",K,TR
+77,23188,"Tube, Tympanostomy, Porous Polyethylene",L,BL
+77,23189,Porous Polyethylene Ossicular Replacement,L,BM
+77,23190,"Replacement, Total Ossicular, Prosthesis, Porous, Polyethylene",L,BN
+77,23191,"Replacement, Ossicular (Stapes) Using Absorbable Gelatin Material",L,BP
+77,23227,"Kit, Earmold, Impression",L,DG
+77,23266,"Aids, Speech Training For The Hearing Impaired (AC-Powered and Patient-Contact)",L,EZ
+77,23267,"Aids, Speech Training for the Hearing Impaired (Battery-Operated or Non-Patient)",L,FA
+77,23268,"Button, Nasal Septal",L,FB
+77,23451,"Laser, Microsurgical Argon, For Uses Other Than Otology, Incl Laryngology & Gen Use in Otolarnogolog",L,MS
+77,23550,"Hearing Aid, Tactile",L,RA
+77,23551,Face Plate Hearing-Aid,L,RB
+77,23552,"Instrument, ENT Manual Surgical",L,RC
+77,23553,"Applicator, ENT Drug",L,RD
+77,23554,"Instrument, Prosthesis Modification for Ossicular Replacement Surgery",L,RE
+77,23627,"Dialator, Nasal",L,WF
+77,23630,"Ultrasound, sinus",L,WI
+77,23647,"Hearing-Aid, Bone-Conduction",L,XB
+77,23673,"Laser, Microsurgical Argon, For Use in Otology",L,XR
+77,23677,"Apparatus, Vestibular Analysis",L,XV
+77,23682,"Splint, Intranasal Septal",L,YA
+77,23695,"Apparatus, Visual Reinforcement Audiometric",L,YN
+77,23715,"Device, Assistive Listening",L,ZI
+77,23756,"Hearing-Aid, Bone-Conduction, Implanted",M,AH
+77,24860,"Forceps, Ent",K,AE
+77,24861,"Retractor, Ent",K,AL
+77,24862,"Gouge, Nasal, Ent",K,AQ
+77,24863,"Rasp, Frontal-Sinus",K,AZ
+77,24865,"Dissector, Tonsil",K,BM
+77,24866,"Needle, Tonsil Suturing",K,BR
+77,24867,"Device, Voice Amplification",M,CK
+77,24868,"Implant, Cochlear",M,CM
+77,24871,"Implant, Auditory Brainstem",M,HE
+77,24872,"System, Vocal Cord Medialization",M,IX
+77,25249,"Elevator, ENT",K,AD
+77,25250,Tracheotome,L,JW
+77,25251,"Device, Inflation, Middle Ear",M,JV
+77,25258,"Tray, Surgical, ENT",M,MO
+77,25260,"Hearing Aid, Direct Drive, Partially Implanted",M,PV
+77,150646,Tympanometer,N,AS
+77,152183,"Transilluminator, Fiber Optic",M,QW
+77,152184,"System, Imaging, Fluorescence",M,RK
+77,152188,"Bone, Particle Collector",M,XP
+77,152189,"Pillow, Cervical (For Mild Sleep Apnea)",M,YB
+77,152190,"Cement, Ear, Nose and Throat",N,EA
+77,153200,"Polymer, Ear, Nose and Throat, Synthetic, Absorbable",N,HB
+77,153203,"Hearing Aid, Air Conduction, Transcutaneous System",N,IX
+77,153879,"Kit, Test, Olfactory",N,RK
+77,155020,"Trocar, Tracheal, Laryngeal, Sinus, Reprocessed",N,LB
+77,155021,"Forceps, Biopsy, Bronchoscope (Non-Rigid), Reprocessed",N,LE
+77,155022,"Microdebrider, Ent, High Speed, Single Use, Reprocessed",N,LY
+77,155023,"BUR. ENT DIAMOND COATED, SINGLE USE, REPROCESSED",N,LZ
+77,155024,"Gustometer, Non-Sterile",N,NJ
+77,155025,"Crimper, Wire, Ent. Non-Sterile",N,NN
+77,155026,"Jig, Piston Cutting, Ent, Non-Sterile",N,NO
+77,155027,"Die, Wire Bending, Ent, Non-Sterile",N,NP
+77,155028,"Forceps, Wire Closure, Ent, Non-Sterile",N,NQ
+77,155029,"Block, Cutting, Ent. Non-Sterile",N,NR
+77,155030,"Instrument, Prosthesis Modification for Ossicular Replacement Surgery, Non-Sterile",N,NS
+77,155031,"Punch, Gelfoam, Non-Sterile",N,NT
+77,155032,"Scissors, Wire Cutting, Ent, Non-Sterile",N,NU
+77,155033,"Vise, Ossicular Finger, Non-Sterile",N,NV
+77,155395,"Cream, nasal, topical, mechanical allergen particle barrier",N,UP
+77,157674,"Aid, visual, for nausea",O,AA
+77,157755,"Implant, hearing, active, middle ear, totally implanted",O,AF
+77,157874,"Electronic media, hyperacusis",O,AQ
+77,164339,Ear irrigation kit,O,GQ
+77,164340,"Ear, nose, and throat surgical tray",O,GR
+77,164341,Myringotomy procedure kit,O,GS
+77,164342,Oral irrigation kit,O,GT
+77,164343,Pierced ear/entry cleaning tray,O,GU
+77,164344,Tracheostomy cleaning tray,O,GV
+77,164345,Tracheostomy kit,O,GW
+77,164346,Cricothyrotomy kit,O,GP
+77,166877,septal stapler/absorbable staples,O,LL
+77,169789,Drug-eluting sinus stent,O,WO
+77,171573,"HEARING AID, AIR CONDUCTION WITH WIRELESS TECHNOLOGY",O,SM
+77,173051,"Ear, Nose, and Throat Stereotaxic Instrument",P,GW
+77,173088,Hybrid cochlear implant,P,GQ
+77,173606,External upper esophageal sphincter (UES) compression device,P,KA
+77,173799,Tympanic membrane direct contact hearing aid,P,LK
+77,174530,Eustachian tube balloon dilation device,P,NZ
+77,174635,Ultrasound bronchoscope,P,SV
+77,174733,"Tympanometer, exempt",P,TP
+77,174734,"Tester, auditory impedance, exempt",P,TO
+77,175083,Self-fitting air-conduction hearing aid,Q,DD
+77,175314,Active implantable bone conduction hearing system,P,FO
+77,175478,"Balloon, nasal airway",Q,GK
+77,175768,Tympanostomy tube delivery product with drug,Q,JA
+77,175771,"Device system, imaging, tympanic membrane and middle ear",Q,JG
+77,175796,"Splint, intranasal septal, CBER led",Q,JL
+77,175999,Field generator positioning device,Q,LV
+77,176050,Reprocessed Bronchoscope,Q,NW
+77,176065,Transcutaneous electrical nerve stimulator for the relief of congestion,Q,NU
+77,176113,Ventilator tubing and accessories,Q,OO
+77,176114,Respiratory humidifier for emergency use,Q,OP
+77,176115,Non-continuous ventilator for emergency use,Q,OQ
+77,176116,"Continuous ventilator, minimal ventilatory support",Q,OR
+77,176117,Continuous ventilator,Q,OS
+77,176118,Emergency ventilator,Q,OT
+77,176120,Critical care ventilator,Q,OV
+77,176121,Ventilatory assistance helmet,Q,OW
+77,176122,Multi-patient circuit connector,Q,OX
+77,176142,Image management software for planning of otologic and neurotologic procedures,Q,QE
+77,176185,Powered insertion system for a cochlear implant electrode array,Q,QH
+77,176737,Oropharyngeal electrical stimulator,Q,QG
+77,176747,"Hearing Aid, Air-Conduction, Over the Counter",Q,UF
+77,176748,"Hearing Aid, Air-Conduction with Wireless Technology, Over the Counter",Q,UG
+77,176749,"Self-fitting Air-Conduction Hearing Aid, Over the Counter",Q,UH
+77,176797,Combined acoustic and electrical external stimulation device for the relief of tinnitus,Q,VN
+77,177019,Cooperative powered surgical assist device for ENT surgery,Q,XG
+77,177092,External mechanical stimulator for the relief of congestion,Q,ZC

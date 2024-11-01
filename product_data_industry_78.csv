@@ -1,0 +1,602 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+78,19542,"Tube, Nasogastric",B,SS
+78,20498,"Selector, Size, Ostomy",E,XA
+78,20499,"Collector, Ostomy",E,XB
+78,20500,"Irrigator, Ostomy",E,XD
+78,20501,"Protector, Ostomy",E,XE
+78,20502,"Bag, Bile Collecting",E,XF
+78,20503,"Bag, Urine Collecting, Ureterostomy",E,XG
+78,20504,"Bag, Urinary, Ileostomy",E,XH
+78,20505,"Device, Paste-On for Incontinence",E,XI
+78,20506,"Device, Incontinence, Urosheath Type",E,XJ
+78,20508,"Support, Hernia",E,XN
+78,20509,"Cystometer, Electrical Recording",E,XQ
+78,20510,"Urinometer, Mechanical",E,XR
+78,20511,"Urinometer, Electrical",E,XS
+78,20513,"Pill, Radio",E,XW
+78,20514,"Probe, Rectal, Non-Powered",E,XX
+78,20515,Uroflowmeter,E,XY
+78,20516,"Equipment, Photographic, For Physiologic Function Monitor",E,XZ
+78,20517,"Stylet, Ureteral",E,YA
+78,20518,"Catheter, Ureteral, Gastro-Urology",E,YB
+78,20519,"Catheter, Upper Urinary Tract",E,YC
+78,20520,Stirrups,E,YD
+78,20522,"Table, Cysto, Non-Electrical",E,YH
+78,20523,"Adaptor, Ureteral Catheter",E,YI
+78,20524,"Holder, Ureteral Catheter",E,YJ
+78,20525,"Connector, Ureteral Catheter",E,YK
+78,20527,"Garment, Protective, For Incontinence",E,YQ
+78,20528,Ribdam,E,YS
+78,20529,"Sheath, Corrugated Rubber, For Nonindwelling Catheter",E,YT
+78,20530,"System, Urine Drainage, Closed, For Nonindwelling Catheter",E,YZ
+78,20531,"Stylet For Catheter, Gastro-Urology",E,ZB
+78,20532,"Catheter, Coude",E,ZC
+78,20533,"Catheter, Straight",E,ZD
+78,20534,"Catheter, Retention Type",E,ZK
+78,20535,"Catheter, Retention Type, Balloon",E,ZL
+78,20536,"Dilator, Esophageal (Metal Olive) Gastro-Urology",E,ZM
+78,20537,"Dilator, Catheter, Ureteral",E,ZN
+78,20538,Urethrotome,E,ZO
+78,20539,"Rod, Colostomy",E,ZP
+78,20540,"Pouch, Colostomy",E,ZQ
+78,20541,"Cement, Stomal Appliance, Ostomy",E,ZR
+78,20542,"Appliance, Colostomy, Disposable",E,ZS
+78,20543,"Stimulator, Electrical, For Incontinence",E,ZW
+78,20545,"Device, Incontinence, Mechanical/Hydraulic",E,ZY
+78,20546,"Prosthesis, Vas Deferans",E,ZZ
+78,20547,"Replacer, Urethral",F,AA
+78,20548,"Replacer, Ureteral",F,AB
+78,20549,"Valve, Ureterovesicle",F,AC
+78,20550,"Stent, Ureteral",F,AD
+78,20551,"Prosthesis, Penile",F,AE
+78,20552,"Prosthesis, Testicular",F,AF
+78,20553,"Prosthesis, Urethral Sphincter",F,AG
+78,20554,"Dilator, Urethral, Mechanical",F,AH
+78,20555,"Cystoscope, Diagnostic",F,AJ
+78,20556,Panendoscope (Gastroduodenoscope),F,AK
+78,20557,Panendoscope (Urethroscope),F,AL
+78,20558,"Sigmoidoscope, Flexible",F,AM
+78,20559,"Sigmoidoscope, Rigid, Electrical",F,AN
+78,20560,"Device, Cystometric, Air",F,AO
+78,20561,Cystometric Gas (Carbon-Dioxide) On Hydraulic Device,F,AP
+78,20562,"Bag, Urine Collection, Leg, For External Use",F,AQ
+78,20563,"Unit, Electrosurgical",F,AR
+78,20564,"Electrode, Electrosurgical, Active, Urological",F,AS
+78,20565,"Bougie, Esophageal, And Gastrointestinal, Gastro-Urology",F,AT
+78,20566,"Bougie, Urological",F,AX
+78,20568,"Rongeur, Cystoscopic",F,BI
+78,20569,"Cord, Electric For Transurethral Surgical Instrument",F,BJ
+78,20570,"Needle, Endoscopic",F,BK
+78,20571,"Cannula And Trocar, Suprapubic, Non-Disposable",F,BM
+78,20572,"Choledochoscope, Flexible Or Rigid",F,BN
+78,20573,Cystourethroscope,F,BO
+78,20574,"Telescope, Rigid, Endoscopic",F,BP
+78,20576,Urethrometer,F,BR
+78,20577,"Sound, Metal, Interconnected",F,BS
+78,20578,Filiform And Filiform Follower,F,BW
+78,20579,"Sound, Urethral, Metal Or Plastic",F,BX
+78,20580,"Cooler, Esophageal And Gastric",F,BY
+78,20581,"Cooler, Prostatic",F,BZ
+78,20582,"Bag, Hemostatic",F,CB
+78,20583,endscopic magnetic retriever,F,CC
+78,20585,"Kit, Enema, (For Cleaning Purpose)",F,CE
+78,20586,"Instrument, Biopsy, Mechanical, Gastrointestinal",F,CF
+78,20587,"Set, Biopsy Needle And Needle, Gastro-Urology",F,CG
+78,20588,"Tray, Biopsy, Without Biopsy Instruments",F,CH
+78,20589,"Punch, Biopsy",F,CI
+78,20590,"Instrument, Biopsy, Suction",F,CK
+78,20591,"Forceps, Biopsy, Non-Electric",F,CL
+78,20592,"Tray, Catheterization, Sterile Urethral, With Or Without Catheter",F,CM
+78,20593,"Kit, Urinary Drainage Collection, For Indwelling Catheter",F,CN
+78,20594,"Box, Battery, Rechargeable",F,CO
+78,20595,"Box, Battery, Pocket",F,CP
+78,20596,"Light Source, Incondescent, Diagnostic",F,CQ
+78,20597,"Light Source, Photographic, Fiberoptic",F,CR
+78,20598,"Light, Catheter, Fiberoptic, Glass, Ureteral",F,CS
+78,20600,"Light Source, Fiberoptic, Routine",F,CW
+78,20601,"Insufflator, Automatic Carbon-Dioxide For Endoscope",F,CX
+78,20602,"Bulb, Inflation, For Endoscope",F,CY
+78,20603,"Tube, Smoke Removal, Endoscopic",F,CZ
+78,20604,Enteroscope,F,DA
+78,20605,"Plate, Patient",F,DB
+78,20606,"Resectoscope, Working Element",F,DC
+78,20607,"Set, Laparoscopy",F,DE
+78,20608,"Colonoscope, Gastro-Urology",F,DF
+78,20609,"Retractor, Fiberoptic",F,DG
+78,20610,"Snare, Flexible",F,DI
+78,20611,"Snare, Rigid Self-Opening",F,DJ
+78,20612,"Wristlet, Patient Return",F,DL
+78,20614,Sphyncteroscope,F,DR
+78,20615,"Gastroscope, Gastro-Urology",F,DS
+78,20616,"Duodedoscope, Esophago Gastro",F,DT
+78,20617,"Esophagoscope, Rigid, Gastro-Urology",F,DW
+78,20618,"Brush, Cytology, For Endoscope",F,DX
+78,20619,"Device, Measuring, For Panendoscope",F,DY
+78,20620,"Attachment, Eyepiece, For Insertion Of Prescription Lens",F,DZ
+78,20621,"Attachment, Teaching, For Endoscope",F,EA
+78,20623,"Obturator, For Endoscope",F,EC
+78,20624,"Sheath, For Endoscope",F,ED
+78,20625,"Tube, Single Lumen, W Mercury Wt Balloon For Intes. Intub. &/Or Decompression",F,EF
+78,20626,"Tube, Double Lumen For Intestinal Decompression And/Or Intubation",F,EG
+78,20627,"Electrode, Flexible Suction Coagulator",F,EH
+78,20628,"Instrument, Special Lens, For Endoscope",F,EI
+78,20629,"Attachment, Binocular, For Endoscope",F,EJ
+78,20630,"Accessories, Photographic, For Endoscope (Exclude Light Sources)",F,EM
+78,20631,"Device, Cystometric, Hydraulic",F,EN
+78,20632,"Lithotriptor, Ultrasonic",F,EO
+78,20633,"Pump, Air, Non-Manual, For Endoscope",F,EQ
+78,20634,"Anoscope, Non-Powered",F,ER
+78,20635,"Recorder, External, Pressure, Amplifier & Transducer",F,ES
+78,20636,"Tape, Television & Video, Closed-Circuit, Used During Endoscopic Procedure",F,ET
+78,20637,"Catheter, Malecot",F,EW
+78,20638,"Instrument, Catheter, Punch",F,EX
+78,20639,"Catheter And Tube, Suprapubic",F,EZ
+78,20640,"Tube, Drainage, Suprapubic",F,FA
+78,20641,"Evacuator, Bladder, Manually Operated",F,FD
+78,20642,"System, Water Jet Catheter, Renal",F,FE
+78,20643,"Cover, Biopsy Forceps",F,FF
+78,20644,"Device, Urine Flow Rate Measuring, Non-Electrical, Disposable",F,FG
+78,20645,"Collector, Urine, Pediatric, For Indwelling Catheter",F,FH
+78,20646,"System, Alarm, Electrosurgical",F,FI
+78,20647,"Lithotriptor, Electro-Hydraulic",F,FK
+78,20648,"Dislodger, Stone, Basket, Ureteral, Metal",F,FL
+78,20649,"Clamp, Non-Electrical",F,FN
+78,20650,"Retractor, Self-Retaining",F,FO
+78,20651,"Dilator, Rectal",F,FP
+78,20652,"Speculum, Rectal",F,FQ
+78,20653,"Device, Locking, For Intestinal Clamp",F,FR
+78,20654,"Illuminator, Fiberoptic, For Endoscope",F,FS
+78,20655,"Electrode, Ph, Stomach",F,FT
+78,20656,"String And Tubes, Gastrointestinal, To Locate Internal Bleeding",F,FW
+78,20657,"System, Gastrointestinal Motility (Electrical)",F,FX
+78,20658,"Adaptor, Bulbs, Miscellaneous, For Endoscope",F,FY
+78,20659,"Cord, Electric, For Endoscope",F,FZ
+78,20660,"Set, Nephroscope",F,GA
+78,20661,Ureteroscope,F,GB
+78,20662,Urethroscope,F,GC
+78,20663,"Catheter, Retention, Barium Enema With Bag",F,GD
+78,20664,"Stents, drains and dilators for the biliary ducts",F,GE
+78,20665,"Catheter, Ureteral Disposable (X-Ray)",F,GF
+78,20666,"Catheter, Double Lumen Female Urethrographic",F,GH
+78,20667,"Catheter, Urethrographic, Male",F,GI
+78,20668,"Tripsor, Stone, Bladder",F,GK
+78,20669,"Probe And Director, Gastro-Urology",F,GM
+78,20670,"Retractor, Non-Self-Retaining",F,GN
+78,20671,"Dislodger, Stone, Flexible",F,GO
+78,20672,"Carrier, Sponge, Endoscopic",F,GS
+78,20673,"Clamp, Electrical",F,GW
+78,20674,"Snare, Non-Electrical",F,GX
+78,20676,"Clamp, Penile",F,HA
+78,20677,"Hook, Gastro-Urology",F,HB
+78,20678,"Adaptor To The Cord, For Transurethral Surgical Instrument",F,HC
+78,20679,"System, Evacuator, Fluid",F,HF
+78,20681,"Crusher, Spur, Colostomy",F,HH
+78,20682,"Ring, Laparotomy",F,HI
+78,20684,"Spreader, Bladder Neck",F,HK
+78,20685,Scoop,F,HL
+78,20687,"Ligator, Hemorrhoidal",F,HN
+78,20688,"Needle, Pneumoperitoneum, Spring Loaded",F,HO
+78,20689,"Needle, Pneumoperitoneum, Simple",F,HP
+78,20690,"Holder, Needle",F,HQ
+78,20692,"Dialyzer, Single Coil",F,HS
+78,20693,"Set, Gavage, Infant, Sterile",F,HT
+78,20694,"Device, Impotence, Mechanical/Hydraulic",F,HW
+78,20695,"Jelly, Lubricating, For Transurethral Surgical Instrument",F,HX
+78,20696,"Jelly, Contact, For Transurethral Surgical Instrument",F,HY
+78,20697,"Desiccator, Transurethral",F,HZ
+78,20698,"Chair, Dialysis, Unpowered, Without Scales",F,IA
+78,20699,"Protector, Transducer, Dialysis",F,IB
+78,20700,"Tubing, Dialysate",F,ID
+78,20701,"Needle, Fistula",F,IE
+78,20702,"Set, Dialysis, Single Needle With Uni-Directional Pump",F,IF
+78,20703,"Clamp, Tubing, Blood, Automatic",F,IG
+78,20704,"Pump, Infusion Or Syringe, Extra-Luminal",F,IH
+78,20705,"System, Dialysate Delivery, Sealed",F,II
+78,20707,"System, Dialysate Delivery, Recirculating",F,IK
+78,20708,"System, Dialysate Delivery, Single Pass",F,IL
+78,20709,"Tank, Holding, Dialysis",F,IN
+78,20710,"Subsystem, Water Purification",F,IP
+78,20711,"Cannula, a-v shunt",F,IQ
+78,20712,"Pump, Blood, Extra-Luminal",F,IR
+78,20713,"Flowmeter, Dialysate",F,IS
+78,20714,"Alarm, Pillow Pressure",F,IW
+78,20715,"Meter, Conductivity, Non-Remote",F,IZ
+78,20716,"Manometer, Water",F,JA
+78,20717,"Detector, Dialysate Level",F,JB
+78,20718,"Detector, Blood Level",F,JC
+78,20719,"Detector, Leak, Blood",F,JD
+78,20720,"Detector, Air Bubble",F,JF
+78,20721,"Dialyzer, Parallel Flow",F,JG
+78,20722,"Dialyzer, Disposable",F,JH
+78,20723,"Dialyzer, Capillary, Hollow Fiber",F,JI
+78,20724,"Dialyzer, Twin Coil",F,JJ
+78,20725,"Set, Tubing, Blood, With And Without Anti-Regurgitation Valve",F,JK
+78,20726,Resectoscope,F,JL
+78,20727,"Guard, Shunt",F,JM
+78,20728,"Stabilizer, Shunt",F,JN
+78,20729,"Plier, Tube",F,JO
+78,20730,"Adaptor, Y",F,JP
+78,20731,"Connector, Shunt",F,JQ
+78,20732,"Forceps, Disconnect",F,JR
+78,20733,"Catheter, Peritoneal, Long-Term Indwelling",F,JS
+78,20734,"Intracatheter, Dialysis",F,JT
+78,20735,"Ring, Joint",F,JW
+78,20736,"Ring, Crimp",F,JX
+78,20737,"Plier, Crimp",F,JY
+78,20738,"Tray, Declotting (Including Contents)",F,JZ
+78,20739,"Dilator, Vessel",F,KA
+78,20740,"Connector, Blood Tubing, Infusion (T)",F,KB
+78,20741,"Clamp, Cannula",F,KC
+78,20742,"Canister, Coil",F,KD
+78,20743,"Tie, Dialysis",F,KE
+78,20744,"Gun, Tie, Dialysis",F,KF
+78,20745,"Tray, Start/Stop (Including Contents), Dialysis",F,KG
+78,20746,"Solution-Test Standard-Conductivity, Dialysis",F,KH
+78,20747,"Set, Dialyzer Holder",F,KI
+78,20748,"Filter, Blood, Dialysis",F,KJ
+78,20749,"Clamp, Line",F,KK
+78,20750,"Insert, Pump, Blood",F,KL
+78,20751,"Adaptor, Fistula",F,KM
+78,20752,"Adaptor, Shunt",F,KN
+78,20753,"Catheter, Peritoneal Dialysis, Single Use",F,KO
+78,20754,"System, Dialysate Delivery, Single Patient",F,KP
+78,20755,"System, Dialysate Delivery, Central Multiple Patient",F,KQ
+78,20756,"Subsystem, Proportioning",F,KR
+78,20758,"System, Dialysate Delivery, Sorbent Regenerated",F,KT
+78,20759,"Tip, Vessel",F,KW
+78,20760,"System, Peritoneal, Automatic Delivery",F,KX
+78,20761,"Connector, Tubing, Dialysate",F,KY
+78,20762,"Monitor, Temperature, Dialysis",F,LA
+78,20763,"Meter, Conductivity, Induction, Remote Type",F,LB
+78,20764,"Station, Dialysis Control, Negative Pressure Type",F,LC
+78,20765,"Apparatus, Hemoperfusion, Sorbent",F,LD
+78,20806,"Bag, Urine Collection, Newborn",F,OC
+78,20811,"Bag, Drainage, With Adhesive, Ostomy",F,ON
+78,20818,"Tube, Feeding",F,PD
+78,20847,"Tube, Levine",F,RQ
+78,20873,"Lamp, Endoscope, Incandescent",F,TI
+78,20874,"Colonoscope, General & Plastic Surgery",F,TJ
+78,20975,"Catheter, Ureteral, General & Plastic Surgery",G,BL
+78,20976,"Catheter, Urethral",G,BM
+78,20982,"Catheter, Rectal",G,BT
+78,20987,Biliary Catheter for stone removal that may also allow for irrigation and contrast injection,G,CA
+78,20992,Proctoscope,G,CF
+78,20997,"Gastroscope, General & Plastic Surgery",G,CK
+78,20998,"Esophagoscope, General & Plastic Surgery",G,CL
+78,20999,"Endoscope, Rigid",G,CM
+78,21000,"Endoscope, Prism",G,CN
+78,21001,"Endoscope, Mirror",G,CO
+78,21002,"Endoscope, Ac-Powered And Accessories",G,CP
+78,21003,"Endoscope, Flexible",G,CQ
+78,21005,"Endoscope, Battery-Powered And Accessories",G,CS
+78,21006,"Light Source, Endoscope, Xenon Arc",G,CT
+78,21007,"Transformer, Endoscope",G,CW
+78,21011,"Endoscope, Fiber Optic",G,DB
+78,21023,"Bag, Stomal",G,DS
+78,22723,"Catheter (Gastric, Colonic, Etc.), Irrigation And Aspiration",K,DH
+78,22724,"Dialyzer, High Permeability With Or Without Sealed Dialysate System",K,DI
+78,22725,"Set, Administration, For Peritoneal Dialysis, Disposable",K,DJ
+78,22726,"Container, Transport, Kidney",K,DK
+78,22727,"Set, Perfusion, Kidney, Disposable",K,DL
+78,22728,"Sigmoidoscope, Rigid, Non-Electrical",K,DM
+78,22729,"System, Perfusion, Kidney",K,DN
+78,22730,"Rongeur, Cystoscopic, Hot",K,DO
+78,22772,"Tube, Gastro-Enterostomy",K,GC
+78,22773,Scissors For Cystoscope,K,GD
+78,22774,"Forceps, Biopsy, Electric",K,GE
+78,22880,"Monitor, Esophageal Motility, And Tube",K,LA
+78,22928,"Dilator, Esophageal",K,NQ
+78,22929,"Adapter, A-V Shunt Or Fistula",K,NR
+78,22930,"Unit, Electrosurgical, Endoscopic (With or Without Accessories)",K,NS
+78,22931,"Tubes, Gastrointestinal (And Accessories)",K,NT
+78,22932,"Instrument, Biopsy",K,NW
+78,22933,"Collector, Urine, (And Accessories) For Indwelling Catheter",K,NX
+78,22934,"Accessories, Catheter, G-U",K,NY
+78,22935,"Accessories, A-V Shunt",K,NZ
+78,22936,"Surgical Instruments, G-U, Manual (And Accessories)",K,OA
+78,22937,"Catheter, Suprapubic (And Accessories)",K,OB
+78,22938,"Accessories, Blood Circuit, Hemodialysis",K,OC
+78,22939,"Catheter, Urological",K,OD
+78,22940,"Dilator, Urethral",K,OE
+78,22961,"System, Dialysate Delivery, Semi-Automatic, Peritoneal",K,PF
+78,22963,"Catheter, Rectal for Continent Ileostomy",K,PH
+78,22964,"Stimulator, Electrical for Incontinence (Non-Implantable)",K,PI
+78,22967,"System, Irrigation, Colonic",K,PL
+78,22968,"Shunt, Peritoneal",K,PM
+78,22969,"Alarm, Conditioned Response Enuresis",K,PN
+78,22970,Dialysate Concentrate For Hemodialysis (Liquid Or Powder),K,PO
+78,22971,Peritoneal Dialysate Filter,K,PP
+78,22993,"Tubing, Dialysate (And Connector)",K,QQ
+78,22994,"Detector, Air Or Foam",K,QR
+78,22995,"Table, Cystometric, Non-Electric And Accessories",K,QS
+78,22996,"Evacuator, Gastro-Urology",K,QT
+78,23098,"System Accessories, Extracorporeal",K,XM
+78,23195,"Set, Dialysis, Single Needle (Co-Axial Flow)",L,BW
+78,23203,Intestinal Splinting Tubes,L,CG
+78,23252,"Implant, Anti-Gastroesophageal Reflux",L,EI
+78,23276,"Catheter, Subclavian",L,FJ
+78,23277,"Catheter, Femoral",L,FK
+78,23343,Dialyzer Reprocessing System,L,IF
+78,23349,"Monitor, Penile Tumescence",L,IL
+78,23366,"Catheter, Nephrostomy",L,JE
+78,23369,"System, Irrigation, Urological",L,JH
+78,23398,"Automated Blood Cell And Plasma Separator For Therapeutic Purposes, Centrifuge",L,KN
+78,23406,Thermal Device For Hemorrhoids,L,KX
+78,23407,"Device, External Penile Rigidity",L,KY
+78,23410,"System, Blood, Extracorporeal and Accessories",L,LB
+78,23467,Laser For Gastro-Urology Use,L,NK
+78,23468,"Stimulator, Electrical for Sperm Collection",L,NL
+78,23469,"Agent, Bulking, Injectable for Gastro-Urology Use",L,NM
+78,23473,"Stimulator, Intestinal",L,NQ
+78,23474,"System, Photopheresis, Extracorporeal",L,NR
+78,23475,"Lithotriptor, Extracorporeal Shock-Wave",L,NS
+78,23481,"Device, Testicular Hypothermia",L,OA
+78,23528,"Lithotriptor, Biliary Mechanical",L,QC
+78,23542,"Columns, Immunoadsorption in Extracorporeal Systems",L,QQ
+78,23543,"Dislodger, Stone, Biliary",L,QR
+78,23544,"Spermatocele, Alloplastic",L,QS
+78,23558,Ph Meter For Dialysis Hydrogen Ion Concentration,L,RI
+78,23561,"Cushion, Hemorrhoid",L,RL
+78,23606,"Implant, Intragastric for Morbid Obesity",L,TI
+78,23721,"Pacemaker, Bladder",E,ZT
+78,23722,"Prosthesis, Penis, Inflatable",J,CW
+78,23723,"Prosthesis, Penis, Rigid Rod",F,TQ
+78,23724,"Prosthesis, Testicle",F,TO
+78,24873,"Column, Adsorption, Low Density, Lipoprotein",L,XW
+78,24875,"Separator For Therapeutic Purposes, Membrane Automated Blood Cell/Plasma",M,DP
+78,24877,"System, Hyperthermia, Rf/Microwave (Benign Prostatic Hyperplasia)",M,EQ
+78,24878,"Stent, Urethral, Prostatic, Permanent Or Semi-Permanent",M,ER
+78,24879,"Stent, Urethral, Bulbous, Permanent Or Semi-Permanent",M,ES
+78,24884,"Device, Ultrasonic, Thermal Ablation",M,IK
+78,24885,"Device, Fecal Incontinence, Implanted",M,IP
+78,25261,"Catheter, Urological (Antimicrobial) and Accessories",M,JC
+78,25264,"Warmer, Peritoneal Dialysate",M,LW
+78,25266,"Lipoprotein, Low Density, Removal",M,MY
+78,25267,"Table, Cystometric, Electric",M,MZ
+78,25268,"Ligator, Esophageal",M,ND
+78,25269,"Device, Urethral Occlusion, For Incontinence",M,NG
+78,25270,"Accessories, Bite Blocks, for Endoscope",M,NK
+78,25271,"Accessories, Cleaning Brushes, for Endoscope",M,NL
+78,25272,"Strip, Dialysate Ph Indicator",M,NV
+78,25274,"Analyzer, Diagnostic, Fiber Optic (Colon)",M,OA
+78,25275,"System, Hemodialysis, Remote Accessories",M,ON
+78,25276,Hemodialysis Catheter,M,PB
+78,150579,"Stimulator, Peripheral Nerve, Non-Implanted, For Pelvic Floor Dysfunction",N,AM
+78,150631,"Marker, Colon",N,BG
+78,150632,"Stimulator, Bladder",N,AZ
+78,151582,"Lithotripter, Shockwave (for Treating Gallbladder Stones)",N,CV
+78,151723,"Media, Culture, Ex Vivo, Tissue and Cell",N,DS
+78,151923,"System, Cryosurgical, Liquid Nitrogen for Gastroenterology",N,EJ
+78,152191,"Stent, Colonic, Metalic, Expandable",M,QR
+78,152192,"System, Hemodialysis, Access Recirculation Monitoring",M,QS
+78,152193,"Solution, Sodium Hyaluronate",M,RE
+78,152194,"System & Accessories, Isolated Heart, Transport & Preservation",M,SB
+78,152195,"Catheter, Hemodialysis, Implanted",M,SD
+78,152196,"Hemodialyzer, Re-Use, Low Flux",M,SE
+78,152197,"Hemodialyzer, Re-Use, High Flux",M,SF
+78,152198,"Strip, Test, Reagent, Residuals for Dialysate, Disinfectant",M,SY
+78,152199,"Strip, Test, Reagent, Residuals for Dialysate",M,SZ
+78,152200,"Probe, Heating, Tissue, Laparoscope",M,UK
+78,152201,"Stent, Metallic, Expandable, Duodenal",M,UM
+78,152203,"Stent, Urethral, External Sphincter, Permanent",M,XQ
+78,152205,"System, Electrogastrography (Egg)",M,YE
+78,152505,"System, Imaging, Gastrointestinal, Wireless, Capsule",N,EZ
+78,152583,"Kit, Repair, Catheter, Hemodialysis",N,FK
+78,153164,"Catheter, Hemodialysis, Triple Lumen, Non-Implanted",N,IE
+78,153165,"Catheter, Hemodialysis, Triple Lumen, Implanted",N,IF
+78,153175,"System, Water Purification, General Medical Use",N,HV
+78,153885,"Dislodger, Stone, Flexible, Ureteral, Reprocessed",N,QT
+78,153886,"Dislodger, Stone, Basket, Ureteral, Metal, Reprocessed",N,QU
+78,153902,"Catheter, Hemodialysis, Non-Implanted, Ultrafiltration, for Peripheral Use",N,QJ
+78,153959,"Clamp, Dialysis Arm",N,OO
+78,153960,"Forceps, Biopsy, Non-Electric, Reprocessed",N,ON
+78,155109,"Prosthesis, Esophageal",E,SW
+78,155110,"Laparoscope, General & Plastic Surgery, Reprocessed",N,LM
+78,155111,"Unit,Electrosurgical,Endoscopic(With or without accessories),Reprocessed",N,LR
+78,155112,"Instrument, Biopsy, Reprocessed",N,LS
+78,155113,"Snare, Flexible, Reprocessed",N,LT
+78,155114,"Forceps, Biopsy, Electric, Reprocessed",N,LU
+78,155115,"Electrode, Flexible Suction Coagulator, Reprocessed",N,LV
+78,155116,"Electrode, Electrosurgical, Active, Urological, Reprocessed",N,LW
+78,155117,"Needle, Pneumoperitoneum, Spring Loaded, Reprocessed",N,LX
+78,155118,"Catheter, Biliary, Reprocessed",N,ML
+78,155119,"Needle and Needle Set, Gastro-Urology, Reprocessed",N,MX
+78,155120,"Needle, Endoscopic, Reprocessed",N,MY
+78,155121,"Needle, Fistula, Reprocessed",N,NE
+78,155123,"Set, Dialysis, Single needle with uni-directional pump, Reprocessed",N,NG
+78,155124,"Bag, Urine Collection, Leg, For external use, Non-Sterile",N,NW
+78,155125,"Device, Incontinence, Urosheath Type, Non Sterile",N,NX
+78,155126,"Sheath, Corrugated Rubber, For non-indwelling catheter, Non-Sterile",N,NY
+78,155127,"System, Urine Drainage, Closed, For Non-Indwelling catheter, Non-Sterile",N,NZ
+78,155128,"Device, Paste-On for incontinence, Non-Sterile",N,OA
+78,155129,"System, Imaging, Esophageal, Wireless, Capsule",N,SI
+78,155216,"LED (Light Emitting Diode) Light Source, Battery Powered",N,TN
+78,155951,"Endoscope, accessories, narrow band spectrum",N,WB
+78,156616,"Kit, electrode, electrosurgical",N,WI
+78,156675,Suprapubic cystostomy catheter kit,N,WP
+78,156676,"Kit, introducer, endoscope",N,WU
+78,156677,"Kit, cholangiogram, endoscopic",N,WT
+78,156678,"Kit, choledochoscope, flesible and rigid",N,WS
+78,156681,"Kit, catheter, urinary (excludes hiv testing)",N,WO
+78,157507,"Stent, urethral, prostatic, semi-permanent",N,ZC
+78,157514,"Gastrointestinal motility system, capsule",N,YV
+78,157515,"Catheter, hemodialysis, implanted, coated",N,YU
+78,157574,"Collector, urine, powered, non indwelling catheter",N,ZU
+78,157774,"Garment, Storage, peritoneal dialysis catheter",O,AG
+78,157974,"Light source system, diagnostic endoscopic",O,AY
+78,158178,"Monitor, extracellular fluid, lymphedema, extremity",O,BH
+78,163202,"Transurethral occlusion insert, urinary incontinence-control, female",O,CK
+78,163420,"Laparoscopic bladder-neck suspension instrument, street urinary incontinence",O,CQ
+78,163680,"Implantable electrical stimulation system, bladder evacuation",O,DH
+78,163681,"Endoscopic ultrasound system, gastroenterology-urology",O,DG
+78,163682,"Mini endoscope, gastroenterology-urology",O,DF
+78,163683,"Endoscopic suture/plication system, gastroesophageal reflux disease (gerd)",O,DE
+78,163684,Endoscopic retrograde cholangiopancreatography (ercp) cannula,O,DD
+78,163685,Endoscope channel accessory,O,DC
+78,163686,Endoscopic contamination prevention sheath,O,DB
+78,163687,Endoscopic central control unit,O,DA
+78,163688,"Endoscopic grasping/cutting instrument, non-powered",O,CZ
+78,163689,"Endoscopic guidewire, gastroenterology-urology",O,CY
+78,163690,"Endoscopic, irrigation/suction system",O,CX
+78,163691,Endoscopic tissue approximation,O,CW
+78,163692,Endoscopic holder,O,CV
+78,163693,Endoscopic storage cover,O,CU
+78,163694,"Anti fog solution and accessories, endoscopy",O,CT
+78,164002,Autonomous extracorporeal blood leak detector/alarm,O,DX
+78,164599,Catheter care tray,O,HR
+78,165419,Dissolvable gel for preventing ureteral stone migration,O,NJ
+78,166121,Applicator for rectal suppository,O,OW
+78,166879,ultrasonic body composition analyzer,O,MV
+78,166880,"strip, dialysate, ph, bicarbonate, glucose, acid, indicator",N,TZ
+78,166927,"colonic irrigation system, general well being",N,UB
+78,166928,orchidometer,O,LH
+78,166929,hemodialysis system for home use,O,NW
+78,166931,"hyperthermia system, bladder cancer treatment, with chemotherapy",O,KN
+78,166932,Oral removable retainer for weight management,O,NY
+78,167385,"Mesh, surgical, for stress urinary incontinence, male",O,TM
+78,168727,"Hemodialyzer, high cut-off",O,VL
+78,171567,"PROSTATE LESION, DOCUMENTATION, SYSTEM",O,QT
+78,171642,Bladder System,P,AT
+78,171742,Electrical Stimulation Bladder System,P,AZ
+78,171982,Lipoprotein for focal glomerulosclerosis in pediatric patients,P,BN
+78,172002,Rectal insert,P,BP
+78,172282,Automated endoscopic leak tester,P,CV
+78,172502,Beta 2-microglobulin apheresis column,P,DI
+78,172622,"Endoscope, accessories, image post-processing for color enhancement",P,EA
+78,172942,Dialysis administration kits (convenience kit),P,EV
+78,172966,Hemodialysis Catheter Luer End Cap,P,EH
+78,172975,Gastrointestinal liner system,P,FE
+78,172977,Venous window needle guide,P,FH
+78,172978,Implantable transprostatic tissue retractor system,P,EW
+78,173016,"pancreatic stent, covered, metallic, removable",P,CU
+78,173044,Spatial imaging for display of endoscope position,P,GU
+78,173105,"Protective coating, mucoadhesive application, for the rectal mucosa",P,HN
+78,173107,Normothermic preservation system for transplantation of initially unacceptable donor lungs,P,HO
+78,173118,Basin for endoscope reprocessing,P,HT
+78,173122,esophageal dilator balloon with or without electrode sensors,P,ID
+78,173123,esophageal dilator with balloon and electrode sensors,P,IE
+78,173166,Gastrointestinal Tubes with Enteral Specific Connectors,P,IF
+78,173230,metabolic neuromodulation system,P,IK
+78,173317,Kidney perfusion kit,P,IN
+78,173318,Urethral insert with pump for bladder drainage,P,IH
+78,173319,Enteral specific transition connectors,P,IO
+78,173368,Ultrafiltration-controlled nocturnal dialysate delivery system,O,DN
+78,173369,neuromodulator for obesity,P,IM
+78,173582,fully subcutaneous implanted hemodialyis catheter,P,KI
+78,173585,Hemostatic metal clip for the GI tract,P,KL
+78,173588,Vibrator for climax control of premature ejaculation,P,IA
+78,173605,Dynamic rectal control system,P,JH
+78,173650,Colon capsule imaging system,P,GD
+78,173729,"Endoscopic video imaging system/component, gastroenterology-urology",O,CS
+78,173730,Gastrostomy tube holder,P,LI
+78,173775,Submucosal injection agent,P,LL
+78,173804,High intensity ultrasound system for prostate tissue ablation,P,LP
+78,174154,Enzyme packed cartridge,P,LQ
+78,174317,"Peritoneal, drainage catheter for refractory ascites, long-term indwelling",P,NG
+78,174445,Biliary stent system for benign strictures,P,NB
+78,174451,Mechanical compression device fecal incontinence (non-manually operated),P,MH
+78,174475,Enteral Syringes with enteral specific connectors,P,NR
+78,174486,Single needle (co-axial flow) dialysis kit,P,PL
+78,174487,Peritoneal dialysis tubing kit,P,PK
+78,174488,Peritoneal dialysis administration kit,P,PJ
+78,174489,Hemodialysis tray (not a start/stop kit),P,PI
+78,174490,Single needle with uni-directional pump kit,P,PH
+78,174491,Urinary drainage collection kit,P,PG
+78,174492,Urinary irrigation kit,P,PF
+78,174493,Nephroscope set,P,PE
+78,174494,Universal drainage tray,P,PD
+78,174495,Male external catheterization kit (excludes HIV testing),P,PC
+78,174496,Foley catheter kit (excludes HIV testing),P,PB
+78,174497,Bladder irrigation kit,P,PA
+78,174498,Biopsy needle kit,P,OZ
+78,174511,Multi-lumen hemodialysis catheterization kit,P,PO
+78,174520,Aspiration therapy system,O,YF
+78,174548,Ostomy care kit,P,QE
+78,174598,Enteral administration kit (adult & pediatric),P,RM
+78,174601,Gastrointestinal tube kit,P,RW
+78,174602,Gastro-urology biopsy kit,P,RV
+78,174603,Gastric lavage kit (adult or pediatric use),P,RU
+78,174604,Gastric irrigation and aspiration kit,P,RT
+78,174605,Gastric colonic catheter irrigation kit,P,RS
+78,174606,Feeding tube kit,P,RR
+78,174607,Esophageal dilator kit,P,RQ
+78,174608,Balloon gastrostomy tube kit,P,RP
+78,174609,Anti-regurgitation blood tubing kit,P,RO
+78,174610,Replacement gastrostomy feeding catheter tray,P,SK
+78,174611,Rectal dilator kit,P,SJ
+78,174613,Percutaneous replacement gastrostomy tube kit,P,SH
+78,174614,Percutaneous endoscopic gastrostomy kit,P,SG
+78,174615,Non-balloon replacement gastrostomy system,P,SF
+78,174616,Needle catheter jejunostomy kit,P,SE
+78,174617,Laparoscopic gastrostomy kit,P,SD
+78,174618,Nasogastric-gastrojejunal kit,P,SC
+78,174619,Nasogastric feed tube kit,P,SB
+78,174620,Laparoscopic jejunostomy kit,P,SA
+78,174621,Gastrostomy tube kit,P,RZ
+78,174622,Gastrostomy jejunostomy feeding tube kit,P,RY
+78,174623,Gastrostomy guide wire placement kit,P,RX
+78,174638,Chlorine Meter,P,SX
+78,174653,Endoscopic morcellator gastroenterology,P,TE
+78,174666,Pediatric esophageal atresia anastomosis device,P,TK
+78,174702,Vasovasostomy Set,P,VY
+78,174726,"System, peritoneal, automatic delivery, exempt",P,TW
+78,174727,"Catheter, peritoneal dialysis, single use, exempt",P,TV
+78,174728,"Catheter, peritoneal, long-term indwelling, exempt",P,TU
+78,174729,"Biliary Catheter for irrigation and contrast injection, Exempt",P,TT
+78,174730,"Endoscopic grasping/cutting instrument, non-powered, exempt",P,TS
+78,174731,"Scissors for cytoscope, exempt",P,TR
+78,174732,"Endoscopic magnetic retriever, exempt",P,TQ
+78,174857,"Agents, embolic, for treatment of benign prostatic hyperplasia",N,OY
+78,174955,Fluid jet removal system,P,ZP
+78,174960,Endoscopic electrosurgical clip cutting system,Q,AG
+78,174995,Normothermic machine perfusion system for the preservation of standard criteria donor lungs prior to,Q,BA
+78,175102,"Stimulator, Spinal-Cord, Implanted, For Bladder Evacuation",G,ZD
+78,175105,Perineometer,H,IR
+78,175108,"Analyzer, Body Composition",M,NW
+78,175109,"Mesh, surgical, gynecologic, for stress urinary incontinence, female",O,TN
+78,175110,Ingestible event marker,O,ZW
+78,175111,"Mesh, surgical, non-synthetic, urogynecologic, for stress urinary incontinence, female, multi-incisi",P,AG
+78,175112,"Mesh, surgical, synthetic, urogynecologic, for stress urinary incontinence, female, single-incision",P,AH
+78,175113,"Analyzer, body composition, exempt",P,UH
+78,175114,"Instrumentation, surgical mesh, urogynecologic, stress urinary incontinence",P,WJ
+78,175273,Cutaneous electrode stimulator for urinary incontinence,Q,AJ
+78,175296,Pressure ulcer management tool,Q,EF
+78,175477,"Ingested, transient, space occupying device for weight management and/or weight loss",Q,FQ
+78,175489,"Biliary stent, drain, and dilator accessories",Q,GE
+78,175490,Implanted mechanical/hydraulic urinary continence device surgical accessories,Q,GD
+78,175491,Suprapubic catheter accessories,Q,GC
+78,175492,Ureteral stent accessories,Q,GB
+78,175493,Gastroenterology-urology accessories to a biopsy instrument,Q,FZ
+78,175496,Penile implant surgical accessories,Q,GA
+78,175539,Esophageal sheath with distal balloon anchor,Q,GG
+78,175765,"Adjunct monitor, protein calorie malnutrition",Q,JB
+78,175769,Endoscopic transhepatic venous access needle,Q,IJ
+78,175778,"Esophageal, mucosal, electrical characterization",Q,IS
+78,175830,Temporary prostatic tissue remodeling system,Q,KA
+78,175938,"Laparoscopic accessories, esophageal sizing",Q,JN
+78,175941,Pediatric hemodialysis system,Q,IR
+78,175951,Magnetically maneuvered capsule endoscopy system,Q,KZ
+78,175959,Immunoadsorption column for COVID-19 Use,Q,LO
+78,176005,Hemodialyzer with expanded solute removal profile,Q,AX
+78,176027,Plasma processing system for converting alpha to pre-beta high-density lipoprotein,Q,NB
+78,176037,Computerized therapy for treating symptoms of gastrointestinal conditions,Q,MY
+78,176043,Endoscopic pancreatic debridement device,Q,NE
+78,176127,Implanted electrical device intended for treatment of fecal incontinence,Q,ON
+78,176132,Gastrointesinal lesion software detection system,Q,NP
+78,176184,Normothermic machine perfusion system for the preservation of donor livers prior to transplantation,Q,QK
+78,176187,Circumcision device with stapler,Q,QR
+78,176198,Non-implanted electrical stimulation device for management of premature ejaculation,Q,RC
+78,176199,"Catheter, Balloon, Urethral, Drug-Coated",Q,RH
+78,176341,"Stimulator, tibial, electrical, implantable, for urinary incontinence",Q,PT
+78,176651,Endoscopic traction device,Q,SW
+78,176657,Endoscopic suturing device for altering gastric anatomy for weight loss,Q,TD
+78,176725,Endoscopic light-projecting measuring device,Q,TH
+78,176730,Orally ingested transient device for constipation,Q,TN
+78,176761,Tether accessory for use in the gastrointestinal tract,Q,UN
+78,176793,Blood detection capsule,Q,UD
+78,177008,Non-medicated topical formulation for treatment of erectile dysfunction.,Q,WW
+78,177032,Gallbladder drainage stent and delivery system,Q,XH
+78,177034,Implanted tibial electrical urinary continence device,Q,XM
+78,177054,Flushing solution for short term storage of veins at room temperature during coronary artery bypass,Q,EJ
+78,177057,Drug coated prostatic dilation catheter for benign prostatic hyperplasia,Q,XB
+78,177093,Gastrointestinal capsule endoscopy analysis software device,Q,ZF

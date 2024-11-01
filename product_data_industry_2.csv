@@ -1,0 +1,119 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+2,1,"Corn, Whole Grain",A,01
+2,2,"Corn, Bolted Meal or Flour",B,01
+2,3,Rice Flour,C,01
+2,4,"Rice, Brown, Processed (Packaged)",D,01
+2,5,"Wheat Flour, Bromated",E,01
+2,6,Wheat Bran (Human Use),F,01
+2,7,Barley Flour,G,01
+2,8,Cassava Flour,H,01
+2,9,"Malt, Barley",J,01
+2,10,"Barley, Whole Grain",A,02
+2,11,"Corn, Plain Meal",B,02
+2,12,"Rice Flour, Enriched",C,02
+2,13,"Rice, Plain (White or Polished) Processed (Packaged)",D,02
+2,14,"Wheat Flour, Enriched Bromated",E,02
+2,15,"Farina, Wheat",F,02
+2,16,Buckwheat Flour,G,02
+2,17,Corn Starch,H,02
+2,18,"Malt, Rice",J,02
+2,19,"Oats, Whole Grain",A,03
+2,20,"Corn, Degerminated Meal",B,03
+2,21,"Rice, Enriched Processed (Packaged)",D,03
+2,22,"Wheat Flour, Whole Bromated",E,03
+2,23,"Farina, Enriched Wheat",F,03
+2,24,Malt Flour,G,03
+2,25,Potato Starch,H,03
+2,26,"Malt, Wheat",J,03
+2,27,"Popcorn (not popped), Bulk, Whole Grain",A,04
+2,28,"Corn, Enriched Bolted Meal",B,04
+2,29,"Wheat Flour, Durum",E,04
+2,30,"Semolina, Wheat",F,04
+2,31,Oat Flour,G,04
+2,32,Rice Starch,H,04
+2,33,"Rice, Cultivated, Whole Grain",A,05
+2,34,"Corn, Enriched Meal",B,05
+2,35,Rice Meal Processed (Packaged),D,05
+2,36,"Wheat Flour, Enriched (All Purpose)",E,05
+2,37,Wheat Germ,F,05
+2,38,Peanut Flour,G,05
+2,39,Wheat Starch,H,05
+2,40,"Rice, Wild, Whole Grain",A,06
+2,41,"Corn, Hominy Grits",B,06
+2,42,"Rice, Wild Processed (Packaged)",D,06
+2,43,"Wheat Flour, Gluten",E,06
+2,44,Wheat Meal,F,06
+2,45,Potato Flour,G,06
+2,46,"Rye, Whole Grain",A,07
+2,47,"Corn, Self-Rising Meal",B,07
+2,48,"Wheat Flour, Graham",E,07
+2,49,"Wheat, Milled (Crushed, Coarse Ground or Cracked)",F,07
+2,50,Sesame Flour,G,07
+2,51,"Sorghum (Milo), Whole Grain",A,08
+2,52,"Corn, Self-Rising Bolted Meal",B,08
+2,53,Soybean Flour,G,08
+2,54,"Wheat, Whole Grain",A,09
+2,55,"Wheat Flour, Phosphated",E,09
+2,56,Sunflower Meal,G,09
+2,57,"Soybeans, Whole Grain",A,10
+2,58,"Wheat Flour, Plain Self-Rising",E,10
+2,59,Rye Flour,G,10
+2,60,"Wheat Flour, Enriched Self-Rising",E,11
+2,61,"Wheat Flour, Whole Durum",E,12
+2,62,"Wheat Flour, Whole",E,13
+2,63,"Grain, Whole, N.E.C.",A,99
+2,64,"Corn, Milled Product N.E.C.",B,99
+2,65,"Rice Flour, N.E.C.",C,99
+2,66,"Rice, Processed (Packaged) N.E.C.",D,99
+2,67,"Wheat Flour, N.E.C.",E,99
+2,68,"Wheat, Milled Product, N.E.C.",F,99
+2,69,Flours and Meals N.E.C.,G,99
+2,70,Starch Products N.E.C.,H,99
+2,71,"Malt Products, N.E.C.",J,99
+2,72,"Milled Grain Products, N.E.C.",Y,99
+2,23811,"Rice Flour, Glutinous",C,03
+2,23812,"Rice Flour, Sweet",C,04
+2,23814,"Rice, Basmati, Processed (Packaged)",D,07
+2,23815,"Rice, Fragrant, Processed (Packaged)",D,08
+2,23816,"Rice, Jasmine, Processed (Packaged)",D,09
+2,23817,"Rice, Glutinous, Processed (Packaged)",D,10
+2,23818,"Rice, Sweet, Processed (Packaged)",D,11
+2,23819,Tempura flour mix,H,06
+2,23820,Patongco mix (The Philippines),H,07
+2,24789,Soybean Powder,G,08
+2,24790,Soybean Meal,G,08
+2,24791,Tapioca Starch Product,H,01
+2,24792,Hominy Grits (Corn),B,06
+2,25018,"Gluten, Wheat",F,08
+2,25470,Bot Binh Tinh (Vietnamese tapioca flour),H,01
+2,25471,Bot Gao (Vietnamese rice flour),C,01
+2,25476,"Bulghur Wheat (Steamed, dried and crushed wheat kernels from Middle East)",F,07
+2,25551,Harina De Arroz (Latin American rice flour),C,01
+2,25580,"Ogi (Nigerian product made from fermented maize, sorghum or millet)",H,99
+2,25581,"Okome (short-grain, hulled rice that is mainstay in Japanese diet)",D,02
+2,25601,Phoa (Indian long-grain rice processed into thin flakes),D,99
+2,25664,"Joshinko (Japanese fine, white rice flour, used to make taffy-like sweets)",C,01
+2,25665,Jowar (Indian sorghum seed or grain; cracked and cooked much like rice or ground into flour),A,08
+2,25691,"Sooji (Indian milled amber-colored durum wheat, used as a breakfast cereal)",F,02
+2,25727,Tempura Ko (Japanese low gluten wheat flour used to make tempura batter),E,99
+2,25746,Katakuriko (Japanese fine white powder similar to arrowroot or cornstarch; used to thicken sauces),H,99
+2,25780,"Kuzu (Japanese thickener similar to arrowroot, made from the root of the kuzu vine)",H,99
+2,150444,"Soybean Flour, Meal, or Powder",G,08
+2,158194,Rice Protein,D,12
+2,158195,Rice Protein Concentrate,D,12
+2,158214,Rice Gluten,D,13
+2,158215,Corn Gluten,B,09
+2,158216,Corn Gluten Meal,B,09
+2,158217,Corn Germ Meal,B,10
+2,158218,Soy Protein Isolate,G,08
+2,158219,Soy Gluten,G,08
+2,158221,Corn Bran,B,11
+2,158254,Mung Bean Protein,G,12
+2,160020,Gram Flour,G,11
+2,172762,Farro,A,09
+2,173598,"Wheat Flour, Bleached",E,14
+2,173629,"Buckwheat, Whole Grain",A,11
+2,173731,"Wheat Flour, Plain",E,15
+2,176302,"Quinoa, Whole Grain",A,12
+2,176303,Quinoa Flour,G,13
+2,176304,Quinoa Meal and Powder,G,14

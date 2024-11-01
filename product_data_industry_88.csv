@@ -1,0 +1,313 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+88,21067,Iron Stains,G,GH
+88,21092,"Solution, Gugol Blue",G,HZ
+88,21828,Eosin Y,H,YB
+88,21829,Fast Green,H,YC
+88,21830,Fast Red Salt B,H,YD
+88,21831,"Solution, Fontanna Silver",H,YE
+88,21832,Giemsa Stain,H,YF
+88,21833,Glenner'S Stain,H,YG
+88,21834,Gold Chloride,H,YH
+88,21835,"Iodine, Grams",H,YI
+88,21836,Hematoxylin,H,YJ
+88,21837,Hematoxylin Harris'S,H,YK
+88,21838,Hematoxylin Mayer'S,H,YL
+88,21839,Hematoxylin Weigert'S,H,YO
+88,21840,Iron Chloride-Weigert,H,YQ
+88,21841,Leuco-Patent Blue,H,YR
+88,21842,Light Green,H,YS
+88,21843,Luxol Fast Blue,H,YT
+88,21844,"Stain, Trichrome, Mallory's",H,YW
+88,21845,Metanil Yellow,H,YY
+88,21846,Methenamine Silver,H,YZ
+88,21847,Methyl Green,H,ZA
+88,21848,Mucicarmine,H,ZC
+88,21849,Muller'S Colloidal Iron,H,ZD
+88,21850,Nile Blue,H,ZE
+88,21851,Nuclear Fast Red,H,ZF
+88,21852,Oil Red O,H,ZG
+88,21853,Orange G,H,ZH
+88,21854,"Acid, Osmic",H,ZI
+88,21855,"Stain, Papanicolau",H,ZJ
+88,21856,Phloxine B,H,ZL
+88,21857,"Hematoxylin, Acid, Phosphotungstic",H,ZM
+88,21858,Picro Methyl Blue,H,ZN
+88,21859,"Stain, Ponceau",H,ZO
+88,21860,Pyronin,H,ZP
+88,21861,Red-Violet Lb,H,ZQ
+88,21862,Resorcin Fuchsin,H,ZR
+88,21863,Safranin,H,ZS
+88,21864,"Reagent, Schiff",H,ZT
+88,21865,Silver Nitrate,H,ZX
+88,21866,Sirius Red,H,ZY
+88,21867,Sudan Black B,H,ZZ
+88,21868,Titan Yellow,I,AA
+88,21869,Toluidine Blue,I,AB
+88,21870,Van Gieson'S Stain,I,AC
+88,21871,Van Gieson'S Picro-Fuchsin,I,AD
+88,21872,"Hematoxylin, Iron, Weigert's",I,AE
+88,21873,Wright'S Stain,I,AF
+88,21874,Iodine (Tincture),I,AL
+88,21875,"Solution, Lugol's",I,AM
+88,21876,"Syrup, Gum, Apathy's",I,AT
+88,21877,Collodion,I,AW
+88,21878,Colchicine,I,AY
+88,21880,Streptolysin O,I,BA
+88,21882,Diastase,I,BC
+88,21883,Hyaluronidase,I,BD
+88,21884,Neuramininase (Sialidase),I,BE
+88,21885,Papain,I,BF
+88,21886,Trypsin,I,BG
+88,21887,"Light, Microscope",I,BJ
+88,21888,"Microscope, Fluorescence/U.V.",I,BK
+88,21889,"Microscope, Inverted Stage, Tissue Culture",I,BL
+88,21890,"Microscope, Phase Contrast",I,BM
+88,21891,Eosin B,I,CC
+88,21892,Darrow Red,I,CD
+88,21893,Crystal Violet For Histology,I,CF
+88,21894,Cresyl Violet Acetate,I,CG
+88,21895,Congo Red,I,CH
+88,21896,"Hematoxylin, Chrom Alum",I,CI
+88,21897,Carbol Night Blue,I,CJ
+88,21898,Carbol Fuchsin,I,CL
+88,21899,Brilliant Yellow,I,CM
+88,21900,Biebrich Scarlet,I,CN
+88,21901,Best'S Carmine,I,CO
+88,21902,Azure A,I,CQ
+88,21903,Azocarmine B,I,CR
+88,21904,Azocarmine G,I,CS
+88,21905,Azan Counterstain,I,CT
+88,21906,Aniline,I,CX
+88,21907,"Acid, Aniline, Fuchsin",I,CY
+88,21908,Ammoniacal Silver Hydroxide Silver Nitrate,I,CZ
+88,21909,Alcian Blue,I,DA
+88,21910,Aldehyde Fuchsin,I,DB
+88,21911,Acridine Orange,I,DC
+88,21912,Alizarin Red,I,DD
+88,21913,"Acid, Hematein",I,DE
+88,21914,"Acid, Fuchsin",I,DF
+88,21915,"Microtome, Accessories",I,DL
+88,21916,"Microtome, Ultra",I,DM
+88,21917,"Microtome, Freezing Attachment",I,DN
+88,21918,"Microtome, Rotary",I,DO
+88,21919,"Microtome, Cryostat",I,DP
+88,21920,Infiltrator,I,DQ
+88,21921,"Ovens, Paraffin",I,DR
+88,21922,"Melting Pot, Paraffin",I,DS
+88,21923,"Apparatus, Melting Point, Paraffin",I,DT
+88,21924,"Dispensers, Paraffin",I,DW
+88,21925,"Sieves, Tissue",I,DX
+88,21926,"Bath, Flotation, Tissue",I,DY
+88,21927,"Cassettes, Tissue",I,DZ
+88,21928,"Table, Slide Warming",I,EG
+88,21929,"Lamps, Slide Warming",I,EH
+88,21930,"Processor, Tissue, Automated",I,EO
+88,21931,Polyethylene Glycol (Carbowax),I,ER
+88,21932,Gelatin,I,EX
+88,21933,Celloidin,I,EZ
+88,21934,Cytocentrifuge,I,FB
+88,21935,"Solution, Decalcifier, Electrolytic",I,FF
+88,21936,"Solution, Zenker's",I,FH
+88,21937,"Sprays, Synthetic, Smear",I,FI
+88,21938,"Fixative, Richardson Glycol",I,FJ
+88,21939,Polyethylene Glycol Preservative,I,FL
+88,21940,"Solution, Orth's",I,FN
+88,21942,"Formalin, Neutral Buffered",I,FP
+88,21943,"Formulations, Mercuric Chloride for Tissue",I,FQ
+88,21945,Glutaraldehyde,I,FT
+88,21946,Gelatin-Formalin,I,FY
+88,21947,Gelatin For Specimen Adhesion,I,FZ
+88,21948,"Solution, Formalin-Sodium Acetate",I,GB
+88,21949,Formalin-Saline,I,GC
+88,21950,"Solution, Formol Calcium",I,GD
+88,21951,"Solution, Formalin Ammonium Bromide",I,GE
+88,21952,"Solution, Formalin-Alcohol-Acetic Acid",I,GF
+88,21953,"Formaldehyde (Formalin, Formol)",I,GG
+88,21955,"Solution, Carnoy's",I,GM
+88,21956,"Fluid, Bouin's",I,GN
+88,21957,"Blender, Sputum",I,HJ
+88,22219,Detergent,J,CB
+88,22220,Ph Buffer,J,CC
+88,22221,"Solution, Isotonic",J,CE
+88,22224,Esterase,J,CH
+88,22225,"Acid Phosphatase, Cytochemical",J,CI
+88,22568,"Stains, Microbiologic",J,TS
+88,22733,"Container, Specimen Mailer And Storage",K,DT
+88,22734,"Container, Specimen Mailer And Storage, Temperature Controlled",K,DW
+88,22735,"Solution, Decalcifier, Acid Containing",K,DX
+88,22736,"Agent, Chelating for Decalcification",K,DY
+88,22737,"Device, Decalcifier, Electrolytic",K,DZ
+88,22739,Osmium Tetroxide,K,EE
+88,22741,"Lamps, Microscope",K,EG
+88,22742,"Micrometers, Microscope",K,EH
+88,22743,"Condensers, Microscope",K,EI
+88,22744,"Stages, Microscope",K,EJ
+88,22745,"Adhesive, Albumin-Based",K,EL
+88,22746,"Agent, Clearing",K,EM
+88,22747,"Formulations, Paraffin, All",K,EO
+88,22748,"Media, Mounting, Oil Soluble",K,EP
+88,22749,"Media, Mounting, Water Soluble",K,EQ
+88,22750,"Container, Embedding",K,ER
+88,22751,"Coverslips, Microscope Slide",K,ES
+88,22752,"Filters, Cell Collection, Tissue Processing",K,ET
+88,22753,"Slides, Microscope",K,EW
+88,22755,"Stainer, Tissue, Automated",K,EY
+88,22756,"Methylene Blue, Tissue Stain",K,FC
+88,22757,Aniline Blue,K,FD
+88,22758,Neutral Red,K,FE
+88,22764,"Microtome, Sliding",K,FL
+88,22821,Device For Sealing Microsections,K,IM
+88,22822,"Slide Stainer, Contact Type",K,IN
+88,22823,"Slide Stainer, Immersion Type",K,IO
+88,22824,"Formulations, Balanced Salt Solutions",K,IP
+88,22825,"Kit, Culture, Chromosome",K,IQ
+88,22826,"Cells, Animal And Human, Cultured",K,IR
+88,22827,"Sera, Animal And Human",K,IS
+88,22828,"Media And Components, Synthetic Cell and Tissue Culture",K,IT
+88,22829,"Kit, Mycoplasma Detection",K,IW
+88,22830,"Media, Mycoplasma Detection",K,IX
+88,22831,"Chamber, Slide Culture",K,IY
+88,22832,"Dish, Tissue Culture",K,IZ
+88,22833,"Flask, Tissue Culture",K,JA
+88,22834,"Apparatus, Roller",K,JB
+88,22835,"Bottle, Roller, Tissue Culture",K,JC
+88,22836,"Spinner, Flask",K,JD
+88,22837,"Spinner System, Cell Culture",K,JE
+88,22838,"System, Suspension, Cell Culture",K,JF
+88,22839,"Tube, Tissue Culture",K,JG
+88,22840,"Apparatus, Perfusion",K,JH
+88,22843,Auramine O,K,JK
+88,22844,Azure C,K,JL
+88,22845,Bismarck Brown Y,K,JM
+88,22846,Brilliant Cresyl Blue,K,JN
+88,22847,Brilliant Green,K,JO
+88,22848,Carmine,K,JP
+88,22849,Chlorazol Black E,K,JQ
+88,22850,Erythrosin B,K,JR
+88,22851,Ethyl Eosin,K,JS
+88,22852,Indigocarmine,K,JT
+88,22853,Janus Green B,K,JW
+88,22854,Jenner Stain,K,JX
+88,22855,Malachite Green,K,JY
+88,22856,Martius Yellow,K,JZ
+88,22857,Methyl Orange,K,KA
+88,22858,Methyl Violet 2b,K,KB
+88,22859,Methylene Violet,K,KC
+88,22860,Nigrosin,K,KD
+88,22861,Orange Ii,K,KE
+88,22862,Orcein,K,KF
+88,22863,Protargol S,K,KG
+88,22864,"Tablet, Resazurin",K,KH
+88,22865,Rose Bengal,K,KI
+88,22866,Sudan Iii,K,KJ
+88,22867,Sudan Iv,K,KK
+88,22868,Thionin,K,KL
+88,22869,Methylene Blue Thiocyanate,K,KM
+88,22871,"Solution, Silver Carbonate",K,KP
+88,22872,Sodium Periodate,K,KQ
+88,22873,Potassium Periodate,K,KR
+88,22874,"Acid, Periodic",K,KS
+88,22875,"Hematoxylin, Ehrlich'S",K,KT
+88,22876,Basic Fuchsin,K,KW
+88,22956,"Slide Stainer, Automated",K,PA
+88,22957,"Media And Components, Mycoplasma Detection",K,PB
+88,22981,"Stains, Hematology",K,QC
+88,23240,"Fixative, Acid Containing",L,DW
+88,23241,"Fixative, Metallic Containing",L,DX
+88,23242,"Fixative, Formalin-Containing",L,DY
+88,23243,"Fixative, Alcohol Containing",L,DZ
+88,23244,"Preservative, Cytological",L,EA
+88,23245,Mounting Media,L,EB
+88,23246,"Grinder, Tissue",L,EC
+88,23247,"Stains, Chemical Solution",L,ED
+88,23248,"Stains, Dye Solution",L,EE
+88,23249,"Stains, Dye Powder",L,EF
+88,23313,Trypan Blue,L,GY
+88,23347,Peroxidase Anti-Peroxidase Immunohistochemical Stain,L,IJ
+88,23466,"Analyzer, Chromosome, Automated",L,NJ
+88,25384,"Processor, Cervical Cytology Slide, Automated",M,KQ
+88,25385,"Reader, Cervical Cytology Slide, Automated",M,NM
+88,150644,"System, Test, (IHC), Tumor Marker, Monitoring, Bladder Cancer",N,BK
+88,152395,"Specimen/Tissue, Identification Orientation",M,JI
+88,152396,"System, Test, HER-2/NEU, IHC",M,VC
+88,152397,"Immunohistochemistry Assay, Antibody, Progesterone Receptor",M,XZ
+88,152398,"Immunohistochemistry Antibody Assay, Estrogen Receptor",M,YA
+88,153625,"Immunohistochemistry Antibody Assay, c-Kit",N,KF
+88,153871,"Microscope, Automated, Image Analysis, Immunohistochemistry, Operator Intervention, Nuclear Intensit",N,QN
+88,153903,"System, Immunomagnetic, Circulating Cancer Cell, Enumeration",N,QI
+88,153954,"Microscope, Automated, Image Analysis, Operator Intervention",N,OT
+88,155191,Immunohistochemistry Reagents and Kits,N,JT
+88,155192,"Control Material, Her-2/NEU, Immunohistochemistry",N,JW
+88,155193,"Container, Specimen Mailer and storage, Non-sterile",N,NK
+88,155194,"Container, Specimen Mailer and storage, Temperature Controlled, non-sterile",N,NL
+88,155195,"Immunohistochemistry Assay, Antibody, Epidermal Growth Factor Receptor",N,QF
+88,155275,"Immunohistochemical reagent, anitbody (monoclonal or polyclonal) to p63 protein in nucleus of prosta",N,TR
+88,164182,Automated digital image manual interpretation microscope,O,EO
+88,167424,Research use only/pathology,O,TU
+88,172342,Investigational use only - Pathology,P,DD
+88,173009,Tissue processing kit,P,FU
+88,173108,"System, colorectal neoplasia, DNA methylation and hemoglobin detection",P,HP
+88,173359,Cancer-related germline gene mutation detection system,P,JG
+88,173372,Autosomal Recessive Carrier Screening Gene Mutation Detection System,P,KB
+88,173704,"Immunohistochemistry assay, antibody, anaplastic lymphoma kinase",P,KW
+88,173798,"Immunohistochemistry assay, antibody, programmed death-ligand 1",P,LS
+88,174468,BCR/ABL1 monitoring test,O,YX
+88,174483,General purpose reagent,P,PM
+88,174591,"Next generation sequencing oncology panel, somatic or germline variant detection system",P,QP
+88,174632,Cervical intraepithelial neoplasia (CIN) test system,P,RB
+88,174636,JAK2 gene mutation detection test,P,SU
+88,174651,Whole slide imaging system,P,SY
+88,174930,Next generation sequencing based tumor profiling test,P,ZM
+88,174932,Lynch syndrome test system,P,ZJ
+88,174940,Digital pathology display,P,ZZ
+88,175150,"Igg, Peroxidase, Antigen, Antiserum, Control",D,AA
+88,175152,"Lambda, Peroxidase, Antigen, Antiserum, Control",D,EP
+88,175154,"Igm, Peroxidase, Antigen, Antiserum, Control",D,EY
+88,175156,"Kappa, Peroxidase, Antigen, Antiserum, Control",D,FD
+88,175158,"Igd, Peroxidase, Antigen, Antiserum, Control",D,GH
+88,175160,"Ige, Peroxidase, Antigen, Antiserum, Control",D,GO
+88,175161,"D/Km-1, Antigen, Antiserum, Control",D,HF
+88,175163,"Test, Leukocyte Peroxidase",G,IA
+88,175164,Cytokeratins,L,YE
+88,175169,"DNA-Probe, Human Chromosome",M,AO
+88,175178,"Kit, Cell Screening, Fetal",M,TI
+88,175180,"System, Test, HER-2/NEU, Nucleic Acid or Serum",M,VD
+88,175182,"Test, Factor V Leiden Mutations, Genomic DNA PCR",N,PQ
+88,175184,"Test, Factor II G20210A Mutations, Genomic DNA PCR",N,PR
+88,175186,"Test, fluorescence in situ hybridization (fish), for bladder cancer detection and monitoring for rec",N,SD
+88,175188,"System, Automated scanning microscope and image analysis for fluorescience in Situ Hybridization (Fi",N,TH
+88,175190,"System, Blood Collection, RNA Stabilization, RNA Purification, RT-PCR Molecular Diagnostic Test",N,TW
+88,175192,"System, Cystic Fibrosis Transmembrane Conductance Regulator, Gene Mutation Detention",N,UA
+88,175194,"Fluorescence in situ hybridization, topoisomerase ii alpha, gene amplification and deletion",N,XG
+88,175196,"Classifier, prognostic, recurrence risk assessment, rna gene expression, breast cancer",N,YI
+88,175197,Laboratory developed test,O,QS
+88,175199,"Fluorescence in situ hybridization, anaplastic lymphoma kinase, gene rearrangement",O,WE
+88,175207,"Prostate-specific antigen (psa) for prognostic, recurrence risk assessment of prostate cancers",O,WM
+88,175208,BRAF Mutation Kit,P,AN
+88,175210,Early growth response gene 1 (egr1) fish probe kit for specimen characterization,P,DO
+88,175216,"DNA FISH probe Kit for specimen characterization, human chromosome, hematological disorders",P,FG
+88,175218,"System, cystic fibrosis transmembrane conductance regulator gene, mutations & variants panel sequenc",P,FR
+88,175220,"System, cystic fibrosis transmembrane conductance regulator gene, variant gene sequence detection",P,FS
+88,175221,"System, mass spectrometry, multiplex genotyping, hereditary thrombophilia related mutations",P,HJ
+88,175303,Cancer predisposition risk assessment system for BRCA1/BRCA2 select variants,Q,AZ
+88,175309,FISH based detection of chromosomal abnormalities from patients with hematologic malignancies,Q,DI
+88,175310,DNA-based test for minimal residual disease for hematologic malignancies,Q,DC
+88,175319,synthetic next-generation sequencing quality control and filler material,Q,FI
+88,175348,Tumor gene profiling test,Q,FK
+88,175499,Chronic lymphocytic leukemia fish probe kit,O,VQ
+88,175500,Early growth response 1 (egr) fish probe kit,O,WK
+88,175501,"DNA-probe kit, human chromosome x and y, BMT engraftment",O,XP
+88,175502,"Dna-probe kit, human chromosome",O,YU
+88,175503,"Tissue RNA preservative for collection, storage, and transportation",O,ZF
+88,175504,Quality control for molecular immunohematology tests,P,FK
+88,175505,"System, microarray-based, genome-wide, postnatal chromosomal abnormality detection",P,FX
+88,175927,Digital pathology image viewing and management software,Q,KQ
+88,176042,Whole exome sequencing constituent device,Q,NC
+88,176147,"Immunohistochemistry test, DNA mismatch repair (MMR) Protein assay",Q,NH
+88,176182,Software algorithm device to assist users in digital pathology,Q,PN
+88,176189,"Immunohistochemistry assay, antibody, Ki-67",Q,QT
+88,176650,Circulating tumor cell (CTC) enrichment device,Q,SA
+88,176756,"Immunohistochemistry Assay, Antibody, FOLR1",Q,UL
+88,177058,High throughput DNA sequencing for hereditary cancer predisposition assessment test system.,Q,VU
+88,177115,Somatic gene mutation detection system,O,WD
+88,177121,Digital cervical cytology slide imaging system with artificial intelligence algorithm,Q,YV

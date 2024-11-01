@@ -1,0 +1,303 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+7,295,"Bread Sticks (Flavored or Unflavored), Fried",B,01
+7,296,"Bread Sticks (Flavored or Unflavored), Baked",A,01
+7,297,"Corn Chips, Fried",B,02
+7,298,"Corn Chips, Baked",A,02
+7,299,"Cheese Puffs, Fired",B,03
+7,300,"Cheese Puffs, Baked",A,03
+7,301,"Popcorn, Not Popped, Fried",B,04
+7,302,"Popcorn, Not Popped, Snack Food",A,04
+7,303,"Popcorn, Popped, Fried",B,05
+7,304,"Popcorn, Popped, Baked",A,05
+7,305,"Potato Chips,Fried",B,06
+7,306,"Potato Chips,Baked",A,06
+7,307,"Pretzels,Fried",B,07
+7,308,"Pretzels,Baked",A,07
+7,309,"Fried Snack Foods, N.E.C.",B,99
+7,310,"Baked Snack Food, N.E.C.",A,99
+7,311,"Snack Foods Not Elsewhere Mentioned, N.E.C.",Y,99
+7,23857,"Shrimp Flavored Chips, Baked",A,08
+7,23858,"Shrimp Flavored Chips, Fried",B,08
+7,25451,Bai-Ming (Fermented tea leaves eaten as sour-tasting snack in Thailand and Myanmar),Y,99
+7,25472,"Brem (Indonesian snack food made from dried, starchy glutinous rice extract)",Y,99
+7,25498,"Chiu Niang (Sweet, slightly alcoholic Chinese glutinous rice eaten as dessert or snack)",Y,99
+7,25539,"Grissino (thin, crisp breadsticks originating in Turn, Italy)",A,01
+7,25604,"Pisang Goreng (Indonesian sweet made from fried banana w/added flour, sugar, salt, egg & baking soda",Y,99
+7,25670,"Kali (sweet slightly alcoholic glutinous rice, eaten in India as snack or dessert)",Y,99
+7,25754,"Khamon-Tan (sweet, slightly alcoholic glutinous rice eaten in Thailand as dessert or snack)",Y,99
+7,25774,"Krupak (dried, mildly spiced wafers made of shrimp & tapioca flour, served w/Indonesian dishes)",B,08
+7,25787,"Lao-Chao (sweet slightly alcoholic glutinous rice, eaten in East and Southeast Asia/India as dessert",Y,99
+7,25790,Leppet-so (fermented tea leaves eaten as a sour-tasting snack in Myanmar),Y,99
+7,25820,Miang (fermented tea leaves eaten as sour-tasting snack in Thailand),Y,99
+7,25848,"Yokan (Japanese confection made w/agar, adzuki bean paste, sugar & possibly persimmon or chestnut)",Y,99
+7,171162,"Bread Sticks (Flavored or Unflavored), Bread Snacks Baked",C,01
+7,171163,Bruschetta Sticks (Flavored breadstick),C,01
+7,171164,"Mini Bread Snacks, Bread Snacks Baked",C,02
+7,171165,Mini Toast Snack,C,02
+7,171166,"Puri (Indian snack of small, round, unleavened bread pieces)",C,02
+7,171167,"Poori  (Indian snack of small, round, unleavened bread pieces)",C,02
+7,171168,"Bagel Snacks, Bread Snacks Baked",C,03
+7,171169,Bagel Sticks,C,03
+7,171170,Bagel Chips,C,03
+7,171171,"Pita Snacks, Bread Snacks Baked",C,04
+7,171172,Pita Sticks,C,04
+7,171173,Pita Chips,C,04
+7,171174,"Crostini (baked slices of French bread), Bread Snacks Baked",C,05
+7,171175,"Bread Snacks, n.e.c.",C,99
+7,171176,"Bread Sticks (Flavored or Unflavored), Bread Snacks Fried/Oil Cooked",D,01
+7,171177,Bruschetta Sticks (Flavored breadstick),D,01
+7,171178,"Mini Bread Snacks, Bread Snacks Fried/Oil Cooked",D,02
+7,171179,Mini Toast Snack,D,02
+7,171180,"Puri (Indian snack of small, round, unleavened bread pieces)",D,02
+7,171181,"Poori  (Indian snack of small, round, unleavened bread pieces)",D,02
+7,171182,"Bagel Snacks, Bread Snacks Fried/Oil Cooked",D,03
+7,171183,Bagel Sticks,D,03
+7,171184,Bagel Chips,D,03
+7,171185,"Pita Snacks, Bread Snacks Fried/Oil Cooked",D,04
+7,171186,Pita Sticks,D,04
+7,171187,Pita Chips,D,04
+7,171188,"Crostini (baked slices of French bread), Bread Snacks Fried/Oil Cooked",D,05
+7,171189,"Bread Snacks, n.e.c.",D,99
+7,171190,"Banana Snacks, Fruit Snack Foods, Baked",G,01
+7,171191,Banana Chips,G,01
+7,171192,Banana Chips w/Batter,G,01
+7,171193,Kela Chips,G,01
+7,171194,"Pisang Goreng (Indonesian sweet made from fried banana w/added flour, sugar, salt, egg & baking soda",G,01
+7,171195,"Bitter Melon Snacks, Fruit Snack Foods, Baked",G,02
+7,171196,Bitter Melon Chips,G,02
+7,171197,"Durian Snacks, Fruit Snack Foods, Baked",G,03
+7,171198,Durian Chips,G,03
+7,171199,"Plantain Snacks, Fruit Snack Foods, Baked",G,04
+7,171200,Plantain Chips,G,04
+7,171201,"Jackfruit Snacks, Fruit Snack Foods, Baked",G,05
+7,171202,Jackfruit Chips,G,05
+7,171203,"Mixed Fruit Snacks, Fruit Snack Foods, Baked",G,06
+7,171204,Plaintain and Banana Snack Mix,G,06
+7,171205,"Core Fruit Snacks, Fruit Snack Foods, Baked",G,07
+7,171206,"Tropical/Subtropical Fruit Snacks, Fruit Snack Foods, Baked",G,08
+7,171207,"Berry Fruit Snacks, Fruit Snack Foods, Baked",G,09
+7,171208,"Citrus Fruit Snacks, Fruit Snack Foods, Baked",G,10
+7,171209,"Vine Fruit Snacks, Fruit Snack Foods, Baked",G,11
+7,171210,"Pit Fruit Snacks, Fruit Snack Foods, Baked",G,12
+7,171211,"Other Fruit Snacks, Fruit Snack Foods, Baked",G,13
+7,171212,"Fruit Leathers, Fruit Snack Foods, Baked",G,14
+7,171213,"Fruit Snack Foods, n.e.c., Baked",G,99
+7,171214,"Banana Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,01
+7,171215,Banana Chips,H,01
+7,171216,Banana Chips w/Batter,H,01
+7,171217,Kela Chips,H,01
+7,171218,"Pisang Goreng (Indonesian sweet made from fried banana w/added flour, sugar, salt, egg & baking soda",H,01
+7,171219,"Bitter Melon Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,02
+7,171220,Bitter Melon Chips,H,02
+7,171221,"Durian Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,03
+7,171222,Durian Chips,H,03
+7,171223,"Plantain Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,04
+7,171224,Plantain Chips,H,04
+7,171225,"Jackfruit Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,05
+7,171226,Jackfruit Chips,H,05
+7,171227,"Mixed Fruit Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,06
+7,171228,Plaintain and Banana Snack Mix,H,06
+7,171229,"Core Fruit Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,07
+7,171230,"Tropical/Subtropical Fruit Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,08
+7,171231,"Berry Fruit Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,09
+7,171232,"Citrus Fruit Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,10
+7,171233,"Vine Fruit Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,11
+7,171234,"Pit Fruit Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,12
+7,171235,"Other Fruit Snacks, Fruit Snack Foods, Fried/Oil Cooked",H,13
+7,171236,"Fruit Leathers, Fruit Snack Foods, Fried/Oil Cooked",H,14
+7,171237,"Fruit Snack Foods, n.e.c., Fried/Oil Cooked",H,99
+7,171238,"Barley Grain Snack (Whole, Split), Baked",I,01
+7,171239,Jau Snack (Indian Barley Snack),I,01
+7,171240,"Millet Grain Snack (Whole, Split), Baked",I,02
+7,171241,"Rice Grain Snack (Whole, Split), Baked",I,03
+7,171242,Rice Grain Snack,I,03
+7,171243,Rice Puffs Snack (Excludes Cereal),I,03
+7,171244,Puffed Rice Snack (Excludes Cereal),I,03
+7,171245,"Chiu Niang (Sweet, slightly alcoholic Chinese glutinous rice eaten as dessert or snack)",I,03
+7,171246,"Kali (sweet slightly alcoholic glutinous rice, eaten in India as snack or dessert)",I,03
+7,171247,"Lao-Chao (sweet slightly alcoholic glutinous rice, eaten in East and Southeast Asia/India as dessert",I,03
+7,171248,Leppet-so (fermented tea leaves eaten as a sour-tasting snack in Myanmar),I,03
+7,171249,Rice Crackers (Japanese snack),I,03
+7,171250,Rice Cakes,I,03
+7,171251,"Wheat Grain Snack (Whole, Cracked, Split), Baked",I,04
+7,171252,Gehoon Snack (Indian term for whole grain wheat),I,04
+7,171253,Gehun Snack (Indian term for whole grain wheat),I,04
+7,171254,Wheat Pellets Snack,I,04
+7,171255,Split Wheat Snack,I,04
+7,171256,"Grain Snacks (Whole, Split), N.E.C., Baked",I,99
+7,171257,"Barley Grain Snack (Whole, Split), Fried/Oil Cooked",J,01
+7,171258,Jau Snack (Indian Barley Snack),J,01
+7,171259,"Millet Grain Snack (Whole, Split), Fried/Oil Cooked",J,02
+7,171260,"Rice Grain Snack (Whole, Split), Fried/Oil Cooked",J,03
+7,171261,Rice Grain Snack,J,03
+7,171262,Rice Puffs Snack (Excludes Cereal),J,03
+7,171263,Puffed Rice Snack (Excludes Cereal),J,03
+7,171264,"Chiu Niang (Sweet, slightly alcoholic Chinese glutinous rice eaten as dessert or snack)",J,03
+7,171265,"Kali (sweet slightly alcoholic glutinous rice, eaten in India as snack or dessert)",J,03
+7,171266,"Lao-Chao (sweet slightly alcoholic glutinous rice, eaten in East and Southeast Asia/India as dessert",J,03
+7,171267,Leppet-so (fermented tea leaves eaten as a sour-tasting snack in Myanmar),J,03
+7,171268,Rice Crackers (Japanese snack),J,03
+7,171269,Rice Cakes,J,03
+7,171270,"Wheat Grain Snack (Whole, Cracked, Split), Fried/Oil Cooked",J,04
+7,171271,Gehoon Snack (Indian term for whole grain wheat),J,04
+7,171272,Gehun Snack (Indian term for whole grain wheat),J,04
+7,171273,Wheat Pellets Snack,J,04
+7,171274,Split Wheat Snack,J,04
+7,171275,"Grain Snacks (Whole, Split), N.E.C., Fried/Oil Cooked",J,99
+7,171276,"Beef Flavored Snacks, Baked (Meat/Poultry/Seafood Snacks)",M,01
+7,171277,Beef Chips,M,01
+7,171278,Beef Flavored Chips,M,01
+7,171279,"Pork Flavored Snacks, Baked (Meat/Poultry/Seafood Snacks)",M,03
+7,171280,Bacon flavored chips,M,03
+7,171281,Ham flavored Chips,M,03
+7,171282,Pork Chips,M,03
+7,171283,Pork flavored Chips,M,03
+7,171284,Pork Rinds,M,03
+7,171285,Pork Skinks,M,03
+7,171286,Pork Crackling,M,03
+7,171287,"Poultry Flavored Snacks, Baked (Meat/Poultry/Seafood Snacks)",M,05
+7,171288,Chicken Flavored Snacks,M,05
+7,171289,Chicken Flavored Chips,M,05
+7,171290,Chicken Chips,M,05
+7,171291,"Seafood Flavored Snacks, Baked (Meat/Poultry/Seafood Snacks)",M,06
+7,171292,Calamari Snack,M,06
+7,171293,Calamari Chips,M,06
+7,171294,Calamari Flavored Snacks,M,06
+7,171295,Crab Flavored Snacks,M,06
+7,171296,Crab Chips,M,06
+7,171297,Cuttlefish Flavored Snacks,M,06
+7,171298,Cuttlefish Snacks,M,06
+7,171299,Cuttlefish Chips,M,06
+7,171300,Cuttle Fish Snack,M,06
+7,171301,Lobster Chips,M,06
+7,171302,Octopus Chips,M,06
+7,171303,Prawn Chips,M,06
+7,171304,Shrimp Flavored Snacks,M,06
+7,171305,Shrimp Chips,M,06
+7,171306,Seafood Chips,M,06
+7,171307,Seafood Flavored Snack Chips,M,06
+7,171308,Squid Flavored Snacks,M,06
+7,171309,"Meat/Poultry/Seafood Flavored Foods, n.e.c., Baked",M,99
+7,171310,"Beet Snack, Vegetable Snacks (Other than Pulses) Baked",Q,01
+7,171311,Beet Greens Snack,Q,01
+7,171312,"Carrot Snacks, Vegetable Snacks (Other than Pulses) Baked",Q,02
+7,171313,Carrot Chips,Q,02
+7,171314,Carrot Triangles,Q,02
+7,171315,"Corn (Whole Kernel) Snacks, Vegetable Snacks (Other than Pulses) Baked",Q,03
+7,171316,Chichacorn Snack,Q,03
+7,171317,Corn Nuts Snack,Q,03
+7,171318,Maize Snack,Q,03
+7,171319,Popcorn Snacks,Q,03
+7,171320,"Popcorn, Not Popped, Snack Food",Q,03
+7,171321,"Popcorn, Popped",Q,03
+7,171322,"Garlic Snacks (Flavored or Unflavored), Vegetable Snacks (Other than Pulses) Baked",Q,04
+7,171323,Garlic Chips,Q,04
+7,171324,Garlic Puffs,Q,04
+7,171325,Garlic Curls,Q,04
+7,171326,Garlic Rings,Q,04
+7,171327,Garlic Sticks,Q,04
+7,171328,"Onion Snack (Flavored or Unflavored), Vegetable Snacks (Other than Pulses) Baked",Q,05
+7,171329,Onion Rings,Q,05
+7,171330,Onion Sticks,Q,05
+7,171331,"Mushroom Snacks (Flavored or Unflavored), Vegetable Snacks (Other than Pulses) Baked",Q,06
+7,171332,Mushroom chips,Q,06
+7,171333,"Potato Snacks (Flavored or Unflavored), Vegetable Snacks (Other than Pulses) Baked",Q,07
+7,171334,Adobadas,Q,07
+7,171335,Alu Laccha,Q,07
+7,171336,Alulaccha,Q,07
+7,171337,Aloo Bhujia,Q,07
+7,171338,Alu Bhujiya,Q,07
+7,171339,Chatak Laccha,Q,07
+7,171340,Potato Puffs,Q,07
+7,171341,Potato Chips,Q,07
+7,171342,Potato Curls,Q,07
+7,171343,Potato Rings,Q,07
+7,171344,Potato Sticks,Q,07
+7,171345,Potato Crisps,Q,07
+7,171346,"Potato Chips, Salt and Vinegar Flavored",Q,07
+7,171347,"Potato Chips, Sea Salt Flavored",Q,07
+7,171348,"Potato Chips, Sour Cream & Onion Flavored",Q,07
+7,171349,"Potato Chips, BBQ Flavored",Q,07
+7,171350,"Potato Chips, Lime Flavored",Q,07
+7,171351,"Sweet Potato Snacks (Flavored or Unflavored), Vegetable Snacks (Other than Pulses) Baked",Q,09
+7,171352,"Seaweed Snacks (Flavored or Unflavored), Vegetable Snacks (Other than Pulses) Baked",Q,08
+7,171353,Alaria Snack,Q,08
+7,171354,Dulse Snack,Q,08
+7,171355,Kelp Snack,Q,08
+7,171356,Kombu Snack (Asian seaweed snack),Q,08
+7,171357,Laver Snack,Q,08
+7,171358,Nori Chips (Asian seaweed snack),Q,08
+7,171359,Wakame Snack (Asian seaweed snack),Q,08
+7,171360,Seaweed Chips,Q,08
+7,171361,Tempura Seaweed (Asian snack of seaweed covered with cruchy wasabi flavored tempura batter,Q,08
+7,171362,Konnyaku (Asian sweet potato snack),Q,09
+7,171363,Kashidane (Asian sweet potato snack),Q,09
+7,171364,Sweet Potato Chips,Q,09
+7,171365,Sweet Potato Puffs,Q,09
+7,171366,Sweet Potato Curls,Q,09
+7,171367,Sweet Potato Rings,Q,09
+7,171368,Sweet Potato Sticks,Q,09
+7,171369,Yam Chips,Q,09
+7,171370,Yam Puffs,Q,09
+7,171371,Yam Curls,Q,09
+7,171372,Yam Rings,Q,09
+7,171373,Yam Sticks,Q,09
+7,171374,"Taro Snacks (Flavored or Unflavored), Vegetable Snacks (Other than Pulses) Baked",Q,10
+7,171375,Taro Chips,Q,10
+7,171376,Taro Puffs,Q,10
+7,171377,Taro Curls,Q,10
+7,171378,Taro Rings,Q,10
+7,171379,Taro Sticks,Q,10
+7,171380,"Tea Leaf Snacks, Vegetable Snacks (Other than Pulses) Baked",Q,11
+7,171381,Bai-Ming (Fermented tea leaves eaten as sour-tasting snack in Thailand and Myanmar),Q,11
+7,171382,Leppet-so (fermented tea leaves eaten as a sour-tasting snack in Myanmar),Q,11
+7,171383,Miang (fermented tea leaves eaten as sour-tasting snack in Thailand),Q,11
+7,171384,"Yucca Snacks (Flavored or Unflavored), Vegetable Snacks (Other than Pulses) Baked",Q,12
+7,171385,Cassava Chips,Q,12
+7,171386,Cassava Puffs,Q,12
+7,171387,Cassava Curls,Q,12
+7,171388,Cassava Rings,Q,12
+7,171389,Cassava Sticks,Q,12
+7,171390,Manioc Chips,Q,12
+7,171391,Manioc Puffs,Q,12
+7,171392,Manioc Curls,Q,12
+7,171393,Manioc Rings,Q,12
+7,171394,Manioc Sticks,Q,12
+7,171395,Yucca Chips,Q,12
+7,171396,Yucca Puffs,Q,12
+7,171397,Yucca Curls,Q,12
+7,171398,Yucca Rings,Q,12
+7,171399,Yucca Sticks,Q,12
+7,171400,"Vegetable Snacks (Other than Pulses), n.e.c., Baked",Q,99
+7,171401,"Corn Starch Snacks, Baked",S,01
+7,171402,"Potato Starch Snacks, Baked",S,02
+7,171403,"Mixed Starch Snacks, Baked",S,03
+7,171404,"Rice Starch Snacks, Baked",S,04
+7,171406,"Brem (Indonesian snack food made from dried, starchy glutinous rice extract)",S,04
+7,171407,"Sago Snack, Tropical Palm Starch, Baked",S,05
+7,171408,Pearl Sago Snack (Tropical palm starch similar to tapioca in appearance),S,05
+7,171409,Perl Sago Snack (Tropical palm starch similar to tapioca in appearance),S,05
+7,171410,"Tapioca Starch Snacks, Baked",S,06
+7,171411,"Wheat Starch Snacks, Baked",S,07
+7,171412,"Yucca Starch Snacks, Baked",S,08
+7,171413,Manioc Starch Snacks,S,08
+7,171414,Cassava Starch Snacks,S,08
+7,171415,"Starch Snacks, n.e.c., Baked",S,99
+7,171416,"Corn Starch Snacks, Fried/Oil Cook",T,01
+7,171417,"Potato Starch Snacks, Fried/Oil Cook",T,02
+7,171418,"Mixed Starch Snacks, Fried/Oil Cook",T,03
+7,171419,"Rice Starch Snacks, Fried/Oil Cook",T,04
+7,171420,"Brem (Indonesian snack food made from dried, starchy glutinous rice extract)",T,04
+7,171421,"Sago Snack, Tropical Palm Starch, Fried/Oil Cook",T,05
+7,171422,Pearl Sago Snack (Tropical palm starch similar to tapioca in appearance),T,05
+7,171423,Perl Sago Snack (Tropical palm starch similar to tapioca in appearance),T,05
+7,171424,"Tapioca Starch Snacks, Fried/Oil Cook",T,06
+7,171425,"Wheat Starch Snacks, Fried/Oil Cook",T,07
+7,171426,"Yucca Starch Snacks, Fried/Oil Cook",T,08
+7,171427,Manioc Starch Snacks,T,08
+7,171428,Cassava Starch Snacks,T,08
+7,171429,"Starch Snacks, n.e.c., Fried/Oil Cook",T,99
+7,171430,"Genetically Engineered Snacks, n.e.c.",U,99
+7,173763,"Corn Puffs (Flavored or Unflavored), Vegetable Snacks (Other than Pulses) Baked",Q,13
+7,176305,"Quinoa, Grain Snacks (Whole, Split) Baked",I,05
+7,176306,"Quinoa, Grain Snacks (Whole, Split) Fried/Oil Cooked",J,05

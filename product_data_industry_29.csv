@@ -1,0 +1,84 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+29,1946,"Soft Drink, Berry Fruit Flavored, Carbonated",B,01
+29,1947,"Soft Drink, Berry Fruit Flavored, Noncarbonated",A,01
+29,1948,Bottled Water,W,01
+29,1949,"Soft Drink, Citrus Fruit Flavored, Carbonated",B,02
+29,1950,"Soft Drink, Citrus Fruit Flavored, Noncarbonated",A,02
+29,1951,Bottled Spring or Mineral Water,W,02
+29,1952,"Soft Drink, Core Fruit Flavored, Carbonated",B,03
+29,1953,"Soft Drink, Core Fruit Flavored, Noncarbonated",A,03
+29,1954,"Soft Drink, Mixed Fruit Flavored, Carbonated",B,04
+29,1955,"Soft Drink, Mixed Fruit Flavored, Noncarbonated",A,04
+29,1956,"Soft Drink, Pit Fruit Flavored, Carbonated",B,05
+29,1957,"Soft Drink, Pit Fruit Flavored, Noncarbonated",A,05
+29,1958,"Soft Drink, Imitation Fruit Flavored, Carbonated",B,06
+29,1959,"Soft Drink, Imitation Fruit Flavored, Noncarbonated",A,06
+29,1960,"Soft Drink, Subtropical or Tropical Fruit Flavored, Carbonated",B,07
+29,1961,"Soft Drink, Subtropical or Tropical Fruit Flavored, Noncarbonated",A,07
+29,1962,"Soft Drink, Vine Fruit Flavored, Carbonated",B,08
+29,1963,"Soft Drink, Vine Fruit Flavored, Noncarbonated",A,08
+29,1964,"Soft Drink, Other Fruit Flavored, Carbonated",B,09
+29,1965,"Soft Drink, Other Fruit Flavored, Noncarbonated",A,09
+29,1966,"Soft Drink, Root Flavored (Root Beer, Ginger Ale, Etc.), Carbonated",B,20
+29,1967,"Soft Drink, Root Flavored (Root Beer, Ginger Ale, Etc.), Noncarbonated",A,20
+29,1968,Emergency Drinking Water  (Civil Defense),W,20
+29,1969,"Tap Water, Potable  (for Human Consumption)",W,30
+29,1970,Manufactured Ice,W,35
+29,1971,"Soft Drink, Cola, Carbonated",B,50
+29,1972,"Soft Drink, Cola, Noncarbonated",A,50
+29,1973,"Quinine Water, Carbonated",B,55
+29,1974,"Quinine Water, Noncarbonated",A,55
+29,1975,"Soda Water, Carbonated",B,60
+29,1976,"Soda Water, Noncarbonated",A,60
+29,1977,"Soft Drink, Milk Based (Chocolate Flavored, Etc.), Carbonated",B,70
+29,1978,"Soft Drink, Milk Based (Chocolate Flavored, Etc.), Noncarbonated",A,70
+29,1979,"Carbonated Soft Drink, N.E.C.",B,99
+29,1980,"Noncarbonated Soft Drink, N.E.C.",A,99
+29,1981,"Water And Ice, N.E.C.",W,99
+29,1982,"Soft Drinks and Waters Not Mentioned Elsewhere, N.E.C.",Y,99
+29,24383,"Soft Drink, Grass Jelly, Noncarbonated",A,10
+29,24384,"Grass Jelly Drink, Carbonated",B,10
+29,150340,Wine (Nonalcoholic Beverages),C,01
+29,150341,Beer (Nonalcoholic Beverages),C,02
+29,150342,Cider (Nonalcoholic Beverages),C,03
+29,150343,Mixed Drinks (Nonalcoholic Beverages),C,04
+29,150344,"Nonalcoholic Beverages, n.e.c.",C,99
+29,161578,"Soft Drink, Ginseng, Gensing, Noncarbonated",A,21
+29,161579,"Soft Drink, Ginseng, Gensing, Carbonated",B,21
+29,167664,"Soda Water with Fruit Flavor, Noncarbonated",A,11
+29,167665,"Basil Seed Soft Drink, Noncarbonated",A,12
+29,167666,"Bubble Gum Flavored Drink, Noncarbonated",A,13
+29,167667,"Imitation Bird's Nest Soft Drink, Noncarbonated",A,14
+29,167668,"Punch Drink, Noncarbonated",A,15
+29,167669,"Sarsaparilla Drink, Noncarbonated",A,16
+29,167670,"Sorrel Soda, Noncarbonated",A,17
+29,167671,"Soda Water with Fruit Flavor, Carbonated",B,11
+29,167672,"Basil Seed Soft Drink, Carbonated",B,12
+29,167673,"Bubble Gum Flavored Drink, Carbonated",B,13
+29,167674,"Imitation Bird's Nest Soft Drink, Carbonated",B,14
+29,167675,"Punch Drink, Carbonated",B,15
+29,167676,"Sarsaparilla Drink, Carbonated",B,16
+29,167677,"Sorrel Soda, Carbonated",B,17
+29,167707,"Bottled Spring Water, Noncarbonated (Nonmedicinal)",R,01
+29,167708,"Bottled Spring Water with Fruit Flavors, Noncarbonated (Nonmedicinal)",R,02
+29,167709,"Bottled Water, Noncarbonated (Nonmedicinal)",R,03
+29,167710,"Bottled Water with Fruit Flavors, Noncarbonated (Nonmedicinal)",R,04
+29,167711,"Mineral Water, Noncarbonated (Nonmedicinal)",R,05
+29,167712,"Mineral Water with Fruit Flavor, Noncarbonated (Nonmedicinal)",R,06
+29,167714,"Sparkling Water, Noncarbonated (Nonmedicinal)",R,07
+29,167718,"Distilled Water, Noncarbonated (Nonmedicinal)",R,08
+29,167719,"Noncarbonated Water (Nonmedicinal),  N.E.C.",R,99
+29,167720,"Bottled Spring Water, Carbonated Water (Nonmedicinal)",S,01
+29,167721,"Bottled Spring Water with Fruit Flavors, Carbonated Water (Nonmedicinal)",S,02
+29,167722,"Bottled Water, Carbonated Water (Nonmedicinal)",S,03
+29,167723,"Bottled Water with Fruit Flavors, Carbonated Water (Nonmedicinal)",S,04
+29,167724,"Mineral Water, Carbonated Water (Nonmedicinal)",S,05
+29,167725,"Mineral Water with Fruit Flavor, Carbonated Water (Nonmedicinal)",S,06
+29,167726,"Sparkling Water, Carbonated Water (Nonmedicinal)",S,07
+29,167727,"Distilled Water, Carbonated Water (Nonmedicinal)",S,08
+29,167728,"Carbonated Water (Nonmedicinal),  N.E.C.",S,99
+29,167729,Manufactured Ice,V,01
+29,167730,"Ice, N.E.C.",V,99
+29,167731,"Scented Water for Cooking, Soft Drinks and Waters, N.E.C.",Y,01
+29,167732,"Emergency Drinking Water  (Civil Defense), Soft Drinks and Waters, N.E.C.",Y,02
+29,167733,"Tap Water, Potable (for Human Consumption), Soft Drinks and Waters, N.E.C.",Y,03

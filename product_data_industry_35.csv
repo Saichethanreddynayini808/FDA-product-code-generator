@@ -1,0 +1,33 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+35,2327,"Gelatin, Flavored",A,01
+35,2328,"Rennet, Flavored",B,01
+35,2329,Banana Pudding (Pie Filling) Mix (Not Custard),D,01
+35,2330,Apple Fruit Pie Filling,E,01
+35,2331,Potato Pie Filling,F,01
+35,2332,"Gelatin, Plain",A,02
+35,2333,"Rennet, Plain",B,02
+35,2334,Butterscotch Pudding (Pie Filling) Mix (Not Custard),D,02
+35,2335,Apricot Fruit Pie Filling,E,02
+35,2336,Pumpkin or Squash Pie Filling,F,02
+35,2337,Caramel Pudding (Pie Filling) Mix (Not Custard),D,03
+35,2338,"Berries (Blackberry, Blueberry, Strawberry, Etc.) Fruit Pie Filling",E,03
+35,2339,Rhubarb Pie Filling,F,03
+35,2340,Chocolate Pudding (Pie Filling) Mix (Not Custard),D,04
+35,2341,Cherry Fruit Pie Filling,E,04
+35,2342,Rice Pie Filling,F,04
+35,2343,Chocolate Flavored Pudding (Pie Filling) Mix (Not Custard),D,05
+35,2344,Minced Meat Fruit Pie Filling,E,05
+35,2345,Coconut Pudding (Pie Filling) Mix (Not Custard),D,06
+35,2346,Peach Fruit Pie Filling,E,06
+35,2347,Lemon Pudding (Pie Filling) Mix (Not Custard),D,07
+35,2348,Nut Flavored Pudding (Pie Filling) Mix (Not Custard),D,08
+35,2349,Tapioca Pudding (Pie Filling) Mix (Not Custard),D,09
+35,2350,Vanilla Pudding (Pie Filling) Mix (Not Custard),D,10
+35,2351,"Gelatin, N.E.C.",A,99
+35,2352,"Rennet, N.E.C.",B,99
+35,2353,"Custard Pudding (Pie) Mix, N.E.C.",C,99
+35,2354,"Pudding (Pie Filling) Mix, N.E.C.  (Not Custard)",D,99
+35,2355,"Fruit Pie Filling, N.E.C.",E,99
+35,2356,"Vegetable Pie Filling, N.E.C.",F,99
+35,24391,Agar Agar (Gelatin Product),A,03
+35,24392,Grass Jelly (Gelatin Product),A,04

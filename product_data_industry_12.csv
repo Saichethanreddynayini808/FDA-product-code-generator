@@ -1,0 +1,108 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+12,371,"Cheese, Asiago, Fresh, Medium Soft and Old",A,01
+12,372,"Cheese Food, Cold Pack (Standardized) (Hickory Smoked, Etc.)",B,01
+12,373,"Cheese, Cajeta de Celaya",C,01
+12,374,"Cheese, Blue",A,02
+12,375,"Cheese, Cream with other Foods (Standardized)",B,02
+12,376,Cheese Salami Roll,C,02
+12,377,"Cheese, Brick",A,03
+12,378,"Cheese, Pasteurized, Blended (Standardized)",B,03
+12,379,"Cheese, Fortagida",C,03
+12,380,"Cheese, Caviocavallo Siciliano",A,04
+12,381,"Cheese, Pasteurized, Blended with Fruit, Vegetables or Meats (Standardized)",B,04
+12,382,"Cheese, Fortinella",C,04
+12,383,"Cheese, Cheddar",A,05
+12,384,Pasteurized Cheese Spread,B,05
+12,385,"Cheese, Natural, Smoked (Non-Standardized)",C,05
+12,386,"Cheese, Colby",A,06
+12,387,"Pasteurized Cheese Spread with Fruits, Vegetables or Meats",B,06
+12,388,"Cheese, Pizza",C,06
+12,389,"Cheese, Cold Pack , Club",A,07
+12,390,"Cheese, Neufchatel, Pasteurized with other Foods (Standardized)",B,07
+12,391,"Cheese, Sage",C,07
+12,392,"Cheese, Cook, Koch",A,08
+12,393,"Cheese, Cheese, Pasteurized, Processed with Fruit, Vegetables or Meats (Standardized)",B,08
+12,394,"Cheese, Stilton",C,08
+12,395,Cottage Cheese Dry Curd(<0.5% Milkfat),A,09
+12,396,Pasteurized Process Cheese Foods,B,09
+12,397,"Cheese, Syrian",C,09
+12,398,"Cheese, Cream",A,10
+12,399,"Pasteurized Process Cheese Foods With Fruits, Vegetables or Meats",B,10
+12,401,Cottage Cheese (Not < 4% Milkfat),A,11
+12,402,Pasteurized Process Cheese Spread,B,11
+12,403,"Cheese, Ricotta",C,11
+12,404,"Cheese, Edam",A,12
+12,405,"Pasteurized Process Cheese Spread with Fruits, Vegetables or Meats",B,12
+12,406,"Cheese, Pasteurized, Process (Standardized)",B,13
+12,407,"Cheese, Gammetost",A,14
+12,408,"Cheese, Gorgonzola",A,15
+12,409,"Cheese, Gouda",A,16
+12,410,"Cheese, Grandualr",A,17
+12,411,"Cheese, Gruyere",A,18
+12,412,"Cheese, Hard (Chesire,Esrum,Fortina,Fortine,Kasseni,Mozzarella,Montasio,Pecarino,Port Salut, Etc)",A,19
+12,413,"Cheese, Hard Grating",A,30
+12,414,"Cheese, Jack, High Moisture",A,35
+12,415,"Cheese, Limburger",A,37
+12,416,"Cheese, Monterey",A,38
+12,417,"Cheese, Muenster",A,39
+12,418,"Cheese, Neufchatel",A,40
+12,419,"Cheese, Nuworld",A,41
+12,420,"Cheese, Parmesan",A,42
+12,421,"Cheese, Pastafilata",A,43
+12,422,"Cheese, Provolone",A,44
+12,423,"Cheese, Romano",A,47
+12,424,"Cheese, Reggiano",A,48
+12,425,"Cheese, Roquefort",A,49
+12,426,"Cheese, Samsoe",A,50
+12,427,"Cheese, Sap Sago",A,51
+12,428,"Cheese, Semisoft",A,52
+12,429,"Cheese, Semisoft, Part Skim",A,53
+12,430,"Cheese, Skim for Manufacturing",A,54
+12,431,"Cheese, Soaked Curd",A,55
+12,432,"Soft Ripened  Cheese Made from Cow's Milk (e.g., brie, camembert)",A,56
+12,433,"Cheese, Spiced (Standardized)",A,57
+12,434,"Cheese, Spiced, Part Skim  (Standardized)",A,58
+12,435,"Cheese, Stirred Curd (Standardized)",A,59
+12,436,"Cheese, Swiss, Emmentaler",A,60
+12,437,"Cheese, Washed Curd (Standardized)",A,61
+12,438,Cottage Cheese Low Fat(0.5-2.0% Milkfat),A,62
+12,439,"Cheese (Standardized),N.E.C.",A,99
+12,440,"Cheese Products, Standardized, N.E.C.",B,99
+12,441,"Cheese Products, Non-Standardized, N.E.C.",C,99
+12,442,"Cheese And Cheese Products, Not Elsewhere Mentioned, N.E.C.",Y,99
+12,23859,"Cheese, Havarti",C,14
+12,23860,"Soft ripened cheese made from goat's milk (e.g., chevre, feta, goat)",C,12
+12,23861,"Cheese, Hispanic/Latino/Mexican Style, all varieties, including queso",C,13
+12,25040,"Cheese, Goat, N.E.C.",C,15
+12,25041,"Cheese, Sheep, N.E.C.",C,16
+12,25436,Anthotyro Cheese (Soft white goat's milk cheese flavored w/herbs or honey produced in Greece,C,99
+12,25441,"Asadero (hard, spun-curd or pasta filata cow's milk cheese, produced in Mexico",C,13
+12,25537,"Graviera Cheese (gruyere-type cow's or sheep's milk hard cheese, produced in Greece)",A,18
+12,25548,"Haloumy Cheese (white brined sheep, goat or cow's milk cheese, produced in Greece, Cyprus, & Lebanon",C,99
+12,25610,"Quesillo (semisoft, mild, acidic cow's milk cheese, in banana/maize leaves from Chile and Paraguay)",C,99
+12,25611,"Queso Anejo (aged, lowfat cow or goat's milk cheese, hard, salty & matured 6-10 months)",C,13
+12,25612,"Queso Crema (Latin American cream cheese-type cheese used as a substitute for butter, dry & crumbly)",C,13
+12,25613,Queso Menonita (Mexican cheese similar to a mild cheddar-type cheese),C,13
+12,25675,Kasseri Cheese (hard spun-curd or pasta filata sheep's or goat's milk cheese from Greece),C,99
+12,25740,"Touloumisio cheese (Greek white brined cow's milk cheese hard to semihard, crumbly in texture)",C,99
+12,25751,Kefalotiri Cheese (sheep's or mixed goat's & sheep's milk cheese having salty flavor hard texture),C,99
+12,25770,Kopanisti Cheese (Greek blue-mold cheese with a peppery sharp flavor),C,99
+12,152643,"Soft, semi-soft cheese made from cow's milk (includes feta type cheese)",C,17
+12,160640,Soft ripened cheese made from sheep's milk,A,63
+12,160641,Soft ripened cheese made from a mixture of animal milk,A,64
+12,164159,Skyr,D,95
+12,175032,"Cottage Cheese, Grade ""A""",A,65
+12,176778,Quesito Casero,C,13
+12,176779,Queso Adobera,C,13
+12,176780,Queso Asadero,C,13
+12,176781,Queso Blanco,C,13
+12,176782,Queso Blando,C,13
+12,176783,Queso Chihuahua,C,13
+12,176784,Queso Cotija,C,13
+12,176785,Queso Cuahada (Cuajada en Terron),C,13
+12,176786,"Queso Fresco (including Aro, Molido, Ranchero)",C,13
+12,176787,Queso Honduras,C,13
+12,176788,"Queso Oaxaca (including Queso de Hebra, de Bola, Quesillo)",C,13
+12,176789,Queso Palmita,C,13
+12,176790,Queso Panela,C,13
+12,176791,Queso Requeson,C,13

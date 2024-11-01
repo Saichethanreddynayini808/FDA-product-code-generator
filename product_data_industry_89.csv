@@ -1,0 +1,208 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+89,19574,"Exerciser, Powered",B,XB
+89,20327,"Device, Iontophoresis, Other Uses",E,GJ
+89,21692,"Diathermy, Microwave, For Use Other Than Applying Therapeutic Deep Heat",H,PH
+89,21959,"Cable, Electrode",I,KD
+89,21960,"Transducer, Miniature Pressure",I,KE
+89,21961,"System, Isokinetic Testing And Evaluation",I,KK
+89,21963,"Hammer, Reflex, Powered",I,KO
+89,21964,Chronaximeter,I,KP
+89,21966,"Utensil, Homemaking",I,KW
+89,21967,"Aid, Transfer",I,KX
+89,21969,"Bed, Patient Rotation, Powered",I,KZ
+89,21970,"Utensil, Eating",I,LC
+89,21971,"Adaptor, Dressing",I,LD
+89,21972,"Sling, Arm, Overhead Supported",I,LE
+89,21974,"Splint, Hand, And Components",I,LH
+89,21975,"Sling, Arm",I,LI
+89,21976,"Bath, Hydro-Massage",I,LJ
+89,21977,"Transport, Patient, Powered",I,LK
+89,21978,"Bath, Sitz, Powered",I,LM
+89,21979,"Pack, Hot Or Cold, Water Circulating",I,LO
+89,21980,"System, Communication, Non-Powered",I,LP
+89,21981,"System, Communication, Powered",I,LQ
+89,21982,"Adaptor, Hygiene",I,LS
+89,21983,"Adaptor, Recreational",I,LT
+89,21984,"Adaptor, Grooming",I,LW
+89,21985,"Diathermy, Shortwave, For Use Other Than Applying Therapeutic Deep Heat",I,LX
+89,21986,"Lamp, infrared, therapeutic heating",I,LY
+89,21987,"Accessories, Traction",I,LZ
+89,21988,"Pack, Heat, Moist",I,MA
+89,21989,"Cabinet, Moist Steam",I,MB
+89,21990,"Bath, Paraffin",I,MC
+89,21991,"Pack, Hot Or Cold, Disposable",I,MD
+89,21992,"Pack, Hot Or Cold, Reuseable",I,ME
+89,21993,"Unit, Chilling",I,MF
+89,21994,"Stimulator, Ultrasound And Muscle, For Use In Applying Therapeutic Deep Heat",I,MG
+89,21995,"Diathermy, Ultrasonic, For Use In Applying Therapeutic Deep Heat",I,MI
+89,21996,"Diathermy, Shortwave, For Use In Applying Therapeutic Deep Heat",I,MJ
+89,21997,"Wheelchair, Stair Climbing",I,MK
+89,21998,"Armrest, Wheelchair",I,ML
+89,21999,"Footrest, Wheelchair",I,MM
+89,22000,"Climber, Curb, Wheelchair",I,MN
+89,22001,"Handrim, Wheelchair",I,MO
+89,22002,"Cushion, Wheelchair",I,MP
+89,22003,"Attachment, Narrowing, Wheelchair",I,MQ
+89,22004,"Device, Anti-Tip, Wheelchair",I,MR
+89,22005,"Support, Head And Trunk, Wheelchair",I,MS
+89,22006,"Brake, Extension, Wheelchair",I,MW
+89,22007,"Board, Lap, Wheelchair",I,MX
+89,22008,"Armboard, Wheelchair",I,MY
+89,22009,"Holder, Crutch And Cane, Wheelchair",I,MZ
+89,22010,"Hill Holder, Wheelchair",I,
+89,22011,"Attachment, Commode, Wheelchair",I,NB
+89,22012,"Cuff, Pusher, Wheelchair",I,NC
+89,22013,"Sling, Overhead Suspension, Wheelchair",I,NE
+89,22014,"Scale, Platform, Wheelchair",I,NF
+89,22015,"Elevator, Wheelchair",I,NG
+89,22016,"Vehicle, Motorized 3-Wheeled",I,NI
+89,22017,"Stretcher, Wheeled, Powered",I,NK
+89,22018,"Chair, With Casters",I,NM
+89,22019,"Chair, Adjustable, Mechanical",I,NN
+89,22020,"Chair, Positioning, Electric",I,NO
+89,22021,"Tips And Pads, Cane, Crutch And Walker",I,NP
+89,22022,"Table, Powered",I,NQ
+89,22023,Plinth,I,NT
+89,22024,"Table, Mechanical",I,NW
+89,22025,"Bed, Air Fluidized",I,NX
+89,22026,"Bed, Patient Rotation, Manual",I,NY
+89,22027,"Diathermy, Microwave, For Use In Applying Therapeutic Deep Heat",I,OA
+89,22029,"Components, Exercise",I,OD
+89,22030,"Bars, Parallel, Exercise",I,OE
+89,22031,"Treadmill, Mechanical",I,OG
+89,22032,"Treadmill, Powered",I,OL
+89,22033,"Exerciser, Non-Measuring",I,ON
+89,22034,"Bed, Flotation Therapy, Powered",I,OQ
+89,22035,"Wheelchair, Mechanical",I,OR
+89,22036,"Support, Arm",I,OY
+89,22037,"Splint, Abduction, Congenital Hip Dislocation",I,OZ
+89,22038,"Stimulator, Muscle, Powered",I,PF
+89,22039,"Shoe, Cast",I,PG
+89,22040,"Wheelchair, Standup",I,PL
+89,22041,"Cover, Limb",I,PM
+89,22042,"Orthosis, Pneumatic Structure, Rigid",I,PO
+89,22043,Crutch,I,PR
+89,22044,Cane,I,PS
+89,22045,"Orthosis, Thoracic",I,PT
+89,22046,"Orthosis, Sacroiliac, Soft",I,PW
+89,22047,"Orthosis, Rib Fracture, Soft",I,PX
+89,22048,"Orthosis, Lumbo-Sacral",I,PY
+89,22049,"System, Environmental Control, Powered",I,QA
+89,22050,"Belt, Wheelchair",I,QB
+89,22051,"Wheelchair, Special Grade",I,QC
+89,22052,"Orthosis, Lumbar",I,QE
+89,22053,"Orthosis, Cervical-Thoracic, Rigid",I,QF
+89,22055,"Orthosis, Limb Brace",I,QI
+89,22056,"Splint, Clavical",I,QJ
+89,22057,"Orthosis, Cervical",I,QK
+89,22058,"Splint, Temporary Training",I,QM
+89,22059,"Device, Prosthesis Alignment",I,QO
+89,22060,"Rotator, Transverse",I,QP
+89,22061,"Joint, Shoulder, External Limb Component",I,QQ
+89,22062,"Hook, External Limb Component, Powered",I,QW
+89,22063,"Hook, External Limb Component, Mechanical",I,QX
+89,22064,"Hand, External Limb Component, Powered",I,QZ
+89,22065,"Hand, External Limb Component, Mechanical",I,RA
+89,22066,"Joint, Elbow, External Limb Component, Mechanical",I,RD
+89,22067,"Joint, Elbow, External Limb Component, Powered",I,RE
+89,22068,"Device, Warning, Overload, External Limb, Powered",I,RN
+89,22069,"Vibrator, Therapeutic",I,RO
+89,22070,"Massager, Powered Inflatable Tube",I,RP
+89,22071,"Unit, Heating, Powered",I,RQ
+89,22072,"Bars, Parallel, Powered",I,RR
+89,22073,"Head Halter, Traction",I,RS
+89,22074,"Pad, Heating, Powered",I,RT
+89,22076,"Massager, Therapeutic, Electric",I,SA
+89,22077,"Stimulator, Muscle, Diagnostic",I,SB
+89,22078,"Exerciser, Measuring",I,SD
+89,22079,"Component, External, Limb, Ankle/Foot",I,SH
+89,22080,"Joint, Hip, External Limb Component",I,SL
+89,22081,"Pylon, Post Surgical",I,SM
+89,22082,Cable,I,SN
+89,22083,"Valve, Prosthesis",I,SP
+89,22084,"Band Or Belt, Pelvic Support",I,SR
+89,22085,"Prosthesis, Thigh Socket, External Component",I,SS
+89,22086,"Assembly, Knee/Shank/Ankle/Foot, External",I,SW
+89,22087,"Joint, Knee, External Limb Component",I,SY
+89,22088,"Unit, Wrist, External Limb Component, Mechanical",I,SZ
+89,22089,"Stirrup, External Brace Component",I,TC
+89,22090,"Bandage, Cast",I,TG
+89,22091,"Equipment, Traction, Powered",I,TH
+89,22092,"Wheelchair, Powered",I,TI
+89,22093,"Walker, Mechanical",I,TJ
+89,22094,"Cage, Knee",I,TM
+89,22095,"Splint, Denis Brown",I,TN
+89,22096,"Twister, Brace Setting",I,TO
+89,22097,"Joint, Knee, External Brace",I,TQ
+89,22098,"Joint, Hip, External Brace",I,TS
+89,22099,"Joint, Ankle, External Brace",I,TW
+89,22273,"Exerciser, Finger, Powered",J,FA
+89,22274,"Table, Physical Therapy, Multi Function",J,FB
+89,22275,"System, Pressure Measurement, Intermittent",J,FC
+89,22766,"Assembly, Shoulder/Elbow/Forearm/Wrist/Hand, Mechanical",K,FT
+89,22767,"Assembly, Shoulder/Elbow/Forearm/Wrist/Hand, Powered",K,FW
+89,22768,"Assembly, Thigh/Knee/Shank/Ankle/Foot, External",K,FX
+89,22777,"Unit, Wrist, External Limb Component, Powered",K,GH
+89,22808,"Platform, Force-Measuring",K,HX
+89,22809,"Cane, Safety Walk",K,HY
+89,22811,"Cushion, Flotation",K,IC
+89,22812,Restraint,K,ID
+89,22923,"Board, Scooter, Prone",K,NL
+89,22924,"Device, Pressure Applying",K,NM
+89,22925,"Components, Wheelchair",K,NN
+89,22926,"Accessories, Wheelchair",K,NO
+89,22927,"Orthosis, Corrective Shoe",K,NP
+89,23043,"Device, Iontophoresis, Specific Uses",K,TB
+89,23044,"Bath, Sitz, Nonpowered",K,TC
+89,23045,"Orthosis, Abdominal",K,TD
+89,23181,"Stroller, Adaptive",L,BE
+89,23183,"Device, Fluidized Therapy, Dry Heat",L,BG
+89,23231,"Device, Sensing, Optical Contour",L,DK
+89,23272,"Unit, activation, breath control",L,FF
+89,23575,"Unit, fluidotherapy",L,SB
+89,23651,"Diathermy, Ultrasonic, For Use Other Than Applying Therapeutic Deep Heat",L,XF
+89,23665,"System, optical position/movement recording",L,XJ
+89,23668,"Manipulator, Plunger-Like Joint",L,XM
+89,23688,"Massager, Therapeutic, Manual",L,YG
+89,23745,"Monitor, Spine Curvature",L,ZW
+89,25007,"Device, Peripheral Electromagnetic Field (Pemf) To Aid Wound Healing",M,BQ
+89,25387,"Stocking, Elastic",I,LG
+89,25390,"Stimulator, Functional Neuromuscular, Scoliosis",L,WB
+89,25394,"Refrigerant, Topical (Vapocollant)",M,LY
+89,25395,"Orthosis, Moldable, Supportive, Skin Protective",M,NE
+89,25398,"Cushion, flotation, therapeutic",M,OC
+89,25401,Infant Heel Warmer (Chemical Heat Pack),M,PO
+89,151604,"Helmet, Cranial, for Protective Use",N,DA
+89,152399,"Lamp, Infrared, Physical Medicine",I,OB
+89,152400,"Orthosis, Truncal/Orthosis, Limb",M,RI
+89,152883,"Stimulator, Muscle, Powered, for Muscle Conditioning",N,GX
+89,153183,"Lamp, Non-Heating, for Adjunctive Use in Pain Therapy",N,HN
+89,153191,"Monitor, Orthotic/Prosthesis",N,HF
+89,153303,"Orthosis, Truncal, for Dysmenorrhea",N,JB
+89,156835,"Walker, mechanical, pvc",N,XE
+89,157510,"Stimulator, muscle, powered, with limited output, for muscle conditioning",N,YZ
+89,157511,"Stimulator, muscle, powered, with limited output, for rehabilitation",N,YY
+89,157856,"Exercise equipment, powered, emg-triggered",O,AL
+89,164499,"Orthosis, foot drop",O,HI
+89,167019,adhesive backed thermal skin patches,O,MW
+89,172102,Powered stairway chair lift,P,CD
+89,172103,Permanently mounted wheelchair platform lift,P,CE
+89,173012,Stationary ultrasonic diathermy device for use in applying therapeutic deep heat,P,FW
+89,173086,Upper extremity prosthesis with multiple simultaneous degrees of freedom and controlled via cutaneou,P,AE
+89,173114,Cold pack and vibrating massager,P,HW
+89,173609,"exerciser, non-measuring for stroke rehabilitation",P,KS
+89,174220,"Orthosis, limb, for back pain",P,MV
+89,174590,Nonthermal shortwave therapy device indicated for over the counter use for the treatment of pain,P,QY
+89,174922,"Massager, therapeutic, to internally massage trigger points in the pelvic floor musculature",O,SD
+89,175222,"Stimulator, Neuromuscular, Implanted",G,ZC
+89,175223,"Halter, Head, Traction",H,SS
+89,175280,Shoe with adjustable sole units,Q,DT
+89,175994,"Interactive rehabilitation exercise device, prescription use",Q,KC
+89,175995,"Massager, therapeutic, to internally massage trigger points in the pelvic floor musculature, prescri",Q,KD
+89,176053,External compression device for internal jugular vein compression,Q,NX
+89,176112,Electroencephalography (EEG)-driven upper extremity powered exerciser,Q,OL
+89,176134,"Electromagnetic stimulator, pain relief",Q,PL
+89,176194,"Stimulator, autonomic nerve, implanted for stroke rehabilitation",Q,PY
+89,176197,Virtual reality behavioral therapy device for pain relief,Q,RA
+89,176652,Adult Portable Bed Rails for Medical Purposes,Q,TC
+89,177003,Computerized behavioral therapy device for the treatment of fibromyalgia symptoms,Q,WI

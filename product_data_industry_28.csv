@@ -1,0 +1,622 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+28,1743,"Allspice, Natural Extract or Flavor (Spice)",C,01
+28,1744,"Allspice, Whole (Spice)",A,01
+28,1745,"Allspice, Ground, Cracked  (Spice)",B,01
+28,1746,"Italian Spice, Liquid, without Salt",G,01
+28,1747,"Italian Spice, without Salt",E,01
+28,1748,"Italian Spice, Ground, Cracked, without Salt",F,01
+28,1749,"Celery Salt, Liquid",L,01
+28,1750,Celery Salt,J,01
+28,1751,"Celery Salt, Ground, Cracked",K,01
+28,1752,Imitation Spice Flavor,M,01
+28,1753,"Kola Nut, Raw Material for Extracts and Flavors",N,01
+28,1754,Iodized Salt (Table Salt),S,01
+28,1755,"Almond, Natural Extract or Flavor (Spice)",C,02
+28,1756,"Almond, Whole (Spice)",A,02
+28,1757,"Almond, Ground, Cracked  (Spice)",B,02
+28,1758,"Sausage Seasoning, Liquid, without Salt",G,02
+28,1759,"Sausage Seasoning, without Salt",E,02
+28,1760,"Sausage Seasoning, Ground, Cracked, without Salt",F,02
+28,1761,"Garlic Salt, Liquid",L,02
+28,1762,Garlic Salt,J,02
+28,1763,"Garlic Salt, Ground, Cracked",K,02
+28,1764,Imitation Fruit Flavor,M,02
+28,1765,"Tonka Bean, Raw Material for Extracts and Flavors",N,02
+28,1766,Plain Salt (Table Salt),S,02
+28,1767,"Anise (Star Anise), Natural Extract or Flavor  (Spice)",C,03
+28,1768,Anise (Star Anise)  (Spice),A,03
+28,1769,"Anise (Star Anise), Ground, Cracked  (Spice)",B,03
+28,1770,"Onion Salt, Liquid",L,03
+28,1771,Onion Salt,J,03
+28,1772,"Onion Salt, Ground, Cracked",K,03
+28,1773,Imitation Nut Flavor,M,03
+28,1774,"Vanilla Bean, Raw Material for Extracts and Flavors",N,03
+28,1775,"Basil (Sweet Basil), Natural Extract or Flavor  (Spice)",C,04
+28,1776,"Basil (Sweet Basil), Whole  (Spice)",A,04
+28,1777,"Basil (Sweet Basil), Ground, Cracked  (Spice)",B,04
+28,1778,"Meat Tenderizer, Liquid, with Salt",L,04
+28,1779,Meat Tenderizer (with Salt),J,04
+28,1780,"Meat Tenderizer, Ground, Cracked, with Salt",K,04
+28,1781,"Bay (Laurel), Natural Extract or Flavor  (Spice)",C,05
+28,1782,"Bay (Laurel), Whole  (Spice)",A,05
+28,1783,"Bay (Laurel), Ground, Cracked  (Spice)",B,05
+28,1784,"Sausage Seasoning, Liquid, with Salt",L,05
+28,1785,"Sausage Seasoning, with Salt",J,05
+28,1786,"Sausage Seasoning, Ground, Cracked, with Salt",K,05
+28,1787,"Butter Flavoring, Natural Extract or Flavor  (Spice)",C,06
+28,1788,"Butter Flavoring, Whole (Spice)",A,06
+28,1789,"Butter Flavoring, Ground, Cracked  (Spice)",B,06
+28,1790,"Capers, Natural Extract or Flavor  (Spice)",C,07
+28,1791,"Capers, Whole (Spice)",A,07
+28,1792,"Capers, Ground, Cracked  (Spice)",B,07
+28,1793,"Capsicums (Cayenne Chili, Hot Peppers), Natural Extract or Flavor  (Spice)",C,08
+28,1794,"Capsicums (Cayenne Chili, Hot Peppers), Whole  (Spice)",A,08
+28,1795,"Capsicums (Cayenne Chili, Hot Peppers), Ground, Cracked  (Spice)",B,08
+28,1796,"Caraway, Natural Extract or Flavor  (Spice)",C,09
+28,1797,"Caraway, Whole  (Spice)",A,09
+28,1798,"Caraway, Ground, Cracked  (Spice)",B,09
+28,1799,"Cardamon, Natural Extract or Flavor  (Spice)",C,10
+28,1800,"Cardamon, Whole (Spice)",A,10
+28,1801,"Cardamon, Ground, Cracked  (Spice)",B,10
+28,1802,"Garlic, Natural Extract or Flavor  (Spice)",C,11
+28,1803,"Garlic, Whole (Spice)",A,11
+28,1804,"Garlic, Ground, Cracked  (Spice)",B,11
+28,1805,"Celery Flakes, Natural Extract or Flavor  (Spice)",C,12
+28,1806,"Celery, Whole (Spice)",A,12
+28,1807,"Celery, Ground, Cracked  (Spice)",B,12
+28,1808,"Cinnamon, Cassia, Natural Extract or Flavor  (Spice)",C,13
+28,1809,"Cinnamon, Cassia, Whole  (Spice)",A,13
+28,1810,"Cinnamon, Cassia, Ground, Cracked   (Spice)",B,13
+28,1811,"Clove, Natural Extract or Flavor  (Spice)",C,14
+28,1812,"Clove, Whole (Spice)",A,14
+28,1813,"Clove, Ground, Cracked  (Spice)",B,14
+28,1814,"Coriander, Natural Extract or Flavor (Spice)",C,15
+28,1815,"Coriander, Whole (Spice)",A,15
+28,1816,"Coriander, Ground, Cracked  (Spice)",B,15
+28,1817,"Cumin, Natural Extract or Flavor  (Spice)",C,16
+28,1818,"Cumin, Whole (Spice)",A,16
+28,1819,"Cumin, Ground, Cracked  (Spice)",B,16
+28,1820,"Dill, Natural Extract or Flavor  (Spice)",C,17
+28,1821,"Dill, Whole (Spice)",A,17
+28,1822,"Dill, Ground, Cracked  (Spice)",B,17
+28,1823,"Fennel, Natural Extract or Flavor  (Spice)",C,18
+28,1824,"Fennel, Whole (Spice)",A,18
+28,1825,"Fennel, Ground, Cracked  (Spice)",B,18
+28,1826,"Ginger, Natural Extract or Flavor  (Spice)",C,19
+28,1827,"Ginger, Whole  (Spice)",A,19
+28,1828,"Ginger, Ground, Cracked  (Spice)",B,19
+28,1829,"Hops, Natural Extract or Flavor  (Spice)",C,20
+28,1830,"Hops, Whole (Spice)",A,20
+28,1831,"Hops, Ground, Cracked  (Spice)",B,20
+28,1832,"Horseradish Root, Natural Extract or Flavor  (Spice)",C,21
+28,1833,"Horseradish Root, Whole (Spice)",A,21
+28,1834,"Horseradish Root, Ground, Cracked  (Spice)",B,21
+28,1835,"Lemon, Natural Extract or Flavor  (Spice)",C,22
+28,1836,"Lemon, Whole  (Spice)",A,22
+28,1837,"Lemon, Ground, Cracked  (Spice)",B,22
+28,1838,"Lime, Natural Extract or Flavor  (Spice)",C,23
+28,1839,"Lime, Whole (Spice)",A,23
+28,1840,"Lime, Ground, Cracked (Spice)",B,23
+28,1841,"Mace, Natural Extract or Flavor  (Spice)",C,24
+28,1842,"Mace, Whole (Spice)",A,24
+28,1843,"Mace, Ground, Cracked  (Spice)",B,24
+28,1844,"Malt, Natural Extract or Flavor  (Spice)",C,25
+28,1845,"Malt Extract, Whole (Spice)",A,25
+28,1846,"Malt Extract, Ground, Cracked  (Spice)",B,25
+28,1847,"Maple, Natural Extract or Flavor  (Spice)",C,26
+28,1848,"Maple, Whole (Spice)",A,26
+28,1849,"Maple, Ground, Cracked  (Spice)",B,26
+28,1850,"Marjoram, Natural Extract or Flavor  (Spice)",C,27
+28,1851,"Marjoram, Whole  (Spice)",A,27
+28,1852,"Marjoram, Ground, Cracked  (Spice)",B,27
+28,1853,"Mint, Natural Extract or Flavor  (Spice)",C,28
+28,1854,"Mint, Whole (Spice)",A,28
+28,1855,"Mint, Ground, Cracked  (Spice)",B,28
+28,1856,"Mustard, Natural Extract or Flavor  (Spice)",C,29
+28,1857,"Mustard, Whole (Spice)",A,29
+28,1858,"Mustard, Ground, Cracked  (Spice)",B,29
+28,1859,"Nutmeg, Natural Extract or Flavor  (Spice)",C,30
+28,1860,"Nutmeg, Whole (Spice)",A,30
+28,1861,"Nutmeg, Ground, Cracked  (Spice)",B,30
+28,1862,"Onion, Natural Extract or Flavor  (Spice)",C,31
+28,1863,"Onion, Whole (Spice)",A,31
+28,1864,"Onion, Ground, Cracked  (Spice)",B,31
+28,1865,"Orange, Natural Extract or Flavor  (Spice)",C,32
+28,1866,"Orange, Whole (Spice)",A,32
+28,1867,"Orange, Ground, Cracked  (Spice)",B,32
+28,1868,"Paprika, Natural Extract or Flavor  (Spice)",C,33
+28,1869,"Paprika, Whole (Spice)",A,33
+28,1870,"Paprika, Ground, Cracked  (Spice)",B,33
+28,1871,"Peach, Natural Extract or Flavor  (Spice)",C,34
+28,1872,"Peach, Whole (Spice)",A,34
+28,1873,"Peach, Ground, Cracked  (Spice)",B,34
+28,1874,"Pepper, Black, Natural Extract or Flavor  (Spice)",C,54
+28,1876,"Pepper, Black, Ground, Cracked  (Spice)",B,54
+28,1877,"Peppermint, Natural Extract or Flavor  (Spice)",C,36
+28,1878,"Peppermint, Whole (Spice)",A,36
+28,1879,"Peppermint, Ground, Cracked  (Spice)",B,36
+28,1880,"Poppyseed, Natural Extract or Flavor  (Spice)",C,37
+28,1881,"Poppyseed, Whole (Spice)",A,37
+28,1882,"Poppyseed, Ground, Cracked  (Spice)",B,37
+28,1883,"Raspberry, Natural Extract or Flavor  (Spice)",C,38
+28,1884,"Raspberry, Whole (Spice)",A,38
+28,1885,"Raspberry, Ground, Cracked  (Spice)",B,38
+28,1886,"Rose (Attar of Roses), Natural Extract or Flavor  (Spice)",C,39
+28,1887,"Rose (Attar of Roses), Whole (Spice)",A,39
+28,1888,"Rose (Attar of Roses), Ground, Cracked  (Spice)",B,39
+28,1889,"Saffron, Natural Extract or Flavor  (Spice)",C,40
+28,1890,"Saffron, Whole (Spice)",A,40
+28,1891,"Saffron, Ground, Cracked  (Spice)",B,40
+28,1892,"Sage, Natural Extract or Flavor  (Spice)",C,41
+28,1893,"Sage, Whole (Spice)",A,41
+28,1894,"Sage, Ground, Cracked  (Spice)",B,41
+28,1895,"Savory, Natural Extract or Flavor  (Spice)",C,42
+28,1896,"Savory, Whole (Spice)",A,42
+28,1897,"Savory, Ground, Cracked  (Spice)",B,42
+28,1898,"Sesame, Natural Extract or Flavor  (Spice)",C,43
+28,1899,"Sesame, Whole (Spice)",A,43
+28,1900,"Sesame, Ground, Cracked  (Spice)",B,43
+28,1901,"Smoke Flavoring, Pyroligenous Acid, Natural Extract or Flavor  (Spice)",C,44
+28,1902,"Smoke Flavoring, Pyroligenous Acid, Whole, (Spice)",A,44
+28,1903,"Smoke Flavoring, Pyroligenous Acid, Ground, Cracked  (Spice)",B,44
+28,1904,"Spearmint, Natural Extract or Flavor  (Spice)",C,45
+28,1905,"Spearmint, Whole (Spice)",A,45
+28,1906,"Spearmint, Ground, Cracked  (Spice)",B,45
+28,1907,"Strawberry, Natural Extract or Flavor  (Spice)",C,46
+28,1908,"Strawberry, Whole (Spice)",A,46
+28,1909,"Strawberry, Ground, Cracked  (Spice)",B,46
+28,1910,"Tarragon, Natural Extract or Flavor  (Spice)",C,47
+28,1911,"Tarragon, Whole (Spice)",A,47
+28,1912,"Tarragon, Ground, Cracked  (Spice)",B,47
+28,1913,"Thyme, Natural Extract or Flavor  (Spice)",C,48
+28,1914,"Thyme, Whole (Spice)",A,48
+28,1915,"Thyme, Ground, Cracked  (Spice)",B,48
+28,1916,"Turmeric, Natural Extract or Flavor  (Spice)",C,49
+28,1917,"Turmeric, Whole (Spice)",A,49
+28,1918,"Turmeric, Ground, Cracked (Spice)",B,49
+28,1919,"Tonka, Natural Extract or Flavor  (Spice)",C,50
+28,1920,"Tonka, Whole (Spice)",A,50
+28,1921,"Tonka, Ground, Cracked  (Spice)",B,50
+28,1922,"Vanilla, Natural Extract or Flavor  (Spice)",C,51
+28,1923,"Vanilla, Whole (Spice)",A,51
+28,1924,"Vanilla, Ground, Cracked  (Spice)",B,51
+28,1925,"Wintergreen, Natural Extract or Flavor  (Spice)",C,52
+28,1926,"Wintergreen, Whole (Spice)",A,52
+28,1927,"Wintergreen, Ground, Cracked  (Spice)",B,52
+28,1928,"Rosemary, Natural Extract or Flavor  (Spice)",C,53
+28,1929,"Rosemary, Whole (Spice)",A,53
+28,1930,"Rosemary, Ground, Cracked  (Spice)",B,53
+28,1933,"Natural Extract or Flavor, N.E.C.",C,99
+28,1934,"Whole Spice, N.E.C.",A,99
+28,1935,"Spices, Ground, Cracked, Etc., N.E.C.",B,99
+28,1936,"Mixed Spices and Seasonings, Liquid, Without Salt, N.E.C.",G,99
+28,1937,"Mixed Spice and Seaonings, Without Salt, N.E.C.",E,99
+28,1938,"Mixed Spice and Seasonings, Ground, Cracked, without Salt, N.E.C.",F,99
+28,1939,"Mixed Spices and Seasonings, Liquid, With Salt, N.E.C.",L,99
+28,1940,"Mixed Spices and Seasoning With Salt, N.E.C.",J,99
+28,1941,"Spices and Seasoning, Ground, Cracked, With Salt, N.E.C.",K,99
+28,1942,"Imitation Flavor, N.E.C.",M,99
+28,1943,"Raw Material for Extracts and Flavors, N.E.C.",N,99
+28,1944,Salt (Table Salt) N.E.C.,S,99
+28,1945,"Spices, Flavors and Salt Not Mentioned Elsewhere, N.E.C.",Y,99
+28,24361,"Pepper,Black, Whole (Spice)",A,54
+28,24362,"Pepper,White, Whole (Spice)",A,55
+28,24363,"Pepper, White, Ground, Cracked  (Spice)",B,55
+28,24364,"Pepper, White, Natural Extract or Flavor  (Spice)",C,55
+28,24365,"Fenugreek, Whole (Spice)",A,56
+28,24366,"Fenugreek, Ground, Cracked  (Spice)",B,56
+28,24367,"Fenugreek, Natural Extract or Flavor  (Spice)",C,56
+28,24368,"Lemon Grass, Whole (Spice)",A,57
+28,24369,"Lemon Grass, Ground, Cracked  (Spice)",B,57
+28,24370,"Lemon Grass, Natural Extract or Flavor  (Spice)",C,57
+28,24371,"Black Moss, Whole (Spice)",A,58
+28,24372,"Black Moss, Ground, Cracked  (Spice)",B,58
+28,24373,"Black Moss, Natural Extract or Flavor  (Spice)",C,58
+28,24374,"Five Spice Mix, without Salt",E,03
+28,24375,"Five Spice Mix, Ground, Cracked, without Salt",F,03
+28,24376,"Five Spice Mix, Liquid, without Salt",G,03
+28,24377,"Curry Powder, without Salt",E,04
+28,24378,"Curry Powder, Ground, Cracked, without Salt",F,04
+28,24379,"Curry Powder, Liquid, without Salt",G,04
+28,24380,Vanilla (Vanillin) Imitation Flavor,M,04
+28,24381,"Salt, Rock  (Table Salt)",S,03
+28,24382,"Salt, Sea  (Table Salt)",S,04
+28,25427,Ahp Sun (Dried Chinese duck gizzard used for flavoring),N,99
+28,25431,Alino Criollo (Venezuelian creole style seasoning powder contains salt cumin annatto pepper oregano,J,99
+28,25434,"Andaliman (Indonesian lemon pepper spice, size of peppercorn berries",A,99
+28,25450,"Baharat (Middle Eastern seasoning made of coriander, cinnamon, cloves, paprika, pepper and nutmeg)",F,99
+28,25466,"Bok Hop (Chinese condiment made from small, white, dried petals of lily plant & other seasonings)",Y,99
+28,25467,"Bombu (Indonesian spice mixture, red chilies, shallots, ginger, galangal, tumeric & candlenuts)",F,99
+28,25490,Char Siu (Vietnamese condiment made from powder red barbeque mixture coating for duck chicken pork),Y,99
+28,25506,"Dalchini (Indian cinnamon used whole, crushed or ground)",B,13
+28,25507,Dhania (Coriander from India),A,15
+28,25515,"Elaichi (Indian word for cardamon, either green, white or black)",A,10
+28,25516,Epazote (Mexican herb used to flavor black beans and other foods),A,99
+28,25531,Geung (Chinese ginger root),A,19
+28,25541,"Gunyan (Indian caraway seed, used to flavor breads and pastries)",A,09
+28,25547,Haldi (Indian term for turmeric),A,49
+28,25553,"Hichimi Togarashi (Japanese seven pepper spice, blend of hot mustard seed, sesame seed & other ingrd",F,99
+28,25573,"Ngo Om (Vietnamese herb w/small round green leaves; sharp citrus flavor, used in hot & sour soup)",A,99
+28,25576,"Ning Mung Jiong (Chinese lemon sauce or jam pungent sweet taste, used as a condiment)",Y,99
+28,25592,Pandan (Indonesian plant w/long slender leaves),B,99
+28,25607,"Podina (Indian name for mint leaf, used extensively in Indian cooking to flavor yogurt salad & pilaf",A,28
+28,25614,Rai (Indian mustard seeds),A,29
+28,25627,Sansho (Japanese pepper (dried berry of prickly ash) used as spice in cooking),B,99
+28,25631,Saunf (Indian name for the spice fennel),A,18
+28,25638,"Sereh (Indonesian lemon grass; used in soups, curry-type dishes and in seasoning mixtures)",A,57
+28,25659,"Jangkap (Indonesian combination spice or 'root seasonings' such as laos, kencur, ginger & lemongrass",F,99
+28,25660,Jeera (Indian term for cumin),B,16
+28,25683,Shoga (Japanese ginger root),A,19
+28,25693,Southernwood (perennial grown wild in central Asia; fibrous root used as an herb in Cambodia & Laos),A,99
+28,25709,"Takrai (Lemon grass from Thailand; used for soups, curry-style dishes & seasoning mixtures)",A,57
+28,25724,"Tej Patta (Indian bay leaf from cassia tree (not American bay laurel), has spicy but mellow taste)",A,13
+28,25734,Toen Chang (Korean mild fermented soybean & grain condiment),Y,99
+28,25752,Kencur (Indonesian potent root spice w/slightly medicinal flavory used frequently in bumbu),A,99
+28,25753,Kesar (Indian term for saffron),A,40
+28,25755,Khas Khas (Indian name for seeds of white poppy plant (Papaver somniferum var. album),A,37
+28,25767,Kona Sansho (Japanese ground pepper made from the sansho or prickly ash leaf),B,99
+28,25788,Laung (Indian term for clove; used extensively as a spice in pilaf & in braised dishes),A,14
+28,25800,Maggi Seasoning (salty nutty flavored dark brown liquid used as a Thai or Vietnamese condiment),Y,99
+28,25802,"Mahlab (Middle Eastern ground cherry stones used for flavoring cakes, pastries & cookies)",B,99
+28,25819,"Methi (Indian term for fenugreek, rectangular brownish yellow seed w/intense aroma)",A,56
+28,25825,Mirin (Japanese sweet alcoholic wine and condiment made from glutinous rice or coconut milk),Y,99
+28,25847,"Ylang Ylang (Philippine flower whose oil is distilled out and used to flavor soft drinks, ice cream)",N,99
+28,150157,"Mustard Oil (essential or volatile), Essential Oils for Flavoring",O,01
+28,150158,"Essential Oils for Flavoring, n.e.c.",O,99
+28,150424,"Cilantro, Whole (Spice)",A,15
+28,150425,"Cilantro, Ground, Cracked  (Spice)",B,15
+28,150426,"Cilantro, Natural Extract or Flavor (Spice)",C,15
+28,158434,Black Peppercorn,A,54
+28,158441,"Green Peppercorn, Whole (Spice)",A,59
+28,158442,Green Peppercorns,A,59
+28,158443,Malabar Peppercorn,A,54
+28,158444,Tellicherry Pepercorn,A,54
+28,158445,Sarawak Peppercorn,A,54
+28,158446,Lampong Peppercorn,A,54
+28,158447,Talamanca del Caribe Peppercorn,A,54
+28,158448,White Pepercorn,A,55
+28,158449,"Pepper, Mixed",A,60
+28,158450,Rainbow Peppercorn,A,60
+28,158451,"Pepper, Pink",A,61
+28,158452,Red Peppercorn,A,61
+28,158453,Brazilian Pink Peppercorn,A,61
+28,158454,White Peppercorn,B,55
+28,158455,Black Peppercorn,B,54
+28,158456,Tellicherry Peppercorn,B,54
+28,158457,Sarawak Peppercorn,B,54
+28,158458,Lampong Peppercorn,B,54
+28,158459,Talamanca del Caribe Peppercorn,B,54
+28,158460,Malaber Peppercorn,B,54
+28,158461,"Green Peppercorn, Ground, Cracked (Spice)",B,59
+28,158462,Green Peppercorns,B,59
+28,158463,"Pepper,  Mixed, Ground, Cracked (Spice)",B,60
+28,158464,Rainbow Peppercorn,B,60
+28,158465,"Pepper,  Pink, Ground, Cracked (Spice)",B,61
+28,158466,Red Peppercorn,B,61
+28,158467,Brazilian Pink Peppercorn,B,61
+28,158787,Pimienta Verde,A,59
+28,158788,Pimienta Verde,B,59
+28,161577,"Carob, Raw Material for Extracts and Flavors",N,04
+28,169752,"Curry Leaf, Whole (Spice)",A,62
+28,169753,"Curry Leaf, Ground, Cracked (Spice)",B,62
+28,169754,"Curry Leaf, Natural Extract or Flavor (Spice)",C,62
+28,169862,Clover Pepper,C,01
+28,169863,Jamaica Pepper,C,01
+28,169864,Myrtle Pepper,C,01
+28,169865,Newspice,C,01
+28,169866,Pimento,C,01
+28,169867,Pimiento,C,01
+28,169868,Toute-Epice,C,01
+28,169869,Anis,C,03
+28,169870,Chinese Anise,C,03
+28,169871,Chinese Star Anise,C,03
+28,169872,Whole Anise,C,03
+28,169873,Bay Laurel Leave,C,05
+28,169874,Sweet Bay Laurel Leaf,C,05
+28,169882,Caynee Chilli,C,08
+28,169883,Hot Peppers,C,08
+28,169884,Degi Mirch,C,08
+28,169885,"Gunyan (Indian caraway seed, used to flavor breads and pastries)",C,09
+28,169886,Cavies,C,09
+28,169887,Brown Cardamon,C,10
+28,169888,"Elaichi (Indian word for cardamon, either green, white or black)",C,10
+28,169889,Green Cardamom,C,10
+28,169890,Yalakkai,C,10
+28,169891,Cassia,C,13
+28,169892,Chinese Cassia,C,13
+28,169893,Chinese Cinnamon,C,13
+28,169894,Darchini,C,13
+28,169895,False Cinnamon,C,13
+28,169896,Lavang,C,14
+28,169897,Chinese Parsley,C,15
+28,169898,Coriander,C,15
+28,169899,Dhania (Coriander from India),C,15
+28,169900,Indian Parsley,C,15
+28,169901,Cumino,C,16
+28,169902,Cummin,C,16
+28,169903,Green Cumin,C,16
+28,169904,Jeera,C,16
+28,169905,White Cumin,C,16
+28,169931,Dill Leaf,C,17
+28,169932,Dillweed,C,17
+28,169933,Dell Weed,C,17
+28,169934,Aniseed,C,18
+28,169935,Sonfor Sombu,C,18
+28,169936,Sweet Cumin,C,18
+28,169937,Geung (Chinese ginger root),C,19
+28,169938,Shoga (Japanese ginger root),C,19
+28,169939,Zingiber,C,19
+28,169940,Limette,C,23
+28,169941,Knot Majoram,C,27
+28,169942,Knotted Marjoram,C,27
+28,169943,Origanum,C,27
+28,169944,"Podina (Indian name for mint leaf, used extensively in Indian cooking to flavor yogurt salad & pilaf",C,28
+28,170002,Hungarian Paprika,C,33
+28,170003,Khas Khas (Indian name for seeds of white poppy plant (Papaver somniferum var. album),C,37
+28,170004,Kesar (Indian term for saffron),C,40
+28,170005,Winter Savory,C,42
+28,170006,Summer Savory,C,42
+28,170007,White Sesame,C,43
+28,170008,Goma,C,43
+28,170009,Benne,C,43
+28,170010,Char Siu (Vietnamese condiment made from powder red barbeque mixture coating for duck chicken pork),C,44
+28,170011,Maggi Seasoning (salty nutty flavored dark brown liquid used as a Thai or Vietnamese condiment),C,44
+28,170012,Indian Saffron,C,49
+28,170013,Eastern Saffron,C,49
+28,170014,Haldi (Indian term for turmeric),C,49
+28,170023,Vanilla Extract,C,51
+28,170024,Pure Vanilla Extract,C,51
+28,170025,Natural Vanilla Extract,C,51
+28,170026,Black Peppercorn,C,54
+28,170027,Lampong Peppercorn,C,54
+28,170028,Malabar Peppercorn,C,54
+28,170029,Sarawak Peppercorn,C,54
+28,170030,Talamanca del Caribe Peppercorn,C,54
+28,170031,Tellicherry Peppercorn,C,54
+28,170032,White Peppercorn,C,55
+28,170033,Halba,C,56
+28,170034,Greek Hayseed,C,56
+28,170035,Citronella,C,57
+28,170036,Fever Grass,C,57
+28,170037,Serai,C,57
+28,170038,"Sumac, Natural Extract or Flavor (Spice)",C,63
+28,170039,Ghora Angur,C,63
+28,170040,Sumaq,C,63
+28,170041,"Mango, Natural Extract or Flavor (Spice)",C,64
+28,170042,Aamchur,C,64
+28,170043,Amchoor (made from sun-dried mangoes),C,64
+28,170044,Amchor,C,64
+28,170045,Amchur,C,64
+28,170046,Dried Green Mango,C,64
+28,170047,Dried Mango Powder,C,64
+28,170048,Green Mango Powder,C,64
+28,170049,Umchoor,C,64
+28,170050,"Ajwain, Natural Extract or Flavor (Spice)",C,65
+28,170051,"Ajowan, Natural Extract or Flavor (Spice)",C,65
+28,170052,Ajowan Seed,C,65
+28,170053,Ajwain Seeds,C,65
+28,170054,Ajwan,C,65
+28,170055,Ajwon,C,65
+28,170056,Bishop's Weed,C,65
+28,170057,Carom,C,65
+28,170058,Carom Seed,C,65
+28,170059,"Asafetida, Natural Extract or Flavor (Spice)",C,66
+28,170060,Asafetida Powder,C,66
+28,170061,Asafoetida Powder,C,66
+28,170062,Asfetida,C,66
+28,170063,Devil's Dung,C,66
+28,170064,Ferula,C,66
+28,170065,Foetida,C,66
+28,170066,Food of the Gods,C,66
+28,170067,Heeng,C,66
+28,170068,Hing (Powder),C,66
+28,170069,Imguva,C,66
+28,170122,"Black Cumin, Natural Extract or Flavor (Spice)",C,67
+28,170123,Kala Jeera,C,67
+28,170124,Kala Zeera,C,67
+28,170125,Kashmir,C,67
+28,170126,Royal Cumin Seeds,C,67
+28,170127,Saah Jeera,C,67
+28,170128,Shahi Jeera,C,67
+28,170129,Siyah Zeera,C,67
+28,170130,"Curcuma, Natural Extract or Flavor (Spice)",C,68
+28,170131,Indian Saffron,C,68
+28,170132,"Nigella, Natural Extract or Flavor (Spice)",C,69
+28,170133,Black Caraway,C,69
+28,170134,Black Onion,C,69
+28,170135,Calonji,C,69
+28,170136,Habasoda,C,69
+28,170137,Kalonji,C,69
+28,170138,Ketza,C,69
+28,170139,"Pomegranate, Natural Extract or Flavor (Spice)",C,70
+28,170140,Anardana,C,70
+28,170141,"Cummin, White, Natural Extract or Flavor (Spice)",C,71
+28,170142,Sufaid Zeera,C,71
+28,170143,Jeeragam,C,71
+28,170144,"Kokum, Natural Extract or Flavor (Spice)",C,72
+28,170145,"Pandanus Leaf, Natural Extract or Flavor (Spice)",C,73
+28,170146,Bai Toey,C,73
+28,170147,Bai Touy,C,73
+28,170148,Bai-toey,C,73
+28,170149,Daun Pandan,C,73
+28,170150,Kewra,C,73
+28,170151,Pandan Leaf,C,73
+28,170152,Pandanus Leaf,C,73
+28,170153,Rampe,C,73
+28,170154,Screw Pine Leaf,C,73
+28,170155,Screwpine Leaf,C,73
+28,170156,"Ngo Om (Vietnamese herb, sharp citrus flavor), Natural Extract or Flavor (Spice)",C,74
+28,170157,Rice Paddy Herb,C,74
+28,170158,"Kaffir Lime, Natural Extract or Flavor (Spice)",C,75
+28,170159,Bai Makrut,C,75
+28,170160,Daun Jeruk Purut,C,75
+28,170161,Daun Limau Purut,C,75
+28,170162,Indonesian Lime Leaves,C,75
+28,170163,Magrood Leaf,C,75
+28,170164,Makroot Leaf,C,75
+28,170165,Makrut Lime Leaf,C,75
+28,170166,Wild Lime,C,75
+28,170167,"Mahlab (Middle Eastern spice made from cherry seeds), Natural Extract or Flavor (Spice)",C,76
+28,170168,Mahlepi,C,76
+28,170169,Mahleb,C,76
+28,170170,"Lesser Galangale, Natural Extract or Flavor (Spice)",C,77
+28,170171,Kencur (Indonesian potent root spice w/slightly medicinal flavory used frequently in bumbu),C,77
+28,170172,Kunci Pepet,C,77
+28,170173,Kunir Putih,C,77
+28,170174,Temu Rapet,C,77
+28,170183,"Ambrette, Natural Extract or Flavor (Spice)",C,78
+28,170184,"Angelica, Natural Extract or Flavor (Spice)",C,79
+28,170185,Epazote (Mexican herb used to flavor black beans and other foods),C,80
+28,170186,Goosefoot,C,80
+28,170187,Hedge Mustard,C,80
+28,170188,Jerusalem Oak,C,80
+28,170189,Jerusalem Parsley,C,80
+28,170190,Lamb's Quarters,C,80
+28,170191,Mexican Tea,C,80
+28,170192,Stinkyweed,C,80
+28,170193,Sweet Pigweed,C,80
+28,170194,Wormseed,C,80
+28,170195,Southernwood (perennial grown wild in central Asia; fibrous root used as an herb in Cambodia & Laos),C,81
+28,170196,Sichuan Pepper,C,82
+28,170197,Szechwan Pepper,C,82
+28,170198,"Andaliman (Indonesian lemon pepper spice, size of peppercorn berries",C,82
+28,170199,Anise Pepper,C,82
+28,170200,Chinese Aromatic Pepper,C,82
+28,170201,Chinese Pepper,C,82
+28,170202,Fagara Pepper,C,82
+28,170203,Japanese Pepper,C,82
+28,170204,Nepal Pepper,C,82
+28,170205,Prickly Ash Leaf,C,82
+28,170206,Sancho,C,82
+28,170207,Sansho (Japanese pepper (dried berry of prickly ash) used as spice in cooking),C,82
+28,170208,Sprice Pepper,C,82
+28,170209,Szechwan Peppercorn,C,82
+28,170210,Szetchwan pepper,C,82
+28,170211,Wild Pepper,C,82
+28,170212,"Chive, Natural Extract or Flavor (Spice)",C,83
+28,170213,Chives,C,83
+28,170214,"Safflower, Natural Extract or Flavor (Spice)",C,84
+28,170215,American Saffron,C,84
+28,170216,Mexican Saffron,C,84
+28,170217,Saffron Flower,C,84
+28,170218,"Alfalfa, Natural Extract or Flavor (Spice)",C,85
+28,170221,"Zedoary, Natural Extract or Flavor (Spice)",C,86
+28,170222,"Annantto Seed, Natural Extract or Flavor (Spice)",C,87
+28,170223,"Celery Seed, Natural Extract or Flavor (Spice)",C,88
+28,170224,Panch Phoron,G,03
+28,170225,Panch Pharon,G,03
+28,170226,Panchphoran,G,03
+28,170227,Kari Patta,G,04
+28,170228,Karuveppilai,G,04
+28,170229,Meetha Neem,G,04
+28,170230,"Salad Seasoning, Liquid without Salt",G,05
+28,170231,"Chinese Five-Spice, Liquid without Salt",G,06
+28,170232,Five Heavenly Spices,G,06
+28,170233,Five Perfumes,G,06
+28,170234,Five-flavored Powder,G,06
+28,170235,Five-fragrance Powder,G,06
+28,170236,Five-spice Powder,G,06
+28,170237,"Hunan Spice, Liquid without Salt",G,07
+28,170238,"Applie Pie Spice (Cinnamon, nutmeg, and cardamom), Liquid without Salt",G,08
+28,170239,"Baharat (Middle Eastern seasoning made of coriander, cinnamon, cloves, paprika, pepper and nutmeg)",G,09
+28,170240,"Bombu (Indonesian spice mixture, red chilies, shallots, ginger, galangal, tumeric & candlenuts)",G,10
+28,170241,"Hichimi Togarashi (Japanese seven pepper spice, blend of hot mustard seed, sesame seed & other ingrd",G,11
+28,170242,"Jangkap (Indonesian combination spice or 'root seasonings' such as laos, kencur, ginger & lemongrass",G,12
+28,170243,Chili Seasoning ( Chili powder and paprika) Liquid without Salt,G,13
+28,170244,"Crab Boil (bay leaves, dried ginger, black peppercorn, mustard seed, dill seed, coriander seed, whol",G,14
+28,170245,Shrimp Spice,G,14
+28,170246,"Onion Soup Mix (minced onion, bouillon, onion powder) Liquid without Salt",G,15
+28,170247,"Pickling Spice (mustard seed, dill seeds, coriander seed, chili pepper, bay leaves, celery seeds, an",G,16
+28,170248,"Poultry Seasoning, Liquid without Salt",G,17
+28,170249,"Pumpkin Pie Spice (Ginger, allspice, nutmeg, all ground or mace, cloves), Liquid without Salt",G,18
+28,170250,"Masala Spice, Liquid without Salt",G,19
+28,170251,"Fish Seasoning, Liquid without Salt",G,20
+28,170252,"Mixed Spice, Liquid without Salt",G,21
+28,170253,"Mulling Spice, LIquid without Salt",G,22
+28,170254,"Spaghetti Sauce Seasoning, Liquid without Salt",G,23
+28,170255,"Beef Seasoning, Liquid without Salt",G,24
+28,170256,"Herb Pepper, Liquid without Salt",G,25
+28,170257,"Japanese Seasoning, Liquid without Salt",G,26
+28,170258,"Quatre Espices, LIquid without Salt",G,27
+28,170259,Epices Parisiennes,G,27
+28,170260,"Japanese Seven Pepper Spice, Liquid without Salt",G,28
+28,170262,"Shichimi Togarashi (black sesame, dried mandarin peel, roasted red pepper, sansho poppy seed, hemp s",G,28
+28,170263,"Zatar (sesame, sumac and thyme), Liquid without Salt",G,29
+28,170264,Za'atar,G,29
+28,170265,Zahtar,G,29
+28,170266,"Greek Seasoning (black pepper, oregano, sesame seed, parsley, paprika, red or green peppers)",G,30
+28,170267,"Bavarian Seasoning (brown mustard, rosemary, garlic, dalmatian sage, french thyme, bay leaves)",G,31
+28,170268,"Sesame Seasoning, Liquid without Salt",G,32
+28,170269,"Mixed Spice (cinnamon, cloves, mace, ground nutmeg, coriander seeds, allspice berries)",G,33
+28,170270,British Mixed Spice,G,33
+28,170271,Pudding Spice,G,33
+28,170272,"Garam Masala, Liquid without Salt",G,34
+28,170273,Indian Sweet Spice Mix,G,34
+28,170274,Sweet Spice Mix,G,34
+28,171602,Khash Khash,A,37
+28,171603,Khash Khash,C,37
+28,172382,Sumac,A,63
+28,172383,Ghora Angur,A,63
+28,172384,Mango (spice),A,64
+28,172385,Aamchur,A,64
+28,172408,Sumaq,A,63
+28,172409,Ajwain (Spice),A,65
+28,172410,Asafetida (Spice),A,66
+28,172411,Black Cumin,A,67
+28,172412,Curcuma (Spice),A,68
+28,172413,Nigella (Spice),A,69
+28,172414,Pomegranate (Spice),A,70
+28,172415,"Cummin, White",A,71
+28,172416,Kokum,A,72
+28,172417,Pandanus Leaf,A,73
+28,172418,Ngo Om (Vietnamese herb),A,74
+28,172419,Kaffir Lime (Spice),A,75
+28,172420,Mahlab (Middle Eastern spice made with cherry seeds),A,76
+28,172421,Lesser Galangale (Spice),A,77
+28,172422,Ambrette (Spice),A,78
+28,172423,Angelica (Spice),A,79
+28,172424,Epazote (Mexican herb),A,80
+28,172425,Southernwood (Used as herb in Cambodia & Laos) Spice,A,81
+28,172426,Sichuan Pepper,A,82
+28,172427,Chive (Spice),A,83
+28,172428,Safflower (Spice),A,84
+28,172429,Alfalfa (Spice),A,85
+28,172430,Zedoary (Spice),A,86
+28,172431,Annatto Seed (Spice),A,87
+28,172432,Celery Seed (Spice),A,88
+28,172433,Avocado Leaf (Spice),A,89
+28,172434,"Sumac, Ground, Cracked Spice",B,63
+28,172435,"Mango, Ground, Cracked Spice",B,64
+28,172436,"Ajwain,  Ground, Cracked Spice",B,65
+28,172437,"Asafetida, Ground, Cracked Spice",B,66
+28,172438,"Black Cumin, Ground, Cracked Spice",B,67
+28,172439,"Curcuma, Ground, Cracked Spice",B,68
+28,172440,"Nigella, Ground, Cracked Spice",B,69
+28,172441,"Pomegranate, Ground, Cracked Spice",B,70
+28,172442,"Cummin, White, Ground, Cracked Spice",B,71
+28,172443,"Kokum, Ground, Cracked Spice",B,72
+28,172444,"Pandanus Leaf, Ground, Cracked (Spice)",B,73
+28,172445,"Ngo Om (Vietnamese herb), Ground, Cracked (Spice)",B,74
+28,172446,"Kaffir Lime, Ground, Cracked (Spice)",B,75
+28,172447,"Mahlab (Middle Eastern spice made from cherry seeds), Ground, Cracked (Spice)",B,76
+28,172448,"Lesser Galangale, Ground, Cracked (Spice)",B,77
+28,172449,"Ambrette, Ground, Cracked (Spice)",B,78
+28,172450,"Angelica, Ground, Cracked (Spice)",B,79
+28,172451,"Epazote (Mexican herb), Ground, Cracked (Spice)",B,80
+28,172452,"Southernwood (Used as an herb in Cambodia & Laos), Ground, Cracked (Spice)",B,81
+28,172453,"Sichuan Pepper,  Ground, Cracked (Spice)",B,82
+28,172454,"Chive, Ground, Cracked (Spice)",B,83
+28,172455,"Safflower, Ground, Cracked (Spice)",B,84
+28,172456,"Alfalfa, Ground, Cracked (Spice)",B,85
+28,172457,"Zedoary, Ground, Cracked (Spice)",B,86
+28,172458,"Annatto Seed, Ground, Cracked (Spice)",B,87
+28,172459,"Celery Seed, Ground, Cracked (Spice)",B,88
+28,172460,"Avocado Leaf, Ground, Cracked (Spice)",B,89
+28,172461,"Avocado Leaf, Natural Extract or Flavor (Spice)",C,89
+28,173193,"Green Peppercorn, Natural Extract or Flavor (Spice)",C,59
+28,173311,"Sweet Marjoram, Whole (Spice)",A,27
+28,173312,"Oregano, Whole (Spice)",A,90
+28,173313,"Sweet Majoram, Ground, Cracked (Spice)",B,27
+28,173314,"Oregano, Ground, Cracked (Spice)",B,90
+28,173315,"Oregano, Natural Extract or Flavor (Spice)",C,90
+28,173316,"Sweet Majoram, Natural Extract or Flavor (Spice)",C,27

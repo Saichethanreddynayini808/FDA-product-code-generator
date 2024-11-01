@@ -1,0 +1,826 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+61,4295,Berythromycin (Anti-Amebic),A,01
+61,4296,Benorterone (Anti-Androgen),B,01
+61,4297,Leucovorin Calcium (Anti-Anemic),C,01
+61,4298,Cinepazet Maleate (Anti-Anginal),D,01
+61,4299,Cromolyn Sodium (Anti-Asthmatic),E,01
+61,4300,Alexidine (Anti-Bacterial) (Not Antibiotic),F,01
+61,4301,Mirincamycin HCl (Anti-Bacterial) (Not Antibiotic),G,01
+61,4302,Thiphencillin Potassium (Anti-Bacterial)(Antibiotic),H,01
+61,4303,Lysostaphin (Anti-Bacterial Enzyme),I,01
+61,4304,Beloxamide (Anti-Cholesteremic),J,01
+61,4305,Alverine Citrate (Anti-Cholinergic),K,01
+61,4306,Acenocoumarol (Anti-Coagulant),L,01
+61,4307,Albutoin (Anti-Convulsant),M,01
+61,4308,Aletamine HCl (Anti-Depressant),N,01
+61,4309,Acetohexamide (Anti-Diabetic),P,01
+61,4310,Lypressin (Anti-Diuretic),Q,01
+61,4311,Dimercaprol (Antidote),R,01
+61,4312,Coal Tar (Anti-Eczematic),S,01
+61,4313,Benzquinamide (Anti-Emetic/Nauseant),T,01
+61,4314,Clometherone (Anti-Estrogen),U,01
+61,4315,Simethicone (Anti-Flatulent),V,01
+61,4316,Azaserine (Anti-Fungal) (Not Antibiotic),W,01
+61,4317,Antazoline Phosphate (Anti-Histaminic),X,01
+61,4318,Bialamicol HCl (Anti-Amebic),A,02
+61,4319,Cyproterone Acetate (Anti-Androgen),B,02
+61,4320,Apramycin (Anti-Bacterial) (Not Antibiotic),F,02
+61,4321,Ticlatone (Anti-Bacterial),H,02
+61,4322,Boxidine (Anti-Cholesteremic),J,02
+61,4323,Anisotropine Methylbromide (Anti-Cholinergic),K,02
+61,4324,Ancrod (Anti-Coagulant),L,02
+61,4325,Atolide (Anti-Convulsant),M,02
+61,4326,Amedalin HCl (Anti-Depressant),N,02
+61,4327,Buformin (Anti-Diabetic),P,02
+61,4328,Pine Tar (Anti-Eczematic),S,02
+61,4329,Buclizine HCl (Anti-Emetic/Nauseant),T,02
+61,4331,Carbarsone (Anti-Amebic),A,03
+61,4332,Aspartocin (Anti-Bacterial) (Not Antibiotic),F,03
+61,4333,Nalidixate Sodium (Anti-Bacterial) (Not Antibiotic),G,03
+61,4334,Trimethoprim (Anti-Bacterial),H,03
+61,4335,Dextrothyroxine Sodium (Anti-Cholesteremic),J,03
+61,4337,Anisindione (Anti-Coagulant),L,03
+61,4338,Buramate (Anti-Convulsant),M,03
+61,4339,Amitriptyline HCl (Anti-Depressant),N,03
+61,4340,Butoxamine HCl (Anti-Diabetic),P,03
+61,4341,Chlorpromazine (Anti-Emetic/Nauseant),T,03
+61,4342,Nafoxidine HCl (Anti-Estrogen),U,03
+61,4343,Ciclopirox Olamine (Anti-Fungal) (Not Antibiotic),W,03
+61,4344,Bromodiphenyhdramine HCl (Anti-Histaminic),X,03
+61,4345,Chloroquine (Anti-Amebic),A,04
+61,4346,Asperlin (Anti-Bacterial) (Not Antibiotic),F,04
+61,4347,Nalidixic Acid (Anti-Bacterial) (Not Antibiotic),G,04
+61,4348,Trisulfapyrimidines (Anti-Bacterial),H,04
+61,4349,Probucol (Anti-Cholesteremic),J,04
+61,4350,Atropine Oxide HCl (Anti-Cholinergic),K,04
+61,4351,Bromindione (Anti-Coagulant),L,04
+61,4352,Amoxapine (Anti-Depressant),N,04
+61,4353,Chlorpropamide (Anti-Diabetic),P,04
+61,4354,Chlorpromazine HCl (Anti-Emetic/Nauseant),T,04
+61,4355,Nitromifene Citrate (Anti-Estrogen),U,04
+61,4356,Clotrimazole (Anti-Fungal) (Not Antibiotic),W,04
+61,4357,Brompheniramine Maleate (Anti-Histaminic),X,04
+61,4358,Chloroquine HCl (Anti-Amebic),A,05
+61,4359,Avoparcin (Anti-Bacterial) (Not Antibiotic),F,05
+61,4360,Nebramycin (Anti-Bacterial) (Not Antibiotic),G,05
+61,4361,Zinc Pyrithione (Anti-Bacterial),H,05
+61,4362,Sistosterols (Anti-Cholesteremic),J,05
+61,4363,Atropine Sulfate (Anti-Cholinergic),K,05
+61,4364,Dicumarol (Anti-Coagulant),L,05
+61,4365,Citenamide (Anti-Convulsant),M,05
+61,4366,Bupropion HCl (Anti-Depressant),N,05
+61,4367,Etoformin HCl (Anti-Diabetic),P,05
+61,4368,Edrophonium Chloride (Antidote),R,05
+61,4369,Cyclizine HCl (Anti-Emetic/Nauseant),T,05
+61,4370,Tamoxifen Citrate (Anti-Estrogen),U,05
+61,4371,Denofungin (Anti-Fungal) (Not Antibiotic),W,05
+61,4372,Carbinoxamine Maleate (Anti-Histaminic),X,05
+61,4373,Chloroquine Phosphate (Anti-Amebic),A,06
+61,4374,Bambermycin (Anti-Bacterial) (Not Antibiotic),F,06
+61,4375,Neomycin Palmitate (Anti-Bacterial) (Not Antibiotic),G,06
+61,4376,Zinc Sulfanilate (Anti-Bacterial),H,06
+61,4377,Trexoxinate (Anti-Cholesteremic),J,06
+61,4378,Belladonna (Ext) (Anti-Cholinergic),K,06
+61,4379,Diphenadione (Anti-Coagulant),L,06
+61,4380,Clonazepam (Anti-Convulsant),M,06
+61,4381,Gliamilide (Anti-Diabetic),P,06
+61,4382,Dimenhydrinate (Anti-Emetic/Nauseant),T,06
+61,4383,Chlorcyclizine HCl (Anti-Histaminic),X,06
+61,4384,Clamoxyquin HCl (Anti-Amebic),A,07
+61,4385,Neutramycin (Anti-Bacterial) (Not Antibiotic),G,07
+61,4386,Zorbamycin (Anti-Bacterial),H,07
+61,4387,Thyropropic Acid (Anti-Cholesteremic),J,07
+61,4388,Benapryzine HCl (Anti-Cholinergic),K,07
+61,4389,Ethyl Biscoumacetate (Anti-Coagulant),L,07
+61,4390,Cyheptamide (Anti-Convulsant),M,07
+61,4391,Butriptyline HCl (Anti-Depressant),N,07
+61,4392,Glibornuride (Anti-Diabetic),P,07
+61,4393,Methylene Blue (Antidote),R,07
+61,4394,Diphenidol (Anti-Emetic/Nauseant),T,07
+61,4395,Econazole (Anti-Fungal) (Not Antibiotic),W,07
+61,4396,Chlorothen Citrate (Anti-Histaminic),X,07
+61,4397,Diiodohydroxyquin (Anti-Amebic),A,08
+61,4398,Betamicin Sulfate (Anti-Bacterial) (Not Antibiotic),F,08
+61,4400,Phthalylsulfacetamide (Anti-Bacterial),H,08
+61,4401,Benzetimide HCl (Anti-Cholinergic),K,08
+61,4402,Heparin Sodium (Anti-Coagulant),L,08
+61,4403,Dimethadione (Anti-Convulsant),M,08
+61,4404,Cartazolate (Anti-Depressant),N,08
+61,4405,Gliflumide (Anti-Diabetic),P,08
+61,4406,Sodium Nitrite (Antidote),R,08
+61,4407,Diphenidol HCl (Anti-Emetic/Nauseant),T,08
+61,4408,Ethonam Nitrate A-Fungal,W,08
+61,4409,Chlorpheniramine Maleate (Anti-Histaminic),X,08
+61,4410,Emetine HCl (Anti-Amebic),A,09
+61,4411,Biniramycin (Anti-Bacterial) (Not Antibiotic),F,09
+61,4412,Nifuraldezone (Anti-Bacterial) (Not Antibiotic),G,09
+61,4413,Phthalylsulfathiazole (Anti-Bacterial),H,09
+61,4414,Benzilonium Bromide (Anti-Cholinergic),K,09
+61,4415,Lyapolate Sodium (Anti-Coagulant),L,09
+61,4416,Eterobarb (Anti-Convulsant),M,09
+61,4417,Cidoxepin HCl (Anti-Depressant),N,09
+61,4418,Glipizide (Anti-Diabetic),P,09
+61,4419,Sodium Thiosulfate (Antidote),R,09
+61,4420,Diphenidol Pamoate (Anti-Emetic/Nauseant),T,09
+61,4421,Filipin (Anti-Fungal) (Not Antibiotic),W,09
+61,4422,Cinnarizine (Anti-Histaminic),X,09
+61,4423,Glycobiarsol (Anti-Amebic),A,10
+61,4424,Nifuratel (Anti-Bacterial) (Not Antibiotic),G,10
+61,4425,Succinylsulfathiazole (Anti-Bacterial),H,10
+61,4426,Biperiden (Anti-Cholinergic),K,10
+61,4427,Phenindione (Anti-Coagulant),L,10
+61,4428,Ethosuximide (Anti-Convulsant),M,10
+61,4429,Clodazon HCl (Anti-Depressant),N,10
+61,4430,Glucagon (Anti-Diabetic),P,10
+61,4431,Flucytosine (Anti-Fungal) (Not Antibiotic),W,10
+61,4432,Clemastine (Anti-Histaminic),X,10
+61,4433,Iodochlorhydroxyquin (Anti-Amebic),A,11
+61,4434,Carbadox (Anti-Bacterial) (Not Antibiotic),F,11
+61,4435,Nifuratrone (Anti-Bacterial) (Not Antibiotic),G,11
+61,4436,Biperiden HCl (Anti-Cholinergic),K,11
+61,4437,Phenprocoumon (Anti-Coagulant),L,11
+61,4438,Magnesium Sulfate (Anti-Convulsant),M,11
+61,4439,Clomipramine HCl (Anti-Depressant),N,11
+61,4440,Glyburide (Anti-Diabetic),P,11
+61,4441,Activated Charcoal (Antidote),R,11
+61,4442,Meclizine HCl (Anti-Emetic/Nauseant),T,11
+61,4443,Fungimycin (Anti-Fungal) (Not Antibiotic),W,11
+61,4444,Closiramine Aceturate (Anti-Histaminic),X,11
+61,4445,Symetine HCl (Anti-Amebic),A,12
+61,4446,Carbenicillin Phenyl Sodium (Anti-Bacterial)(Not Antibiotic),F,12
+61,4447,Nifurdazil (Anti-Bacterial) (Not Antibiotic),G,12
+61,4448,Acetosulfone Sodium (Anti-Bacterial),H,12
+61,4449,Biperiden Lactate (Inj) (Anti-Cholinergic),K,12
+61,4450,Warfarin Potassium (Anti-Coagulant),L,12
+61,4451,Mephenytoin (Anti-Convulsant),M,12
+61,4452,Cotinine Fumarate (Anti-Depressant),N,12
+61,4453,Glydanile Sodium (Anti-Diabetic),P,12
+61,4454,Metoclopramide HCl (Anti-Emetic/Nauseant),T,12
+61,4455,Hamycin (Anti-Fungal) (Not Antibiotic),W,12
+61,4456,Cycliramine Maleate (Anti-Histaminic),X,12
+61,4457,Teclozan (Anti-Amebic),A,13
+61,4458,Carbenicillin Potassium  (Anti-Bacterial) (Not Antibiotic),F,13
+61,4459,Nifurimide (Anti-Bacterial) (Not Antibotic),G,13
+61,4461,Clidinium Bromide (Anti-Cholinergic),K,13
+61,4462,Warfarin Sodium (Anti-Coagulant),L,13
+61,4463,Mephobarbital (Anti-Convulsant),M,13
+61,4464,Cypenamine HCl (Anti-Depressant),N,13
+61,4465,Glyhexamide (Anti-Diabetic),P,13
+61,4466,Metopimazine (Anti-Emetic/Nauseant),T,13
+61,4467,Cyclizine (Anti-Histaminic),X,13
+61,4468,Clorbetamide (Anti-Amebic),A,14
+61,4469,Cefadroxil (Anti-Bacterial) (Not Antibiotic),F,14
+61,4470,Nifurpirinol (Anti-Bacterial) (Not Antibiotic),G,14
+61,4471,Dapsone (Anti-Bacterial),H,14
+61,4472,Cycrimine HCl (Anti-Cholinergic),K,14
+61,4473,Metharbital (Anti-Convulsant),M,14
+61,4474,Cyprolidol (Anti-Depressant),N,14
+61,4475,Glymidine Sodium (Anti-Diabetic),P,14
+61,4476,Prochlorperazine (Anti-Emetic/Nauseant),T,14
+61,4477,Kalafungin A-Fungal,W,14
+61,4478,Cyproheptadine HCl (Anti-Histaminic),X,14
+61,4479,Cefamandole (Anti-Bacterial) (Not Antibiotic),F,15
+61,4480,Nifurquinazol (Anti-Bacterial) (Not Antibiotic),G,15
+61,4481,Sodium Glucosulfone (Anti-Bacterial),H,15
+61,4482,Dexetimide (Anti-Cholinergic),K,15
+61,4484,Methetoin (Anti-Convulsant),M,15
+61,4485,Glyoctamide (Anti-Diabetic),P,15
+61,4486,Protamine Sulfate (Antidote),R,15
+61,4487,Prochlorperazine Edisylate (Anti-Emetic/Nauseant),T,15
+61,4488,Lomofungin (Anti-Fungal) (Not Antibiotic),W,15
+61,4489,Dexbrompheniramine Maleate (Anti-Histaminic),X,15
+61,4490,Cefamandole Nafate (Anti-Bacterial) (Not Antibiotic),F,16
+61,4491,Nifurthiazole (Anti-Bacterial) (Not Antibiotic),G,16
+61,4492,Sulfoxone Sodium (Anti-Bacterial),H,16
+61,4493,Dicyclomine HCl (Anti-Cholinergic),K,16
+61,4494,Methsuximide (Anti-Convulsant),M,16
+61,4495,Daledalin Tosylate (Anti-Depressant),N,16
+61,4496,Glyparamide (Anti-Diabetic),P,16
+61,4497,Tolonium Chloride (Antidote),R,16
+61,4498,Prochlorperazine Maleate (Anti-Emetic/Nauseant),T,16
+61,4499,Lydimycin (Anti-Fungal) (Not Antibiotic),W,16
+61,4500,Dexchlorpheniramine Maleate (Anti-Histaminic),X,16
+61,4501,Cefaparole (Anti-Bacterial) (Not Antibiotic),F,17
+61,4502,Nitromide (Anti-Bacterial) (Not Antibiotic),G,17
+61,4503,Parachlorophenol (Anti-Bacterial),H,17
+61,4504,Dihexyverine HCl (Anti-Cholinergic),K,17
+61,4505,Nitrazepam (Anti-Convulsant),M,17
+61,4506,Dazadrol Maleate (Anti-Depressant),N,17
+61,4507,Insulin (Inj) (Anti-Diabetic),P,17
+61,4508,Promethazine HCl (Anti-Emetic/Nauseant),T,17
+61,4509,Mepartricin (Anti-Fungal) (Not Antibiotic),W,17
+61,4510,Dimethindene Maleate (Anti-Histaminic),X,17
+61,4511,Cefatrizine (Anti-Bacterial) (Not Antibiotic),F,18
+61,4512,Oleandomycin Phosphate (Anti-Bacterial) (Not Antibiotic),G,18
+61,4513,Aminosalicylic Acid (Anti-Bacterial),H,18
+61,4514,Diphemanil Methylsulfate (Anti-Cholinergic),K,18
+61,4515,Paramethadione (Anti-Convulsant),M,18
+61,4516,Desipramine HCl (Anti-Depressant),N,18
+61,4517,Globin Zinc Insulin (Inj) (Anti-Diabetic),P,18
+61,4518,Thiethylperazine (Anti-Emetic/Nauseant),T,18
+61,4519,Miconazole Nitrate (Anti-Fungal) (Not Antibiotic),W,18
+61,4520,Diphenhydramine HCl (Anti-Histaminic),X,18
+61,4521,Cefoxitin (Anti-Bacterial) (Not Antibiotic),F,19
+61,4522,Ormetoprim (Anti-Bacterial) (Not Antibiotic),G,19
+61,4523,Benzoylpas Calcium (Anti-Bacterial),H,19
+61,4524,Domazoline Fumarate (Anti-Cholinergic),K,19
+61,4525,Phenacemide (Anti-Convulsant),M,19
+61,4526,Dexamisole (Anti-Depressant),N,19
+61,4527,Isophane Insulin (Susp) (Anti-Diabetic),P,19
+61,4528,Thiethylperazine Malate (Anti-Emetic/Nauseant),T,19
+61,4529,Diphenypyraline HCl (Anti-Histaminic),X,19
+61,4530,Cetophenicol (Anti-Bacterial) (Not Antibiotic),F,20
+61,4531,Oxolinic Acid (Anti-Bacterial) (Not Antibiotic),G,20
+61,4532,Calcium Aminosalicylate (Anti-Bacterial),H,20
+61,4533,Elantrine (Anti-Cholinergic),K,20
+61,4534,Anti-Coagulant Citrate Dextrose Solution,L,20
+61,4535,Phenobarbital Sodium (Anti-Convulsant),M,20
+61,4536,Deximafen (Anti-Depressant),N,20
+61,4537,Protamine Zinc Insulin (Susp) (Anti-Diabetic),P,20
+61,4538,Deferoxamine Mesylate (Antidote),R,20
+61,4539,Trimethobenzamide HCl (Anti-Emetic/Nauseant),T,20
+61,4540,Dorastine HCl (Anti-Histaminic),X,20
+61,4541,Chloroxylenol (Anti-Bacterial) (Not Antibiotic),F,21
+61,4542,Pirbenicillin Sodium (Anti-Bacterial) (Not Antibiotic),G,21
+61,4543,Clofazimine (Tuberculostatic) (Anti-Bacterial),H,21
+61,4544,Ethybenztropine (Anti-Cholinergic),K,21
+61,4545,Anti-Coagulant Citrate Phosphate Dextrose Solution,L,21
+61,4546,Dibenzepin HCl (Anti-Depressant),N,21
+61,4547,Dalanated Insulin (Anti-Diabetic),P,21
+61,4548,Cupric Sulfate (Antidote),R,21
+61,4549,Pipamazine (Anti-Emetic/Nauseant),T,21
+61,4550,Nifurmerone (Anti-Fungal) (Not Antibiotic),W,21
+61,4551,Doxylamine Succinate (Anti-Histaminic),X,21
+61,4552,Cinoxacin (Anti-Bacterial) (Not Antibiotic),F,22
+61,4553,Pivampicillin Hydrochloride (Anti-Bacterial) (Not Antibiotic),G,22
+61,4554,Ethambutol Hydrochloride (Anti-Bacterial),H,22
+61,4555,Glycopyrrolate (Anti-Cholinergic),K,22
+61,4556,Anti-Coagulant Heparin Sol,L,22
+61,4557,Phensuximide (Anti-Convulsant),M,22
+61,4558,Dioxadrol HCl (Anti-Depressant),N,22
+61,4559,Neutral Insulin (Anti-Diabetic),P,22
+61,4560,Partricin (Anti-Fungal) (Not Antibiotic),W,22
+61,4561,Methapyrilene Fumarate (Anti-Histaminic),X,22
+61,4562,Pivampicillin Pamoate (Anti-Bacterial) (Not Antibiotic),G,23
+61,4563,Ethionamide (Anti-Bacterial),H,23
+61,4564,Heteronium Bromide (Anti-Cholinergic),K,23
+61,4565,Phenytoin (Anti-Convulsant),M,23
+61,4566,Dothiepin HCl (Anti-Depressant),N,23
+61,4567,Insulin Zinc (Susp) (Anti-Diabetic),P,23
+61,4568,Potassium Iodide (Anti-Fungal) (Not Antibiotic),W,23
+61,4569,Methapyrilene HCl (Anti-Histaminic),X,23
+61,4570,Cloxyquin (Anti-Bacterial) (Not Antibiotic),F,24
+61,4571,Pivampicillin Probenate (Anti-Bacterial) (Not Antibiotic),G,24
+61,4572,Isoniazid (Anti-Bacterial),H,24
+61,4573,Homatropine Methylbromide (Anti-Cholinergic),K,24
+61,4574,Phenytoin Sodium (Anti-Convulsant),M,24
+61,4575,Doxepin HCl (Anti-Depressant),N,24
+61,4576,Ext Insulin Zinc (Susp) (Anti-Diabetic),P,24
+61,4577,Coumermycin (Anti-Bacterial) (Not Antibiotic),F,25
+61,4578,Porfiromycin (Anti-Bacterial) (Not Antibiotic),G,25
+61,4579,Phenyl Aminosalicylate (Anti-Bacterial),H,25
+61,4580,Hyoscyamine (Anti-Cholinergic),K,25
+61,4581,Cyclocumarol (Anti-Coagulant),L,25
+61,4582,Primidone (Anti-Convulsant),M,25
+61,4583,Encyprate (Anti-Depressant),N,25
+61,4584,Prompt Insulin Zinc (Susp) (Anti-Diabetic),P,25
+61,4585,Pyrrolnitrin (Anti-Fungal) (Not Antibiotic),W,25
+61,4586,Cyclacillin (Anti-Bacterial) (Not Antibiotic),F,26
+61,4587,Quindecamine Acetate (Anti-Bacterial) (Not Antibiotic),G,26
+61,4588,Potassium Aminosalicylate (Anti-Bacterial),H,26
+61,4589,Hyoscyamine Hydrobromide (Anti-Cholinergic),K,26
+61,4590,Sulthiame (Anti-Convulsant),M,26
+61,4591,Fantridone HCl (Anti-Depressant),N,26
+61,4592,Metformin (Anti-Diabetic),P,26
+61,4593,Rutamycin (Anti-Fungal) (Not Antibiotic),W,26
+61,4594,Phenindamine Tartrate (Anti-Histaminic),X,26
+61,4595,Demecycline (Anti-Bacterial) (Not Antibiotic),F,27
+61,4596,Racephenicol (Anti-Bacterial) (Not Antibiotic),G,27
+61,4597,Pyrazinamide (Anti-Bacterial),H,27
+61,4598,Hyoscyamine Sulfate (Anti-Cholinergic),K,27
+61,4599,Fenmetozole HCl (Anti-Depressant),N,27
+61,4600,Phenformin HCl (Anti-Diabetic),P,27
+61,4601,Scopafungin (Anti-Fungal) (Not Antibiotic),W,27
+61,4602,Ranimycin (Anti-Bacterial) (Not Antibiotic),G,28
+61,4603,Sodium Aminosalicylate (Anti-Bacterial),H,28
+61,4604,Isopropamide Iodide (Anti-Cholinergic),K,28
+61,4605,Fenmetramide (Anti-Depressant),N,28
+61,4606,Tolazamide (Anti-Diabetic),P,28
+61,4607,Selenium Sulfide (Anti-Fungal) (Not Antibiotic),W,28
+61,4608,Pyrabrom (Anti-Histaminic),X,28
+61,4609,Diaveridine (Anti-Bacterial) (Not Antibiotic),F,29
+61,4610,Relomycin (Anti-Bacterial) (Not Antibiotic),G,29
+61,4611,Methenamine (Anti-Bacterial),H,29
+61,4612,Mepenzolate Bromide (Anti-Cholinergic),K,29
+61,4613,Trimethadione (Anti-Convulsant),M,29
+61,4614,Fluoxetine (Anti-Depressant),N,29
+61,4615,Tolbutamide (Anti-Diabetic),P,29
+61,4616,Pyrilamine Maleate (Anti-Histaminic),X,29
+61,4617,Dicloxacillin (Anti-Bacterial) (Not Antibiotic),F,30
+61,4618,Rifamide (Anti-Bacterial) (Not Antibiotic),G,30
+61,4619,Methenamine Hippurate (Anti-Bacterial),H,30
+61,4620,Methantheline Bromide (Anti-Cholinergic),K,30
+61,4621,Valproate Sodium (Anti-Convulsant),M,30
+61,4622,Gamfexine (Anti-Depressant),N,30
+61,4623,Tolpyrramide (Anti-Diabetic),P,30
+61,4624,Tolindate (Anti-Fungal) (Not Antibiotic),W,30
+61,4625,Pyroxamine Maleate (Anti-Histaminic),X,30
+61,4626,Dipyrithione (Anti-Bacterial) (Not Antibiotic),F,31
+61,4627,Rosamicin (Anti-Bacterial) (Not Antibiotic),G,31
+61,4628,Methenamine Mandelate (Anti-Bacterial),H,31
+61,4629,Methscopolamine Bromide (Anti-Cholinergic),K,31
+61,4630,Phenobarbital (Anti-Convulsant),M,31
+61,4631,Tolnaftate (Anti-Fungal) (Not Antibiotic),W,31
+61,4632,Pyrrobutamine Phosphate (Anti-Histaminic),X,31
+61,4633,Epicillin (Anti-Bacterial) (Not Antibiotic),F,32
+61,4634,Rosamicin Butyrate (Anti-Bacterial) (Not Antibotic),G,32
+61,4635,Nitrofurantoin (Anti-Bacterial),H,32
+61,4636,Methylatropine Nitrate (Anti-Cholinergic),K,32
+61,4637,Ethotoin (Anti-Convulsant),M,32
+61,4638,Imipramine HCl (Anti-Depressant),N,32
+61,4639,Viridofulvin (Anti-Fungal) (Not Antibiotic),W,32
+61,4640,Rotoxamine (Anti-Histaminic),X,32
+61,4641,Erthromycin Ethylcarbonate (Anti-Bacterial) (Not Antibiotic),F,33
+61,4642,Rosamicin Propionate (Anti-Bacterial) (Not Antibiotic),G,33
+61,4643,Nitrofurantoin Sodium (Anti-Bacterial),H,33
+61,4644,Metoquizine (Anti-Cholinergic),K,33
+61,4645,Phenylthilone (Anti-Convulsant),M,33
+61,4646,Intriptyline HCl (Anti-Depressant),N,33
+61,4647,Acrisorcin (Anti-Fungal) (Not Antibiotic),W,33
+61,4648,Rotoxamine Tartrate (Anti-Histaminic),X,33
+61,4649,Erthromycin Propionate (Anti-Bacterial) (Not Antibiotic),F,34
+61,4650,Rosamicin Stearate (Anti-Bacterial) (Not Antibiotic),G,34
+61,4651,Ammonium Mandelate (Anti-Bacterial),H,34
+61,4652,Oxybutynin Chloride (Anti-Cholinergic),K,34
+61,4653,Iprindole (Anti-Depressant),N,34
+61,4654,Carbol-Fuchsin (Solution) (Anti-Fungal) (Not Antibiotic),W,34
+61,4655,Terfenadine (Anti-Histaminic),X,34
+61,4656,Floxacillin (Anti-Bacterial) (Not Antibiotic),F,35
+61,4657,Roxarsone (Anti-Bacterial) (Not Antibiotic),G,35
+61,4658,Oxyphencyclimine HCl (Anti-Cholinergic),K,35
+61,4659,Isocarboxazid (Anti-Depressant),N,35
+61,4660,Chlordantion (Anti-Fungal) (Not Antibiotic),W,35
+61,4661,Tripelennamine Citrate (Anti-Histaminic),X,35
+61,4662,Flumequine (Anti-Bacterial) (Not Antibiotic),F,36
+61,4663,Sancycline (Anti-Bacterial) (Not Antibiotic),G,36
+61,4664,Parapenzolate Bromide (Anti-Cholinergic),K,36
+61,4665,Ketipramine Fumarate (Anti-Depressant),N,36
+61,4666,Salicylanilide (Anti-Fungal) (Not Antibiotic),W,36
+61,4667,Tripelennamine HCl (Anti-Histaminic),X,36
+61,4668,Fosfomycin (Anti-Bacterial) (Not Antibiotic),F,37
+61,4669,Pentapiperium Methylsulfate (Anti-Cholinergic),K,37
+61,4670,Lithium Carbonate (Anti-Depressant),N,37
+61,4671,Triprolidine HCl (Anti-Histaminic),X,37
+61,4672,Furazolium HCl (Anti-Bacterial) (Not Antibiotic),F,38
+61,4673,Sisomicin (Anti-Bacterial) (Not Antibiotic),G,38
+61,4674,Penthienate Bromide (Anti-Cholinergic),K,38
+61,4675,Maprotiline (Anti-Depressant),N,38
+61,4676,Zolamine HCl (Anti-Histaminic),X,38
+61,4677,Furazolium Tartrate (Anti-Bacterial) (Not Antibiotic),F,39
+61,4678,Sisomicin Sulfate (Anti-Bacterial) (Not Antibiotic),G,39
+61,4679,Phencarbamide (Anti-Cholinergic),K,39
+61,4680,Melitracen HCl (Anti-Depressant),N,39
+61,4681,Undecylenic Acid (Anti-Fungal) (Not Antibiotic),W,39
+61,4682,Pheniramine Maleate (Anti-Histaminic),X,39
+61,4683,Haloprgin (Anti-Bacterial) (Not Antibiotic),F,40
+61,4684,Spiramycin (Anti-Bacterial) (Not Antibiotic),G,40
+61,4685,Thiocarbanidin (Anti-Bacterial),H,40
+61,4686,Piperidolate HCl (Anti-Cholinergic),K,40
+61,4687,Modaline Sulfate (Anti-Depressant),N,40
+61,4688,Pyrathiazine Hydrochloride (Anti-Histaminic),X,40
+61,4689,Hexadine (Anti-Bacterial) (Not Antibiot),F,41
+61,4690,Steffimycin (Anti-Bacterial) (Not Antibiotic),G,41
+61,4691,Poldine Methylsulfate (Anti-Cholinergic),K,41
+61,4692,Nialamide (Anti-Depressant),N,41
+61,4693,Zinc Undecylenate (Anti-Fungal) (Not Antibiotic),W,41
+61,4694,Isoconazole (Anti-Bacterial) (Not Antibiotic),F,42
+61,4695,Sulfabenze (Anti-Bacterial) (Not Antibiotic),G,42
+61,4696,Proglumide (Anti-Cholinergic),K,42
+61,4697,Nisoxetine (Anti-Depressant),N,42
+61,4698,Kitasamycin (Anti-Bacterial) (Not Antibiotic),F,43
+61,4699,Sulfabenzamide (Anti-Bacterial) (Not Antibiotic),G,43
+61,4700,Promazine Hydrochloride (Anti-Cholinergic),K,43
+61,4701,Nomifensine Maleate (Anti-Depressant),N,43
+61,4702,Levofuraltadone (Anti-Bacterial) (Not Antibiotic),F,44
+61,4703,Sulfacetamide (Anti-Bacterial) (Not Antibiotic),G,44
+61,4704,Propantheline Bromide (Anti-Cholinergic),K,44
+61,4705,Nortriptyline HCl (Anti-Depressant),N,44
+61,4706,Levopropylcillin Potassium (Anti-Bacterial) (Not Antibiotic),F,45
+61,4707,Sulfacetamide Sodium (Anti-Bacterial) (Not Antibiotic),G,45
+61,4708,Propenzolate HCl (Anti-Cholinergic),K,45
+61,4709,Octriptyline Phosphate (Anti-Depressant),N,45
+61,4710,Mafenide (Anti-Bacterial) (Not Antibiotic),F,46
+61,4711,Sulfacytine (Anti-Bacterial) (Not Antibiotic),G,46
+61,4712,Scopolamine Hydrobromide (Anti-Cholinergic),K,46
+61,4713,Opipramol HCl (Anti-Depressant),N,46
+61,4714,Mequidox (Anti-Bacterial) (Not Antibiotic),F,47
+61,4715,Sulfadiazine (Anti-Bacterial) (Not Antibiotic),G,47
+61,4716,Thihexinol Methylbromide (Anti-Cholinergic),K,47
+61,4717,Oxypertine (Anti-Depressant),N,47
+61,4718,Merbromin (Anti-Bacterial) (Not Antibiotic),F,48
+61,4719,Sulfadiazine Sodium (Anti-Bacterial) (Not Antibiotic),G,48
+61,4720,Tofenacin HCl (Anti-Cholinergic),K,48
+61,4721,Phenelzine Sulfate (Anti-Depressant),N,48
+61,4722,Sulfadimethoxine (Anti-Bacterial) (Not Antibiotic),G,49
+61,4723,Toquizine (Anti-Cholinergic),K,49
+61,4724,Pirandamine HCl (Anti-Depressant),N,49
+61,4725,Iproniazid Phosphate (Anti-Bacterial) (Not Antibiotic),F,50
+61,4726,Sulfadoxine (Anti-Bacterial) (Not Antibiotic),G,50
+61,4727,Triampyzine Sulfate (Anti-Cholinergic),K,50
+61,4728,Chloroazodin (Anti-Bacterial) (Not Antibiotic),F,51
+61,4729,Sulfaethidole (Anti-Bacterial) (Not Antibiotic),G,51
+61,4730,Tridihexethyl Chloride (Anti-Cholinergic),K,51
+61,4731,Prolintane HCl (Anti-Depressant),N,51
+61,4732,Sulfalene (Anti-Bacterial) (Not Antibiotic),G,52
+61,4733,Trihexyphenidyl HCl (Anti-Cholinergic),K,52
+61,4734,Protriptyline HCl (Anti-Depressant),N,52
+61,4735,Sulfamerazine (Anti-Bacterial) (Not Antibiotic),G,53
+61,4736,Valethamate Bromide (Anti-Cholinergic),K,53
+61,4737,Quipazine Maleate (Anti-Depressant),N,53
+61,4738,Sulfameter (Anti-Bacterial) (Not Antibiotic),G,54
+61,4739,Oxyphenonium Bromide (Anti-Cholinergic),K,54
+61,4740,Rolicyprine (Anti-Depressant),N,54
+61,4741,Sulfamethazine (Anti-Bacterial) (Not Antibiotic),G,55
+61,4742,Sulpiride (Anti-Depressant),N,55
+61,4743,Sulfamethizole (Anti-Bacterial) (Not Antibiotic),G,56
+61,4744,Tandamine HCl (Anti-Depressant),N,56
+61,4745,Sulfamethoxazole (Anti-Bacterial) (Not Antibiotic),G,57
+61,4746,Elucaine (Anti-Cholinergic),K,57
+61,4747,Thiazesim HCl (Anti-Depressant),N,57
+61,4748,Sulfamonomethoxine (Anti-Bacterial) (Not Antibiotic),G,58
+61,4749,Tiquinamide HCl (Anti-Cholinergic),K,58
+61,4750,Thozalinone (Anti-Depressant),N,58
+61,4751,Sulfamoxole (Anti-Bacterial) (Not Antibiotic),G,59
+61,4752,Tranylcypromine Sulfate (Anti-Depressant),N,59
+61,4753,Sulfanitran (Anti-Bacterial) (Not Antibiotic),G,60
+61,4754,Cyclopentolate HCl (Anti-Cholinergic),K,60
+61,4755,Trazodone HCl (Anti-Depressant),N,60
+61,4756,Sulfasalazine (Anti-Bacterial) (Not Antibiotic),G,61
+61,4757,Eucatropine HCl (Anti-Cholinergic),K,61
+61,4758,Trebenzomine HCl (Anti-Depressant),N,61
+61,4759,Sulfasomizole (Anti-Bacterial) (Not Antibiotic),G,62
+61,4760,Homatropine Hydrobromide (A-Cholinergic),K,62
+61,4761,Trimipramine (Anti-Depressant),N,62
+61,4762,Sulfazamet (Anti-Bacterial) (Not Antibiotic),G,63
+61,4763,Tropicamide (Anti-Cholinergic),K,63
+61,4764,Trimipramine Maleate (Anti-Depressant),N,63
+61,4765,Sulfisoxazole (Anti-Bacterial) (Not Antibiotic),G,64
+61,4766,Hexocyclium Methylsulfate (Anti-Cholinergic),K,64
+61,4767,Viloxazine HCl (Anti-Depressant),N,64
+61,4768,Sulfisoxazole Acetyl (Anti-Bacterial) (Not Antibiotic),G,65
+61,4769,Mepiperphenidol Bromide (Anti-Cholinergic),K,65
+61,4770,Sulfisoxazole Diolamine (Anti-Bacterial) (Not Antibiotic),G,66
+61,4771,Dibutoline Sulfate (Anti-Cholinergic),K,66
+61,4772,Sulfomyxin (Anti-Bacterial) (Not Antibiotic),G,67
+61,4773,Suncillin Sodium (Anti-Bacterial) (Not Antibiotic),G,68
+61,4774,Talampicillin Hydrochloride (Anti-Bacterial) (Not Antibiotic),G,69
+61,4775,Thiamphenicol (Anti-Bacterial) (Not Antibiotic),G,70
+61,4776,Sulfanilamide (Anti-Bacterial) (Not Antibiotic),G,71
+61,4777,Oxyquinoline Benzoate (Anti-Bacterial) (Not Antibiotic),G,73
+61,4778,Sulfisomidine (Anti-Bacterial) (Not Antibiotic),G,78
+61,4779,"Anti-Amebic, N.E.C.",A,99
+61,4780,"Anti-Androgen, N.E.C.",B,99
+61,4781,"Anti-Anemic, N.E.C.",C,99
+61,4782,"Anti-Anginal, N.E.C.",D,99
+61,4783,"Anti-Asthmatic, N.E.C.",E,99
+61,4784,"Anti-Bacterial, N.E.C.",H,99
+61,4785,"Anti-Bacterial Enzyme, N.E.C.",I,99
+61,4786,"Anti-Cholesteremic, N.E.C.",J,99
+61,4787,"Anti-Cholinergic, N.E.C.",K,99
+61,4788,"Anti-Coagulant, N.E.C.",L,99
+61,4789,"Anti-Convulsant, N.E.C.",M,99
+61,4790,Anti-Depressant N.E.C.,N,99
+61,4791,Anti-Diabetic N.E.C.,P,99
+61,4792,Anti-Diuretic N.E.C.,Q,99
+61,4793,Antidote N.E.C.,R,99
+61,4794,Anti-Eczematic N.E.C.,S,99
+61,4795,Anti-Emetic/Nauseant N.E.C.,T,99
+61,4796,Anti-Estrogen N.E.C.,U,99
+61,4797,Anti-Flatulent N.E.C.,V,99
+61,4798,A-Fungal N.E.C.,W,99
+61,4799,Anti-Histaminic N.E.C.,X,99
+61,12626,Thiram (Anti-Fungal) (Not Antibiotic),W,37
+61,12627,Triacetin (Anti-Fungal) (Not Antibiotic),W,38
+61,25180,Nifuradene (Anti-Bacterial) (Not Antibiotic),G,08
+61,150821,Apraclonidine Hydrochloride (Anti-Androgen),B,03
+61,150822,Bicalutamide (Anti-Androgen),B,04
+61,150823,Flutamide (Anti-Androgen),B,05
+61,150824,Nilutamide (Anti-Androgen),B,06
+61,150825,Ammonium Lactate (Anti-Bacterial Part 1) (Not Antibiotic),F,52
+61,150826,Cefadroxil Monohydrate (Anti-Bacterial Part I) (Not Antibiotic),F,53
+61,150827,Ciprofloxacin (Anti-Bacterial Part I) (Not Antibiotic),F,54
+61,150828,Ciprofloxacin Hydrochloride (Anti-Bacterial Part I) (Not Antibiotic),F,55
+61,150829,Clarithromycin (Anti-Bacterial Part I) (Not Antibiotic),F,56
+61,150830,Clofazimine (Anti-Bacterial Part I) (Not Antibiotic),F,57
+61,150831,Dirithromycin (Anti-Bacterial Part I) (Not Antibiotic),F,58
+61,150832,Enoxacin (Anti-Bacterial Part I) (Not Antibiotic),F,59
+61,150833,Fosfomycin Tromethamine (Anti-Bacterial Part I) (Not Antibiotic),F,60
+61,150834,Sodium Ferric Gluconate Complex in Sucro (Anti-Anemic),C,07
+61,150836,Budesonide (Anti-Asthmatic),E,04
+61,150837,Calf Lung Surfactant Extract (Anti-Asthmatic),E,05
+61,150838,Fexofenadine HCL (Anti-Asthmatic),E,06
+61,150839,Lodoxamide Tromethamine (Anti-Asthmatic),E,07
+61,150840,Loratadine (Anti-Asthmatic),E,08
+61,150841,Montelukast Sodium (Anti-Asthmatic),E,09
+61,150842,Nedocromil Sodium (Anti-Asthmatic),E,10
+61,150843,Salmeterol Xinafoate (Anti-Asthmatic),E,11
+61,150844,Zafirlukast (Anti-Asthmatic),E,12
+61,150845,Zileuton (Anti-Asthmatic),E,13
+61,150846,"Meclocycline Sulfosalicylate (Anti-Bacterial, Part II) (Not Antibiotic)",G,79
+61,150847,"Meropenem (Anti-Bacterial, Part II) (Not Antibiotic)",G,80
+61,150848,"Mupirocin (Anti-Bacterial, Part II) (Not Antibiotic)",G,81
+61,150849,"Mupirocin Calcium (Anti-Bacterial, Part II) (Not Antibiotic)",G,82
+61,150850,"Netilmicin Sulfate (Anti-Bacterial, Part II) (Not Antibiotic)",G,83
+61,150851,"Norfloxacin (Anti-Bacterial, Part II) (Not Antibiotic)",G,84
+61,150852,"Ofloxacin (Anti-Bacterial, Part II) (Not Antibiotic)",G,85
+61,150853,"Rifapentine (Anti-Bacterial, Part II) (Not Antibiotic)",G,86
+61,150854,"Alatrofloxacin Mesylate (Anti-Bacterial, Part III)",H,41
+61,150855,"Grepafloxacin HCL (Anti-Bacterial, Part III)",H,42
+61,150856,"Levofloxacin (Anti-Bacterial, Part III)",H,43
+61,150857,"Lomefloxacin Hydrochloride (Anti-Bacterial, Part III)",H,44
+61,150858,"Sodium Sulfacetamide (Anti-Bacterial, Part III)",H,45
+61,150859,"Sparfloxacin (Anti-Bacterial, Part III)",H,46
+61,150860,"Trovafloxacin Mesylate (Anti-Bacterial, Part III)",H,47
+61,150861,Atorvastatin Calcium (Anti-Cholesteremic),J,08
+61,150862,Fenofibrate (Anti-Cholesteremic),J,09
+61,150863,Fluvastatin Sodium (Anti-Cholesteremic),J,10
+61,150864,Gemfibrozil (Anti-Cholesteremic),J,11
+61,150865,Lovastatin (Anti-Cholesteremic),J,12
+61,150866,Pravastatin Sodium (Anti-Cholesteremic),J,13
+61,150867,Simvastatin (Anti-Cholesteremic),J,14
+61,150868,Chenodiol (Anti-Cholinergic),K,67
+61,150869,Ardeparin Sodium (Anti-Coagulant),L,26
+61,150870,Dalteparin Sodium (Anti-Coagulant),L,27
+61,150871,Danaparoid Sodium (Anti-Coagulant),L,28
+61,150872,Enoxaparin Sodium (Anti-Coagulant),L,29
+61,150873,Heparin Calcium (Anti-Coagulant),L,30
+61,150874,Intrifiban (Anti-Coagulant),L,31
+61,150875,Lepirudin (Anti-Coagulant),L,32
+61,150876,Clopidogrel Bisulfate (Anti-Coagulant),L,38
+61,150877,Divalproex Sodium (Anti-Convulsant),M,35
+61,150878,Felbamate (Anti-Convulsant),M,36
+61,150879,Fosphenytoin Sodium (Anti-Convulsant),M,37
+61,150880,Lamotrigine (Anti-Convulsant),M,38
+61,150881,Tiagabine HCL (Anti-Convulsant),M,39
+61,150882,Topiramate (Anti-Convulsant),M,40
+61,150883,Valproic Acid (Anti-Convulsant),M,41
+61,150884,Citalopram Hydrobromide (Anti-Depressant),N,65
+61,150885,Fluoxetine Hydrochloride (Anti-Depressant),N,66
+61,150886,Fluvoxamine Maleate (Anti-Depressant),N,67
+61,150887,Fomivirsen Sodium (Anti-Depressant),N,68
+61,150888,Gabapentin (Anti-Depressant),N,69
+61,150889,Lithium (Anti-Depressant),N,70
+61,150890,Lithium Citrate (Anti-Depressant),N,71
+61,150891,Maprotiline Hydrochloride (Anti-Depressant),N,72
+61,150892,Mirtazapine (Anti-Depressant),N,73
+61,150893,Modafinil (Anti-Depressant),N,74
+61,150894,Nefazodone Hydrochloride (Anti-Depressant),N,75
+61,150895,Paroxetine (Anti-Depressant),N,76
+61,150896,Paroxetine HCL (Anti-Depressant),N,77
+61,150897,Sertraline Hydrochloride (Anti-Depressant),N,78
+61,150899,Venlafaxine Hydrochloride (Anti-Depressant),N,80
+61,150900,Glimepiride (Anti-Diabetic),P,31
+61,150901,Insulin Biosyn Human/Insul Susp Isophane (Anti-Diabetic),P,32
+61,150902,Insulin Biosynthetic Human (Anti-Diabetic),P,33
+61,150903,Insulin Biosynthetic Human & Susp Isophane (Anti-Diabetic),P,34
+61,150904,Insulin Human/Insulin Susp Isophane Huma (Anti-Diabetic),P,35
+61,150905,Insulin Purified Beef (Anti-Diabetic),P,36
+61,150906,Insulin Purified Human Semisynthetic (Anti-Diabetic),P,37
+61,150907,Insulin Susp Isophane Biosynthetic Human (Anti-Diabetic),P,38
+61,150908,Insulin Susp Isophane Purified Beef (Anti-Diabetic),P,39
+61,150909,Insulin Susp Isophane Purified Pork (Anti-Diabetic),P,40
+61,150910,Insulin Susp Isophane/Insulin Biosyn Hum (Anti-Diabetic),P,41
+61,150911,Insulin Susp Isothane Biosynthetic Human (Anti-Diabetic),P,42
+61,150912,Insulin Susp Protamine Zinc Purif'd Pork (Anti-Diabetic),P,43
+61,150913,Insulin Susp Protamine Zn Purified Beef (Anti-Diabetic),P,44
+61,150914,"Insulin Suspension, Biosynthetic Human (Anti-Diabetic)",P,45
+61,150915,Insulin Zinc Susp Beef (Anti-Diabetic),P,46
+61,150916,Insulin Zinc Susp Biosynthetic Human (Anti-Diabetic),P,47
+61,150917,Insulin Zinc Susp Extended Biosyn Human (Anti-Diabetic),P,48
+61,150918,Insulin Zinc Susp Purified Beef (Anti-Diabetic),P,49
+61,150919,Insulin Zinc Susp Purified Pork (Anti-Diabetic),P,50
+61,150920,"Insulin Zinc Susp, Biosynthetic Human (Anti-Diabetic)",P,51
+61,150921,"Insulin, Purified Pork (Anti-Diabetic)",P,52
+61,150922,"Insulin, Purified Pork/Isophane Pork (Anti-Diabetic)",P,53
+61,150923,Lispro Insulin (Anti-Diabetic),P,54
+61,150924,Metformin HCL (Anti-Diabetic),P,55
+61,150925,Repaglinide (Anti-Diabetic),P,56
+61,150926,Troglitazone (Anti-Diabetic),P,57
+61,150927,"Colfosceril Palmitate (Anti-Bacterial, Part III)",H,48
+61,150936,Amrinone Lactate (Anti-Diuretic),Q,02
+61,150937,Desmopressin Acetate (Anti-Diuretic),Q,03
+61,150938,Tiopronin (Anti-Diuretic),Q,04
+61,150939,Tolterodine Tartrate (Anti-Diuretic),Q,05
+61,150940,Mesna (Antidote),R,22
+61,150942,Dolasetron Mesylate (Anti-Emetic/Nauseant),T,22
+61,150943,Dronabinol (Anti-Emetic/Nauseant),T,23
+61,150944,Granisetron Hydrochloride (Anti-Emetic/Nauseant),T,24
+61,150945,Nabilone (Anti-Emetic/Nauseant),T,25
+61,150946,Ondansetron (Anti-Emetic/Nauseant),T,26
+61,150947,Ondansetron HCL Dihydrate (Anti-Emetic/Nauseant),T,27
+61,150948,Ondansetron Hydrochloride (Anti-Emetic/Nauseant),T,28
+61,150949,Scopolamine (Anti-Emetic/Nauseant),T,29
+61,150950,Histrelin Acetate (Anti-Estrogen),U,06
+61,150951,Butenafine HCL (Anti-Fungal) (Not Antibiotic),W,42
+61,150952,Ciclopirox (Anti-Fungal) (Not Antibiotic),W,43
+61,150953,Econazole Nitrate (Anti-Fungal) (Not Antibiotic),W,44
+61,150954,Fluconazole (Anti-Fungal) (Not Antibiotic),W,45
+61,150955,Itraconazole (Anti-Fungal) (Not Antibiotic),W,46
+61,150956,Ketoconazole (Anti-Fungal) (Not Antibiotic),W,47
+61,150957,Naftifine Hydrochloride (Anti-Fungal) (Not Antibiotic),W,48
+61,150958,Oxiconazole Nitrate (Anti-Fungal) (Not Antibiotic),W,49
+61,150959,Sufentanil Citrate (Anti-Fungal) (Not Antibiotic),W,50
+61,150960,Sulconazole Nitrate (Anti-Fungal) (Not Antibiotic),W,51
+61,150961,Terbinafine Hydrochloride (Anti-Fungal) (Not Antibiotic),W,52
+61,150962,Terconazole (Anti-Fungal) (Not Antibiotic),W,53
+61,150963,Ticonazole (Anti-Fungal) (Not Antibiotic),W,54
+61,150964,Tioconazole (Anti-Fungal) (Not Antibiotic),W,55
+61,150965,Butoconazole Nitrate (Anti-Fungal) (Not Antibiotic),W,56
+61,150966,Acrivastine/Pseudoephedrine HCL (Anti-Histaminic),X,41
+61,150967,Antazoline Phosphate/Naphazoline HCL (Anti-Histaminic),X,42
+61,150968,Astemizole (Anti-Histaminic),X,43
+61,150969,Azatadine Maleate (Anti-Histaminic),X,44
+61,150970,Cetirizine Hydrochloride (Anti-Histaminic),X,45
+61,150971,Clemastine Fumarate (Anti-Histaminic),X,46
+61,150972,Emedastine Difumarate (Anti-Histaminic),X,47
+61,150973,Olopatadine Hydrochloride (Anti-Histaminic),X,48
+61,151428,Ketotifen Fumerate (Anti-Asthmatic),E,14
+61,151429,Gatifloxacin (Anti-Bacterial Part I) (Not Antibiotic),F,61
+61,151430,Temozolomide (Anti-Cholinergic),K,68
+61,151431,Argatroban (Anti-Coagulant),L,34
+61,151432,Tinzaparin Sodium (Anti-Coagulant),L,35
+61,151433,Levetiracetam (Anti-Convulsant),M,42
+61,151434,Trileptal (Anti-Convulsant),M,43
+61,151435,Zonisamide (Anti-Convulsant),M,44
+61,151436,Rivastigmine Tartrate (Anti-Depressant),N,81
+61,151437,Insulin Lispro Protamine (Anti-Diabetic),P,58
+61,151438,Velosulin (Anti-Diabetic),P,59
+61,151439,Alosetron HCL (Anti-Emetic/Nauseant),T,30
+61,152524,Bivalirudin (Anti-Coagulant),L,39
+61,152525,Travoprost (Anti-Coagulant),L,40
+61,152624,Femepizole (Antidote),R,23
+61,152625,Galantamine Hydrobromide (Anti-Depressant),N,82
+61,152627,Nateglinide (Anti-Diabetic),P,60
+61,153746,Butenfine HCI,W,57
+61,153756,Escitalopram oxalate,N,83
+61,153757,Ezetimibe,J,15
+61,153759,Fulvestrant,U,07
+61,153761,Gemifloxacin mesylate,F,62
+61,153772,Oxacarbazepine (Anti-Convulsant),M,45
+61,153777,Pimecrolimus,S,04
+61,153778,Rosiglitazone maleate/metformin HCI,P,61
+61,153779,Sertaconazole nitrate,W,58
+61,153782,Voriconazole,W,59
+61,155063,Mentax-TC,W,57
+61,155073,Lexapro,N,83
+61,155074,Zetia,J,15
+61,155080,Factive,F,62
+61,155091,Trileptal,M,45
+61,155101,Elidel,S,04
+61,155102,Avandament,P,61
+61,155103,Ertaczo,W,58
+61,155107,Vfend,W,59
+61,155233,Pioglitazone HCL,P,62
+61,155236,Pioglitazone Maleate,P,63
+61,156894,Lipitor,J,08
+61,156906,Zocor,J,14
+61,156908,Pravachol,J,13
+61,156910,Glucophage,P,55
+61,156911,Plavix,L,38
+61,157044,Cobalt,C,02
+61,157045,Revlimid,C,03
+61,157046,Lenalidomide,C,03
+61,157047,Temafloxacin,F,07
+61,157048,Temafloxacin HCL,F,10
+61,157049,Sulfathiazole,H,11
+61,157050,Chlorhexidine Gluconate,L,14
+61,157053,Symlin,P,64
+61,157054,Pramlinitide,P,64
+61,157154,Rosuvastatin Calcium,J,16
+61,157155,Crestor,J,16
+61,158034,Trospium Chloride (Anti-Cholinergic),K,69
+61,164699,Liquaemin Sodium (Anti-Coagulant),L,08
+61,164700,Calciparine,L,30
+61,165342,Tryptomer,N,03
+61,165359,Aztor 10,J,08
+61,165361,Wellbutrin,N,05
+61,165366,Cipro,F,55
+61,165367,Clexa,N,65
+61,165368,Anafranil,N,11
+61,165369,Clopilet,L,38
+61,165372,Fexigra 180,E,06
+61,165373,Diflucan,W,45
+61,165374,Prozac,N,29
+61,165375,Gabantin 300,N,69
+61,165376,Dibizide,P,09
+61,165383,Metfor,P,26
+61,165386,Parotin 20,N,77
+61,165387,Pioglar-30,P,99
+61,165390,Enselin-4,P,61
+61,165391,Accuhaler,E,11
+61,165392,Serenata 100,N,78
+61,165394,Simiup 20,J,14
+61,165395,Nolvadex,U,05
+61,165398,Effexor,N,80
+61,165400,Coumadin,L,13
+61,166341,Domperidone,T,31
+61,166342,Motilium,T,31
+61,166343,Euciton,T,31
+61,166344,Cilroton,T,31
+61,166345,Praxis,T,31
+61,166346,Seronex,T,31
+61,166347,Emiken,T,31
+61,171722,"Azelastine, Anti-Histamine (Anti-Histaminic)",X,49
+61,171723,"Azelastine Hydrochloride/Fluticasone, Anti-Histamine Steroid (Anti-Histaminic)",X,50
+61,171922,Dymista,X,50
+61,171935,Eptifibatide,Z,02
+61,171936,Tirofiban,Z,03
+61,171937,Aggrastat,Z,03
+61,172522,Omontys,C,09
+61,172523,Peginesatide,C,09
+61,173027,Aprepitant,T,32
+61,173028,Emend,T,32
+61,173031,Desvenlafaxine Succinate,N,84
+61,173032,Pristiq,N,84
+61,173033,Caspofungin Acetate,W,60
+61,173034,Cancidas,W,60
+61,173039,Levocetirizine Dihydrochloride,X,51
+61,173058,Alogliptin Benzoate (Anti-Diabetic),P,65
+61,173059,Nesina (Anti-Diabetic),P,65
+61,173060,Linagliptin (Anti-Diabetic),P,66
+61,173061,Tradjenta (Anti-Diabetic),P,66
+61,173062,Saxagliptin Hydrochloride (Anti-Diabetic),P,67
+61,173063,Onglyza (Anti-Diabetic),P,67
+61,173064,Sitagliptin Phosphate (Anti-Diabetic),P,68
+61,173065,Januvia (Anti-Diabetic),P,68
+61,173066,Canagliflozin (Anti-Diabetic),P,69
+61,173067,Invokana (Anti-Diabetic),P,69
+61,173068,Dapagliflozin (Anti-Diabetic),P,70
+61,173069,Farxiga (Anti-Diabetic),P,70
+61,173259,Duloxetine Hydrochloride (Anti-Depressant),N,85
+61,173260,Cymbalta,N,85
+61,173613,Dabigatran Etexilate Mesylate (Anti-Coagulant),L,41
+61,173614,Pradaxa,L,41
+61,173615,Ezogabine (Anti-Convulsant),M,46
+61,173616,Potiga,M,46
+61,173617,Lacosamide (Anti-Convulsant),M,47
+61,173618,Vimpat,M,47
+61,173619,Ranolazine (Anti-Anginal),D,02
+61,173620,Ranexa,D,02
+61,173621,Rosiglitazone Maleate (Anti-Diabetic),P,71
+61,173622,Avandia,P,71
+61,175342,Darifenacin (Anti-Cholinergic),K,70
+61,175343,Enablex (Anti-Cholinergic),K,70
+61,175344,Fesoterodine Fumarate (Anti-Cholinergic),K,71
+61,175345,Toviaz (Anti-Cholinergic),K,71
+61,175346,Solifenacin Succinate (Anti-Cholinergic),K,72
+61,175347,VESIcare (Anti-Cholinergic),K,72
+61,175532,Stiripentol (Anti-Convulsant),M,48
+61,175533,Diacomit,M,48
+61,175740,Rivaroxaban,L,42
+61,175741,Xarelto,L,42
+61,175742,Esketamine Hydrochloride,N,86
+61,175743,Spravato,N,86
+61,175751,Revefenacin (Anti-Cholinergic),K,73
+61,175752,Yupelri (Anti-Cholinergic),K,73
+61,175753,Fosaprepitant,T,33
+61,175754,Netupitant,T,34
+61,175755,Fosnetupitant Chloride,T,35
+61,175756,Emend,T,33
+61,175757,Palonosetron Hydrochloride,T,36
+61,175758,Aloxi,T,36
+61,175785,Aclidinium Bromide (Anti-Cholinergic),K,74
+61,175786,Prasugrel Hydrochloride (Anti-Coagulant),L,43
+61,175805,Tudorza Pressair,K,74
+61,175806,Effient,L,43
+61,175855,Ferric Maltol (Anti-Anemic),C,11
+61,175856,"Lefamulin Acetate (Anti-Bacterial, Part III)",H,49
+61,175857,Cannabidiol (Anti-Convulsant),M,49
+61,175858,Brexanolone (Anti-Depressant),N,87
+61,175893,Accrufer,C,11
+61,175894,Xenleta,H,49
+61,175895,Epidiolex,M,49
+61,175896,Zulresso,N,87
+61,176096,Amisulpride,T,37
+61,176097,Barhemsys,T,37
+61,176109,Bempedoic Acid,J,17
+61,176110,Nexletol,J,17
+61,176735,Rifaximin (A-Bacterial Pt. I) (Not Antibiotic),F,63
+61,176736,Xifaxan,F,63
+61,176738,Apixaban (Anti-Coagulant),L,44
+61,176739,Eliquis,L,44
+61,176758,Chlorpheniramine Polistirex (Anti-Histaminic),X,52
+61,176930,Daptomycin (Anti-Bacterial) (Not Antibiotic),F,64
+61,176931,Cubicin,F,64
+61,176966,Semaglutide (Anti-Diabetic),P,72
+61,176967,Empagliflozin (Anti-Diabetic),P,73
+61,176968,Tirzepatide (Anti-Diabetic),P,74
+61,176970,Ozempic,P,72
+61,176971,Rybelsus,P,72
+61,176972,Wegovy,P,72
+61,176973,Glyxambi,P,73
+61,176974,Jardiance,P,73
+61,176975,Synjardy,P,73
+61,176976,Synjardy XR,P,73
+61,176977,Trijardy XR,P,73
+61,176979,Mounjaro,P,74

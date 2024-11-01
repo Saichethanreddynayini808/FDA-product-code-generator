@@ -1,0 +1,521 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+60,3917,Ammonium Chloride  (Acidifier),B,01
+60,3918,Amidephrine Mesylate (Adrenergic),C,01
+60,3919,Desoxycorticosterone Acetate (Adrenocortical Steroid),D,01
+60,3920,Trilostane (Adrenocortical Suppressant,E,01
+60,3921,Kaolin (Adsorbant),F,01
+60,3922,Disulfiram (Alcohol Deterrent),G,01
+60,3923,Canrenoate Potassium (Aldosterone Antagonist),H,01
+60,3924,Potassium Citrate (Alkalizer),I,01
+60,3925,Arginine Glutamate (Ammonia Detoxicant),J,01
+60,3926,Bolandiol Dipropionate (Anabolic),K,01
+60,3927,Acetaminophen (Analgesic),L,01
+60,3928,"Alphaprodine HCl (Analgesic, Narcotic)",M,01
+60,3929,Fluoxymesterone (Androgen),N,01
+60,3930,Sodium Oxybate (Anethesia Adjunct),P,01
+60,3931,Dexivacaine (Anesthetic),Q,01
+60,3932,Aminorex (Anorexic),R,01
+60,3933,Algeldrate (Antacid),S,01
+60,3934,Nadide (Antagonist),T,01
+60,3935,Epimestrol (Anterior Pituitary Activator),U,01
+60,3936,Danazol (Anterior Pituitary Suppressor),V,01
+60,3937,Albendazole (Anthelmintic),W,01
+60,3938,Dihydroergotamine Mesylate (Anti-Adrenergic),X,01
+60,3939,Dopamine HCl (Adrenergic),C,02
+60,3940,Desoxycortiscosterone Pivalate (Adrenocortical Steroid),D,02
+60,3941,Starch (Adsorbant),F,02
+60,3942,Canrenone (Aldosterone Antagonist),H,02
+60,3943,Tromethamine (Alkalizer),I,02
+60,3944,Arginine HCl (Ammonia Detoxicant),J,02
+60,3945,Bolasterone (Anabolic),K,02
+60,3946,Anidoxime (Analgesic),L,02
+60,3947,"Anileridine (Analgesic, Narcotic)",M,02
+60,3948,Mesterolone (Androgen),N,02
+60,3949,Etoxadrol HCl (Anesthetic),Q,02
+60,3950,Amphecloral (Anorexic),R,02
+60,3951,Almadrate Sulfate (Antacid),S,02
+60,3952,Anthelmycin (Anthelmintic),W,02
+60,3953,Metoprolol (Anti-Adrenergic),X,02
+60,3954,Ephedrine Sulfate (Adrenergic),C,03
+60,3955,Fludrocortisone Acetate (Adrenocortical Steroid),D,03
+60,3956,Talc (Adsorbant),F,03
+60,3957,Mextenoate Potassium (Aldosterone Antagonist),H,03
+60,3958,Boldenone Undecylenate (Anabolic),K,03
+60,3959,Anilopam HCl (Analgesic),L,03
+60,3960,"Anileridine HCl (Analgesic, Narcotic)",M,03
+60,3961,Methandrostenolone (Androgen),N,03
+60,3962,Ketamine HCl (Anesthetic),Q,03
+60,3963,Benzphetamine HCl (Anorexic),R,03
+60,3964,Alumina/Magnesia (Antacid),S,03
+60,3965,Bephenium Hydroxynaphthoate (Anthelmintic),W,03
+60,3966,Phentolamine HCl (Anti-Adrenergic),X,03
+60,3967,Epinephrine (Adrenergic),C,04
+60,3968,Hydrocartamate Hydrochloride (Adrenocortical Steroid),D,04
+60,3969,Zinc Stearate (Adsorbant),F,04
+60,3970,Prorenoate Potassium (Aldosterone Antagonist),H,04
+60,3971,Bolenol (Anabolic),K,04
+60,3972,Antipyrine (Analgesic),L,04
+60,3973,Methyltestosterone (Androgen),N,04
+60,3974,Phencyclidine HCl (Anesthetic),Q,04
+60,3975,Chlorphentermine HCl (Anorexic),R,04
+60,3976,Aluminum Hydroxide (Antacid),S,04
+60,3977,Bromoxanide (Anthelmintic),W,04
+60,3978,Phentolamine Mesylate (Anti-Adrenergic),X,04
+60,3979,Epinephryl Borate (Adrenergic),C,05
+60,3980,Bolmantalate (Anabolic),K,05
+60,3981,Aspirin (Analgesic),L,05
+60,3982,Tiletamine HCl (Anesthetic),Q,05
+60,3983,Clominorex (Anorexic),R,05
+60,3984,Aluminum Phosphate (Antacid),S,05
+60,3985,Cimetidine (Antagonist),T,05
+60,3986,Bunamidine HCl (Anthelmintic),W,05
+60,3987,Solypertine Tartrate (Anti-Adrenergic),X,05
+60,3988,Esproquin HCl (Adrenergic),C,06
+60,3989,Ethylestrenol (Anabolic),K,06
+60,3990,Aspirin Aluminum (Analgesic),L,06
+60,3991,"Codeine Sulfate (Analgesic, Narcotic)",M,06
+60,3992,Nandrolone Decanoate (Androgen),N,06
+60,3993,Hydroxydine Sodium Succinate (Anesthetic),Q,06
+60,3994,Clortermine HCl (Anorexic),R,06
+60,3995,Bismuth (Antacid),S,06
+60,3996,Metiamide (Antagonist),T,06
+60,3997,Butonate (Anthelmintic),W,06
+60,3998,Zolertine Hydrochloride (Anti-Adrenergic),X,06
+60,3999,Etafedrine HCl (Adrenergic),C,07
+60,4000,Methenolone Acetate (Anabolic),K,07
+60,4001,"Fentanyl Citrate (Analgesic, Narcotic)",M,07
+60,4002,Nandrolone Phenpropionate (Androgen),N,07
+60,4003,Diethylpropion HCl (Anorexic),R,07
+60,4004,Precipitated Calcium Carbonate (Antacid),S,07
+60,4005,Cambendazole (Anthelmintic),W,07
+60,4006,Metaraminol Bitartrate (Adrenergic),C,08
+60,4007,Methenolone Enanthate (Anabolic),K,08
+60,4008,Benzydamine HCl (Analgesic),L,08
+60,4009,"Hydromorphone Hydrochloride (Analgesic, Narcotic)",M,08
+60,4010,Norethandrolone (Androgen),N,08
+60,4011,Cyclopropane (Anesthetic),Q,08
+60,4012,Fenfluramine HCl (Anorexic),R,08
+60,4013,Dihydroxyaluminum Aminoacetate (Antacid),S,08
+60,4014,Carbantel Lauryl Sulfate (Anthelmintic),W,08
+60,4015,Phenylephrine HCl (Adrenergic),C,09
+60,4016,Mibolerone (Anabolic),K,09
+60,4017,Buprenorphine HCl (Analgesic),L,09
+60,4019,Oxandrolone (Androgen),N,09
+60,4020,Enflurane (Anesthetic),Q,09
+60,4021,Fenisorex (Anorexic),R,09
+60,4022,Dihydroxyalum Sodium Carbonate (Antacid),S,09
+60,4023,Clioxanide (Anthelmintic),W,09
+60,4024,Glutamic Acid HCl (Acidifier),B,10
+60,4025,Pseudoephedrine HCl (Adrenergic),C,10
+60,4026,Nandrolone Cyclotate (Anabolic),K,10
+60,4027,Butacetin (Analgesic),L,10
+60,4028,"Levomethadyl Acetate (Analgesic, Narcotic)",M,10
+60,4029,Oxymetholone (Androgen),N,10
+60,4030,Ether (Anesthetic),Q,10
+60,4031,Fludorex (Anorexic),R,10
+60,4032,Magaldrate (Antacid),S,10
+60,4033,Levallorphan Tartrate (Antagonist),T,10
+60,4034,Cyclobendazole (Anthelmintic),W,10
+60,4035,Tramazoline HCl (Adrenergic),C,11
+60,4036,Norbolethone (Anabolic),K,11
+60,4037,Butorphanol (Analgesic),L,11
+60,4038,"Levorphanol Tartrate (Analgesic, Narcotic)",M,11
+60,4039,Silandrone (Androgen),N,11
+60,4040,Ethylene (Anesthetic),Q,11
+60,4041,Fluminorex (Anorexic),R,11
+60,4042,Magnesia (Antacid),S,11
+60,4043,Dichlorvos (Anthelmintic),W,11
+60,4044,Tuaminoheptane Sulfate (Adrenergic),C,12
+60,4045,Sodium Citrate (Alkalizer),I,12
+60,4046,Pizotyline (Anabolic),K,12
+60,4047,Butorphanol Tartrate (Analgesic),L,12
+60,4048,"Meperidine HCl (Analgesic, Narcotic)",M,12
+60,4049,Stanolone (Androgen),N,12
+60,4050,Fluroxene (Anesthetic),Q,12
+60,4051,Levamfetamine Succiante (Anorexic),R,12
+60,4052,Magnesia&Alumina (Antacid),S,12
+60,4053,Diethylcarbamazine Citrate (Anthelmintic),W,12
+60,4054,Phenisonone Hydrobromide (Adrenergic),C,13
+60,4055,Quinbolone (Anabolic),K,13
+60,4056,Calcium Carbaspirin (Analgesic),L,13
+60,4057,"Methadone HCl (Analgesic, Narcotic)",M,13
+60,4058,Stanozolol (Androgen),N,13
+60,4059,Halothane (Anesthetic),Q,13
+60,4060,Mazindol (Anorexic),R,13
+60,4061,Magnesium Carbonate (Antacid),S,13
+60,4062,Nalorphine HCl (Antagonist),T,13
+60,4063,Dymanthine HCl (Anthelmintic),W,13
+60,4064,Stenbolone Acetate (Anabolic),K,14
+60,4065,Carbamazepine (Analgesic),L,14
+60,4066,"Methadyl Acetate (Analgesic, Narcotic)",M,14
+60,4067,Testosterone (Androgen),N,14
+60,4068,Isoflurane (Anesthetic),Q,14
+60,4069,Mefenorex HCl (Anorexic),R,14
+60,4070,Magnesium Hydroxide (Antacid),S,14
+60,4071,Naloxone HCl (Antagonist),T,14
+60,4072,Fenbendazole (Anthelmintic),W,14
+60,4073,Tibolone (Anabolic),K,15
+60,4074,Carbiphene HCl (Analgesic),L,15
+60,4075,"Morphine Sulfate (Analgesic, Narcotic)",M,15
+60,4076,Testosterone Cypionate (Androgen),N,15
+60,4077,Methoxyflurane (Anesthetic),Q,15
+60,4078,Phenmetrazine HCl (Anorexic),R,15
+60,4079,Magnesium Phosphate (Antacid),S,15
+60,4080,Naltrexone (Antagonist),T,15
+60,4081,Hexylresorcinol (Anthelmintic),W,15
+60,4082,Acebutolol (Anti-Adrenergic),X,15
+60,4083,Zeranol (Anabolic),K,16
+60,4084,Clonixerol (Analgesic),L,16
+60,4085,"Oxycodone (Analgesic, Narcotic)",M,16
+60,4086,Testosterone Enanthate (Androgen),N,16
+60,4087,Nitrous Oxide (Anesthetic),Q,16
+60,4088,Phentermine (Anorexic),R,16
+60,4089,Magnesium Trisilicate (Antacid),S,16
+60,4090,Oxilorphane (Antagonist),T,16
+60,4091,Mebendazole (Anthelmintic),W,16
+60,4092,Alprenolol HCl (Anti-Adrenergic),X,16
+60,4093,Methandriol (Anabolic),K,17
+60,4094,Clonixin (Analgesic),L,17
+60,4095,"Oxycodone HCl (Analgesic, Narcotic)",M,17
+60,4096,Testosterone Ketolaurate (Androgen),N,17
+60,4097,Norflurane (Anesthetic),Q,17
+60,4098,Phendimetrazine Tartrate (Anorexic),R,17
+60,4099,Polyethadene (Antacid),S,17
+60,4100,Morantel Tartrate (Anthelmintic),W,17
+60,4101,Atenolol (Anti-Adrenergic),X,17
+60,4102,Cyclazocine (Analgesic),L,18
+60,4103,"Oxymorphone HCl (Analgesic, Narcotic)",M,18
+60,4104,Testosterone Phenylacetate (Androgen),N,18
+60,4105,Roflurane (Anesthetic),Q,18
+60,4106,Potassium Glucaldrate (Antacid),S,18
+60,4107,Niclosamide (Anthelmintic),W,18
+60,4108,Bunolol HCl (Anti-Adrenergic),X,18
+60,4109,"Piminodine Esylate (Analgesic, Narcotic)",M,19
+60,4110,Testosterone Propionate (Androgen),N,19
+60,4111,Sevoflurane (Anesthetic),Q,19
+60,4112,Silodrate (Antacid),S,19
+60,4113,Nitramisole HCl (Anthelmintic),W,19
+60,4114,Metalol HCl (Anti-Adrenergic),X,19
+60,4115,Methionine  (Acidifier),B,20
+60,4116,Clorprenaline HCl (Adrenergic),C,20
+60,4117,Dimefadane (Analgesic),L,20
+60,4118,"Morphine Hydrochloride (Analgesic, Narcotic)",M,20
+60,4119,Teflurane (Anesthetic),Q,20
+60,4120,Nitrodan (Anthelmintic),W,20
+60,4121,Nadolol (Anti-Adrenergic),X,20
+60,4122,Ephedrine (Adrenergic),C,21
+60,4123,Dipyrone (Analgesic),L,21
+60,4124,"Metopon Hydrochloride (Analgesic, Narcotic)",M,21
+60,4125,Normethandrone (Androgen),N,21
+60,4126,Tribromethanol (Anesthetic),Q,21
+60,4127,Oxantel Pamoate (Anthelmintic),W,21
+60,4128,Practolol (Anti-Adrenergic),X,21
+60,4129,Ephedrine HCl (Adrenergic),C,22
+60,4130,Ethoheptazine Citrate (Analgesic),L,22
+60,4131,"Drocode (Analgesic, Narcotic)",M,22
+60,4132,Vinyl Ether (Anesthetic),Q,22
+60,4133,Oxfendazole (Anthelmintic),W,22
+60,4134,Sotalol HCl (Anti-Adrenergic),X,22
+60,4135,Isoproterenol HCl (Adrenergic),C,23
+60,4136,Ethoxazene HCl (Analgesic),L,23
+60,4137,Cyclobarbital (Anesthetic),Q,23
+60,4138,Oxibendazole (Anthelmintic),W,23
+60,4139,Timolol Maleate (Anti-Adrenergic),X,23
+60,4140,Isoproterenol Sulfate (Adrenergic),C,24
+60,4141,Cyclobarbital Calcium (Anesthetic),Q,24
+60,4142,Parbendazole (Anthelmintic),W,24
+60,4143,Tiprenolol HCl (Anti-Adrenergic),X,24
+60,4144,Methoxyphenamine HCl (Adrenergic),C,25
+60,4145,Methohexital Sodium (Anesthetic),Q,25
+60,4146,Benanserin Hydrobromide (Antagonist),T,25
+60,4147,Piperamide Maleate (Anthelmintic),W,25
+60,4148,Soterenol HCl (Adrenergic),C,26
+60,4149,Flufenisal (Analgesic),L,26
+60,4150,Propanidid (Anesthetic),Q,26
+60,4151,Piperazine (Anthelmintic),W,26
+60,4152,Protokylol Hydrochloride (Adrenergic),C,27
+60,4153,Thiamylal Sodium (Anesthetic),Q,27
+60,4154,Piperazine Citrate (Anthelmintic),W,27
+60,4155,Thiopental Sodium (Anesthetic),Q,28
+60,4156,Piperazine Edetate Calcium (Anthelmintic),W,28
+60,4157,Ibufenac (Analgesic),L,29
+60,4158,Piperazine Phosphate (Anthelmintic),W,29
+60,4159,Adrenalone (Adrenergic),C,30
+60,4160,Ketazocine (Analgesic),L,30
+60,4161,Bupivacaine (Anesthetic),Q,30
+60,4162,Proclonol (Anthelmintic),W,30
+60,4163,Deterenol HCl (Adrenergic),C,31
+60,4164,Letimide HCl (Analgesic),L,31
+60,4165,Butethamine HCl (Anesthetic),Q,31
+60,4166,Pyrantel Pamoate (Anthelmintic),W,31
+60,4167,Epinephrine Bitartrate (Adrenergic),C,32
+60,4168,Chloroprocaine HCl (Anesthetic),Q,32
+60,4169,Pyrantel Tartrate (Anthelmintic),W,32
+60,4170,Hydroxyamphetamine Hbr (Adrenergic),C,33
+60,4171,Methopholine (Analgesic),L,33
+60,4172,Diamocaine Cyclamate (Anesthetic),Q,33
+60,4173,Pyrvinium Pamoate (Anthelmintic),W,33
+60,4174,Methotrimeprazine (Analgesic),L,34
+60,4175,Dibucaine (Anesthetic),Q,34
+60,4176,Quinacrine HCl (Anthelmintic),W,34
+60,4177,Mimbane HCl (Analgesic),L,35
+60,4178,Dibucaine HCl (Anesthetic),Q,35
+60,4179,Rafoxanide (Anthelmintic),W,35
+60,4180,Molinazone (Analgesic),L,36
+60,4181,Etidocaine (Anesthetic),Q,36
+60,4182,Stilbazium Iodide (Anthelmintic),W,36
+60,4183,Nalbuphine HCl (Analgesic),L,37
+60,4184,Hexylcaine HCl (Anesthetic),Q,37
+60,4185,Tetrachloroethylene (Anthelmintic),W,37
+60,4186,Nalmexone HCl (Analgesic),L,38
+60,4187,Isobucaine HCl (Anesthetic),Q,38
+60,4188,Tetramisole HCl (Anthelmintic),W,38
+60,4189,Namoxyrate (Analgesic),L,39
+60,4190,Levoxadrol HCl (Anesthetic),Q,39
+60,4191,Thiabendazole (Anthelmintic),W,39
+60,4192,Cyclopentamine HCl (Adrenergic),C,40
+60,4193,Lidocaine HCl (Anesthetic),Q,40
+60,4194,Ticarbodine (Anthelmintic),W,40
+60,4195,Levarterenol Bitartrate (Adrenergic),C,41
+60,4196,Mepivacaine HCl (Anesthetic),Q,41
+60,4197,Triclofenol Piperazine (Anthelmintic),W,41
+60,4198,Levonordefrin (Adrenergic),C,42
+60,4199,Meprylcaine HCl (Anesthetic),Q,42
+60,4200,Vincofos (Anthelmintic),W,42
+60,4201,Mephentermine Sulfate (Adrenergic),C,43
+60,4202,Nefopam HCl (Analgesic),L,43
+60,4203,Metabutethamine HCl (Anesthetic),Q,43
+60,4204,Zilantel (Anthelmintic),W,43
+60,4205,Methoxamine HCl (Adrenergic),C,44
+60,4206,Nexeridine HCl (Analgesic),L,44
+60,4207,Dithiazanine Iodide (Anthelmintic),W,44
+60,4208,Metizoline HCl (Adrenergic),C,45
+60,4209,Noracymethadol HCl (Analgesic),L,45
+60,4210,Prilocaine HCl (Anesthetic),Q,45
+60,4211,Naphazoline HCl (Adrenergic),C,46
+60,4212,Octazamide (Analgesic),L,46
+60,4213,Procaine HCl (Anesthetic),Q,46
+60,4214,Octodrine (Adrenergic),C,47
+60,4215,Pentazocine (Analgesic),L,47
+60,4216,Propoxycaine HCl (Anesthetic),Q,47
+60,4217,Oxymetazoline HCl (Adrenergic),C,48
+60,4218,Pentazocine HCl (Analgesic),L,48
+60,4219,Pyrrocaine (Anesthetic),Q,48
+60,4220,Phenylpropanolamine HCl (Adrenergic),C,49
+60,4221,Pentazocine Lactate (Analgesic),L,49
+60,4222,Pyrrocaine HCl (Anesthetic),Q,49
+60,4223,Propylhexedrine (Adrenergic),C,50
+60,4224,Phenacetin (Analgesic),L,50
+60,4225,Risocaine (Anesthetic),Q,50
+60,4226,Tetrahydrozoline HCl (Adrenergic),C,51
+60,4227,Phenyramidol HCl (Analgesic),L,51
+60,4228,Rodocaine (Anesthetic),Q,51
+60,4229,Tuaminoheptane (Adrenergic),C,52
+60,4230,Pirfenodone (Analgesic),L,52
+60,4231,Tetracaine HCl (Anesthetic),Q,52
+60,4232,Xylometazoline HCl (Adrenergic),C,53
+60,4233,Prodilidine HCl (Analgesic),L,53
+60,4234,Profadol HCl (Analgesic),L,54
+60,4235,Propiram Fumarate (Analgesic),L,55
+60,4236,Benoxinate HCl (Anesthetic),Q,55
+60,4237,Propoxyphene HCl (Analgesic),L,56
+60,4238,Benzocaine (Anesthetic),Q,56
+60,4239,Propoxyphene Napsylate (Analgesic),L,57
+60,4240,Biphenamine HCl (Anesthetic),Q,57
+60,4241,Butacaine Sulfate (Anesthetic),Q,58
+60,4242,Butamben (Anesthetic),Q,59
+60,4243,Pyrroliphene HCl (Analgesic),L,60
+60,4244,Cocaine HCl (Anesthetic),Q,60
+60,4245,Salcolex (Analgesic),L,61
+60,4246,Cyclomethycaine Sulfate (Anesthetic),Q,61
+60,4247,Salethamide Maleate (Analgesic),L,62
+60,4248,Dimethisoquin HCl (Anesthetic),Q,62
+60,4249,Salicylamide (Analgesic),L,63
+60,4250,Diperodon (Anesthetic),Q,63
+60,4251,Dyclonine HCl (Anesthetic),Q,64
+60,4252,Salsalate (Analgesic),L,65
+60,4253,Ethyl Chloride (Anesthetic),Q,65
+60,4254,Sodium Salicylate (Analgesic),L,66
+60,4255,Euprocin HCl (Anesthetic),Q,66
+60,4256,Tetrydamine (Analgesic),L,67
+60,4257,Lidocaine (Anesthetic),Q,67
+60,4258,Tilidine HCl (Analgesic),L,68
+60,4259,Oxethazaine (Anesthetic),Q,68
+60,4260,Tramadol HCl (Analgesic),L,69
+60,4261,Pramoxine HCl (Anesthetic),Q,69
+60,4262,Volazocine (Analgesic),L,70
+60,4263,Tetracaine (Anesthetic),Q,70
+60,4264,Xylazine HCl (Analgesic),L,71
+60,4265,Eugenol (Analgesic),L,75
+60,4266,Cocaine (Anesthetic),Q,75
+60,4267,Phenacaine HCl (Anesthetic),Q,77
+60,4268,Proparacaine HCL (Anesthetic),Q,78
+60,4269,Trichloroethylene (Analgesic),L,79
+60,4270,Ergotamine Tartrate (Analgesic),L,80
+60,4271,Phenazopyridine HCl (Analgesic),L,82
+60,4272,Abrasive N.E.C.,A,99
+60,4273,Acidifier N.E.C.,B,99
+60,4274,Adrenergic N.E.C.,C,99
+60,4275,Adrenocortical Steroid N.E.C.,D,99
+60,4276,Adrenocortical Suppressant N.E.C.,E,99
+60,4277,Adsorbant N.E.C.,F,99
+60,4278,"Alcohol Deterrent, N.E.C.",G,99
+60,4279,"Aldosterone Antagonist, N.E.C.",H,99
+60,4280,"Alkalizer, N.E.C.",I,99
+60,4281,"Ammonia Detoxicant, N.E.C.",J,99
+60,4282,"Anabolic, N.E.C.",K,99
+60,4283,"Analgesic, N.E.C.",L,99
+60,4284,"Analgesic, Narcotic,  N.E.C.",M,99
+60,4285,"Androgen, N.E.C.",N,99
+60,4286,"Anethesia Adjunct, N.E.C.",P,99
+60,4287,"Anesthetic, N.E.C.",Q,99
+60,4288,"Anorexic, N.E.C.",R,99
+60,4289,"Antacid, N.E.C.",S,99
+60,4290,"Antagonist, N.E.C.",T,99
+60,4291,Anterior Pituitary Activator N.E.C.,U,99
+60,4292,Anterior Pituitary Suppressor N.E.C.,V,99
+60,4293,"Anthelmintic, N.E.C.",W,99
+60,4294,"Anti-Adrenergic, N.E.C.",X,99
+60,150775,Brimonidine Tartrate (Adrenergic),C,54
+60,150776,Dapiprazole Hydrochloride (Adrenergic),C,55
+60,150777,Dipivefrin Hydrochloride (Adrenergic),C,56
+60,150778,Pseudoephedrine (Adrenergic),C,57
+60,150779,Pseudoephedrine Polistirex (Adrenergic),C,58
+60,150780,Aminoglutethimide (Adrenocortical Suppressant),E,02
+60,150781,Celecoxib (Analgesic),L,83
+60,150782,Leflunomide (Analgesic),L,84
+60,150783,Mesalamine (Analgesic),L,85
+60,150789,"Dezocine (Analgesic, Narcotic)",M,23
+60,150790,"Fentanyl (Analgesic, Narcotic)",M,24
+60,150792,"Levomethadyl Acetate Hydrochloride (Analgesic, Narcotic)",M,26
+60,150793,"Nalmefene Hydrochloride (Analgesic, Narcotic)",M,27
+60,150794,"Naltrexone Hydrochloride (Analgesic, Narcotic)",M,28
+60,150795,Alfentanil Hydrochloride (Anesthesia Adjunct),P,02
+60,150796,Midazolam Hydrochloride (Anesthesia Adjunct),P,03
+60,150797,Pipecuronium Bromide (Anesthesia Adjunct),P,04
+60,150798,Remifentanil HCL (Anesthesia Adjunct),P,05
+60,150799,Bupivacaine Hydrochloride (Anesthetic),Q,79
+60,150800,Dantbolene (Anesthetic),Q,80
+60,150801,Desflurane (Anesthetic),Q,81
+60,150802,Flumazenil (Anesthetic),Q,82
+60,150803,Mivacurium Chloride (Anesthetic),Q,83
+60,150804,Propofol (Anesthetic),Q,84
+60,150805,Orlistat/Tetrahydrolipstatin (Anorexic),R,18
+60,150806,Sibutramine HCL Monohydrate (Anorexic),R,19
+60,150807,Calcium Acetate (Antacid),S,20
+60,150808,Cisapride (Antacid),S,21
+60,150809,Famotidine (Antacid),S,22
+60,150810,Metoclopramide (Antacid),S,23
+60,150811,Ranitidine Bismuth Citrate (Antacid),S,24
+60,150812,Ranitidine Hydrochloride (Antacid),S,25
+60,150813,Sucralfate (Antacid),S,26
+60,150814,Cimetidine Hydrochloride (Antagonist),T,26
+60,150815,Cucralfate (Antagonist),T,27
+60,150816,Corticorelin Ovine (Anterior Pituitary Activator),U,02
+60,150817,Acebutolol Hydrochloride (Anti-Adrenergic),X,25
+60,150818,Levobunolol Hydrochloride (Anti-Adrenergic),X,26
+60,150819,Levocabastine Hydrochloride (Anti-Andrenergic),X,27
+60,150820,Timolol Hemihydrate (Anti-Adrenergic),X,28
+60,151424,Articane (Anesthetic),Q,85
+60,151425,EMLA (Anesthetic),Q,86
+60,151426,Levobupivacaine (Anesthetic),Q,87
+60,151427,Rabeprazole Sodium (Antacid) (Anti-Ulcer),S,27
+60,154535,Abarelix,V,02
+60,154536,Plenaxis,V,02
+60,156904,Celebrex,L,83
+60,157034,Adrenal Cortex,D,05
+60,157035,Camphorated Oil,L,07
+60,157036,Sweet Spirits of Nitre,L,19
+60,157037,Duragesic,M,04
+60,157038,Fentanyl Patches,M,04
+60,157039,Mepazine HCL,M,05
+60,157040,Lidocaine,Q,07
+60,157041,Urethane,Q,44
+60,157042,Suboxone,T,02
+60,157043,Buprenorphine HCL and Naloxone,T,02
+60,165339,Tylenol,L,01
+60,165343,Hipres-25,X,17
+60,165365,Cobix-200,L,83
+60,165388,Veloz-20,S,27
+60,165389,Zantac,S,25
+60,165397,Tramacip,L,69
+60,173074,Ranitidine (Antacid),S,28
+60,173653,Ivacaftor (Agonist),O,01
+60,173654,Kalydeco (Agonist),O,01
+60,173655,Lumacaftor/Ivacaftor (Agonist),O,02
+60,173656,Orkambi (Agonist),O,02
+60,173657,"Agonist, N.E.C.",O,99
+60,174280,Inhibitor (Growth Factor) N.E.C.,Y,99
+60,174506,Dehydroepiandrosterone (Androgen),N,20
+60,174507,DHEA,N,20
+60,174508,Gynodian,N,20
+60,174509,Prasterone,N,20
+60,174815,Afoxolaner (Antiparasitic),Z,01
+60,174816,Albendazole (Antiparasitic),Z,02
+60,174817,Amitraz (Antiparasitic),Z,03
+60,174818,Amprolium (Antiparasitic),Z,04
+60,174819,Clorsulon (Antiparasitic),Z,05
+60,174820,Doramectin (Antiparasitic),Z,06
+60,174821,Diclazuril (Antiparasitic),Z,07
+60,174822,Dipiperazine Sulfate/Piperazine Hydrochloride (Antiparasitic),Z,08
+60,174823,Emodepside/Praziquatel (Antiparasitic),Z,09
+60,174824,Epsiprantel (Antiparasitic),Z,10
+60,174825,Eprinomectin (Antiparasitic),Z,11
+60,174826,Fenbendazole (Antiparasitic),Z,12
+60,174827,Fluralaner (Antiparasitic),Z,13
+60,174828,Imidacloprid and combinations (Antiparasitic),Z,14
+60,174829,Ivermectin and combinations (Antiparasitic),Z,15
+60,174830,Levamisole hydrochloride (Antiparasitic),Z,16
+60,174831,Lufenuron (Antiparasitic),Z,17
+60,174832,Lufenuron/Nitenpyram combination (Antiparasitic),Z,18
+60,174833,Melarsomine Dihydrochloride (Antiparasitic),Z,19
+60,174834,Moxidectin (Antiparasitic),Z,20
+60,174835,Milbemycin Oxime and combinations (Antiparasitic),Z,21
+60,174836,Moxidectin/Praziquantel (Antiparasitic),Z,22
+60,174837,Nitenpyram (Antiparasitic),Z,23
+60,174838,Oxfendazole (Antiparasitic),Z,24
+60,174839,Oxibendazole (Antiparasitic),Z,25
+60,174840,Piperazine Citrate (Antiparasitic),Z,26
+60,174841,Piperazine base-present as sulfate (Antiparasitic),Z,27
+60,174842,Ponazuril (Antiparasitic),Z,28
+60,174843,Praziquantel (Antiparasitic),Z,29
+60,174844,Praziquantel/Pyrantel Pamoate combination (Antiparasitic),Z,30
+60,174845,Praziquantel/Pyrantel Pamoate/Febantel combination (Antiparasitic),Z,31
+60,174846,Pyrantel Pamoate (Antiparasitic),Z,32
+60,174847,Pyrimethamine/Sulfadiazine Sodium (Antiparasitic),Z,33
+60,174848,Sarolaner (Antiparasitic),Z,34
+60,174849,Selamectin (Antiparasitic),Z,35
+60,174850,Spinosad (Antiparasitic),Z,36
+60,174851,"Antiparasitic, N.E.C.",Z,99
+60,175744,Triclabendazole (Anthelmintic),W,45
+60,175745,Egaten (Anthelmintic),W,45
+60,175761,Tenormin,X,17
+60,175781,Lofexidine Hydrochloride (Adrenergic),C,59
+60,175782,Testosterone Undecanoate (Androgen),N,22
+60,175783,Bremelanotide Acetate (Agonist),O,03
+60,175784,Linaclotide (Agonist),O,04
+60,175799,Lucemyra,C,59
+60,175800,Aveed,N,22
+60,175801,Jatenzo,N,22
+60,175802,Vyleesi,O,03
+60,175804,Linzess,O,04
+60,175853,Tegaserod Maleate (Agonist),O,05
+60,175854,Afamelanotide (Agonist),O,06
+60,175884,Dilaudid,M,08
+60,175885,Demerol,M,12
+60,175886,Zelnorm,O,05
+60,175887,Scenesse,O,06
+60,175888,Ultiva,P,05
+60,175889,Bunavail,T,02
+60,175890,Zubsolv,T,02
+60,175891,Evzio,T,14
+60,175892,Narcan,T,14
+60,176100,Osilodrostat Phosphate (Adrenocortical Suppressant),E,03
+60,176101,Isturisa,E,03
+60,176656,"Opium (Analgesic, Narcotic)",M,29
+60,176927,"Tapentadol (Analgesic, Narcotic)",M,30
+60,176928,Nucynta,M,30
+60,176929,Nucynta ER,M,30
+60,177027,Dexmedetomidine (Adrenergic),C,60
+60,177028,Igalmi,C,60
+60,177029,Precedex,C,60

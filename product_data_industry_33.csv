@@ -1,0 +1,298 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+33,2082,"Caramel Candy Bar, Hard, with Nuts or Nut Products (not Coconut)  (without Chocolate)",A,01
+33,2083,"Caramel Candy Bar, Hard, with Coconut (without Chocolate)",B,01
+33,2084,"Caramel Candy Bar, Hard with Fruit  (without Chocolate)",C,01
+33,2085,"Caramel Candy Bar, Hard, with Nuts and Fruit  (without Chocolate)",D,01
+33,2086,"Caramel Candy Bar, Hard, without Nuts and Fruit  (without Chocolate)",E,01
+33,2087,"Caramel Candy Bar, Soft, with Nuts or Nut Products  (without Chocolate)",G,01
+33,2088,"Caramel Candy Bar, Soft with Coconut  (without Chocolate)",H,01
+33,2089,"Caramel Candy Bar, Soft, with Fruit  (without Chocolate)",J,01
+33,2090,"Caramel Candy Bar, Soft, with Nuts and Fruit  (without Chocolate)",K,01
+33,2091,"Caramel Candy Bar, Soft, without Nuts and Fruit  (without Chocolate)",L,01
+33,2092,Cake Decoration (without Chocolate),S,01
+33,2093,"Butterscotch Topping  (Topping without Fruit, Nuts or Chocolate)",T,01
+33,2094,Bubble Gum (without Chocolate),U,01
+33,2096,"Caramel Candy Pieces, Hard, with Nuts or Nut Products (not Coconut) (without Chocolate)",A,02
+33,2097,"Caramel Candy Pieces, Hard, with Coconut (without Chocolate)",B,02
+33,2098,"Caramel Candy Pieces, Hard, with Fruit  (without Chocolate)",C,02
+33,2099,"Caramel Candy Pieces, Hard, with Nuts and Fruit (without Chocolate)",D,02
+33,2100,"Caramel Candy Pieces, Hard, without Nuts or Fruit (without Chocolate)",E,02
+33,2101,"Caramel Candy Pieces, Soft, with Nuts or Nut Products  (without Chocolate)",G,02
+33,2102,"Caramel Candy Pieces, Soft, with Coconut  (without Chocolate)",H,02
+33,2103,"Caramel Candy Pieces, Soft, with Fruit  (without Chocolate)",J,02
+33,2104,"Caramel Candy Pieces, Soft, with Nuts and Fruit  (without Chocolate)",K,02
+33,2105,"Caramel Candy Pieces, Soft, without Nuts and Fruit  (without Chocolate)",L,02
+33,2106,Caramel/Candied Apple (without Chocolate),S,02
+33,2107,"Caramel Topping (Topping without Fruit, Nuts or Chocolate)",T,02
+33,2108,Chewing Gum (without Chocolate),U,02
+33,2110,"Fondant Candy Bar, Hard, with Nuts or Nut Products (not Coconut) (without Chocolate)",A,03
+33,2111,"Fondant Candy Bar, Hard, with Coconut (without Chocolate)",B,03
+33,2112,"Fondant Candy Bar, Hard, with Fruit (without Chocolate)",C,03
+33,2113,"Fondant Candy Bar, Hard, with Nuts and Fruit  (without Chocolate)",D,03
+33,2114,"Fondant Candy Bar, Hard, without Nuts or Fruit  (without Chocolate)",E,03
+33,2115,"Fondant Candy Bar, Soft, with Nuts or Nut Products (without Chocolate)",G,03
+33,2116,"Fondant Candy Bar, Soft, with Coconut   (without Chocolate)",H,03
+33,2117,"Fondant Candy Bar, Soft, with Fruit  (without Chocolate)",J,03
+33,2118,"Fondant Candy Bar, Soft, with Nuts and Fruit  (without Chocolate)",K,03
+33,2119,"Fondant Candy Bar, Soft, without Nuts and Fruit  (without Chocolate)",L,03
+33,2120,Candy Coated Popcorn (without Chocolate),S,03
+33,2121,"Marshmallow Topping  (Topping without Fruit, Nuts or Chocolate)",T,03
+33,2123,"Fondant Candy Pieces, Hard, with Nuts or Nut Products (not Coconut) (without Chocolate)",A,04
+33,2124,"Fondant Candy Pieces, Hard, with Coconut  (without Chocolate)",B,04
+33,2125,"Fondant Candy Pieces, Hard, with Fruit  (without Chocolate)",C,04
+33,2126,"Fondant Candy Pieces, Hard, with Nuts and Fruit  (without Chocolate)",D,04
+33,2127,"Fondant Candy Pieces, Hard, without Nuts and Fruit  (without Chocolate)",E,04
+33,2128,"Fondant Candy Pieces, Soft, with Nuts or Nut Products  (without Chocolate)",G,04
+33,2129,"Fondant Candy Pieces, Soft, with Coconut  (without Chocolate)",H,04
+33,2130,"Fondant Candy Pieces, Soft, with Fruit  (without Chocolate)",J,04
+33,2131,"Fondant Candy Pieces, Soft, with Nuts and Fruit  (without Chocolate)",K,04
+33,2132,"Fondant Candy Pieces, Soft, without Nuts and Fruit  (without Chocolate)",L,04
+33,2133,Cereal Confection (without Chocolate),S,04
+33,2135,"Candy Bars or Pieces (not Caramel or Fondant), Hard, with Nuts or Nut Products (not Coconut)(without",A,05
+33,2136,"Candy Bar or Pieces (not Caramel or Fondant), Hard, with Coconut  (without Chocolate)",B,05
+33,2137,"Candy Bar or Pieces (not Caramel or Fondant), Hard, with Fruit  (without Chocolate)",C,05
+33,2138,"Candy Bar or Pieces (not Caramel or Fondant), Hard, with Nuts and Fruit (without Chocolate)",D,05
+33,2139,"Candy Bar or Pieces (not Caramel or Fondant), Hard, without Nuts and Fruit (without Chocolate)",E,05
+33,2140,"Candy Bar or Pieces (not Caramel or Fondant), Soft, with Nuts or Nut Products  (without Chocolate)",G,05
+33,2141,"Candy Bar or Pieces (not Caramel or Fondant), Soft, with Coconut  (without Chocolate)",H,05
+33,2142,"Candy Bar or Pieces (not Caramel or Fondant), Soft, with Fruit  (without Chocolate)",J,05
+33,2143,"Candy Bar or Pieces (not Caramel or Fondant), Soft, with Nuts and Fruit  (without Chocolate)",K,05
+33,2144,"Candy Bar or Pieces (not Caramel or Fondant), Soft, without Nuts and Fruit  (without Chocolate)",L,05
+33,2145,"Marzipan, Coconut Roll (without Chocolate)",S,05
+33,2147,"Flavored Candy, Hard (Live Savers, Etc.), with Nuts or Nut Products (not Coconut or Suckers)(without",A,06
+33,2148,"Flavored Candy, Hard (Live Savers, Etc.), with Coconut  (without Chocolate)",B,06
+33,2149,"Flavored Candy, Hard (Live Savers, Etc.), with Fruit  (without Chocolate)",C,06
+33,2150,"Flavored Candy, Hard (Live Savers, Etc.), with Nuts and Fruit  (without Chocolate)",D,06
+33,2151,"Flavored Candy, Hard (Live Savers, Etc.), without Nuts and Fruit  (without Chocolate)",E,06
+33,2152,"Flavored Candy, Soft (Live Savers, Etc.), with Nuts or Nut Products  (without Chocolate)",G,06
+33,2153,"Flavored Candy, Soft (Live Savers, Etc.), with Coconut  (without Chocolate)",H,06
+33,2154,"Flavored Candy, Soft (Live Savers, Etc.), with Fruit  (without Chocolate)",J,06
+33,2155,"Flavored Candy, Soft (Live Savers, Etc.), with Nuts and Fruit  (without Chocolate)",K,06
+33,2156,"Flavored Candy, Soft (Live Savers, Etc.), without Nuts and Fruit  (without Chocolate)",L,06
+33,2157,Lollipop (without Chocolate),S,06
+33,2159,"Jellied Candies, Hard (Jelly Beans, Gum Drops, Etc.), with Nut or Nut Products (not Coconut)(without",A,07
+33,2160,"Jellied Candies, Hard (Jelly Beans, Gum Drops, Etc.), with Coconut (without Chocolate)",B,07
+33,2161,"Jellied Candies, Hard (Jelly Beans, Gum Drops, Etc.), with Fruit  (without Chocolate)",C,07
+33,2162,"Jellied Candies, Hard (Jelly Beans, Gum Drops, Etc.), with Nuts and Fruit (without Chocolate)",D,07
+33,2163,"Jellied Candies, Hard (Jelly Beans, Gum Drops, Etc.), without Nuts and Fruit  (without Chocolate)",E,07
+33,2164,"Jellied Candies, Soft (Jelly Beans, Gum Drops, Etc.), with Nuts or Nut Products  (without Chocolate)",G,07
+33,2165,"Jellied Candy, Soft (Jelly Beans, Gum Drops, Etc.), with Coconut  (without Chocolate)",H,07
+33,2166,"Jellied Candy, Soft (Jelly Beans, Gum Drops, Etc.), with Fruit  (without Chocolate)",J,07
+33,2167,"Jellied Candy, Soft (Jelly Beans, Gum Drops, Etc.), with Nuts and Fruit  (without Chocolate)",K,07
+33,2168,"Jellied Candy, Soft (Jelly Beans, Gum Drops, Etc.), without Nuts and Fruit (without Chocolate)",L,07
+33,2170,"Licorice Candy, Hard, with Nut or Nut Products (not Coconut) (without Chocolate)",A,08
+33,2171,"Licorice Candy, Hard, with Coconut  (without Chocolate)",B,08
+33,2172,"Licorice Candy, Hard, with Fruit (without Chocolate)",C,08
+33,2173,"Licorice Candy, Hard, with Nuts and Fruit  (without Chocolate)",D,08
+33,2174,"Licorice Candy, Hard, without Nuts and Fruit  (without Chocolate)",E,08
+33,2175,"Licorice Candy, Soft, with Nuts or Nut Products (without Chocolate)",G,08
+33,2176,"Licorice Candy, Soft, with Coconut  (without Chocolate)",H,08
+33,2177,"Licorice Candy, Soft, with Fruit  (without Chocolate)",J,08
+33,2178,"Licorice Candy, Soft, with Nuts and Fruit  (without Chocolate)",K,08
+33,2179,"Licorice Candy, Soft, without Nuts and Fruit  (without Chocolate)",L,08
+33,2181,"Marshmallow Candy, Hard, with Nuts or Nut Products (not Coconut) (without Chocolate)",A,09
+33,2182,"Marshmallow Candy, Hard, with Coconut  (without Chocolate)",B,09
+33,2183,"Marshmallow Candy, Hard, with Fruit (without Chocolate)",C,09
+33,2184,"Marshmallow Candy, Hard, with Nuts and Fruit  (without Chocolate)",D,09
+33,2185,"Marshmallow Candy, Hard, without Nuts and Fruit  (without Chocolate)",E,09
+33,2186,"Marshmallow Candy, Soft, with Nuts or Nut Products  (without Chocolate)",G,09
+33,2187,"Marshmallow Candy, Soft, with Coconut  (without Chocolate)",H,09
+33,2188,"Marshmallow Candy, Soft, with Fruit  (without Chocolate)",J,09
+33,2189,"Marshmallow Candy, Soft, with Nuts and Fruit  (without Chocolate)",K,09
+33,2190,"Marshmallow Candy, Soft, without Nuts and Fruit  (without Chocolate)",L,09
+33,2193,"Mint Candy, Hard, with Nuts or Nut Products (not Coconut) (without Chocolate)",A,11
+33,2194,"Mint Candy, Hard with Coconut  (without Chocolate)",B,11
+33,2195,"Mint Candy, Hard, with Fruit (without Chocolate)",C,11
+33,2196,"Mint Candy, Hard, with Nuts and Fruit  (without Chocolate)",D,11
+33,2197,"Mint Candy, Hard, without Nuts and Fruit  (without Chocolate)",E,11
+33,2198,"Mint Candy, Soft, with Nuts or Nut Products  (without Chocolate)",G,11
+33,2199,"Mint Candy, Soft, with Coconut (without Chocolate)",H,11
+33,2200,"Mint Candy, Soft, with Fruit, (without Chocolate)",J,11
+33,2201,"Mint Candy, Soft, with Nuts and Fruit  (without Chocolate)",K,11
+33,2202,"Mint Candy, Soft, without Nuts and Fruit  (without Chocolate)",L,11
+33,2204,"Mixed/Assorted Hard Candies w/nut,nut prods,seeds w/o coconut w/o chocolate",A,12
+33,2205,Mixed/Assorted Hard Candy with Coconut (without Chocolate),B,12
+33,2206,Mixed/Assorted Hard Candy with Fruit  (without Chocolate),C,12
+33,2207,Mixed/Assorted Hard Candy with Nuts and Fruit (without Chocolate),D,12
+33,2208,Mixed/Assorted Hard Candy without Nuts and Fruit (without Chocolate),E,12
+33,2209,"Mixed/Assorted Soft Candy with Nuts, Nut Products, or seeds w/o coconut or chocolate",G,12
+33,2210,Mixed/Assorted Soft Candy with Coconut  (without Chcocolate),H,12
+33,2211,Mixed/Assorted Soft Candy with Fruit  (without Chocolate),J,12
+33,2212,Mixed/Assorted Soft Candy with Nuts and Fruit  (without Chocolate),K,12
+33,2213,"Mixed/Assorted Soft Candy without Nuts, Fruit or Chocolate)",L,12
+33,2215,"Rock Candy, Hard, with Nuts or Nut Products (not Coconut) (without Chocolate)",A,13
+33,2216,"Rock Candy, Hard, with Coconut (without Chocolate)",B,13
+33,2217,"Rock Candy, Hard, with Fruit (without Chocolate)",C,13
+33,2218,"Rock Candy, Hard, with Nuts and Fruit  (without Chocolate)",D,13
+33,2219,"Rock Candy, Hard, without Nuts and Fruit  (without Chocolate)",E,13
+33,2220,"Rock Candy, Soft, with Nuts or Nut Products (without Chocolate)",G,13
+33,2221,"Rock Candy, Soft, with Coconut  (without Chocolate)",H,13
+33,2222,"Rock Candy, Soft, with Fruit  (without Chocolate)",J,13
+33,2223,"Rock Candy, Soft, with Nuts and Fruit  (without Chocolate)",K,13
+33,2224,"Rock Candy, Soft, without Nuts or Fruit (without Chocolate)",L,13
+33,2226,"Taffy (Toffee), Kisses Candy, Hard, with Nuts or Nut Products (not Coconut)  (without Chocolate)",A,14
+33,2227,"Taffy (Toffee), Kisses Candy, Hard, with Coconut (without Chocolate)",B,14
+33,2228,"Taffy (Toffee), Kisses Candy, Hard, with Fruit  (without Chocolate)",C,14
+33,2229,"Taffy (Toffee), Kisses Candy, Hard, with Nuts and Fruit  (without Chocolate)",D,14
+33,2230,"Taffy (Toffee), Kisses Candy, Hard, without Nuts and Fruit (without Chocolate)",E,14
+33,2231,"Taffy (Toffee), Kisses Candy, Soft, with Nuts or Nut Product  (without Chocolate)",G,14
+33,2232,"Taffy (Toffee), Kisses Candy, Soft, with Coconut  (with Chocolate)",H,14
+33,2233,"Taffy (Toffee), Kisses Candy, Soft, with Fruit  (without Chocolate)",J,14
+33,2234,"Taffy (Toffee), Kisses Candy, Soft, with Nuts and Fruit  (without Chocolate)",K,14
+33,2235,"Taffy (Toffee), Kisses Candy, Soft, without Nuts and Fruit  (without Chocolate)",L,14
+33,2237,"Hard Candy with Nut or Nut Products, N.E.C.  (without Chocolate)",A,99
+33,2238,"Hard Candy with Coconut, N.E.C. (without Chocolate)",B,99
+33,2239,"Hard Candy with Fruit, N.E.C.  (without Chocolate)",C,99
+33,2240,"Hard Candy with Nuts and Fruit, N.E.C.  (without Chocolate)",D,99
+33,2241,"Hard Candy without Nuts and Fruit, N.E.C.  (without Chocolate)",E,99
+33,2242,"Soft Candy with Nuts or Nut Products, N.E.C.  (without Chocolate)",G,99
+33,2243,"Soft Candy with Coconut, N.E.C.  (without Chocolate)",H,99
+33,2244,"Soft Candy with Fruit, N.E.C.  (without Chocolate)",J,99
+33,2245,"Soft Candy with Nuts and Fruit, N.E.C.  (without Chocolate)",K,99
+33,2246,"Soft Candy without Nuts and Fruit, N.E.C.  (without Chocolate)",L,99
+33,2247,"Candy Specialties, N.E.C. (without Chocolate)",S,99
+33,2248,"Toppings without Fruit, Nuts or Chocolate N.E.C.",T,99
+33,2249,"Chewing Gum, N.E.C. (without Chocolate)",U,99
+33,2250,Candy Without Chocolate N.E.C.,Y,99
+33,25549,Halva (Middle Eastern & Indian confection made from ground sesame & honey),L,99
+33,153327,"Gel Cups, Fruit Flavored",M,01
+33,153328,"Mini Gel Cups, Fruit Flavored Candy",M,01
+33,153329,Fruity Gels Candy,M,01
+33,153330,Jelly Mini Cups Candy,M,01
+33,153331,"Gel Cups, Nut Flavored Candy",M,02
+33,153332,Mini Gel Cups w/Coconut Candy,M,02
+33,153333,Miinii Jelly Cups w/Coconut Candy,M,02
+33,153334,"Gel Cups, Fruit Flavored w/Fruit Candy",M,03
+33,153335,Mini Gel Cups w/Fruit Candy,M,03
+33,153336,Mini Jelly Cups w/Fruit Candy,M,03
+33,153337,"Gel Cups, Nut Flavored w/Nuts Candy",M,04
+33,153338,Gel Cups Candy,M,05
+33,153339,Jelly Cups,M,05
+33,153340,Jelly Fruit Poppers Candy,M,06
+33,153341,Gelly Fruit Poppers Candy,M,06
+33,153342,Fruit Poppers Candy,M,06
+33,153343,Gel Candy on a Stick Candy,M,07
+33,153344,Jelly Pops Candy,M,07
+33,153345,Gel Pops Candy,M,07
+33,153346,Mini Fruit Gels Candy,M,01
+33,158468,Haw Candy,A,15
+33,158469,Haw Balls,A,15
+33,158470,Haw Slices,A,15
+33,158471,Haw Flakes,A,15
+33,158472,Haw Jelly,A,15
+33,158473,Haw Candy,B,15
+33,158474,Haw Balls,B,15
+33,158475,Haw Slices,B,15
+33,158476,Haw Flakes,B,15
+33,158477,Haw Jelly,B,15
+33,158478,Haw Candy,C,15
+33,158479,Haw Balls,C,15
+33,158480,Haw Slices,C,15
+33,158481,Haw Flakes,C,15
+33,158482,Haw Jelly,C,15
+33,158483,Haw Candy,D,15
+33,158484,Haw Balls,D,15
+33,158485,Haw Slices,D,15
+33,158486,Haw Flakes,D,15
+33,158487,Haw Jelly,D,15
+33,158488,Haw Candy,E,15
+33,158489,Haw Balls,E,15
+33,158490,Haw Slices,E,15
+33,158491,Haw Flakes,E,15
+33,158492,Haw Jelly,E,15
+33,158493,Haw Candy,G,15
+33,158494,Haw Balls,G,15
+33,158495,Haw Slices,G,15
+33,158496,Haw Flakes,G,15
+33,158497,Haw Jelly,G,15
+33,158498,Haw Candy,H,15
+33,158499,Haw Balls,H,15
+33,158500,Haw Slices,H,15
+33,158501,Haw Flakes,H,15
+33,158502,Haw Jelly,H,15
+33,158503,Haw Candy,J,15
+33,158505,Haw Balls,J,15
+33,158506,Haw Slices,J,15
+33,158507,Haw Flakes,J,15
+33,158508,Haw Jelly,J,15
+33,158509,Haw Candy,K,15
+33,158510,Haw Balls,K,15
+33,158511,Haw Slices,K,15
+33,158512,Haw Flakes,K,15
+33,158513,Haw Jelly,K,15
+33,158514,Haw Candy,L,15
+33,158515,Haw Balls,L,15
+33,158516,Haw Slices,L,15
+33,158517,Haw Flakes,L,15
+33,158518,Haw Jelly,L,15
+33,158519,Mayom,A,16
+33,158520,Mayom Candy,B,16
+33,158521,Mayom Candy,C,16
+33,158522,Mayom Candy,D,16
+33,158523,Mayom Candy,E,16
+33,158524,Mayom Candy,G,16
+33,158525,Mayom Candy,H,16
+33,158526,Mayom Candy,J,16
+33,158527,Mayom Candy,K,16
+33,158528,Mayom Candy,L,16
+33,158529,Chokeberry,A,20
+33,158530,Aronia,A,20
+33,158531,Black Chokeberry,A,20
+33,158532,Red Chokeberry,A,20
+33,158533, Purple Chokeberry,A,20
+33,158534,Chokeberry,B,20
+33,158535,Chokeberry,C,20
+33,158536,Aronia,C,20
+33,158537,Black Chokeberry,C,20
+33,158538,Red Chokeberry,C,20
+33,158539,Purple Chokeberry,C,20
+33,158540,Chokeberry,D,20
+33,158541,Aronia,D,20
+33,158542,Black Chokeberry,D,20
+33,158543,Red Chokeberry,D,20
+33,158544,Purple Chokeberry,D,20
+33,158545,Chokeberry,E,20
+33,158546,Aronia,E,20
+33,158547,Black Chokeberry,E,20
+33,158548,Red Chokeberry,E,20
+33,158549,Purple Chokeberry,E,20
+33,158550,Chokeberry,G,20
+33,158551,Aronia,G,20
+33,158552,Black Chokeberry,G,20
+33,158553,Red Chokeberry,G,20
+33,158554,Purple Chokeberry,G,20
+33,158555,Chokeberry,H,20
+33,158556,Aronia,H,20
+33,158557,Black Chokeberry,H,20
+33,158558,Red Chokeberry,H,20
+33,158559,Purple Chokeberry,H,20
+33,158560,Chokeberry,J,20
+33,158561,Aronia,J,20
+33,158562,Black Chokeberry,J,20
+33,158563,Red Chokeberry,J,20
+33,158564,Purple Chokeberry,J,20
+33,158565,Chokeberry,K,20
+33,158566,Aronia,K,20
+33,158567,Black Chokeberry,K,20
+33,158568,Red Chokeberry,K,20
+33,158569,Purple Chokeberry,K,20
+33,158570,Chokeberry,L,20
+33,158573,Aronia,L,20
+33,158574,Black Chokeberry,L,20
+33,158575,Red Chokeberry,L,20
+33,158576,Purple Chokeberry,L,20
+33,158577,Novelty  Bubble Gum,U,03
+33,158578,Liquid Bubble Gum,U,03
+33,158579,Powdered Bubble Gum,U,03
+33,158580,Bubble Gum Dust,U,03
+33,158581,Candy Tatoos (without Chocolate),Y,01
+33,158582,Candy Liquid Spray (without Chocolate),Y,02
+33,158583,Candy Cosmetics (without Chocolate),Y,03
+33,158584,Candy Lipstick (without Chocolate),Y,03
+33,158791,Aronia,B,20
+33,158792,Black Chokeberry,B,20
+33,158793,Red Chokeberry,B,20
+33,158794,Purple Chokeberry,B,20
+33,172802,Cotton Candy,S,07
+33,172803,Candy Floss,S,07
+33,172804,Fairy Floss,S,07

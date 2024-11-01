@@ -1,0 +1,550 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+79,19546,"Pump, Portable, Aspiration (Manual Or Powered)",B,TA
+79,19560,"Board, Arm (With Cover)",B,TX
+79,19562,"Unit, Electrosurgical and Coagulation, with Accessories",B,WA
+79,19571,"Table And Attachments, Operating-Room",B,WN
+79,19572,"Shoe And Shoe Cover, Conductive",B,WP
+79,20188,"Suture, Cardiovascular",D,TH
+79,20209,Electrosurgical Device,D,WG
+79,20210,"Blade, Saw, Surgical, Cardiovascular",D,WH
+79,20214,"Needle, Biopsy, Cardiovascular",D,WO
+79,20257,"Suture, Dental",D,ZG
+79,20318,"Sponge, Gauze",E,FQ
+79,20427,"Knife, Surgical",E,MF
+79,20453,"Microscope, Surgical",E,PT
+79,20455,"Speculum, Ent",E,PY
+79,20465,"Polymer, Composite Synthetic PTFE With Carbon-Fiber, ENT",E,SF
+79,20521,"Protector, Wound, Plastic",E,YF
+79,20544,"Mesh, Metal",E,ZX
+79,20567,"System, Cryosurgical, Liquid Nitrogen, For Urology",F,AZ
+79,20675,"Cannula, Injection",F,GY
+79,20686,"Apparatus, Suturing, Stomach And Intestinal",F,HM
+79,20691,"Needle, Gastro-Urology",F,HR
+79,20771,"Unit, Airflow, Laminar",F,LJ
+79,20784,Single use only blood lancet with an integral sharps injury prevention feature,F,MK
+79,20802,"Pad, Kelly",F,NW
+79,20825,"Strip, Adhesive, Closure, Skin",F,PX
+79,20826,"Sheet, Burn",F,PY
+79,20833,"Table, Operating-Room, AC-Powered",F,QO
+79,20834,"Lamp, Operating-Room",F,QP
+79,20845,Dressing,F,RO
+79,20854,"Table, Operating-Room, Manual",F,SE
+79,20855,"Tray, Surgical, Instrument",F,SM
+79,20856,"Microscope, Surgical, General & Plastic Surgery",F,SO
+79,20857,"Loupe, Diagnostic/Surgical",F,SP
+79,20858,"Light, Surgical, Instrument",F,SQ
+79,20860,"Light, Surgical, Floor Standing",F,SS
+79,20861,"Light, Surgical, Fiberoptic",F,ST
+79,20862,"Light, Surgical, Endoscopic",F,SW
+79,20863,"Light, Surgical, Connector",F,SX
+79,20864,"Light, Surgical, Ceiling Mounted",F,SY
+79,20865,"Light, Surgical, Carrier",F,SZ
+79,20866,"Light, Surgical, Accessories",F,TA
+79,20868,"Light, Ultraviolet, Dermatological",F,TC
+79,20869,"Lamp, Surgical",F,TD
+79,20870,"Illuminator, Non-Remote",F,TF
+79,20871,"Illuminator, Remote",F,TG
+79,20872,"Camera, Still, Microsurgical",F,TH
+79,20876,"Mesh, Surgical, Polymeric",F,TL
+79,20877,"Mesh, Surgical",F,TM
+79,20878,"Kit, Plastic Surgery And Accessories",F,TN
+79,20879,"Prosthesis, Breast, Noninflatable, Internal, Silicone Gel-Filled",F,TR
+79,20880,"Camera, Cine, Endoscopic, With Audio",F,TS
+79,20881,"Camera, Still, Surgical",F,TT
+79,20882,"Mirror, General & Plastic Surgery",F,TX
+79,20883,"Tape, Measuring, Rulers And Calipers",F,TY
+79,20885,"Camera, Television, Surgical, Without Audio",F,WB
+79,20886,"Camera, Television, Surgical, With Audio",F,WC
+79,20887,"Camera, Television, Microsurgical, Without Audio",F,WD
+79,20888,"Camera, Television, Microsurgical, With Audio",F,WE
+79,20889,"Camera, Television, Endoscopic, Without Audio",F,WF
+79,20890,"Camera, Television, Endoscopic, With Audio",F,WG
+79,20891,"Camera, Cine, Surgical, Without Audio",F,WH
+79,20892,"Camera, Cine, Surgical, With Audio",F,WI
+79,20893,"Camera, Cine, Microsurgical, Without Audio",F,WJ
+79,20894,"Camera, Cine, Microsurgical, With Audio",F,WK
+79,20895,"Camera, Cine, Endoscopic, Without Audio",F,WL
+79,20896,"Prosthesis, Breast, Inflatable, Internal, Saline",F,WM
+79,20899,"Prosthesis, Chin, Internal",F,WP
+79,20900,"Table, Operating-Room, Pneumatic",F,WW
+79,20901,"Table, Operating-Room, Mechanical",F,WX
+79,20902,"Table, Operating-Room, Non-Electrical",F,WY
+79,20903,"Accessories, operating-room, table (kit)",F,WZ
+79,20904,"Speculum, Non-Illuminated",F,XE
+79,20905,"Speculum, Illuminated",F,XF
+79,20906,Specula Accessories,F,XG
+79,20907,"Camera, Still, Endoscopic",F,XM
+79,20908,"Tape, Camera, Surgical",F,XN
+79,20911,"Lens, Camera, Surgical",F,XQ
+79,20912,"Holder, Camera, Surgical",F,XR
+79,20913,"Frame, Camera, Surgical",F,XS
+79,20914,"Film, Camera, Surgical",F,XT
+79,20915,"Shoes, Operating-Room",F,XW
+79,20923,"Dress, Surgical",F,YE
+79,20924,"Cap, Surgical",F,YF
+79,20926,"Appliance, Facial Fracture, External",F,YI
+79,20928,"Prosthesis, Ear, Internal",F,ZD
+79,20929,"Prosthesis, Nose, Internal",F,ZE
+79,20930,"Splint, Extremity, Inflatable, External",F,ZF
+79,20931,"Apparatus, Air Handling, Bench",F,ZG
+79,20932,"Apparatus, Air Handling, Room",F,ZH
+79,20933,"Apparatus, Air Handling, Enclosure",F,ZI
+79,20935,"Chair, Surgical, Non-Electrical",F,ZK
+79,20936,"Stool, Operating-Room",F,ZM
+79,20937,"Chisel, Surgical, Manual",F,ZO
+79,20938,"Clip, Implantable",F,ZP
+79,20939,"Clip, Removable (Skin)",F,ZQ
+79,20940,"Contractor, Surgical",F,ZR
+79,20941,"Curette, Surgical",F,ZS
+79,20942,"Cutter, Surgical",F,ZT
+79,20943,"Expander, Surgical, Skin Graft",F,ZW
+79,20944,"Guide, Surgical, Instrument",F,ZX
+79,20945,"Hammer, Surgical",F,ZY
+79,20946,"Marker, Skin",F,ZZ
+79,20947,"Needle, Aspiration And Injection, Disposable",G,AA
+79,20948,"Needle, Suturing, Disposable",G,AB
+79,20949,"Rasp, Surgical, General & Plastic Surgery",G,AC
+79,20950,"Retractor, Surgical, General & Plastic Surgery",G,AD
+79,20951,"Snare, Surgical",G,AE
+79,20952,"Spatula, Surgical, General & Plastic Surgery",G,AF
+79,20953,"Stapler, Surgical",G,AG
+79,20954,"Stylet, Surgical, General & Plastic Surgery",G,AH
+79,20955,"Stripper, Vein, Reusable",G,AI
+79,20956,"Stripper, Vein, Disposable",G,AJ
+79,20957,"Suture, Absorbable",G,AK
+79,20958,"Suture, Absorbable, Natural",G,AL
+79,20959,"Suture, Absorbable, Synthetic, Polyglycolic Acid",G,AM
+79,20960,"Suture, Absorbable, Synthetic",G,AN
+79,20961,"Suture, Nonabsorbable",G,AO
+79,20962,"Suture, Nonabsorbable, Silk",G,AP
+79,20963,"Suture, nonabsorbable, steel, monofilament and multifilament, sterile",G,AQ
+79,20964,"Suture, Nonabsorbable, Synthetic, Polyamide",G,AR
+79,20965,"Suture, Nonabsorbable, Synthetic, Polyester",G,AS
+79,20966,"Suture, Nonabsorbable, Synthetic, Polyethylene",G,AT
+79,20967,"Suture, Nonabsorbable, Synthetic, Polypropylene",G,AW
+79,20968,"Tourniquet, Nonpneumatic",G,AX
+79,20970,"Catheter, Balloon Type",G,BA
+79,20971,"Chair, Surgical, Ac-Powered",G,BB
+79,20972,"Lamp, Surgical, Incandescent",G,BC
+79,20973,"Material, External Aesthetic Restoration",G,BI
+79,20974,"Prosthesis, Adhesive, External",G,BJ
+79,20977,"Catheter, Pediatric, General & Plastic Surgery",G,BN
+79,20978,"Catheter, Nephrostomy, General & Plastic Surgery",G,BO
+79,20979,"Catheter, Multiple Lumen",G,BP
+79,20980,"Catheter, Continuous Irrigation",G,BQ
+79,20981,"Catheter, Ventricular, General & Plastic Surgery",G,BS
+79,20983,"Catheter, Peritoneal",G,BW
+79,20984,"Catheter, Irrigation",G,BX
+79,20985,"Catheter, Eustachian, General & Plastic Surgery",G,BY
+79,20986,"Catheter, Cholangiography",G,BZ
+79,20988,"Needle, Catheter",G,CB
+79,20989,"Dilator, Catheter",G,CC
+79,20990,"Connector, Catheter",G,CD
+79,20991,"Adaptor, Catheter",G,CE
+79,21009,"Apparatus, Suction, Single Patient Use, Portable, Nonpowered",G,CY
+79,21010,"Retainer, Surgical",G,CZ
+79,21012,"Table, Operating-Room, Electrical",G,DC
+79,21013,"Guide, Needle, Surgical",G,DF
+79,21014,"Hook, Surgical, General & Plastic Surgery",G,DG
+79,21015,"Gouge, Surgical, General & Plastic Surgery",G,DH
+79,21016,"Dissector, Surgical, General & Plastic Surgery",G,DI
+79,21017,"Clamp, Surgical, General & Plastic Surgery",G,DJ
+79,21018,"Needle, Suturing, Reusable",G,DL
+79,21019,"Needle, Aspiration And Injection, Reusable",G,DM
+79,21020,"Knife, Amputation",G,DN
+79,21021,"Applier, Surgical, Clip",G,DO
+79,21022,"Saw, Manual And Accessories",G,DR
+79,21024,"Staple, Removable (Skin)",G,DT
+79,21025,"Staple, Implantable",G,DW
+79,21026,"Scalpel, One-Piece",G,DX
+79,21027,"Gauze, Nonabsorable, X-Ray Detectable (Internal Sponge)",G,DY
+79,21028,"Handle, Scalpel",G,DZ
+79,21029,"Cannula, Surgical, General & Plastic Surgery",G,EA
+79,21030,"Brush, Scrub, Operating-Room",G,EC
+79,21031,"Brush, Dermabrasion, Manual",G,ED
+79,21032,"Brush, Biopsy, General & Plastic Surgery",G,EE
+79,21033,"Applier, Staple, Surgical",G,EF
+79,21034,"Elevator, Surgical, General & Plastic Surgery",G,EG
+79,21035,"Unit, Cryosurgical, Accessories",G,EH
+79,21036,"Device, Electrosurgical, Cutting & Coagulation & Accessories",G,EI
+79,21037,"Carrier, Ligature",G,EJ
+79,21041,"Forceps, General & Plastic Surgery",G,EN
+79,21042,"File, Surgical, General & Plastic Surgery",G,EO
+79,21045,"Sponge, External",G,ER
+79,21046,"Blade, Scalpel",G,ES
+79,21047,"Motor, Surgical Instrument, Pneumatic Powered",G,ET
+79,21048,Powered laser surgical instruments,G,EX
+79,21049,"Motor, Surgical Instrument, Ac-Powered",G,EY
+79,21050,"Blade, Saw, General & Plastic Surgery, Surgical",G,FA
+79,21051,"Head, Surgical, Hammer",G,FB
+79,21052,"Driver, Surgical, Pin",G,FC
+79,21053,Dermatome,G,FD
+79,21054,"Brush, Dermabrasion",G,FE
+79,21055,"Bur, Surgical, General & Plastic Surgery",G,FF
+79,21056,"Bit, Surgical",G,FG
+79,21057,"Osteotome, Manual",G,FI
+79,21058,"Mallet, Surgical, General & Plastic Surgery",G,FJ
+79,21387,"Apparatus, Electrosurgical",H,AM
+79,21401,"Illuminator, Fiberoptic, Surgical Field",H,BI
+79,21411,"Applier, Hemostatic Clip",H,BT
+79,21420,"Instrument, Ligature Passing And Knot Tying",H,CF
+79,21555,"Lamp, Fluorescein, Ac-Powered",H,JE
+79,21626,"Suture, Nonabsorable, Ophthalmic",H,MN
+79,21627,"Suture, Absorbable, Ophthalmic",H,MO
+79,21730,"Microscope, Operating, Non-Electric, Ophthalmic",H,RB
+79,21741,"Microscope, Operating & Accessories, Ac-Powered, Ophthalmic",H,RM
+79,21745,Hemostat,H,RQ
+79,21758,Saw,H,SO
+79,21766,"Pliers, Surgical",H,TC
+79,21767,Forceps,H,TD
+79,21768,Elevator,H,TE
+79,21769,Curette,H,TF
+79,21778,Rasp,H,TR
+79,21784,"Instrument, Cutting, Orthopedic",H,TZ
+79,21795,Osteotome,H,WM
+79,21807,Clamp,H,XD
+79,21814,Mallet,H,XL
+79,21820,"Spatula, Orthopedic",H,XR
+79,21822,"Tape, Orthopedic",H,XT
+79,21827,"Forceps, Wire Holding",H,YA
+79,22230,"Prosthesis, Esophagus",J,CQ
+79,22233,"Apparatus, Suction, Ward Use, Portable, Ac-Powered",J,CX
+79,22234,"Catheter, Infusion",J,CY
+79,22476,"Electrode, Electrosurgical",J,OS
+79,22477,"Electrode, Gel, Electrosurgical",J,OT
+79,22609,"Cannula, Ear",J,YC
+79,22610,"Chisel, Mastoid",J,YD
+79,22617,"Holder, Ear Speculum",J,YK
+79,22655,"Holder, Speculum, Ent",K,AG
+79,22661,"Cannula, Sinus",K,AM
+79,22662,"Chisel, Nasal",K,AN
+79,22701,"Cannulae, Bronchial",K,CE
+79,22716,"Epilator, High Frequency, Needle-Type",K,CW
+79,22717,"Epilator, High Frequency, Tweezer-Type",K,CX
+79,22718,"Tourniquet, Pneumatic",K,CY
+79,22719,"Prosthesis, Ptfe/Carbon-Fiber",K,DA
+79,22720,"Instrument, Surgical, Disposable",K,DC
+79,22721,"Kit, Surgical Instrument, Disposable",K,DD
+79,22722,Chisel (Osteotome),K,DG
+79,22780,"Cabinet, Phototherapy (Puva)",K,GL
+79,22781,"Silicone, Liquid, Injectable",K,GM
+79,22782,"Dressing, Burn, Porcine",K,GN
+79,22786,"Retention Device, Suture",K,GS
+79,22788,"Ring (Wound Protector), Drape Retention, Internal",K,GW
+79,22789,"Tape And Bandage, Adhesive",K,GX
+79,22790,"Bag, Intestine",K,GY
+79,22791,"Accessories, Catheter",K,GZ
+79,22819,"Hook, Bone",K,IK
+79,22902,"Bandage, Liquid",K,MF
+79,22953,"Solvent, Adhesive Tape",K,OX
+79,22954,"Degreaser, Skin, Surgical",K,OY
+79,22955,"Beads, Hydrophilic, For Wound Exudate Absorption",K,OZ
+79,22965,"Chamber, Oxygen, Topical, Extremity",K,PJ
+79,22989,"Camera, Surgical and Accessories",K,QM
+79,23206,"Expander, Skin, Inflatable",L,CJ
+79,23253,"Booth, Sun Tan",L,EJ
+79,23278,"Instrument, Ultrasonic Surgical",L,FL
+79,23438,"Agent, Absorbable Hemostatic, Collagen Based",L,MF
+79,23439,"Agent, Absorbable Hemostatic, Non-Collagen Based",L,MG
+79,23440,"Implant, Dermal, Collagen for Aesthetic Use",L,MH
+79,23441,"Implant, Collagen For Non-Aesthetic Use",L,MI
+79,23564,"Kit, Surgical - General",L,RO
+79,23565,"Tray, Surgical",L,RP
+79,23566,Tracheostomy and nasal suctioning kit,L,RQ
+79,23567,"Kit, First Aid",L,RR
+79,23568,I.V. start kit,L,RS
+79,23570,"Scissors, General Use, Surgical",L,RW
+79,23572,"Punch, Surgical",L,RY
+79,23573,"Screwdriver, Surgical",L,RZ
+79,23574,"Vise, Bench, Surgical",L,SA
+79,23628,Surgical Table Cushion,L,WG
+79,23629,"Counter, Sponge, Surgical",L,WH
+79,23632,"Razor, Surgical",L,WK
+79,23666,"Scrapper, Skin Specimen",L,XK
+79,23681,"Guard, Instrument",L,XZ
+79,23702,"Label Or Tag, Sterile",L,YV
+79,23717,"Implant, Malar",L,ZK
+79,23719,"Guard, Skin Graft",L,ZM
+79,23726,"Drape, Surgical, Ent",E,RY
+79,23729,"Saw, Electrically Powered",D,WI
+79,23730,"Saw, Pneumatically Powered",K,FK
+79,23731,"Saw, Powered, And Accessories",H,AB
+79,23732,"Tourniquet, Gastro-Urology",E,YR
+79,23772,"Marker, Suture Identification",M,AW
+79,23794,"Prosthesis, Breast, External",K,CZ
+79,23803,"Tape, Surgical, Internal",M,CA
+79,23810,"Clip, Hemostatic",M,CH
+79,24887,"Support, Head, Surgical, Ent",E,PW
+79,24889,"Kit, Wound Dressing",M,CY
+79,24890,Suture removal kit,M,CZ
+79,24891,"Elastomer, Silicone, For Scar Management",M,DA
+79,24892,"Device, Dermal Replacement",M,DD
+79,24893,"Instrument, Manual, General Surgical",M,DM
+79,24901,"Device, Endoscopic Suturing",M,FJ
+79,24903,"Closure, Wound, Adhesive",M,GO
+79,24904,"Dressing, Wound And Burn, Occlusive",M,GP
+79,24905,"Dressing, Wound And Burn, Hydrogel",M,GQ
+79,24906,"Dressing, Wound And Burn, Interactive",M,GR
+79,24908,"Dressing, Compression",M,HW
+79,24909,"Elastomer, Silicone Block",M,IB
+79,24910,"Implant, Muscle, Pectoralis",M,IC
+79,24911,"Needle, Tumor Localization",M,IJ
+79,25277,"Laparoscope, General & Plastic Surgery",G,CJ
+79,25278,"Pad, Eye",H,MP
+79,25279,"Table, Surgical with Orthopedic Accessories, AC-powered",J,EA
+79,25280,"Table, Surgical with Orthopedic Accessories, Manual",J,EB
+79,25282,"Device, Percutaneous, Biopsy",M,JG
+79,25283,"System, Skin Closure",M,KY
+79,25285,"Implant, Temporal",M,NF
+79,25286,"Battery, Replacement, Rechargeable",M,OQ
+79,25287,Tissue Adhesive for Soft Tissue Approximation,M,PN
+79,150542,"System, Microwave, Hair Removal",M,WY
+79,150561,"Gauze/Sponge, Nonresorbable For External Use",N,AB
+79,150562,"Dressing, Wound, Hydrophilic",N,AC
+79,150563,"Dressing, Wound, Occlusive",N,AD
+79,150564,"Dressing, Wound, Hydrogel",N,AE
+79,150628,"Suture, Surgical, Nonabsorbable, Expanded, Polytetraflouroethylene",N,BY
+79,150638,"Sealant, Polymerizing",N,BE
+79,150640,"System, Surgical, Computer Controlled Instrument",N,AY
+79,151822,"Protectant, Skin",N,EC
+79,151883,"Anchor, Fascial",N,EH
+79,152043,"Device, Telemedicine, Robotic",N,EQ
+79,152207,"Prothesis, Nail",M,QZ
+79,152208,"Sizer, Mammary, Breast Implant Volume",M,RD
+79,152209,"Dressing, Wound and Burn, Occlusive, Heated",M,SA
+79,152210,"Wax, Bone",M,TJ
+79,152212,"Generator, Electrosurgical, Coagulation, Cancer",M,UL
+79,152213,"System, Suction, Lipoplasty",M,UU
+79,152214,"System, Laser, Photodynamic Therapy",M,VF
+79,152215,"System, Laser, Fiber Optic, Photodynamic Therapy",M,VG
+79,152216,"Expander, Breast, External",M,WZ
+79,152218,"Lamp, UVC (For Treating Skin and Wounds)",M,XG
+79,152220,"Suture, Surgical, Nonabsorbable, Poly (Vinylidene Fluoride)",M,XW
+79,152221,"System, Non-Coherent Light, Photodynamic Therapy",M,YH
+79,152222,"Device, Suturing, Stapling, Graft, Aortic",N,CA
+79,152423,"Marker, Radiographic, Implantable",N,EU
+79,152443,"Suture, Surgical, Absorbable, Polydioxanone",N,EW
+79,152483,"System, Ablation, Microwave and Accessories",N,EY
+79,152823,"Balloon, Liver Tamponade",N,GU
+79,153564,"Extractor, Vein",N,JZ
+79,153880,"Ultrasound, Skin Permeation",N,RJ
+79,153893,"Wound Cleaner, Ultrasound",N,RB
+79,153901,"Maggots, Medical",N,QK
+79,153968,"Prosthesis, Breast, External, No Adhesive",N,OJ
+79,153969,"Material, External Aesthetic Restoration, No Adhesive",N,OK
+79,155130,"Clip, Vas Deferens",N,JC
+79,155131,"Suture, Nonabsorbable, Nitinol",N,JU
+79,155132,"Needle, Biopsy, Cardiovascular, Reprocessed",N,LK
+79,155133,"Staple, Implantable, Reprocessed",N,LL
+79,155134,"Scalpel, Ultrasonic, Reprocessed",N,LQ
+79,155135,"Clip, Implantable, Reprocessed",N,MJ
+79,155136,"Needle, Catheter, Reprocessed",N,MT
+79,155137,"Biospy Device, Percutaneous, Reprocessed",N,
+79,155138,"Needle, Gastro-Urology, Reprocessed",N,MU
+79,155139,"Needle, Aspiration and Needle, Reprocessed",N,NC
+79,155140,"Splint, Extermity, Non-Inflatable, External, Non-Sterile",N,OC
+79,155141,"Board, Arm (with cover), Non-Sterile",N,OD
+79,155142,"System, Imaging, Optical Coherence Tomography (OCT)",N,QQ
+79,155143,"Leeches, Medicinal",N,RN
+79,155144,Audiotape For Nausea,N,SS
+79,155147,"System, Ablation, Ultrasound and Accessories",N,TB
+79,155334,"Electrosurgical, Cutting & Coagulation, Accessories Laparoscopic & Endoscopic, Reprocessed",N,UJ
+79,155495,"Massager, Vaccuum, light induced heating",N,UV
+79,155594,"Suture, Knot, Mechanical",N,VH
+79,155634,"Applicator, transurethral, radio frequency, for stress urinary incontinence in women",N,VJ
+79,155854,"Prosthesis, tracheal, non-expandable, silicone",N,WA
+79,156594,"Drill, battery powered, subungual hematoma",N,WF
+79,156615,"Suture, recombinant technology",N,WJ
+79,156834,"Gas, laser generating",N,XF
+79,157516,"Prosthesis, tracheal, expandable, polymeric",N,YT
+79,157576,"Dressing, wound, polydiallyldimethyl ammoniam chloride,nme",N,YS
+79,157694,"System ablations, low energy direct current and accessories",O,AB
+79,157994,"Valvel, one-way, air-leak",O,AZ
+79,158414,Cultured epithelial autograft,O,CE
+79,163981,Orcel-composite cultured skin,O,DS
+79,163983,Electrosurgical patient return electrode,O,DR
+79,164003,Facial implant,O,DU
+79,164099,"Diagnostic, low electric field, breast",O,EE
+79,164139,"Water induced thermotherapy, benign prostatic hyperplasia",O,EK
+79,164140,"Electrosurgical unit, transurethral, benign prostatic hyperplasia",O,EJ
+79,164141,Drainage catheter with antibiotic,O,EI
+79,164181,"Laser, benign prostatic hyperplasia",O,EL
+79,164242,"Tracking, soft tissue, intraoperative",O,EW
+79,164559,First aid kit without drug,O,HO
+79,164619,Light Based over the counter wrinkle reduction,O,HS
+79,164620,Light based over-the-counter hair removal,O,HT
+79,164679,Focused ultrasound for tissue heat or mechanical cellular disruption,O,HV
+79,165335,Over-the-counter powered red/blue light based laser for acne,O,LP
+79,165420,Powered light based non-laser surgical instrument with thermal effect,O,NF
+79,165421,Powered laser surgical instrument with microbeam\fractional output,O,NG
+79,165422,Powered light based non-laser surgical instrument,O,NE
+79,165561,Surgical film,O,OD
+79,166541,Mesh deployment balloon,O,QL
+79,166641,Negative pressure wound therapy powered suction pump,O,MP
+79,166758,"Cryogenic, skin tag removal, otc",O,RE
+79,166841,Laser assisted lipolysis,O,RK
+79,166901,Surgical mesh deployer,O,RQ
+79,167023,"laser, comb, hair",O,AP
+79,167024,vacuum powered body fluid collection kit,O,JR
+79,167025,aspiration tray,O,JT
+79,167026,skin prep tray,O,JU
+79,167027,single use instrument tray kit,O,JV
+79,167028,shave prep kit,O,JW
+79,167029,electrosurgical coagulation for aesthetic,O,NQ
+79,167030,burn kit with drug,O,JI
+79,167031,burn kit without drug,O,JJ
+79,167342,Laparoscopic single port access device,O,TJ
+79,167362,Wound drain catheter system,O,TK
+79,167462,Instrument for treatment of hyperhidrosis,O,UB
+79,167523,Skin resurfacing rf applicator,O,UH
+79,168735,Suture kit,O,VN
+79,169764,"Mesh, surgical, collagen, fistula",O,XN
+79,169765,"Mesh, surgical, absorbable, fistula",O,XM
+79,169766,"Mesh, surgical, absorbable, organ support",O,XL
+79,169767,"Mesh, surgical, collagen, large abdominal wall defects",O,XK
+79,169768,"Mesh, surgical, non-absorbable, large abdominal wall defects",O,XJ
+79,169769,"Mesh, surgical, absorbable, large abdominal wall defects",O,XI
+79,169770,"Mesh, surgical, collagen, plastic and reconstructive surgery",O,XH
+79,169771,"Mesh, surgical, non-absorbable, plastic and reconstructive surgery",O,XG
+79,169772,"Mesh, surgical, absorbable, plastic and reconstructive surgery",O,XF
+79,169773,"Mesh, surgical, collagen, staple line reinforcement",O,XE
+79,169774,"Mesh, surgical, non-absorbable, staple line reinforcement",O,XD
+79,169775,"Mesh, surgical, absorbable, staple line reinforcement",O,XC
+79,169776,"Mesh, surgical, collagen, thoracic, chest wall reconstruction",O,XB
+79,169777,"Mesh, surgical, non-absorbable, thoracic, chest wall reconstruction",O,XA
+79,169778,"Mesh, surgical, absorbable, thoracic, chest wall reconstruction",O,WZ
+79,169779,"Mesh, surgical, collagen, orthopaedics, reinforcement of tendon",O,WY
+79,169780,"Mesh, surgical, non-absorbable, orthopaedics, reinforcement of tendon",O,WX
+79,169781,"Mesh, surgical, absorbable, orthopaedics, reinforcement of tendon",O,WW
+79,169782,"Mesh, surgical, collagen, diaphragmatic hernia",O,WV
+79,169783,"Mesh, surgical, non-absorbable, diaphragmatic hernia",O,WU
+79,169784,"Mesh, surgical, absorbable, abdominal hernia",O,WT
+79,169785,"Mesh, surgical, collagen, plastics, facial implants",O,WS
+79,169786,"Mesh, surgical, non-absorbable, facial implants for plastic surgery",O,WR
+79,169790,Confocal optical imaging,O,WN
+79,169802,Dressing change tray,O,XQ
+79,170302,Optical diagnostic device for melanoma detection,O,YD
+79,170722,For the removal of fat through laser lipolysis,O,YW
+79,170983,Over the counter acne treatment,O,ZC
+79,171002,Dermal cooling pack/vacuum/massager,O,OK
+79,171542,Percutaneous surgical set with attachments,O,XT
+79,171802,Composite cultured skin,P,BD
+79,172062,Temporary tissue marker,P,BY
+79,172063,"Massager, vacuum, radio frequency induced heat",P,BX
+79,172462,Electrosurgical vessel and/or tissue sealer. with built-in generator,P,DG
+79,172563,Burn resuscitation decision support software,P,DT
+79,172623,Lasers for temporary increase of clear nail in patients with onychomycosis,P,DZ
+79,172922,Powered surgical instruments for improvement in the appearance of cellulite,O,UP
+79,172971,Cultured human cell skin dressing,P,FC
+79,173019,Silicone hydrogel for scar management,P,FP
+79,173054,Fat Reducing Low Level Laser,O,LI
+79,173075,"Non-absorbable, expandable, hemostatic sponge for temporary internal use",P,GZ
+79,173121,Negative pressure wound therapy non-powered suction apparatus,O,KO
+79,173172,Cutaneous Tissue Adhesive with Mesh,O,MD
+79,173204,Collagen surgical mesh containing drugs,P,IJ
+79,173350,Tissue adhesive for internal use,P,JK
+79,173354,Internal tissue marker,P,DW
+79,173376,Laparoscopic Cholecystectomy Kit,P,KE
+79,173377,Laceration tray,P,KD
+79,173601,transparent patch for use in treatment of tattoos,P,KO
+79,173610,Laser for disruption of adipocyte cells for aesthetic use,P,KT
+79,173643,"Implant, dermal, for aesthetic use in the hands",P,KY
+79,173697,Tabletop sunlamp system,R,EH
+79,173698,Suntan lamp,R,EG
+79,173699,Suntan bed,R,EF
+79,174152,Scalp cooling system,P,MC
+79,174165,Over-the-counter radiofrequency coagulation device for wrinkle reduction,P,AY
+79,174224,Absorbable collagen hemostatic agent with thrombin,P,MX
+79,174499,Post breast biopsy hemostatic breast compression device,P,OY
+79,174519,Magnetic surgical system,P,NL
+79,174580,Wound retraction and protection system,P,QI
+79,174582,Carbon dioxide gas controlled tissue expander,P,QN
+79,174625,Light based imaging,P,SN
+79,174663,Sunlamp products (pre-standard),R,AB
+79,174714,"Malignant melanomas, diagnostic, electric impedance",O,NV
+79,174725,"Suture, nonabsorbable, steel, monofilament and multifilament, sterile, exempt",P,TX
+79,174739,"Drape, surgical, exempt",P,UI
+79,174791,Wound drainage kit,P,YL
+79,174792,Venous ulcer kit,P,YK
+79,174793,Ulcer wound tray,P,YJ
+79,174794,Thoracic catheter insertion tray,P,YI
+79,174795,Surgical retractor kit,P,YH
+79,174796,Suction catheter kit,P,YG
+79,174797,Sterile puncture tray,P,YF
+79,174798,Staple removal kit,P,YE
+79,174799,Pelviscopy kit,P,YD
+79,174800,Paracentesis tray,P,YC
+79,174801,Minor surgical procedures tray,P,YB
+79,174802,Liver biopsy kit,P,YA
+79,174803,Laparascopic sphincterotomy kit,P,XZ
+79,174804,Irrigation kit (wounds),P,XY
+79,174805,Incision tray,P,XX
+79,174806,Herniorraphy kit,P,XW
+79,174807,General purpose instrument tray,P,XV
+79,174808,Fluid drainage tray,P,XU
+79,174809,Cholecystectomy kit,P,XS
+79,174810,Cement and bone removal kit,P,XR
+79,174811,Burn dressing tray,P,XQ
+79,174812,Breast biopsy / localization tray,P,XP
+79,174813,Bone marrow biopsy tray,P,XO
+79,174814,Basic set-up tray,P,XN
+79,174864,"Tape and bandage, adhesive, adjustable closing mechanism, OTC use",P,YO
+79,174868,"Temporary, internal use hemostatic",P,OD
+79,174877,"Ablation system, high intensity focus ultrasound (HiFU), soft tissue",P,ZC
+79,174908,Tourniquet kit,O,JS
+79,174909,Light based treatment for cold sores herpes simplex virus-1,O,KJ
+79,174951,General laparoscopic power morcellation containment system,P,ZQ
+79,174959,Extracorporeal shock wave device for treatment of diabetic foot ulcers,P,ZL
+79,174978,Powered microneedle device,Q,AI
+79,175050,Lymph node location system during sentinel biopsy procedure,P,UV
+79,175059,Wound autofluorescence imaging device,Q,CR
+79,175061,Hemostatic device for endoscopic gastrointestinal use,Q,AU
+79,175115,"Truss, Umbilical",E,XM
+79,175118,"Tray, Irrigation, Sterile",E,YN
+79,175120,"Trocar, Gastro-Urology",F,BQ
+79,175122,"Apparatus, Pneumoperitoneum, Automatic",F,DP
+79,175124,"Tray, surgical, needle",F,SH
+79,175126,Peritoneoscope,G,CG
+79,175127,Mediastinoscope,G,CH
+79,175129,Laryngoscope,G,CI
+79,175134,"Device, Anastomotic, Microvascular",M,VR
+79,175137,"Massager, cosmetic, static electricity-emitting",N,ZF
+79,175140,"Light, lymphadema reduction, low energy",N,ZY
+79,175141,Stereotaxic instrument,O,
+79,175142,Surgical sponge visual scale,P,BZ
+79,175143,Intra-abdominal pressure monitoring device,P,HU
+79,175269,Parathyroid autofluorescence imaging device,Q,DG
+79,175270,Parathyroid autofluorescence detection device,Q,DF
+79,175272,Laser absorbing particles,Q,CY
+79,175480,Negative Pressure Wound Therapy device for reduction of wound complications,Q,FC
+79,175497,General use pneumatic tourniquet,Q,GX
+79,175506,Mobile / tablet software application to control settings of surgical and endoscopic camera,Q,GY
+79,175512,Energy based device for treatment of tattoos,Q,HF
+79,175770,Autofluorescence imaging adjunct tool for wounds,Q,JF
+79,175849,Lipoplasty-associated washing system for aesthetic body contouring,Q,KL
+79,176051,Mounted electromechanical surgical assist device for transluminal approaches,Q,NM
+79,176068,"Apparatus, suction, operating-room, wall vacuum powered (Export Only)",Q,OJ
+79,176128,"System, suction, lipoplasty for removal",Q,PB
+79,176140,"Negative pressure wound therapy, non-powered suction pump, chemical",Q,PX
+79,176141,Contact cooling for skin lesion pain relief,Q,PZ
+79,176145,Skin microneedling manual roller (export only),Q,QF
+79,176202,Single use only blood lancet without an integral sharps injury prevention feature,Q,RK
+79,176203,Multiple use blood lancet for single patient use only,Q,RL
+79,176204,"Stapler, skin",Q,QS
+79,176205,Multiple use blood lancet for multiple patient use,Q,RM
+79,176211,Phototherapy device for reducing the appearance of acute post-surgical incisions,Q,PE
+79,176346,"System, surgical, computer controlled instrument, remanufactured",Q,SM
+79,176745,Suction Lipoplasty System for Removal and Transfer,Q,UB
+79,176792,Absorbable synthetic wound dressing,Q,SZ
+79,176796,Low Power Electrosurgical Devices for Skin Lesion Destruction,Q,VJ
+79,176953,Skin patch for treatment of hyperhidrosis,Q,VX
+79,176955,Hemostatic wound dressing with thrombin or other biologics,Q,SX
+79,176964,Breast implant suction retrieval device,Q,VS
+79,177002,"Instrument, biopsy",K,NW
+79,177016,Tissue adhesive internal use,P,LJ
+79,177023,Hemostatic wound dressing without thrombin or other biologics,Q,SY
+79,177051,"Oximeter, tissue saturation",M,UD
+79,177090,"Focused ultrasound system for non-thermal, mechanical tissue ablation",Q,GM
+79,177094,Multi-photon imaging,Q,ZN
+79,177106,Laser For Wound Healing,L,XU
+79,177111,DermaSensor,Q,ZS

@@ -1,0 +1,348 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+76,20245,"Adhesive, Bracket And Tooth Conditioner, Resin",D,YH
+76,20246,"Retainer, Screw Expansion, Orthodontic",D,YJ
+76,20247,"Mouthpiece, Saliva Ejector",D,YN
+76,20248,"Band, Material, Orthodontic",D,YO
+76,20249,"Maintainer, Space Preformed, Orthodontic",D,YT
+76,20250,"Bracket, Plastic, Orthodontic",D,YW
+76,20251,"Lock, Wire, And Ligature, Intraoral",D,YX
+76,20252,"Drill, Dental, Intraoral",D,ZA
+76,20253,"Headgear, Extraoral, Orthodontic",D,ZB
+76,20254,"Wire, Orthodontic",D,ZC
+76,20255,"Tube, Orthodontic",D,ZD
+76,20256,"Implant, Endosseous",D,ZE
+76,20258,"Saw, Bone, AC-Powered",D,ZH
+76,20259,"Drill, Bone, Powered",D,ZI
+76,20260,"Driver, Wire, And Bone Drill, Manual",D,ZJ
+76,20261,"Wire, Fixation, Intraosseous",D,ZK
+76,20262,"Screw, Fixation, Intraosseous",D,ZL
+76,20263,"Needle, Dental",D,ZM
+76,20264,"Matrix, Dental",D,ZN
+76,20265,"Instrument, Diamond, Dental",D,ZP
+76,20266,"Capsule, Dental, Amalgam",D,ZS
+76,20272,"Detector, Ultraviolet",E,AQ
+76,20273,"Gel, Electrode, For Pulp Tester",E,AS
+76,20274,"Tester, Pulp",E,AT
+76,20275,"Mirror, Mouth",E,AX
+76,20276,"Light, Fiber Optic, Dental",E,AY
+76,20277,"Light, Operating, Dental",E,AZ
+76,20278,"Light, Surgical Headlight",E,BA
+76,20279,"Sealant, Pit And Fissure, And Conditioner",E,BC
+76,20280,"Coating, Filling Material, Resin",E,BD
+76,20281,"Coating, Denture Hydrophilic, Resin",E,BE
+76,20282,"Material, Tooth Shade, Resin",E,BF
+76,20283,"Crown And Bridge, Temporary, Resin",E,BG
+76,20284,"Material, Impression Tray, Resin",E,BH
+76,20285,"Resin, Denture, Relining, Repairing, Rebasing",E,BI
+76,20286,"Pin, Retentive and Splinting, and Accessory Instruments",E,BL
+76,20287,"Kit, Denture Repair, Otc",E,BO
+76,20288,"Reliner, Denture, Otc",E,BP
+76,20289,"Unit, Suction Operatory",E,BR
+76,20290,"Controller, Foot, Handpiece And Cord",E,BW
+76,20291,"Activator, Ultraviolet, For Polymerization",E,BZ
+76,20292,"Unit, Syringe, Air and/or Water",E,CB
+76,20293,"Sterilizer, Glass Bead",E,CC
+76,20295,"Sterilizer, Boiling Water",E,CG
+76,20296,"Band, Elastic, Orthodontic",E,CI
+76,20297,"Band, Preformed, Orthodontic",E,CM
+76,20298,"Clamp, Wire, Orthodontic",E,CN
+76,20299,"Spring, Orthodontic",E,CO
+76,20300,"Instrument, Ligature Tucking, Orthodontic",E,CP
+76,20301,"Aligner, Bracket, Orthodontic",E,CQ
+76,20302,"Setter, Band, Orthodontic",E,CR
+76,20303,"Pusher, Band, Orthodontic",E,CS
+76,20304,"Driver, Band, Orthodontic",E,CT
+76,20306,"Plate, Base, Shellac",E,EA
+76,20307,"Clamp, Rubber Dam",E,EF
+76,20308,Heat Source For Bleaching Teeth,E,EG
+76,20309,"Guard, Disk",E,EJ
+76,20310,"Handpiece, Belt And/Or Gear Driven, Dental",E,FA
+76,20311,"Handpiece, Air-Powered, Dental",E,FB
+76,20312,"Warmer, Anesthetic Tube",E,FC
+76,20313,"Amalgamator, Dental, Ac-Powered",E,FD
+76,20314,"Paper, Articulation",E,FH
+76,20315,"Forceps, Articulation Paper",E,FK
+76,20316,"Forceps, Dressing, Dental",E,FL
+76,20317,"Cotton, Roll",E,FN
+76,20319,"Unit, Oral Irrigation",E,FS
+76,20320,"Cleanser, Denture, Otc",E,FT
+76,20321,"Toothbrush, Manual",E,FW
+76,20322,"Protector, Silicate",E,FX
+76,20324,"Wax, Dental, Intraoral",E,GD
+76,20325,"Attachment, Precision, All",E,GG
+76,20326,Parallelometer,E,GI
+76,20328,"Injector, Jet, Mechanical-Powered",E,GM
+76,20329,"Scissors, Surgical Tissue, Dental",E,GN
+76,20330,"Injector, Jet, Gas-Powered",E,GQ
+76,20331,"Handpiece, Contra- And Right-Angle Attachment, Dental",E,GS
+76,20335,"Holder, Film, X-Ray",E,GZ
+76,20336,"Aligner, Beam, X-Ray",E,HA
+76,20339,"Dispenser, Mercury And/Or Alloy",E,HE
+76,20340,"Disk, Abrasive",E,HJ
+76,20341,"Cup, Prophylaxis",E,HK
+76,20342,"Point, Abrasive",E,HL
+76,20343,"Strip, Polishing Agent",E,HM
+76,20344,"Bar, Preformed",E,HO
+76,20345,"Clasp, Preformed",E,HP
+76,20346,"Cusp, Preformed",E,HQ
+76,20347,"Pad, Denture, Otc",E,HR
+76,20348,"Cushion, Denture, Otc",E,HS
+76,20349,"Tray, Impression, Preformed",E,HY
+76,20350,"Evacuator, Oral Cavity",E,HZ
+76,20351,"Unit, Operative Dental",E,IA
+76,20352,"Syringe, Irrigating (dental)",E,IB
+76,20353,"Syringe, Periodontic, Endodontic, Irrigating",E,IC
+76,20354,"Syringe, Restorative And Impression Material",E,ID
+76,20355,"Dam, Rubber",E,IE
+76,20356,"Accessories, Retractor, Dental",E,IF
+76,20357,"Retractor, All Types",E,IG
+76,20358,"Powder, Porcelain",E,IH
+76,20359,"Carver, Wax, Dental",E,IK
+76,20360,"Gauge, Depth, Instrument, Dental",E,IL
+76,20361,"Scissors, Collar And Crown",E,IR
+76,20362,"Remover, Crown",E,IS
+76,20363,"Applicator, Rapid Wax, Dental",E,IT
+76,20364,"Probe, Periodontic",E,IX
+76,20365,"Instrument, Filling, Plastic, Dental",E,IY
+76,20366,"Handle, Instrument, Dental",E,JB
+76,20367,"Frame, Rubber Dam",E,JE
+76,20368,"Bracket, Metal, Orthodontic",E,JF
+76,20369,"Forceps, Rubber Dam Clamp",E,JG
+76,20370,"Metal, Base",E,JH
+76,20371,"Syringe, Cartridge",E,JI
+76,20372,"Alloy, Amalgam",E,JJ
+76,20373,"Liner, Cavity, Calcium Hydroxide",E,JK
+76,20374,"Bur, Dental",E,JL
+76,20375,Articulators,E,JP
+76,20376,"Wheel, Polishing Agent",E,JQ
+76,20377,"Agent, Polishing, Abrasive, Oral Cavity",E,JR
+76,20378,"Alloy, Precious Metal, For Clinical Use",E,JS
+76,20379,"Alloy, Gold Based, For Clinical Use",E,JT
+76,20380,"Clasp, Wire",E,JW
+76,20381,"Anchor, Preformed",E,JX
+76,20382,"Pliers, Operative",E,JY
+76,20383,"Knife, Margin Finishing, Operative",E,JZ
+76,20384,"File, Margin Finishing, Operative",E,KA
+76,20385,"Explorer, Operative",E,KB
+76,20386,"Excavator, Dental, Operative",E,KC
+76,20387,"Instrument, Cutting, Operative",E,KD
+76,20388,"Curette, Operative",E,KE
+76,20389,"Instrument, Contouring, Matrix, Operative",E,KF
+76,20390,"Condenser, Amalgam And Foil, Operative",E,KG
+76,20391,"Carver, Dental Amalgam, Operative",E,KH
+76,20392,"Carrier, Amalgam, Operative",E,KI
+76,20393,"Burnisher, Operative",E,KJ
+76,20394,"Spreader, Pulp Canal Filling Material, Endodontic",E,KK
+76,20395,"Point, Silver, Endodontic",E,KL
+76,20396,Gutta-Percha,E,KM
+76,20397,"Point, Paper, Endodontic",E,KN
+76,20398,Denture Preformed (Partially Prefabricated Denture),E,KO
+76,20399,"Reamer, Pulp Canal, Endodontic",E,KP
+76,20400,"Preparer, Root Canal Endodontic",E,KQ
+76,20401,"Plugger, Root Canal, Endodontic",E,KR
+76,20402,"File, Pulp Canal, Endodontic",E,KS
+76,20403,"Curette, Endodontic",E,KT
+76,20404,"Broach, Endodontic",E,KW
+76,20405,"Handpiece, Direct Drive, Ac-Powered",E,KX
+76,20406,"Handpiece, Water-Powered",E,KY
+76,20407,"Unit, Electrosurgical, And Accessories, Dental",E,KZ
+76,20408,"Instrument, Hand, Calculus Removal",E,LA
+76,20409,"Scaler, Rotary",E,LB
+76,20410,"Scaler, Ultrasonic",E,LC
+76,20411,"Implant, Subperiosteal",E,LE
+76,20412,"Teeth, Artificial, Posterior With Metal Insert",E,LJ
+76,20413,"Teeth, Artificial, Backing And Facing",E,LK
+76,20414,"Teeth, Porcelain",E,LL
+76,20415,"Denture, Plastic, Teeth",E,LM
+76,20416,"Teeth, Preformed Gold Denture",E,LN
+76,20417,"Cusp, Gold And Stainless Steel",E,LO
+76,20418,"Post, Root Canal",E,LR
+76,20419,"Splint, Endodontic Stabilizing",E,LS
+76,20420,"Material, Impression",E,LW
+76,20421,Mercury,E,LY
+76,20422,"Crown, Preformed",E,LZ
+76,20423,"Cement, Dental",E,MA
+76,20424,Zinc Oxide Eugenol,E,MB
+76,20425,"Hemostat, Surgical",E,MD
+76,20426,"Punch, Biopsy, Surgical",E,ME
+76,20428,"Forceps, Tooth Extractor, Surgical",E,MG
+76,20429,"Forceps, Rongeur, Surgical",E,MH
+76,20430,"File, Bone, Surgical",E,MI
+76,20431,"Elevator, Surgical, Dental",E,MJ
+76,20432,"Curette, Surgical, Dental",E,MK
+76,20433,"Chisel, Bone, Surgical",E,ML
+76,20434,"Chisel, Osteotome, Surgical",E,MM
+76,20435,"Scaler, Periodontic",E,MN
+76,20436,"Knife, Periodontic",E,MO
+76,20437,"Marker, Periodontic",E,MP
+76,20438,"Hoe, Periodontic",E,MQ
+76,20439,"File, Periodontic",E,MR
+76,20440,"Curette, Periodontic",E,MS
+76,22263,"Measurer, Gingival Fluid",J,EO
+76,22264,"Retainer, Matrix",J,EP
+76,22265,"Toothbrush, Powered",J,EQ
+76,22266,"Cleaner, Denture, Mechanical",J,ER
+76,22267,"Floss, Dental",J,ES
+76,22268,"Pick, Massaging",J,ET
+76,22269,"Tip, Rubber, Oral Hygiene",J,EW
+76,22270,"Plier, Orthodontic",J,EX
+76,22271,"Plate, Bone",J,EY
+76,22712,Tube Impression And Matrix,K,CQ
+76,22713,Facebow,K,CR
+76,22714,Pantograph,K,CS
+76,22804,"Absorber, Saliva, Paper",K,HR
+76,22814,"Resin, Root Canal Filling",K,IF
+76,22842,"Cleanser, Root Canal",K,JJ
+76,22870,"Ring, Teething, Fluid-Filled",K,KO
+76,22882,Chair With Unit,K,LC
+76,22883,"Agent, Tooth Bonding, Resin",K,LE
+76,22911,"Tray, Fluoride, Disposable",K,MT
+76,22912,"Handpiece, Rotary Bone Cutting",K,MW
+76,22913,"Positioner, Tooth, Preformed",K,MY
+76,22944,Airbrush,K,OJ
+76,22945,"Sterilizer, Endodontic Dry Heat",K,OK
+76,22946,"Adhesive, Denture, Acacia and Karaya with Sodium Borate",K,OM
+76,22947,"Adhesive, Denture, Polyacrylamid Polymer (Modified Cationic)",K,ON
+76,22948,"Adhesive, Denture, Polyvinyl Methylether Maleic Acid Calcium-Sodium Double Salt",K,OO
+76,22949,"Adhesive, Denture, Karaya",K,OP
+76,22950,"Denture Adhesive, Carboxymethylcellulose Sodium (40-100%)",K,OQ
+76,22951,"Adhesive, Denture, Karaya with Sodium Borate",K,OR
+76,22952,Carboxymethylcellulose Sodium Or Polyvinyl Methylether Maleic Acid Calcium-Sodium,K,OT
+76,23103,"Applicator, Resin",K,XR
+76,23106,"Denture Adhesive, Karaya And Ethylene-Oxide Homopolymer",K,XX
+76,23107,Polyvinyl Methylether Maleic Anhydride &/Or Acid Copolymer & Carboxymethylce,K,XY
+76,23141,"Device, Muscle Monitoring",K,ZM
+76,23142,"Scanner, Color",K,ZN
+76,23143,"Ink, Arch Tracing",K,ZO
+76,23144,"Solution, Cement Disolving",K,ZP
+76,23184,"Varnish, Cavity",L,BH
+76,23210,"Scraper, Tongue",L,CN
+76,23269,"Device, Carries Detection",L,FC
+76,23270,"Saliva, Artifical",L,FD
+76,23271,"Solution, Cold Sterilizing",L,FE
+76,23453,"Solution, Removal, Carries",L,MW
+76,23511,"Material, Dressing, Surgical, Polylactic Acid",L,PG
+76,23515,"Granules, Tricalcium Phosphate for Dental Bone Repair",L,PK
+76,23547,"Device, Finger-Sucking",L,QX
+76,23548,"Locator, Root Apex",L,QY
+76,23549,"Device, Jaw Repositioning",L,QZ
+76,23603,"Stimulator, Salivary System",L,TF
+76,23604,"Paste, Injectable for Vocal Cord Augmentation",L,TG
+76,23634,"Device, Electrical Dental Anesthesia",L,WM
+76,23654,"Adhesive, Denture, Carboxymethylcellulose Sodium (32%) and Ethylene-Oxide Homopolymer",K,OL
+76,23655,"Adhesive, Denture, Carboxymethylcellulose Sodium and Cationic Polyacrylamide Polymer",K,OS
+76,23658,"Adhesive, Denture, Carboxymethylcellulose Sodium (49%) and Ethylene-Oxide Homopolymer",K,XW
+76,23684,"Bone Grafting Material, Synthetic",L,YC
+76,23710,"Joint, Temporomandibular, Implant",L,ZD
+76,23769,"Eraser, Dental Stain",M,AU
+76,23808,"Unit, Ultraviolet Sanitation/Sterlization (For Toothbrushes)",M,CF
+76,24851,"Kit, Test, In Vitro Periodontal",M,CL
+76,24853,"Implant, Transmandibular",M,DL
+76,24854,"Ring, Teething, Non-Fluid Filled",M,EF
+76,25241,"Toothbrush, Ionic, Battery-powered",M,MD
+76,25242,"Resin, Root Canal Filling Containing Chloroform",M,MT
+76,25243,"Adhesive, Denture, Acacia and Karaya with Sodium Borate > 12% by Weight",M,MU
+76,25244,Glenoid Fossa Prosthesis,M,PI
+76,25245,Interarticular Disc Prosthesis (Interpositional Implant),M,PJ
+76,25246,Manidbular Condyle Prosthesis,M,PL
+76,25247,Mouthguard,M,QC
+76,25248,External Mandibular Fixator and/or Distractor,M,QN
+76,150566,"Laser, Fluorescence Caries Detection",N,BL
+76,151725,"Accessories, Implant, Dental, Endosseous",N,DP
+76,151903,"Prosthesis, Condyle, Mandibular, Temporary",N,EI
+76,152166,"Device, Anti-Snoring",L,RK
+76,152167,"Device, Detection, Sulfide",M,VH
+76,152168,"Cord, Retraction",M,VL
+76,152169,"System, Dental, Hydrokinetic, Carries Removal & Cavity Preparation",M,XF
+76,152170,Dental Cement Without Zinc-Oxide Eugenol as an Ulcer Covering for Pain Relief,M,ZW
+76,152544,"Materials, Polytetrafluoroethylene Vitreous Carbon, for Maxillofacial Alveolar Ridge Augmentation",N,FE
+76,152703,"Device, Dental Sonography, with Interpretive Software",N,FP
+76,152704,"Device, Dental Sonography, with no Interpretive Software",N,FQ
+76,152705,"Device, Jaw Tracking, with Interpretive Software",N,FR
+76,152706,"Device, Jaw Tracking, with no Interpretive Software",N,FS
+76,153201,"Abutment, Implant, Dental, Endosseous",N,HA
+76,153463,"Bracket, Ceramic, Orthodontic",N,JM
+76,153624,"Cushion, Pad, Denture, Wax Impregnated Cotton, Over the Counter",N,KJ
+76,153875,Blade-From Endosseous Dental Implant,N,RQ
+76,153884,"Bracket, Metal, Orthodontic, Reprocessed",N,QS
+76,153895,"Unit, Operative Dental, Accessories",N,RD
+76,153908,"Material, Dental, Other, with Growth Factors",N,QA
+76,153909,"Bone grafting material, dental, with biologic component",N,PZ
+76,153935,"Barrier, Animal Source, Dental",N,PL
+76,153963,"System, Optical Impression, Computer Assisted Design and Manufacturing (CAD/CAM) of Dental Restorati",N,OF
+76,155002,"Bracket, Plastic, Orthodontic, Reprocessed",N,LC
+76,155003,"Instrument, Diamond, Dental, Reprocessed",N,LD
+76,155004,"Bur, Diamond Coated, Reprocessed",N,ME
+76,155005,"Needle, Dental, Reprocessed",N,MW
+76,155006,"Unit,Ultraviolet Sanitation/Sterilization(For Toothbrushes),Non-Sterile",N,OB
+76,155007,"Barrier, Synthetic, Dental",N,PK
+76,155008,"Bone Grafting Material, Animal Source",N,PM
+76,155009,"Chair Dental, Without Operative Unit",N,RU
+76,155010,"Restroation, Noble Metal",N,SJ
+76,155011,"Dentures, Partial",N,SK
+76,155012,"Dentures, Full",N,SL
+76,155013,"Restoration, Resin",N,SM
+76,155014,"Restoration, Resin, Crown and Bridge",N,SN
+76,155015,"Restoration, Porcelain-Fused-To-Metal",N,SO
+76,155016,"Restoration, Porcelain",N,SP
+76,155017,"Restoration, Base Metal",N,SQ
+76,155018,"Prosthesis, Orthodontic",N,SR
+76,155019,"Caries Detector, Laser Light, Transmission",N,TK
+76,155276,"Rinse, Oral, Antibacterial (by Physical Means)",N,TO
+76,155374,"Bone Grafting Material, Human Source",N,UN
+76,155494,"Stimulator, Muscle, powered, dental",N,UW
+76,155517,"Cleanser, denture, prescription",N,UX
+76,156794,"Aligner, Sequential",N,XC
+76,156914,"Denture, cosmetic only",N,XJ
+76,157214,"Dianostic light, Soft Tissue detector",N,XV
+76,157294,"Kit, plaque disclosing",N,YH
+76,157295,"Kit, dental lapping tool",N,YG
+76,157296,Gingival retraction kit,N,YF
+76,157297,"Kit, dental fixture mount",N,YE
+76,157298,"Kit, endodontic",N,YD
+76,157299,Dental Prophylaxis Kit,N,YC
+76,157302,"Kit, dental hygiene",N,XZ
+76,157354,"Handpiece, air-powered, root canal irrigation",N,YL
+76,157857,"Catheter, drainage, intraoral/extraoral",O,AJ
+76,157914,"Implant, endosseous, orthodontic",O,AT
+76,158237,"Mouthguard, over-the-counter",O,BR
+76,163384,"Mouthguard, migraine/tension headace",O,CO
+76,164279,Restorative instrument and component tray,O,FW
+76,164280,General purpose dental tray,O,FX
+76,164281,Dental implant surgical tray,O,FY
+76,165439,Oral Lubricant,O,NK
+76,166875,dental amalgam,O,IV
+76,166876,"laser, dental, soft tissue",N,VK
+76,167081,Prelude tongue suspension system,O,RY
+76,170483,Orthodontic vibratory accessory,O,YH
+76,172742,Dental barriers and sleeves,P,EM
+76,172980,"Intraoral, dental foam protector",P,FL
+76,173111,diammine silver fluoride dental hypersensitivity varnish,P,HR
+76,173327,"Prophy Powder, airbrush accessory",P,IP
+76,173583,"crown & bridge material, resin based",P,KJ
+76,173648,Sleep appliances with patient monitoring,P,LC
+76,173717,Orthodontic LED accessory,P,LH
+76,173801,Dental stereotaxic instrument,P,LV
+76,174153,external cleaning solution,P,ME
+76,174347,Orthodontic software,P,NN
+76,174503,"Crown and bridge, long-term temporary, resin",P,OW
+76,174535,Dental abutment design software for dental laboratory,P,NP
+76,174762,Oral Surgery Tray,P,WL
+76,174906,Oral wound dressing,O,LR
+76,174907,Oral wound dressing w/drug and/or biologic,O,LS
+76,174941,"Additively manufactured, preformed, resin denture tooth",P,ZY
+76,175076,Closed loop auto titration device for oral appliances,Q,CJ
+76,175100,"Expiratory resistance valve, intranasal, for obstructive sleep apnea",O,HP
+76,175483,Composite resin warmer,Q,GO
+76,175598,Powered Tongue Scraper,Q,IA
+76,175767,Plaque disclosing agent,Q,JC
+76,175776,Indirect bonding tray,Q,JJ
+76,175777,Intraoral camera,Q,JK
+76,176008,Powered radiofrequency toothbrush,Q,MJ
+76,176041,Laser activator for polymerization,Q,NF
+76,176047,Neuromuscular tongue muscle stimulator for the reduction of snoring and obstructive sleep apnea,Q,NO
+76,176336,Dental navigation system,Q,RY
+76,176641,Non-irrigation endosseous dental implant drill bits,Q,RQ
+76,176732,Over the Counter Electrical Salivary Stimulatory System,Q,TT
+76,176746,Intraoral Cooling Device,Q,UA
+76,177081,Dental waterline treatment cartridge,Q,YJ

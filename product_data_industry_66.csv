@@ -1,0 +1,326 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+66,5966,Amfonelic Acid (Stimulant),B,01
+66,5967,Dioctyl Calcium Sulfosuccinate (Stool Softener),C,01
+66,5968,"Potash, Sulfurated  (Source of Sulfide)",D,01
+66,5970,Aspartame (Sweetener),H,01
+66,5971,Proadifen HCl (Synergist),I,01
+66,5972,Levothyroxine Sodium (Thyroid Hormone),J,01
+66,5973,Methimazole (Thyroid Inhibitor),K,01
+66,5974,Thyromedan HCl (Thyromimetic),L,01
+66,5975,Acetophenazine Maleate (Tranquilizer),M,01
+66,5976,Actinoquinol Sodium (Ultraviolet Screen/Sunscreen),P,01
+66,5977,Benzbromarone (Uricosuric),Q,01
+66,5978,Angiotensin Amide (Vasoconstrictor),R,01
+66,5979,Amyl Nitrite (Vasodilator),S,01
+66,5980,Allopurinol (Xanthine Oxidase Inhibitor),T,01
+66,5982,Amphetamine Sulfate (Stimulant),B,02
+66,5984,Sodium Iodide (Iodine Supplement),E,02
+66,5985,Sulfapyridine (Suppressant),F,02
+66,5987,Melizame (Sweetener),H,02
+66,5988,Liothyronine Sodium (Thyroid Hormone),J,02
+66,5989,Methylthiouracil (Thyroid Inhibitor),K,02
+66,5990,Alpertine (Tranquilizer),M,02
+66,5991,Aminobenzoic Acid (Ultraviolet Screen/Sunscreen),P,02
+66,5992,Felypressin (Vasoconstrictor),R,02
+66,5993,Bamethan Sulfate (Vasodilator),S,02
+66,5994,Oxypurinol (Xanthine Oxidase Inhibitor),T,02
+66,5996,Ampyzine Sulfate (Stimulant),B,03
+66,5997,Purified Cotton (Surgical/Prosthetic Aid),G,03
+66,5998,Liotrix (Thyroid Hormone),J,03
+66,5999,Propylthiouracil (Thyroid Inhibitor),K,03
+66,6000,Alprazolam (Tranquilizer),M,03
+66,6001,Cinoxate (Ultraviolet Screen/Sunscreen),P,03
+66,6002,Probenecid (Uricosuric),Q,03
+66,6003,Betahistine HCl (Vasodilator),S,03
+66,6005,Azabon (Stimulant),B,04
+66,6007,Thyroglobulin (Thyroid Hormone),J,04
+66,6008,Azaperone (Tranquilizer),M,04
+66,6009,Dioxybenzone (Ultraviolet Screen/Sunscreen),P,04
+66,6011,Nordefrin Hydrochloride (Vasoconstrictor),R,04
+66,6012,"Erythrityl Tetranitrate,Dilute (Vasodilator)",S,04
+66,6014,Caffeine (Stimulant),B,05
+66,6015,Colchicine (Suppressant),F,05
+66,6016,Petrolatum Gauze (Surgical/Prosthetic Aid),G,05
+66,6017,Cyclamate Calcium (Sweetener),H,05
+66,6018,Thyroid (Thyroid Hormone),J,05
+66,6019,Benperidol (Tranquilizer),M,05
+66,6020,Homosalate (Ultraviolet Screen/Sunscreen),P,05
+66,6021,Sulfinpyrazone (Uricosuric),Q,05
+66,6022,Flunarizine HCl (Vasodilator),S,05
+66,6024,"Caffeine, Citrated (Stimulant)",B,06
+66,6025,Purified Rayon (Surgical/Prosthetic Aid),G,06
+66,6026,Cyclamate Sodium (Sweetener),H,06
+66,6027,Benzindopyrine HCl (Tranquilizer),M,06
+66,6028,Octabenzone (Ultraviolet Screen/Sunscreen),P,06
+66,6029,Methysergide (Vasoconstrictor),R,06
+66,6030,Hexobendine (Vasodilator),S,06
+66,6032,Dexoxadrol HCl (Stimulant),B,07
+66,6034,Cyclamic Acid (Sweetener),H,07
+66,6035,Bromperidol (Tranquilizer),M,07
+66,6036,Oxybenzone (Ultraviolet Screen/Sunscreen),P,07
+66,6037,Methysergide Maleate (Vasoconstrictor),R,07
+66,6038,Iproxamine HCl (Vasodilator),S,07
+66,6040,Dextroamphetamine (Stimulant),B,08
+66,6042,Saccharin Calcium (Sweetener),H,08
+66,6044,Padimate A (Ultraviolet Screen/Sunscreen),P,08
+66,6045,Isoxsuprine HCl (Vasodilator),S,08
+66,6047,Dextroamphetamine Phosphate (Stimulant),B,09
+66,6049,Saccharin Sodium (Sweetener),H,09
+66,6050,Buspirone HCl (Tranquilizer),M,09
+66,6051,Padimate O (Ultraviolet Screen/Sunscreen),P,09
+66,6052,Mesuprine HCl (Vasodilator),S,09
+66,6053,Dextroamphetamine Sulfate (Stimulant),B,10
+66,6054,Butaclamol HCl (Tranquilizer),M,10
+66,6055,Sulisobenzone (Ultraviolet Screen/Sunscreen),P,10
+66,6056,Nafronyl Oxalate (Vasodilator),S,10
+66,6057,Difluanine HCl (Stimulant),B,11
+66,6058,Butaperazine (Tranquilizer),M,11
+66,6059,Nicergoline (Vasodilator),S,11
+66,6060,Etryptamine Acetate (Stimulant),B,12
+66,6061,Butaperazine Maleate (Tranquilizer),M,12
+66,6062,Dilut Pentaerythritol Tetranitrate (Vasodilator),S,12
+66,6063,Fenethylline HCl (Stimulant),B,13
+66,6064,Carphenazine Maleate (Tranquilizer),M,13
+66,6065,Pindolol (Vasodilator),S,13
+66,6066,Flubanilate HCl (Stimulant),B,14
+66,6067,Trolnitrate Phosphate (Vasodilator),S,14
+66,6068,Flurothyl (Stimulant),B,15
+66,6069,Polytef (Surgical/Prosthetic Aid),G,15
+66,6070,Indriline HCl (Stimulant),B,16
+66,6071,Chlorprothixene (Tranquilizer),M,16
+66,6072,Mefexamide (Stimulant),B,17
+66,6073,Cinperene (Tranquilizer),M,17
+66,6074,Methamphetamine HCl (Stimulant),B,18
+66,6075,Artegraft (Surgical/Prosthetic Aid),G,18
+66,6076,Cintriamide (Tranquilizer),M,18
+66,6077,Methylphenidate HCl (Stimulant),B,19
+66,6078,Clomacran Phosphate (Tranquilizer),M,19
+66,6079,Pemoline (Stimulant),B,20
+66,6080,Polyurethane Foam (Surgical/Prosthetic Aid),G,20
+66,6081,Clopenthixol (Tranquilizer),M,20
+66,6082,Chromonar HCl (Vasodilator),S,20
+66,6083,Pentylenetetrazol (Stimulant),B,21
+66,6084,Surgibone (Surgical/Prosthetic Aid),G,21
+66,6085,Clonitrate (Vasodilator),S,21
+66,6086,Pyrovalerone HCl (Stimulant),B,22
+66,6087,Clopimozide (Tranquilizer),M,22
+66,6088,Dipyridamole (Vasodilator),S,22
+66,6089,Clothiapine (Tranquilizer),M,23
+66,6090,Erythrityl Tetranitrate (Vasodilator),S,23
+66,6091,Clothixamide Maleate (Tranquilizer),M,24
+66,6092,Isosorbide Dinitrate (Vasodilator),S,24
+66,6093,Ethamivan (Stimulant),B,25
+66,6094,Dimethicone 350 (Surgical/Prosthetic Aid),G,25
+66,6095,Cyclophenazine HCl (Tranquilizer),M,25
+66,6096,Lidoflazine (Vasodilator),S,25
+66,6097,Nikethamide (Stimulant),B,26
+66,6098,Cyprazepam (Tranquilizer),M,26
+66,6099,Mixidine (Vasodilator),S,26
+66,6100,Picrotoxin (Stimulant),B,27
+66,6101,Cyproximide (Tranquilizer),M,27
+66,6102,Nifedipine (Vasodilator),S,27
+66,6103,Droperidol (Tranquilizer),M,28
+66,6104,Nitroglycerin (Tab) (Vasodilator),S,28
+66,6105,Etazolate HCl (Tranquilizer),M,29
+66,6106,Oxprenolol HCl (Vasodilator),S,29
+66,6107,"Ammonia Spirit, Arommatic (Stimulant)",B,30
+66,6108,Polybutilate (Surgical/Prosthetic Aid),G,30
+66,6109,Fenimide (Tranquilizer),M,30
+66,6110,Pentrinitrol (Vasodilator),S,30
+66,6111,Carbon Dioxide (Stimulant),B,31
+66,6112,Fluphenazine Enanthate (Tranquilizer),M,31
+66,6113,Perhexiline Maleate (Vasodilator),S,31
+66,6114,Dimefline HCl (Stimulant),B,32
+66,6115,Fluphenazine HCl (Tranquilizer),M,32
+66,6116,Prenylamine (Vasodilator),S,32
+66,6117,Doxapram HCl (Stimulant),B,33
+66,6118,Fluspiperone (Tranquilizer),M,33
+66,6119,Propatyl Nitrate (Vasodilator),S,33
+66,6120,Fluspirilene (Tranquilizer),M,34
+66,6121,Terodiline HCl (Vasodilator),S,34
+66,6122,Polyglycolic Acid (Surgical/Prosthetic Aid),G,35
+66,6123,Halazepam (Tranquilizer),M,35
+66,6124,Tolamolol (Vasodilator),S,35
+66,6125,Polyglactin 910 (Surgical/Prosthetic Aid),G,36
+66,6126,Haloperidol (Tranquilizer),M,36
+66,6127,Verapamil (Vasodilator),S,36
+66,6128,Imidoline HCl (Tranquilizer),M,37
+66,6129,Lenperone (Tranquilizer),M,38
+66,6130,Lometraline HCl (Tranquilizer),M,39
+66,6131,Cyclandelate (Vasodilator),S,39
+66,6132,Bucrylate (Surgical/Prosthetic Aid),G,40
+66,6133,Mesoridazine (Tranquilizer),M,40
+66,6134,Inositol Niacinate (Vasodilator),S,40
+66,6135,Flucrylate (Surgical/Prosthetic Aid),G,41
+66,6136,Mesoridazine Besylate (Tranquilizer),M,41
+66,6137,Nicotinyl Alcohol (Vasodilator),S,41
+66,6138,Mecrylate (Surgical/Prosthetic Aid),G,42
+66,6139,Metiapine (Tranquilizer),M,42
+66,6140,Nylidrin HCl (Vasodilator),S,42
+66,6141,Ocrylate (Surgical/Prosthetic Aid),G,43
+66,6142,Milipertine (Tranquilizer),M,43
+66,6143,Tolazoline HCl (Vasodilator),S,43
+66,6144,Xanthinol Niacinate (Vasodilator),S,44
+66,6145,Naranol HCl (Tranquilizer),M,45
+66,6146,Oxiperomide (Tranquilizer),M,47
+66,6147,Penfluridol (Tranquilizer),M,48
+66,6148,Perphenazine (Tranquilizer),M,49
+66,6149,Surg Glove Lubr (Surgical/Prosthetic Aid),G,50
+66,6150,Pimozide (Tranquilizer),M,50
+66,6151,Pinoxepin HCl (Tranquilizer),M,51
+66,6152,Pipamperone (Tranquilizer),M,52
+66,6153,Piperacetazine (Tranquilizer),M,53
+66,6154,Pipotiazine Palmitate (Tranquilizer),M,54
+66,6155,Seperidol HCl (Tranquilizer),M,57
+66,6156,Spiperone (Tranquilizer),M,58
+66,6157,Thiopropazate HCl (Tranquilizer),M,59
+66,6158,Thioridazine (Tranquilizer),M,60
+66,6159,Thioridazine HCl (Tranquilizer),M,61
+66,6160,Thiothixene (Tranquilizer),M,62
+66,6161,Thiothixene HCl (Tranquilizer),M,63
+66,6162,Trifluoperazine HCl (Tranquilizer),M,64
+66,6163,Trifluperidol (Tranquilizer),M,65
+66,6164,Triflupromazine (Tranquilizer),M,66
+66,6165,Triflupromazine HCl (Tranquilizer),M,67
+66,6166,Trimopam Maleate (Tranquilizer),M,68
+66,6167,Uldazepam (Tranquilizer),M,69
+66,6168,Valnoctamide (Tranquilizer),M,70
+66,6169,Benactyzine Hydrochloride (Tranquilizer),M,71
+66,6170,Chlormezanone (Tranquilizer),M,72
+66,6171,Methylpromazine (Tranquilizer),M,73
+66,6172,Bromazepam (Tranquilizer),M,75
+66,6173,Chlordiazepoxide (Tranquilizer),M,76
+66,6174,Clazolam (Tranquilizer),M,77
+66,6175,Clobazam (Tranquilizer),M,78
+66,6176,Clorazepate Dipotassium (Tranquilizer),M,79
+66,6177,Clorazepate Monopotassium (Tranquilizer),M,80
+66,6178,Demoxepam (Tranquilizer),M,81
+66,6179,Hydroxyphenamate (Tranquilizer),M,82
+66,6180,Hydroxyzine HCl (Tranquilizer),M,83
+66,6181,Hydroxyzine Pamoate (Tranquilizer),M,84
+66,6182,Ketazolam (Tranquilizer),M,85
+66,6183,Lorazepam (Tranquilizer),M,86
+66,6184,Loxapine (Tranquilizer),M,87
+66,6185,Loxapine Succinate (Tranquilizer),M,88
+66,6186,Medazepam HCl (Tranquilizer),M,89
+66,6187,Nisobamate (Tranquilizer),M,90
+66,6188,Oxazepam (Tranquilizer),M,91
+66,6189,Pentabamate (Tranquilizer),M,92
+66,6190,Sulazepam (Tranquilizer),M,93
+66,6191,Taclamine HCl (Tranquilizer),M,94
+66,6192,Temazepam (Tranquilizer),M,95
+66,6193,Triflubazam (Tranquilizer),M,96
+66,6194,Tybamate (Tranquilizer),M,97
+66,6195,Spreading Agent (For Injections) N.E.C.,A,99
+66,6196,Stimulant N.E.C.,B,99
+66,6197,Stool Softener N.E.C.,C,99
+66,6198,Source of Sulfide N.E.C.,D,99
+66,6199,Iodine Supplement N.E.C.,E,99
+66,6200,Suppressant N.E.C.,F,99
+66,6201,Surgical/Prosthetic Aid N.E.C.,G,99
+66,6202,Sweetener N.E.C.,H,99
+66,6203,Synergist N.E.C.,I,99
+66,6204,Thyroid Hormone N.E.C.,J,99
+66,6205,Thyroid Inhibitor N.E.C.,K,99
+66,6206,Thyromimetic N.E.C.,L,99
+66,6207,Tranquilizer N.E.C.,M,99
+66,6208,Ultraviolet Screen/Sunscreen N.E.C.,P,99
+66,6209,Uricosuric N.E.C.,Q,99
+66,6210,Vasoconstrictor N.E.C.,R,99
+66,6211,Vasodilator N.E.C.,S,99
+66,6212,Xanthine Oxidase Inhibitor N.E.C.,T,99
+66,6214,"Miscellaneous Patent Medicines, Etc.",V,99
+66,6215,Exhibits - Other Drug Related Items N.E.C.,Y,99
+66,24723,Ginseng with Drug claims,V,99
+66,24724,Gensing with Drug claims,V,99
+66,151307,Arbutamine Hydrochloride (Stimulant),B,40
+66,151308,Dexfenfluramine Hydrochloride (Suppressant),F,08
+66,151309,"Haloperidol Decanoate (Tranquilizer, Anti-Psychotic)",M,98
+66,151310,Molindone (Tranquilizer (Anti-Psychotic) - Part II),N,01
+66,151311,Olanzapine (Tranquilizer (Anti-Psychotic) - Part II,N,02
+66,151312,Quetiapine Fumarate (Tranquilizer (Anti-Psychotic) - Part II),N,03
+66,151313,Risperidone (Tranquilizer (Anti-Psychotic) - Part II),N,04
+66,151314,Acetohydroxamic Acid (Uricosuric),Q,07
+66,151315,Cellulose Sodium Phosphate (Uricosuric),Q,08
+66,151316,Cysteamine Bitartrate (Uricosuric),Q,09
+66,151317,Pentosan Polysulfate Sodium (Uricosuric),Q,10
+66,151318,Brinzolamide (Vasoconstrictor),R,08
+66,151319,Alprostadil (Vasodilator),S,45
+66,151320,Cilostazol (Vasodilator),S,46
+66,151321,Flosequinan (Vasodilator),S,47
+66,151322,Isosorbide Mononitrate (Vasodilator),S,48
+66,151323,Pentoxifylline (Vasodilator),S,49
+66,151465,Serpacwa (For Injections) (Spreading Agent),A,02
+66,151467,Cevimeline HCL (Stimulant),B,42
+66,151468,Doxercalciferol (Thyroid Inhibitor),K,04
+66,152630,Unoprostone Isopropyl (Vasoconstrictor),R,09
+66,152632,Ziprasidone HCI (Tranquilizer (Anti-Psychotic) - Part II)),N,05
+66,153748,Dexmethylphenidate,B,43
+66,153766,Miglustat,F,09
+66,153767,Nesiritide,S,50
+66,153780,Tadalafil,S,51
+66,155056,Aripiprazole (Tranquilizer (Anti-Psychotic) - Part II),N,06
+66,155057,Abilify,N,06
+66,155065,Focalin,B,43
+66,155085,Zavesca,F,09
+66,155086,Natrecor,S,50
+66,155094,Oxcarbazepine (Tranquilizer (Anti-Psychotic) - Part II),N,07
+66,156897,Cialis,S,51
+66,156900,Synthroid,J,01
+66,156901,Levoxyl,J,01
+66,156902,Levothroid,J,01
+66,156903,Unithroid,J,01
+66,157096,Mepazine Acetate (Tranquilizer (Anti-Psychotic) - Part II),N,08
+66,158114,Nicotine Delivery System,B,44
+66,158115,Nicorette,B,44
+66,158116,Nicoderm,B,44
+66,158117,Commit,B,44
+66,158118,Nicogel,B,44
+66,158119,Nicotine,B,44
+66,165362,Buspar,M,09
+66,173029,Eltrombopag Olamine,O,01
+66,173030,Promacta,O,01
+66,173045,Docusate Calcium,C,01
+66,173046,Docusate Potassium (Stool Softener),C,02
+66,173047,Docusate Sodium (Stool Softener),C,03
+66,173049,Dioctyl Sodium Sulfosuccinate,C,03
+66,173174,"Drug Environmental Swabs/Samples, Other Drug Related Items",Y,07
+66,173611,Asenapine Maleate (Tranquilizer (Anti-Psychotic) - Part II),N,09
+66,173612,Saphris,N,09
+66,174277,Immunomodulator N.E.C.,W,99
+66,174646,Paliperidone (Tranquilizer (Anti-Psychotic) - Part II),N,10
+66,174647,Invega,N,10
+66,174648,Invega Sustenna,N,10
+66,174649,Invega Trinza,N,10
+66,174650,Tranquilizer (Anti-Psychotic) - Part II N.E.C.,N,99
+66,174986,Avobenzone (Ultraviolet Screen/Sunscreen),P,11
+66,174987,Ensulizole (Ultraviolet Screen/Sunscreen),P,12
+66,174988,Meradimate (Ultraviolet Screen/Sunscreen),P,13
+66,174989,Octinoxate (Ultraviolet Screen/Sunscreen),P,14
+66,174990,Octisalate (Ultraviolet Screen/Sunscreen),P,15
+66,174991,Octocrylene (Ultraviolet Screen/Sunscreen),P,16
+66,174992,Trolamine Salicylate (Ultraviolet Screen/Sunscreen),P,17
+66,174993,Zinc Oxide (Ultraviolet Screen/Sunscreen),P,18
+66,175534,Avatrombopag Maleate,O,02
+66,175535,Doptelet,O,02
+66,175536,Lusutrombopag,O,03
+66,175537,Mulpleta,O,03
+66,175538,"Hematopoietic Agents, N.E.C",O,99
+66,175748,Siponimod Fumaric Acid (Immunomodulator),W,03
+66,175750,Mayzent (Immunomodulator),W,03
+66,175787,Fingolimod Hydrochloride (Immunomodulator),W,04
+66,175807,Gilenya,W,04
+66,175831,Lurasidone Hydrochloride (Tranquilizer (Anti-Psychotic) - Part II),N,11
+66,175832,Latuda,N,11
+66,175839,Pitolisant Hydrochloride (Stimulant),B,45
+66,175840,Wakix,B,45
+66,175841,Solriamfetol (Stimulant),B,46
+66,175842,Sunosi,B,46
+66,175936,Tenapanor Hydrochloride (Stool Softener),C,04
+66,175937,Ibsrela,C,04
+66,176102,Ozanimod Hydrochloride (Immunomodulator),W,05
+66,176103,Zeposia,W,05
+66,176319,Armodafinil (Stimulant),B,47
+66,176320,Avanafil (Vasodilator),S,52
+66,176969,Febuxostat (Xanthine Oxidase Inhibitor),T,03
+66,176978,Uloric,T,03

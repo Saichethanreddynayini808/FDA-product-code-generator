@@ -1,0 +1,19 @@
+INDID,CLASSID,CLASSDESC
+56,A,Penicillin Natural
+56,B,Synthetic Penicillin
+56,C,Cephalosporin
+56,D,Aminoglycosides
+56,E,Tetracycline
+56,F,Peptide
+56,G,Antifungal
+56,H,Antitumor
+56,I,Macrolide
+56,J,Lincomycin
+56,K,Misc Antibiotics
+56,L,Non-Cert Vet Antibiotic N.E.C.
+56,M,BACTAM (B-Lactam Antibiotic)
+56,N,Streptogramins
+56,O,Fluoroquinolone
+56,P,Oxazolidinone
+56,X,Diag Invitro Antibiotic N.E.C.
+56,Y,Antibiotics N.E.C.

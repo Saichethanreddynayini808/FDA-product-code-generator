@@ -1,0 +1,37 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+13,443,"Ice Milk, Vanilla or Vanillin Flavored",C,01
+13,444,"Ice Cream, Regular, Vanilla or Vanillin Flavored",A,01
+13,445,"Custard, Regular, Vanilla or Vanillin Flavored",B,01
+13,446,"Sherbet, Fruit Flavored",D,01
+13,447,Ice Cream Bars,E,01
+13,448,"Ices, Fruit Flavored, in a Cup (Snow Cones, Etc.)",F,01
+13,449,Ice Cream Mix,G,01
+13,450,"Ice Milk, French, Vanilla or Vanillin Flavored",C,02
+13,451,"Ice Cream, French Vanilla or Vanillin Flavored",A,02
+13,452,"Custard, French, Vanilla or Vanillin Flavored",B,02
+13,453,"Sherbet, Non-Fruit Flavored",D,02
+13,454,Ice Cream and Related Products on a Stick(s) (Excluding Fruit Flavored Ices),E,02
+13,455,"Ices, Fruit Flavored, on a Stick, (Popsicles, Etc.)",F,02
+13,456,Custard Mix,G,02
+13,457,"Ice Milk, Regular, Not Vanilla or Vanillin Flavored",C,03
+13,458,"Ice Cream, Regular, Not Vanilla or Vanillin Flavored",A,03
+13,459,"Custard, Regular, Not Vanilla or Vanillin Flavored",B,03
+13,460,Ice Cream Sundae,E,03
+13,461,Ice Milk Mix,G,03
+13,462,"Ice Milk, French, Not Vanilla or Vanillin Flavored",C,04
+13,463,"Ice Cream, French, Not Vanilla or Vanillin Flavored",A,04
+13,464,"Custard, French, Not Vanilla or Vanillin Flavored",B,04
+13,465,Ice Cream Malt,E,04
+13,466,Sherbet Mix,G,04
+13,467,Ice Cream Sandwich,E,05
+13,468,Ice Cream Cake Roll,E,06
+13,469,"Ice Milk, N.E.C.",C,99
+13,470,"Ice Cream, N.E.C.",A,99
+13,471,"Custard, N.E.C.",B,99
+13,472,"Sherbet, N.E.C.",D,99
+13,473,"Ice Cream Bars and other Novelty Items, N.E.C.",E,99
+13,474,"Ices, Fruit Flavored, N.E.C.",F,99
+13,475,"Ice Cream and Related Product Mixes (Junket, Etc.), N.E.C.",G,99
+13,476,"Ice Cream And Related Products, N.E.C.",Y,99
+13,23862,Tofu Frozen Dessert,Y,01
+13,160660,Frozen Yogurt,Y,02

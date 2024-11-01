@@ -1,0 +1,107 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+70,6805,Barley Ground Grains Animal,A,01
+70,6806,Alfalfa Hay,B,01
+70,6807,Field Corn Silage,C,01
+70,6808,Cattle Mixed Feed Ration,M,01
+70,6809,Corn Ground Grains Animal,A,02
+70,6810,Clover Hay,B,02
+70,6811,Grass Silage,C,02
+70,6812,Horse Mixed Feed Ration,M,02
+70,6813,Oats Ground Grains Animal,A,03
+70,6814,Grass Hay,B,03
+70,6815,Sorghum Silage,C,03
+70,6816,Poultry Mixed Feed Ration,M,03
+70,6817,Rice Ground Grains Animal,A,04
+70,6818,Grain Straw Hay,B,04
+70,6819,Silage N.E.C.,C,04
+70,6820,Sheep Mixed Feed Ration,M,04
+70,6821,Rye Ground Grains Animal,A,05
+70,6822,Lespedaza Hay,B,05
+70,6823,Swine Mixed Feed Ration,M,05
+70,6824,Sorghums Ground Grains Animal,A,06
+70,6825,Mixed Hay,B,06
+70,6826,Wheat Ground Grains Animal,A,07
+70,6827,Oat Hay,B,07
+70,6828,"Mixed Grains, Feeds Ground Grains Animal",A,08
+70,6829,Peanut Forage Hay,B,08
+70,6830,"Soybeans, Soybean Meal Ground Grains Animal",A,09
+70,6831,Soybean Forage Hay,B,09
+70,6832,Cottonseed Ground Grains Animal,A,10
+70,6833,Timothy Hay,B,10
+70,6834,Mixed Feed Ration Used For More Than One Species,M,20
+70,6835,Ground Grains Animal N.E.C.,A,99
+70,6836,Hay N.E.C.,B,99
+70,6837,"Mixed Feed Ration For Animals, N.E.C.",M,99
+70,6838,"Animal Feeds, N.E.C.",Y,99
+70,24797,Domestic Aquaculture,M,06
+70,173718,"Barley, Whole Grains Animal",D,01
+70,173719,"Corn, Whole Grains Animal",D,02
+70,173720,"Oats, Whole Grains Animal",D,03
+70,173721,"Rice, Whole Grains Animal",D,04
+70,173722,"Rye, Whole Grains Animal",D,05
+70,173723,"Sorghums, Whole Grains Animal",D,06
+70,173724,"Wheat, Whole Grains Animal",D,07
+70,173725,"Mixed Grains, Whole Grains Animal",D,08
+70,173726,"Soybeans, Whole Grains Animal",D,09
+70,173727,"Cottonseed, Whole Grains Animal",D,10
+70,173728,"Whole Grains Animal, N.E.C.",D,99
+70,174211,"LIGNIN SULFONATES, BINDING AGENTS",E,01
+70,175064,"Flax seed (Animal Food, Edible Seeds-Oilseed)",F,01
+70,175065,"Pumpkin seed (Animal Food, Edible Seeds-Oilseed)",F,02
+70,175066,"Peas (Animal Food, Edible Seeds-Legumes)",G,01
+70,175067,"Lentils (Animal Food, Edible Seeds-Legumes)",G,02
+70,175068,"Chickpeas (Animal Food, Edible Seeds-Legumes)",G,03
+70,175069,"Legumes, NEC (Animal Food, Edible Seeds-Legumes)",G,99
+70,175070,"Whole Potato (Animal Food, Tuber Vegetables-Fresh)",H,01
+70,175071,"Sweet Potato (Animal Food, Tuber Vegetables-Fresh)",H,02
+70,175072,"Potato Products Dried (Animal Food, Tuber Vegetables-Dried)",I,01
+70,175073,"Sweet Potato Products Dried (Animal Food, Tuber Vegetables-Dried)",I,02
+70,175612,Triticale Hay,B,11
+70,175613,Sudan Grass Hay,B,12
+70,175614,Bermuda Grass Hay,B,13
+70,175615,Anticaking agents,E,02
+70,175616,"Flavorings, including sweetners",E,03
+70,175617,Buffering agents,E,04
+70,175618,Minerals,E,05
+70,175620,Surfactant,E,07
+70,175621,Enzymes,E,08
+70,175622,Vitamins,E,09
+70,175623,Acidulant,E,10
+70,175624,Amino Acid,E,11
+70,175625,Preservative,E,12
+70,175626,Antioxidant,E,13
+70,175627,Microorganisms,E,14
+70,175628,Moisture preservative,E,15
+70,175629,Pigment,E,16
+70,175632,Prebiotic,E,19
+70,175633,Fatty acids,E,20
+70,175635,Tracking additive (tracks distribution in feed),E,22
+70,175636,"Additives, N.E.C.",E,99
+70,175637,"Niger seed (Animal Food, Edible Seeds-Oilseed)",F,03
+70,175638,"Sunflower seed (Animal Food, Edible Seeds-Oilseed)",F,04
+70,175639,"Safflower (Animal Food, Edible Seeds-Oilseed)",F,05
+70,175640,"Canola seed (Animal Food, Edible Seeds-Oilseed)",F,06
+70,175641,"Cottonseed (Animal Food, Edible Seeds-Oilseed)",F,07
+70,175642,"Edible Seeds-Oilseed, N.E.C.",F,99
+70,175643,"Peanuts (Animal Food, Edible Seeds-Legumes)",G,04
+70,175644,"Hemp seed (Animal Food, Edible Seeds-Legumes)",G,05
+70,175645,"Carrots (Animal Food, Tuber Vegetables-Fresh)",H,03
+70,175646,"Beets (Animal Food, Tuber Vegetables-Fresh)",H,04
+70,175647,"Cabbage (Animal Food, Tuber Vegetables-Fresh)",H,05
+70,175648,"Vegetables - Fresh (incl. tubers & root vegetables), N.E.C.",H,99
+70,175649,"Carrots Dried (Animal Food, Tuber Vegetables-Dried)",I,03
+70,175650,"Beets Dried (Animal Food, Tuber Vegetables-Dried)",I,04
+70,175651,"Vegetables - Dried (incl. tubers & root vegetables), N.E.C.",I,99
+70,175652,Goat Mixed Feed Ration,M,07
+70,175653,Brown Seaweed,N,01
+70,175654,Red seaweed,N,02
+70,175655,Green seaweed,N,03
+70,175656,Algae (Fresh Chlorella),N,04
+70,175657,"Algae and Seaweed, N.E.C",N,99
+70,175658,"Millet (white and red), Whole Grains Animal",D,11
+70,175659,"Quinoa, Whole Grains Animal",D,12
+70,175660,"Malted grains, Whole Grains Animal",D,13
+70,175661,"Buckwheat, Whole Grains Animal",D,14
+70,175662,"Combination of whole grains, Whole Grains Animal",D,15
+70,175730,"Milo, Whole Grains Animal",D,06
+70,175735,Binding Agents,E,23

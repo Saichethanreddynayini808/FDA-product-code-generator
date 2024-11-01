@@ -1,0 +1,389 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+80,19529,"Set, Blood Transfusion",B,RZ
+80,19606,"Tube, Aspirating, Flexible, Connecting",B,YY
+80,19607,"Trap, Sterile Specimen",B,YZ
+80,19632,"Microfilter, Blood Transfusion",C,AK
+80,19638,"Monitor, Spinal Fluid Pressure, Electrically Powered",C,AR
+80,19644,"Bottle, Collection And Trap, Breathing System (Uncalibrated)",C,BC
+80,19645,"Bottle, Collection, Breathing System (Calibrated)",C,BD
+80,20212,"Stocking, Medical Support",D,WL
+80,20766,"Sterilizer, Steam",F,LE
+80,20767,"Sterilizer, Ethylene-Oxide Gas",F,LF
+80,20768,"Cleaner, Ultrasonic, Medical Instrument",F,LG
+80,20769,Washer Of Body Waste Receptacles,F,LH
+80,20770,"Cabinet, Ethylene-Oxide Gas Aerator",F,LI
+80,20772,"Thermometer, Clinical Mercury",F,LK
+80,20773,"Thermometer, Electronic, Clinical",F,LL
+80,20774,"Monitor, Electric for Gravity Flow Infusion Systems",F,LN
+80,20776,"Depressor, Tongue",F,MA
+80,20777,"Glove, Patient Examination",F,MC
+80,20778,"Gown, Examination",F,ME
+80,20779,"Syringe, Piston",F,MF
+80,20780,"Stopcock, I.V. Set",F,MG
+80,20781,"Container, Specimen",F,MH
+80,20782,"Needle, Hypodermic, Single Lumen",F,MI
+80,20783,"Manometer, Spinal-Fluid",F,MJ
+80,20785,"Chair, Blood Donor",F,ML
+80,20786,"Protector, Skin Pressure",F,MP
+80,20787,"Restraint, Protective",F,MQ
+80,20788,"Device, Transfer, Patient, Manual",F,MR
+80,20789,"Bed, Pediatric Open Hospital",F,MS
+80,20790,"Warmer, Infant Radiant",F,MT
+80,20791,"Cover, Mattress (Medical Purposes)",F,MW
+80,20792,"Incubator, Neonatal",F,MZ
+80,20794,"Lift, Patient, AC-Powered",F,NG
+80,20795,"Bed, Manual",F,NJ
+80,20796,"Bed, Hydraulic, Adjustable Hospital",F,NK
+80,20797,"Bed, Ac-Powered Adjustable Hospital",F,NL
+80,20798,"Mattress, Air Flotation, Alternating Pressure",F,NM
+80,20799,"Nipple, Lambs Feeding",F,NN
+80,20800,Urinal,F,NP
+80,20801,Ring Cutter,F,NS
+80,20803,"Basin, Emesis",F,NY
+80,20804,"Board, Cardiopulmonary",F,OA
+80,20805,Bedpan,F,OB
+80,20807,"Device, Occlusion, Umbilical",F,OD
+80,20809,"Mattress, Water, Temperature Regulated",F,OH
+80,20810,"Pad, Neonatal Eye",F,OK
+80,20813,"Catheter, Umbilical Artery",F,OS
+80,20814,"Stand, Infusion",F,OX
+80,20815,"Catheter, Intravascular, Short Term",F,OZ
+80,20816,"Set, Administration, Intravascular",F,PA
+80,20817,"Filter, Infusion Line",F,PB
+80,20819,"Bottle, Hot/Cold Water",F,PF
+80,20820,"Tubing, Fluid Delivery",F,PK
+80,20821,"Incubator, Neonatal Transport",F,PL
+80,20822,"Stretcher, Wheeled",F,PO
+80,20823,"Stretcher, Hand-Carried",F,PP
+80,20824,"Board, Bed",F,PS
+80,20827,"Scale, Surgical Sponge",F,QA
+80,20828,"Lavage, Jet",F,QH
+80,20829,"Support, Scrotal, Therapeutic",F,QJ
+80,20830,"Binder, Perineal",F,QK
+80,20831,"Stocking, Medical Support",F,QL
+80,20832,"Bandage, Elastic",F,QM
+80,20835,"Thermometer, Clinical Color Change",F,QZ
+80,20836,"Purifier, Air, Ultraviolet, Medical",F,RA
+80,20837,"Indicator, Biological Sterilization Process",F,RC
+80,20838,"Cleaner, Air, Medical Recirculating",F,RF
+80,20839,"Wrap, Sterilization",F,RG
+80,20840,"Scale, Stand-On, Patient",F,RI
+80,20841,"Chair, Geriatric",F,RJ
+80,20842,"Chair, Examination And Treatment",F,RK
+80,20843,"Fiber, Medical, Absorbent",F,RL
+80,20844,"Pump, Infusion",F,RN
+80,20846,"Holder, Infant Position",F,RP
+80,20848,"Chamber, Reverse Isolation, Patient Care",F,RR
+80,20850,"Scale, Patient",F,RW
+80,20851,"Device, Patient Transfer, Powered",F,RZ
+80,20852,"Lift, Patient, Non-AC-Powered",F,SA
+80,20853,"Binder, Abdominal",F,SD
+80,20969,"Tubing, Noninvasive",G,AZ
+80,21008,"Apparatus, Suction, Operating-Room, Wall Vacuum Powered",G,CX
+80,21456,"Binder, Breast",H,EF
+80,21490,"Shield, Nipple",H,FS
+80,21968,"Mattress, Flotation Therapy, Non-Powered",I,KY
+80,22467,"Indicator, Physical/Chemical Sterilization Process",J,OJ
+80,22468,"Scissors, Medical, Disposable",J,OK
+80,22469,"Catheter And Tip, Suction",J,OL
+80,22715,"Sterilization wrap containers, trays, cassettes & other accessories",K,CT
+80,22731,"Regulator, Vacuum",K,DP
+80,22732,"Bottle, Collection, Vacuum",K,DQ
+80,22810,"Cover, Cast",K,IA
+80,22901,"Bedding, Disposable, Medical",K,ME
+80,22903,"Purifier, Water, Ultraviolet, Medical",K,MG
+80,22904,"Sterilizer, Dry Heat",K,MH
+80,22905,"Monitor, Bed Patient",K,MI
+80,22906,"Lubricant, Patient",K,MJ
+80,22907,"Device, Intravascular Catheter Securement",K,MK
+80,22908,"Chair And Table, Medical",K,MN
+80,22909,"Binder, Elastic",K,MO
+80,22959,"Strip, Temperature, Forhead, Liquid Crystal",K,PD
+80,22960,"Container, I.V.",K,PE
+80,23093,"Applicator, Absorbent Tipped, Non-Sterile",K,XF
+80,23094,"Applicator, Absorbent Tipped, Sterile",K,XG
+80,23122,"Kit, Suction, Snake-Bite",K,YP
+80,23123,"Kit, Chemical Snake-Bite",K,YQ
+80,23124,"Bag, Ice",K,YR
+80,23125,"Insoles, Medical",K,YS
+80,23126,"Light, Examination, Medical, Battery Powered",K,YT
+80,23127,"Container, Liquid Medication, Graduated",K,YW
+80,23128,"Dispenser, Liquid Medication",K,YX
+80,23129,"Syringe, Irrigating",K,YZ
+80,23130,"Device, Vein Location, Liquid Crystal",K,ZA
+80,23133,"Infusor, Pressure, For I.V. Bags",K,ZD
+80,23134,"Injector, Fluid, Non-Electrically Powered",K,ZE
+80,23135,"Device, Medical Examination, AC Powered",K,ZF
+80,23136,"Introducer, Syringe Needle",K,ZH
+80,23185,"Unit, Neonatal Phototherapy",L,BI
+80,23186,"Device, Vein Stabilization",L,BJ
+80,23228,"System, Delivery, Allergen and Vaccine",L,DH
+80,23229,"Blanket, Fire",L,DI
+80,23237,"Controller, Infusion, Intravascular, Electronic",L,DR
+80,23238,"Device, Pasteurization, Hot Water",L,DS
+80,23265,"Set, Oral Aministration",L,EY
+80,23303,"Chamber, Patient Isolation",L,GM
+80,23304,"Chamber, Patient Transport Isolation",L,GN
+80,23312,"Table, Examination, Medical, Powered",L,GX
+80,23314,"Warmer, Thermal, Infusion Fluid",L,GZ
+80,23316,"Timer, Apgar",L,HB
+80,23317,"Warmer, Irrigation Solution",L,HC
+80,23319,"Controller, Closed-Loop Blood Glucose",L,HE
+80,23320,"Warmer, Microwave, Infusion Fluid",L,HF
+80,23323,"Set, I.V. Fluid Transer",L,HI
+80,23373,"Detectors And Removers, Lice, (Including Combs)",L,JL
+80,23379,"Catheter, Percutaneous, Intravascular, Long Term",L,JS
+80,23380,"Port & Catheter, Implanted, Subcutaneous, Intravascular",L,JT
+80,23386,"Pad, alcohol, device disinfectant",L,KB
+80,23391,"Port & Catheter, Implanted, Subcutaneous, Intraventricular",L,KG
+80,23395,"Pump, Infusion, Implanted, Programmable",L,KK
+80,23411,"Container, Supplementary Nitroglycerin",L,LC
+80,23412,"Port & Catheter, Implanted, Subcutaneous, Intraperitoneal",L,LD
+80,23417,"Bed, Therapeutic, AC-Powered, Adjustable Home-Use",L,LI
+80,23449,"Device, Peritoneal Access, Subcutaneous, Implanted",L,MQ
+80,23455,"Monitor, Skin Resistance/Skin Temperature, for Insulin Reactions",L,MY
+80,23478,"Computers And Software, Medical",L,NX
+80,23479,"Catheter, Percutaneous, Long Term, Intraspinal",L,NY
+80,23525,"Container, Frozen Donor Tissue Storage",L,PZ
+80,23559,"Disinfectant, Medical Devices",L,RJ
+80,23595,"Controller, Closed-Loop, Blood-Pressure",L,SX
+80,23626,Bone marrow collection/transfusion kit,L,WE
+80,23705,"Glove, Patient Examination, Latex",L,YY
+80,23706,"Glove, Patient Examination, Vinyl",L,YZ
+80,23707,"Glove, Patient Examination, Poly",L,ZA
+80,23708,Finger Cot,L,ZB
+80,23709,"Glove, Patient Examination, Specialty",L,ZC
+80,23712,"Pump, Infusion, Analytical Sampling",L,ZF
+80,23713,"Pump, Infusion, Insulin",L,ZG
+80,23714,"Pump, Infusion, Enteral",L,ZH
+80,23758,"Catheter, Percutaneous, Intraspinal, Short Term",M,AJ
+80,24913,"Restraint, Patient, Conductive",B,RT
+80,24914,"Indicator, Sterilization",L,RT
+80,24915,"Binder, Medical, Therapeutic",M,DR
+80,24920,"Cleaners, Medical Devices",M,DZ
+80,24921,"Pump, Infusion, Pca",M,EA
+80,24922,"Pump, Infusion, Elastomeric",M,EB
+80,24923,"Disinfector, Medical Devices",M,EC
+80,24924,"Sterilant, Medical Devices",M,ED
+80,24925,"Syringe, Antistick",M,EG
+80,24926,"Port, Intraosseous, Implanted",M,HC
+80,24927,"Pump, Infusion, Gallstone Dissolution",M,HD
+80,25288,"Check Valve, Retrograde Flow (In-line)",M,JF
+80,25289,"Device, Germicidal, Ultraviolet",M,KB
+80,25290,"Sterilizer, Chemical",M,LR
+80,25291,"Container, Sharps",M,MK
+80,25292,"Cover, Barrier, Protective",M,MP
+80,25293,"Lubricant, Vaginal, Patient",M,MS
+80,152023,"System/Device, Pharmacy Compounding",N,EP
+80,152243,"Pump, Drug Administration, Closed Loop",M,QT
+80,152244,"Needle, Acupuncture, Single Use",M,QX
+80,152245,"Indicator, Biological, Liquid Chemical Sterilization Process",M,RB
+80,152246,"Scale, Sponge, Surgical, Electrically-Powered",M,RL
+80,152247,"Accessories, Pump, Infusion",M,RZ
+80,152248,"Respirator, surgical",M,SH
+80,152249,"Indicator, Chemical, Enzymatic, Sterilization Process",M,TC
+80,152250,Sharps needle destruction device,M,TV
+80,152254,Topical Approximation System,M,ZR
+80,152783,"Device, Flush, Vascular Access",N,GT
+80,153196,"Disinfectant, Subsystem, Water Purification",N,IH
+80,153197,"Disinfectant, Dialysate Delivery System",N,II
+80,155153,"Locator, Acupuncture Point",B,WJ
+80,155154,"Needle, Hypodermic, Single Lumen, Reprocessed",N,KK
+80,155155,"Syringe, Piston, Reprocessed",N,KN
+80,155156,"Container, Specimen, Non-Sterile",N,NI
+80,155157,Implantable Radio Frequency Transponder System,N,RV
+80,155158,"Stimulator, Intramuscular, Automatic",N,RW
+80,155159,Patient Personal Hygiene Kit,N,SB
+80,155160,"Injector, Pen",N,SC
+80,155162,"Nursing Pad, Hydrogel",N,TC
+80,155274,"Nursing Pad, Polyurethane Pad with Starch Copolymer, Glycerin, and Surfactant (F-68)",N,TX
+80,156874,"Nursing pad, cohesive gel",N,XH
+80,157114,"Reminder, medication",N,XQ
+80,157494,"Sealant, microbial",N,ZP
+80,157498,"Respirator, n95, home use",N,ZJ
+80,157502,"Medication management system, remote",N,ZH
+80,157503,"Bassinet, hospital",N,ZG
+80,157506,"Stretcher, patient restraint",N,ZD
+80,157614,Heparin Vascular access flush,N,ZW
+80,157615,"Water, vascular access flush",N,ZX
+80,158181,"Port, protector/cushion",O,BK
+80,163207,"Indicator, physical/chemical, storage temperature",O,CI
+80,163679,Administration set docking station,O,DI
+80,164000,Tunneled catheter remover,O,DY
+80,164039,Non-surgical isolation gown,O,EA
+80,164721,Pill crusher/cutter,O,HY
+80,164759,"Rubber examination gloves, powder-free",O,IG
+80,165479,Radiant infant warmer cabinet,O,NM
+80,166202,Powder-free polychloroprene patient examination glove,O,PC
+80,166221,Medical gloves with chemotherapy labeling claims - test for use with chemotherapy drugs,O,PJ
+80,166223,Radiation attenuating medical glove,O,PH
+80,166261,"Pump, infusion, insulin bolus",O,PP
+80,166942,intravenous extension tubing set,O,JA
+80,166943,implanted subcutaneous securement catheter,O,KC
+80,166944,port introducer kit,O,KE
+80,166945,"percutaneous, implanted, long-term intravascular catheter accessory for catheter position",O,MF
+80,166946,closed antineoplastic and hazardous drug reconstitution and transfer system,O,NB
+80,166947,foot examination tool for inflammatory changes,O,IZ
+80,166948,body fluid disposal kit,O,KF
+80,166949,body fluid clean up kit,O,KG
+80,166950,body fluid barrier kit,O,KH
+80,166951,emergency response safety kit,O,KI
+80,166952,n95 respirator with antimicrobial/antiviral agent,O,NT
+80,167061,N95 respirator with antimicrobial/antiviral agent for use by the general public in public health med,O,RW
+80,167143,Bariatric bed,O,SI
+80,167502,Medical device data system,O,UG
+80,167542,High level disinfection reprocessing instrument for ultrasonic transducers,O,UJ
+80,167563,Surgical mask with antimicrobial/antiviral agent,O,UK
+80,167742,"Infant positioner, rx, use in highly monitored setting",O,UW
+80,169723,Peripheral catheter insertion kit,O,WL
+80,170022,Pediatric/child facemask,O,XZ
+80,170682,Patient bed with canopy/restraints,O,YS
+80,171082,"Thermometer, exhaled breath",O,ZK
+80,171462,Air filter portable apparatus,O,RC
+80,171482,Chest drainage kit,P,AD
+80,171568,LIQUID CHEMICAL PROCESSING SYSTEM,O,VY
+80,171579,ANTIMICROBIAL KEYBOARD,O,SZ
+80,172482,"blanket, neonatal phototherapy",P,DH
+80,172662,Sterilizer automated loading system,P,EC
+80,172683,Heparin flush in 0.45% sodium chloride,P,EF
+80,172923,Biological sterilization process indicator with recombinant dna plasmid,O,WP
+80,172965,Accessories to examination light,P,EQ
+80,172969,Central venous catheter dressing change kit,P,EZ
+80,173041,Anti-stick glass syringe,P,GO
+80,173056,"Intravascular administration set, automated air removal system",O,KL
+80,173084,Infusion safety management software,P,HC
+80,173334,Mercy Tape 2D and 3D Models,P,IR
+80,173348,Two or more sterilant sterilizer,P,JJ
+80,173357,Fall prevention alarm/sensor attached only,P,JP
+80,173358,Fall prevention alarm/sensor combination attached or unattached,P,JO
+80,173603,Hizentra Infusion System,P,KP
+80,174150,antimicrobial drapes,P,LY
+80,174459,Non-Coring (Huber) Needle,P,ND
+80,174471,Parenteral Administration Kit,P,OR
+80,174472,Blood transfusion kit,P,OQ
+80,174473,Anesthesia breathing circuit kit (adult & pediatric),O,FP
+80,174480,Lockbox (export only),P,OT
+80,174549,Iodinated contrast media transfer tubing set,P,QH
+80,174588,Epinephrine syringe,P,QX
+80,174600,Pediatric position holder,P,RN
+80,174637,"High level disinfection reprocessing instrument for ultrasonic transducers, liquid",P,SW
+80,174655,Subcutaneous implanted apheresis port,P,TD
+80,174667,Adminstration Set Securement Device,P,UK
+80,174669,Lice removal kit containing a solution,P,UN
+80,174671,Non-Coring (Huber) Needle,P,TI
+80,174674,Endoscope maintenance system,P,UP
+80,174676,Vacuum syringe,P,UR
+80,174711,Non-Stainless Steel Needle,P,VZ
+80,174713,General wellness product,P,WC
+80,174743,Administrations sets with neuraxial connectors,P,WH
+80,174763,Baby care kit,P,WN
+80,174764,Fever monitoring kit,P,WW
+80,174765,Oral administration set,P,XA
+80,174766,Vascular access port kit,P,XK
+80,174767,Umbilical catheter insertion tray,P,XJ
+80,174768,Vomitus clean-up kit,P,XM
+80,174769,Venipuncture kit,P,XL
+80,174770,Thoracentesis tray,P,XI
+80,174771,Thermometer kit,P,XH
+80,174772,Spill kit,P,XG
+80,174773,Sitz bath kit,P,XF
+80,174775,Prep kit,P,XD
+80,174776,Personal protection kit,P,XC
+80,174777,Percutaneous introducer kit,P,XB
+80,174778,Mid-stream collection kit,P,WZ
+80,174779,Lumbar puncture tray (adult & pediatric),P,WY
+80,174780,Insect sting emergency kit,P,WX
+80,174781,Delivery room apparel kit,P,WV
+80,174782,Clean-up kit,P,WU
+80,174783,Chemotherapy spill clean-up kit,P,WT
+80,174784,Chemotherapy administration kit,P,WS
+80,174785,Catheter repair kit,P,WR
+80,174786,Buret administration intravenous kit,P,WQ
+80,174787,Blood borne pathogen response kit,P,WP
+80,174788,Blood administration kit,P,WO
+80,174789,Admission kit (patient utensil),P,WM
+80,174856,Surgical smoke precipitator,P,QM
+80,174860,Neuraxial Administration Set - Intrathecal delivery,P,YR
+80,174862,RFID Chip for Dental Appliance,P,YQ
+80,174910,Peripheral intravenous (piv) infiltration monitor,P,MS
+80,174965,"Washer, cleaner, automated, endoscope",N,VE
+80,174966,"Accessories, germicide, cleaning, for endoscopes",N,ZA
+80,174967,"Accessories, cleaning, for endoscope",F,EB
+80,174994,"Legging, compression, non-inflatable",L,LK
+80,174998,Piston syringe lever,Q,BL
+80,175004,"Cap, device disinfectant",Q,BP
+80,175145,"Filter, Bacterial, Breathing-Circuit",C,AH
+80,175147,"Actuator, Syringe, Injector Type",D,QF
+80,175149,"Pump, Withdrawal/Infusion",D,QI
+80,175159,"System, Dialysate Delivery, Recirculating, Single Pass",F,IJ
+80,175165,"Unit, Isolation, Surgical",F,RT
+80,175166,"Suit, Surgical",F,XO
+80,175167,"Drape, Pure Latex Sheet, With Self-Retaining Finger Cot",E,YX
+80,175168,"Drape, Urological, Disposable",E,YY
+80,175170,"Cover, Shoe, Operating-Room",F,XP
+80,175171,"Mask, Surgical",F,XX
+80,175172,"Hood, Surgical",F,XY
+80,175173,"Helmet, Surgical",F,XZ
+80,175174,"Gown, Surgical",F,YA
+80,175175,"Gown, Patient",F,YB
+80,175176,"Gown, Isolation, Surgical",F,YC
+80,175177,"Apparatus, Exhaust, Surgical",F,YD
+80,175179,"Splint, Extremity, Noninflatable, External",F,YH
+80,175181,"Drape, Patient, Ophthalmic",H,MT
+80,175183,"Drape, Microscope, Ophthalmic",H,MW
+80,175185,"Adaptor, Holder, Syringe",I,QG
+80,175187,Surgeon's Gloves,K,GO
+80,175189,"Cream, Gloving, Surgeon's",K,GQ
+80,175191,"Drape, Adhesive, Aerosol",K,GT
+80,175193,"Drape, Surgical",K,KX
+80,175195,"Material, Polytetrafluoroethylene Vitreous Carbon for Maxillofacial Reconstruction",K,KY
+80,175198,"Accessory, Surgical Apparel",L,YU
+80,175200,Decontamination kit,M,AC
+80,175201,"Calculator, Drug Dose",N,DC
+80,175202,"Dispenser, solid medication",N,XB
+80,175203,Phlebotomy blood collection kit,O,FM
+80,175204,insulin vial protector/holder,O,JL
+80,175206,"Kit, first aid, talking",O,VR
+80,175267,Midazolam syringe,Q,DM
+80,175274,Fentanyl and other opioid protection glove,Q,DO
+80,175292,Piston syringe with neuraxial connector - epidural and peripheral delivery,Q,EH
+80,175494,Air-handling apparatus accessory,Q,GI
+80,175763,"System, transdermal Ddlivery, CDER or CBER led",Q,IX
+80,175764,"Nasal spray, systemic delivery, CDER or CBER led",Q,IY
+80,175766,"Material, implantable for controlled release, CDER or CBER led",Q,IZ
+80,175793,"Catheter access cover, tamper-resistant",P,ZW
+80,175826,"infusion pump, drug specific, pharmacy-filled",Q,JY
+80,175850,A chemical vapor sterilization multivariable chemical indicator,Q,KM
+80,175928,Face mask (except N95 respirator) for general public/healthcare personnel per IIE guidance,Q,KR
+80,175934,Non-NIOSH-approved Disposable Filtering Facepiece Respirators (FFRs),Q,KU
+80,175942,Decontamination systems for N95 respirators,Q,KY
+80,175948,Protective barrier enclosure,Q,LD
+80,175949,Protective barrier enclosure with negative pressure,Q,LE
+80,175950,On-body injector,Q,LF
+80,175975,Ophthalmic syringe,Q,LY
+80,176003,"Mask, Surgical, EUA Authorized",Q,MF
+80,176014,Prep kit ? vaccine injection,Q,MT
+80,176022,"Label or tag, non-sterile",Q,MX
+80,176028,Surgical apparel with material claims,Q,BW
+80,176046,Low dead space piston syringe,Q,NQ
+80,176048,"Low dead space needle, single lumen, hypodermic",Q,NS
+80,176064,Injection data capture device,Q,OG
+80,176123,"Injector and syringe, angiographic",D,XT
+80,176124,"Injector and syringe, angiographic, reprocessed",N,KT
+80,176125,"Injector, contrast medium, automatic, reprocessed",N,KP
+80,176126,"Injector, contrast medium, automatic",I,ZQ
+80,176129,"Gown, non-sterile, non-isolation, intended to provide moderate or high barrier protection",Q,PC
+80,176131,Intravenous catheter force-activated separation device,Q,OI
+80,176150,Barrier Face Covering Per Enforcement Policy For Face Masks And Respirators During The Covid-19 Publ,Q,OZ
+80,176347,Medical gowns with chemotherapy labeling claims - tested for use with chemotherapy drugs,Q,SO
+80,176655,Rigid sterilization container with software,Q,JT
+80,176773,Mattress and Bed Deck Cover (Medical Purposes),Q,TV
+80,176774,Saline Vascular Access Flush with integrated Alcohol Disinfectant Device,Q,TI
+80,176948,Infant supine sleep system,Q,TG
+80,177005,Foam or gel chemical sterilant/high level disinfectant,Q,WS
+80,177012,Active noise attenuation system for infant incubators,Q,WX
+80,177035,Whole room microbial reduction device,Q,XJ
+80,177052,Ophthalmic Needle,Q,YM
+80,177095,EUA faceshields,Q,PK
+80,177098,Body temperature sensing software,Q,ZA
+80,177109,Gowns and other apparel,Q,ZT

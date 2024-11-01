@@ -1,0 +1,26 @@
+INDID,CLASSID,CLASSDESC
+61,A,A-Amebic
+61,B,A-Androgen
+61,C,A-Anemic
+61,D,A-Anginal
+61,E,A-Asthmatic
+61,F,A-Bacterial Pt. I (Not Antibiotic)
+61,G,A-Bacterial Pt. II (Not Antibiotic)
+61,H,A-Bacterial Pt. III (Not Antibiotic)
+61,I,A-Bacterial Enzyme
+61,J,A-Cholesteremic
+61,K,A-Cholinergic
+61,L,A-Coagulant
+61,M,A-Convulsant
+61,N,A-Depressant
+61,P,A-Diabetic
+61,Q,A-Diuretic
+61,R,Antidote
+61,S,A-Eczematic
+61,T,A-Emetic/Nauseant
+61,U,A-Estrogen
+61,V,A-Flatulent
+61,W,A-Fungal
+61,X,A-Histaminic
+61,Y,TNF Inhibitors
+61,Z,A-Platelet

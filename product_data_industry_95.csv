@@ -1,0 +1,115 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+95,155972,"Automotive Accessory, Automobile or Transport Vehicle, Laser",R,DV
+95,155973,"General Purpose Laser Products, Non-Medical",R,DW
+95,155974,Mercury Vapor Lamp,R,DX
+95,155975,"Metal Halide Lamp, Mercury Vapor Lamps",R,DY
+95,155976,"Low-Power Laser Light Show Projector, Display Products",R,DZ
+95,155977,High-Power Laser Light Show Projector (Output>5mW),R,EA
+95,155978,"High-Power Laser Light Show, Display Products",R,EB
+95,155979,"Laser Video Projector, Display Products",R,EC
+95,155980,Laser Advertising Display System,R,ED
+95,155981,"Laser Visual Display - Display Retinal Image, Non-Medical Display Product",R,EE
+95,155985,Laser Science Education Products,R,EI
+95,155987,"Research Laser, Scientific, Laboratory Laser Products",R,EK
+95,155988,"Guide-Star Laser System, Research Scientific, Laboratory Laser Products",R,EL
+95,155989,"Spectroscopy Instrument, Laser, Research Scientific, Laboratory Laser Products",R,EM
+95,155990,"Particle-Size Measuring Instrument, Research, Scientific, Laboratory Laser Products",R,EN
+95,155991,"Analytical Measuring and Detection, Research, Scientific, Laboratory Laser Products",R,EO
+95,155992,"Surveying Laser Product,  Leveling, Alignment Laser Products",R,EP
+95,155993,"Ranging (Geodimeter) Laser Products, Surveying, Leveling, Alignment Laser Products",R,EQ
+95,155994,"Alignment Laser Product, Surveying Leveling, Alignment Laser Products",R,ER
+95,155995,"Laser Pointer, Surveying, Leveling, Alignment Laser Products",R,ES
+95,155996,"Laser Target Designator, Surveying, Leveling, Alignment Laser Products",R,ET
+95,155997,"Laser Aiming Product, Visible, Surveying, Leveling, Alignment Laser Products",R,EU
+95,155998,"Laser Aiming Product, Non-Visble, Surveying, Leveling, Alignment Laser Products",R,EV
+95,155999,"IR Laser Illuminator with Alignment Aid/Night Vision System, Safety, Security, Surveillance Laser",R,EW
+95,156000,"IR Laser Illuminator Only/Night Vision System, Safety, Security, Surveillance laser",R,EX
+95,156001,"Collision-Avoidance Laser System, Safety, Security, Surveillance Laser",R,EY
+95,156002,"Laser Traffic Signal, Safety, Security, Surveillance Laser",R,EZ
+95,156003,"Laser Automotive Lighting & Signals, Safety, Security, Surveillance Laser",R,FA
+95,156004,"IR Laser Intrusion Detection/Security System, Safety, Security, Surveillance Laser",R,FB
+95,156005,"Laser Radar (Lidar) or Speed Measurement, Safety, Security, Surveillance Laser",R,FC
+95,156006,"Laser Weapon (Military or Police) Safety, Security, Surveillance Laser",R,FD
+95,156007,"Laser Cutter, Material Processing Laser Products",R,FE
+95,156008,"Laser Welder, Materials Processing Laser Products",R,FF
+95,156009,"Microelectronic Mask or Chip Checking/Repair, Material Processing Laser Products",R,FG
+95,156011,"Print Industry Plate Maker, Material Processing Laser Products",R,FI
+95,156012,"Process Control, Material Processing Laser Products",R,FJ
+95,156013,"Laser Vision, Material Processing",R,FK
+95,156014,"Laser Micrometer, Material Processing",R,FL
+95,156015,Laser-Based Material Positioning Systems,R,FM
+95,156017,"Fiber Optic Communication and Data Transfer, Laser",R,FN
+95,156018,"IR Free-Space Data Transmit/Control, Laser",R,FO
+95,156019,"Remote Controller, Laser, Data Measurement, Transmit",R,FP
+95,156020,"Interferometric Position Measuring Products, Laser",R,FQ
+95,156021,"Product Incorporating Certified Class 1 Laser Data Measurement, Transmit, Control",R,FR
+95,156034,"Reprographics, Laser Utility/Peripheral laser Product",R,FS
+95,156035,"Laser Printer, Utility/Peripheral Laser",R,FT
+95,156036,"Laser Fax Machine, Utility/Peripheral Laser Products",R,FU
+95,156037,"CD, CD-Rom Player, Laser Utility/Peripheral Laser Products",R,FV
+95,156038,"DVD, DVD-ROM Player, Laser Utility/Peripheral Laser Products",R,FW
+95,156039,"CD-R, CD-RW Recorder, Laser Utility/Peripheral Laser Products",R,FX
+95,156040,"DVD-R, DVD+R, DVD-RAM, DVD+RW, DVD-RW Recorder, Utility/Peripheral Laser Products",R,FY
+95,156041,"UPC Reader (Bar Code Recorder), Utility/Peripheral Laser Products",R,FZ
+95,156043,Product Incorporating Certified Class 1 Data Utility/Peripheral Laser Products,R,GA
+95,156044,"Veterinary Laser, In Vitro and Other Medical Laser Products",R,GB
+95,156047,"Counterfeit Detection, Ultraviolet Surveillance & Detection Products",R,GD
+95,156048,"Scientific Crystallography, Ultraviolet Surveillance & Detection Products",R,GE
+95,156049,"Forensics, Noncoherent Light Source, Ultraviolet Surveillance & Detection Products",R,GF
+95,156050,"Forensics Laser, Ultraviolet Surveillance & Detection Products",R,GG
+95,156051,"Toilet Seat Sanitizer, Ultraviolet Hygiene Products, Non-Medical",R,GH
+95,156052,"Hand Washing Sanitizer, Ultraviolet Hygiene Products, Non-Medical",R,GI
+95,156053,"Countertop Sanitizer, Ultraviolet Hygiene Products",R,GJ
+95,156054,"Towel Cleaner, Ultraviolet Hygiene Products",R,GK
+95,156055,"Photochemical Curing and Adhesive, Ultraviolet Commercial/Consumer Products, Non-Medical",R,GM
+95,156056,"Photochemical Curing and Adhesive Laser, Ultraviolet Commercial/Consumer, Non-Medical",R,GN
+95,156057,"UV Curing, Noncoherent Light Source, Ultraviolet Commercial/Consumer",R,GO
+95,156058,"Black Light, Ultraviolet Commercial/Consumer",R,GP
+95,156059,"Cosmetology, Ultraviolet Commercial/Consumer",R,GQ
+95,156061,"Water Purifier, Ultraviolet Commercial/Consumer",R,GS
+95,156062,"Spectroscopy, Ultraviolet Fluorescence, Commercial/Consumer",R,GT
+95,156063,"Veterinary Optical, General Optical Medical Products",R,GV
+95,156064,"UV/IR Research Product, General Optical, Non-Medical",R,GW
+95,156065,"Fluorescent Lamp, General Optical, Non-Medical",R,GX
+95,156066,"IR Intrusion Detector, General Optical, Non-Medical",R,GY
+95,156067,"IR Security, General Optical Products, Non-Medical",R,GZ
+95,156068,"IR Data Transmit/Control, General Optical Products, Non-Medical",R,HA
+95,156069,"Tungsten Halogen Lamp, General Optical Products",R,HB
+95,156070,"High Pressure Mercury and Mercury Xenon Lamp (Specific Purpose Illumination), Non-Medical",R,HC
+95,156071,"IR Remote Controller, General Optical Products, Non-Medical",R,HD
+95,156073,"Digital Display Monitor, General Optical Products, Non-Medical",R,HF
+95,156074,"Light, Spectrum, Broad (Non-Medical), General Optical Products, Non-Medical",R,HG
+95,156075,"LED, General Purpose Illumination, General Optical Products, Non-Medical",R,HH
+95,157176,"Toy, Novelty, Play Laser Product",R,EJ
+95,157177,X-Ray Field Indicator Light (Non-Laser),R,GU
+95,166750,"Mercury vapor lamp, not self-extinguishing, r-type",R,HI
+95,166752,Laser marker or engraver,R,HK
+95,166753,Laser therapy product,R,HL
+95,166754,Image digitizer,R,HM
+95,166755,Fiber optic instrument for testing optical fibers,R,HN
+95,166757,"Uv lamp, germicidal",R,HP
+95,169177,Holographic displaying or creating laser product.,R,HQ
+95,169178,"Laser holographic system for experiments, research, or prototype development",R,HR
+95,169179,Laser holographic system,R,HS
+95,169180,"Laser mouse, trackball, or similar",R,HT
+95,169181,"L.E.D. Mouse, trackball, or similar",R,HU
+95,169182,Metal deposition laser product,R,HV
+95,169183,Uv lamp for home or business uses,R,HW
+95,169184,Sodium vapor lamp,R,HX
+95,170082,High intensity lamp,R,IA
+95,170083,3d laser scanning system,R,HZ
+95,170084,Laser sensing system,R,HY
+95,170982,Microscopy laser instrument or accessory products,R,IB
+95,172122,"LCD, General Purpose Illumination",R,ID
+95,172984,Visible laser illuminator,R,IE
+95,173322,Laser Illuminated Projector,R,IG
+95,173323,"Metal Halide Lamp, Other",R,IH
+95,173324,"Scientific optical instrument, noncoherent",R,II
+95,174927,Laser products (pre-standard),R,AA
+95,175232,"television, non-CRT, non-medical, video display",R,IK
+95,175281,Laser Ignition Tool,R,IL
+95,175848,"Laser marker or engraver, tabletop, consumer",R,IM
+95,175946,Laser Illuminated Lighting Instrument,R,IN
+95,176030,LED Toys and entertainment products,R,IO
+95,176031,LED diodes sold as components to be installed in finished electronic products,R,IP
+95,176032,Low emission LEDs as indicators or decorations,R,IQ

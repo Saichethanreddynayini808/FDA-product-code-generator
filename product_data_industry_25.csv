@@ -1,0 +1,1717 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+25,1538,"Carrot and Green Beans (Stringbeans), with Sauce",H,01
+25,1539,Carrots and Green Beans (Stringbeans)  (Mixed Vegetables),E,01
+25,1540,"Carrots and Green Beans (Stringbeans), Dried or Paste",F,01
+25,1541,"Carrots and Green Beans, Juice or Drink",G,01
+25,1542,"Carrot, with Sauce",N,01
+25,1543,Carrot (Root & Tuber Vegetable),J,01
+25,1544,"Carrot, Breaded",K,01
+25,1545,"Carrot, Dried or Paste",L,01
+25,1546,"Carrot, Juice or Drink",M,01
+25,1547,"Carrots and Peas, with Sauce",H,02
+25,1548,Carrots and Peas (Sweet)  (Mixed Vegetables),E,02
+25,1549,"Carrots and Peas (Sweet), Dried or Paste",F,02
+25,1550,"Carrots and Peas (Sweet), Juice or Drink",G,02
+25,1551,"Horseradish, with Sauce",N,02
+25,1552,Horseradish (Root & Tuber Vegetable),J,02
+25,1553,"Horseradish, Breaded",K,02
+25,1554,"Horseradish, Dried or Paste",L,02
+25,1555,"Horseradish, Juice or Drink",M,02
+25,1559,"Corn and Peppers, with Sauce",H,03
+25,1560,Corn and Peppers  (Mixed Vegetables),E,03
+25,1561,"Corn and Peppers, Dried or Paste",F,03
+25,1562,"Corn and Peppers, Juice or Drink",G,03
+25,1563,"Leek (a Type of Onion), with Sauce",N,03
+25,1564,Leek (a Type of Onion)  (Root & Tuber Vegetable),J,03
+25,1565,"Leek (a Kind of Onion), Breaded",K,03
+25,1566,"Leek (a Kind of Onion), Dried or Paste",L,03
+25,1567,"Leek (a Type of Onion), Juice or Drink",M,03
+25,1568,"Corn, Okra and Tomatoes, with Sauce",H,04
+25,1569,"Corn, Okra and Tomatoes (Mixed Vegetables)",E,04
+25,1570,"Corn, Okra and Tomatoes, Dried or Paste",F,04
+25,1571,"Corn, Okra and Tomatoes, Juice or Drink",G,04
+25,1572,"Scallions, Green Onions, with Sauce",N,04
+25,1573,"Scallions, Green Onions  (Root & Tuber Vegetable)",J,04
+25,1574,"Scallions, Green Onions, Breaded",K,04
+25,1575,"Scallions, Green Onions, Dried or Paste",L,04
+25,1576,"Scallions, Green Onions , Juice or Drink",M,04
+25,1577,"Corn and Tomatoes, with Sauce",H,05
+25,1578,Corn and Tomatoes (Mixed Vegetables),E,05
+25,1579,"Corn and Tomatoes, Dried or Paste",F,05
+25,1580,"Corn and Tomatoes, Juice or Drink",G,05
+25,1581,"Parsnip, with Sauce",N,05
+25,1582,Parsnip (Root & Tuber Vegetable),J,05
+25,1583,"Parsnip, Breaded",K,05
+25,1584,"Parsnip, Dried or Paste",L,05
+25,1585,"Parsnip, Juice or Drink",M,05
+25,1586,"Cucumber and Onion, with Sauce",H,06
+25,1587,Cucumbers and Onions  (Mixed Vegetables),E,06
+25,1588,"Cucumbers and Onions, Dried or Paste",F,06
+25,1589,"Cucumbers and Onions, Juice or Drink",G,06
+25,1590,"Potato, with Sauce",N,06
+25,1591,Potato (Root & Tuber Vegetable),J,06
+25,1592,"Potato, Breaded",K,06
+25,1593,"Potato, Dried or Paste",L,06
+25,1594,"Potato, Juice or Drink",M,06
+25,1595,"Cucumber and Tomatoes, with Sauce",H,07
+25,1596,Cucumbers and Tomatoes (Mixed Vegetables),E,07
+25,1597,"Cucumbers and Tomatoes, Dried or Paste",F,07
+25,1598,"Cucumbers and Tomatoes, Juice or Drink",G,07
+25,1599,"Radish, with Sauce",N,07
+25,1600,Radish (Root & Tuber Vegetable),J,07
+25,1601,"Radish, Breaded",K,07
+25,1602,"Radish, Dried or Paste",L,07
+25,1603,"Radish, Juice or Drink",M,07
+25,1604,"Green Beans and Potatoes, with Sauce",H,08
+25,1605,Green Beans and Potatoes  (Mixed Vegetables),E,08
+25,1606,"Green Beans and Potatoes, Dried or Paste",F,08
+25,1607,"Green Beans and Potatoes, Juice or Drink",G,08
+25,1608,"Red Beet, with Sauce",N,08
+25,1609,Red Beet (Root & Tuber Vegetable),J,08
+25,1610,"Red Beet, Breaded",K,08
+25,1611,"Red Beet, Dried or Paste",L,08
+25,1612,"Red Beet, Juice or Drink",M,08
+25,1613,"Okra and Tomatoes, with Sauce",H,09
+25,1614,Okra and Tomatoes  (Mixed Vegetables),E,09
+25,1615,"Okra and Tomatoes, Dried or Paste",F,09
+25,1616,"Okra and Tomatoes, Juice or Drink",G,09
+25,1617,"Rutabaga, with Sauce",N,09
+25,1618,Rutabaga (Root & Tuber Vegetable),J,09
+25,1619,"Rutabaga, Breaded",K,09
+25,1620,"Rutabaga, Dried or Paste",L,09
+25,1621,"Rutabaga, Juice or Drink",M,09
+25,1622,"Peas and Potatoes, with Sauce",H,10
+25,1623,Peas and Potatoes  (Mixed Vegetables),E,10
+25,1624,"Peas and Potatoes, Dried or Paste",F,10
+25,1625,"Peas and Potatoes, Juice or Drink",G,10
+25,1626,"Salsify, with Sauce",N,10
+25,1627,Salsify (Oyster Plant)  (Root & Tuber Vegetable),J,10
+25,1628,"Salsify, Breaded",K,10
+25,1629,"Salsify, Dried or Paste",L,10
+25,1630,"Salsify, Juice or Drink",M,10
+25,1631,"Peas and Onions, with Sauce",H,11
+25,1632,Peas and Onions  (Mixed Vegetables),E,11
+25,1633,"Peas and Onions, Dried or Paste",F,11
+25,1634,"Peas and Onions, Juice or Drink",G,11
+25,1635,"Shallot, with Sauce",N,11
+25,1636,Shallot (Onion) (Root & Tuber Vegetable),J,11
+25,1637,"Shallot (Onion), Breaded",K,11
+25,1638,"Shallot, Dried or Paste",L,11
+25,1639,"Shallot, Juice or Drink",M,11
+25,1640,"Succotash (Beans and Corn), with Sauce",H,12
+25,1641,Succotash (Beans and Corn)  (Mixed Vegetables),E,12
+25,1642,"Succotash (Beans and Corn), Dried or Paste",F,12
+25,1643,"Succotash (Beans and Corn), Juice or Drink",G,12
+25,1644,"Sweet Potato, with Sauce",N,12
+25,1645,Sweet Potato (Root & Tuber Vegetable),J,12
+25,1646,"Sweet Potato, Breaded",K,12
+25,1647,"Sweet Potato, Dried or Paste",L,12
+25,1648,"Sweet Potato, Yam, Juice or Drink",M,12
+25,1649,"Sugar Beet, with Sauce",N,13
+25,1650,Sugar Beet (Root & Tuber Vegetable),J,13
+25,1651,"Sugar Beet, Breaded",K,13
+25,1652,"Sugar Beet, Dried or Paste",L,13
+25,1653,"Sugar Beet, Juice or Drink",M,13
+25,1654,"Turnip, with Sauce",N,14
+25,1655,Turnip (Root & Tuber Vegetable),J,14
+25,1656,"Turnip, Breaded",K,14
+25,1657,"Turnip, Dried or Paste",L,14
+25,1658,"Turnip, Juice or Drink",M,14
+25,1659,"Water Chestnut, with Sauce",N,15
+25,1660,Water Chestnut (Root & Tuber Vegetable),J,15
+25,1661,"Water Chestnut, Breaded",K,15
+25,1662,"Water Chestnut, Dried or Paste",L,15
+25,1663,"Water Chestnut, Juice or Drink",M,15
+25,1664,"Fresh Shredded Mixed Vegetables for Salads, with Sauce",H,95
+25,1665,Fresh Shredded Mixed Vegetables for Salads (Mixed Vegetables),E,95
+25,1666,"Fresh Shredded Mixed Vegetables for Salads, Dried or Paste",F,95
+25,1667,"Fresh Shredded Mixed Vegetables for Salads, Juice or Drink",G,95
+25,1674,"Mixed Vegetables, with Sauce, N.E.C.",H,99
+25,1675,"Mixed Vegetables, N.E.C.",E,99
+25,1676,"Mixed Vegetables, Dried or Paste, N.E.C.",F,99
+25,1677,"Mixed Vegetables, Juice or Drink, N.E.C.",G,99
+25,1678,"Root & Tuber Vegetable, with Sauce, N.E.C.",N,99
+25,1679,"Root & Tuber Vegetable, N.E.C.",J,99
+25,1680,"Root & Tuber Vegetable, Breaded, N.E.C.",K,99
+25,1681,"Root & Tuber Vegetable, Dried or Paste, N.E.C.",L,99
+25,1682,"Root & Tuber Vegetable, Juice or Drink, N.E.C.",M,99
+25,1683,"Vegetable & Vegetable Products Not Mentioned Elsewhere, N.E.C.",Y,99
+25,24235,"Mushroom, Common (Agaricus Bisporus), Whole (Button)  (Fungi)",P,01
+25,24236,"Mushroom, Common (Agaricus Bisporus), Pieces and Stems, Sliced",Q,01
+25,24237,"Mushroom, Common (Agaricus Bisporus), Broken or Kibbled",R,01
+25,24238,"Mushroom, Common (Agaricus Bisporus), Fungi Products, N.E.C.",S,01
+25,24239,"Truffle, Whole (Button)  (Fungi)",P,02
+25,24240,"Truffle, Pieces and Stems, Sliced",Q,02
+25,24241,"Truffle, Broken or Kibbled",R,02
+25,24242,"Truffle, Fungi Products, N.E.C.",S,02
+25,24243,"Mushroom, Straw, Whole (Button)  (Fungi)",P,03
+25,24244,"Mushroom, Straw, Pieces and Stems, Sliced",Q,03
+25,24245,"Mushroom, Straw, Broken or Kibbled",R,03
+25,24246,"Mushroom, Straw, Fungi Products, N.E.C.",S,03
+25,24247,"Mushroom, Shiitake , Whole (Button)  (Fungi)",P,04
+25,24248,"Mushroom, Shiitake, Pieces and Stems, Sliced",Q,04
+25,24249,"Mushroom, Shiitake, Broken or Kibbled",R,04
+25,24250,"Mushroom, Shiitake, Fungi Products, N.E.C.",S,04
+25,24251,"Pleurotus, Whole (Button)  (Fungi)",P,05
+25,24252,"Pleurotus, Pieces and Stems, Sliced",Q,05
+25,24253,"Pleurotus, Broken or Kibbled",R,05
+25,24254,"Pleurotus, Fungi Products, N.E.C.",S,05
+25,24255,"Mushroom, Morel, Whole (Button)  (Fungi)",P,06
+25,24256,"Mushroom, Morel, Pieces and Stems, Sliced",Q,06
+25,24257,"Mushroom, Morel, Broken or Kibbled",R,06
+25,24258,"Mushroom, Morel, Fungi Products, N.E.C.",S,06
+25,24259,"Mushroom, Chanterelle, Whole (Button)  (Fungi)",P,07
+25,24260,"Mushroom, Chanterelle, Pieces and Stems, Sliced",Q,07
+25,24261,"Mushroom, Chanterelle, Broken or Kibbled",R,07
+25,24262,"Mushroom, Chanterelle, Fungi Products, N.E.C.",S,07
+25,24267,"Fungus, Black (Cloud Ears), Whole (Button)  (Fungi)",P,09
+25,24268,"Fungus, Black (Cloud Ears), Pieces and Stems, Sliced",Q,09
+25,24269,"Fungus, Black (Cloud Ears), Boken or Kibbled",R,09
+25,24270,"Fungus, Black (Cloud Ears), Fungi Products, N.E.C.",S,09
+25,24271,"Fungus, White, Whole (Button)  (Fungi)",P,10
+25,24272,"Fungus, White, Pieces and Stems, Sliced",Q,10
+25,24273,"Fungus, White, Broken or Kibbled",R,10
+25,24274,"Fungus, White, Fungi Products, N.E.C.",S,10
+25,24275,"Mushrooms and Other Fungi Products, Whole (button), N.E.C.",P,99
+25,24276,"Mushrooms and Other Fungi Products, Pieces and Stems, Sliced, N.E.C.",Q,99
+25,24277,"Mushrooms and Other Fungi Products, Broken or Kibbled, N.E.C.",R,99
+25,24278,"Fungi Products Not Mentioned Elsewhere, N.E.C.",S,99
+25,24279,Cassava (Root and Tuber Vegetable),J,16
+25,24280,"Cassava, Breaded",K,16
+25,24281,"Cassava, Dried or Paste",L,16
+25,24282,"Cassava, Juice or Drink",M,16
+25,24283,"Cassava, with Sauce",N,16
+25,24284,Jicama  (Root & Tuber Vegetable),J,17
+25,24285,"Jicama, Breaded",K,17
+25,24286,"Jicama, Dried or Paste",L,17
+25,24287,"Jicama, Juice or Drink",M,17
+25,24288,"Jicama, with Sauce",N,17
+25,24289,Lotus Root (Root & Tuber Vegetable),J,18
+25,24290,"Lotus Root, Breaded",K,18
+25,24291,"Lotus Root, Dried or Paste",L,18
+25,24292,"Lotus Root, Juice or Drink",M,18
+25,24293,"Lotus Root, with Sauce",N,18
+25,24294,"Lily (Flower, Bulb, Stem)  (Root & Tuber Vegetable)",J,19
+25,24295,"Lily (Flower, Bulb, Stem), Breaded",K,19
+25,24296,"Lily (Flower, Bulb, Stem), Dried or Paste",L,19
+25,24297,"Lily (Flower, Bulb, Stem), Juice or Drink",M,19
+25,24298,"Lily (Flower, Bulb, Stem), with Sauce",N,19
+25,24299,Chicory Root (Root & Tuber Vegetable),J,20
+25,24300,"Chicory Root, Breaded",K,20
+25,24301,"Chicory Root, Dried or Paste",L,20
+25,24302,"Chicory Root, Juice or Drink",M,20
+25,24303,"Chicory Root, with Sauce",N,20
+25,24304,Garlic Bulb  (Root & Tuber Vegetable),J,21
+25,24305,"Garlic Bulb,  Breaded",K,21
+25,24306,"Garlic Bulb, Dried or Paste",L,21
+25,24307,"Garlic Bulb, Juice or Drink",M,21
+25,24308,"Garlic Bulb, with Sauce",N,21
+25,24309,"Burdock, Gobo (Root & Tuber Vegetable)",J,22
+25,24310,"Burdock, Gobo  Breaded",K,22
+25,24311,"Burdock, Gobo, Dried or Paste",L,22
+25,24312,"Burdock, Gobo, Juice or Drink",M,22
+25,24313,"Burdock, Gobo, with Sauce",N,22
+25,24314,"Taro, Dasheen (Root & Tuber Vegetable)",J,23
+25,24315,"Taro, Dasheen Breaded",K,23
+25,24316,"Taro, Dasheen Dried or Paste",L,23
+25,24317,"Taro, Dasheen Juice or Drink",M,23
+25,24318,"Taro, Dasheen, with Sauce",N,23
+25,24319,Ginger Root (Root & Tuber Vegetable),J,24
+25,24320,"Ginger Root, Breaded",K,24
+25,24321,"Ginger Root, Dried or Paste",L,24
+25,24322,"Ginger Root, Juice or Drink",M,24
+25,24323,"Ginger Root, with Sauce",N,24
+25,24324,"Onion Bulb (Yellow, White, Red, Etc.) (Root & Tuber Vegetable)",J,25
+25,24325,"Onion Bulb (Yellow, White, Red, Etc.), Breaded",K,25
+25,24326,"Onion Bulb (Yellow, White, Red, Etc.), Dried or Paste",L,25
+25,24327,"Onion Bulb (Yellow, White, Red, Etc.), Juice or Drink",M,25
+25,24328,"Onion Bulb (Yellow, White, Red, Etc.), with Sauce",N,25
+25,24329,Chinese Radish (Daikon) (Root & Tuber Vegetable),J,26
+25,24330,"Chinese Radish (Daikon), Breaded",K,26
+25,24331,"Chinese Radish (Daikon), Dried or Paste",L,26
+25,24332,"Chinese Radish (Daikon),  Juice or Drink",M,26
+25,24333,"Chinese Radish (Daikon), with Sauce",N,26
+25,24334,White Radish (Root & Tuber Vegetable),J,27
+25,24335,"White Radish, Breaded",K,27
+25,24336,"White Radish, Dried or Paste",L,27
+25,24337,"White Radish,  Juice or Drink",M,27
+25,24338,"White Radish (Daikon), with Sauce",N,27
+25,24339,Arrowhead (Root & Tuber Vegetable),J,28
+25,24340,"Arrowhead,  Breaded",K,28
+25,24341,"Arrowhead,  Dried or Paste",L,28
+25,24342,"Arrowhead,  Juice or Drink",M,28
+25,24343,"Arrowhead, with Sauce",N,28
+25,24344,Jerusalem Artichoke (Root & Tuber Vegetable),J,29
+25,24345,"Jerusalem Artichoke,  Breaded",K,29
+25,24346,"Jerusalem Artichoke, Dried or Paste",L,29
+25,24347,"Jerusalem Artichoke,  Juice or Drink",M,29
+25,24348,"Jerusalem Artichoke, with Sauce",N,29
+25,24720,"Dasheen, Portuguese Potato  (Root & Tuber Vegetable)",J,06
+25,25432,"Amazu Shoga (Japanese pink, pickled ginger, sold in vacuum sealed cellophane pouch",J,24
+25,25463,"Beni Shoga (Japanese pickled ginger, either bottled or canned)",J,24
+25,25469,"Boniato (white sweet potato, Cuban, delicate flavor than orange sweet potato)",J,12
+25,25509,Dong-gu (black winter mushroom from Mandarin China),P,04
+25,25552,Hed Hom (dark brown or black Thai mushroom),P,04
+25,25569,Negi (Japanese leek; also found in Chinese and Malaysian cooking),J,03
+25,25586,P'Yogo (dark brown or black Korean mushroom),P,04
+25,25616,"Renkon (Japanese lotus root having reddish brown skin, creamy white skin and crisp texture)",J,18
+25,25632,Saurruben (German pickled turnip),J,14
+25,25644,Hom-Dong (pickled Thai red onion stem),J,25
+25,25651,"Icicle Radish (Chinese white, crisp radish that is approx. 2-4 inches wide & 6-10 inches long)",J,26
+25,25658,"Jang A Gee (sliced, pickled oriental radish (Raphanus sativus) from Korea)",J,26
+25,25692,"Soon Geung (Chinese pickled ginger, sold either bottled or canned, be tinted red or pink)",J,24
+25,25700,Sunki (Japanese pickled turnip),J,14
+25,25701,Suryu (Korean species of potato or sweet potato),J,06
+25,25705,Tai Tan Tsoi (Chinese pickled turnip),J,14
+25,25712,Tanmooji (pickled Korean long radish),J,26
+25,25744,"Tso Gu (dried Chinese grass mushrooms, have stronger fragrance than Chinese dried mushrooms)",S,99
+25,25760,Kikurage (Japanese black fungus or cloud ear),S,09
+25,25779,Kuwai (Japanese water chestnut),J,15
+25,25792,Lien Ngow (Chinese lotus root having reddish brown skin & crisp texture),J,18
+25,25810,Matai (Chinese water chestnut),J,15
+25,25812,Matsutake (large Japanese mushroom that is sold canned),S,99
+25,25837,Wohn Yee (Chinese black fungus or cloud ear),S,09
+25,25841,Xiang-Gu (fragrant mushroom from Mandarin China),P,04
+25,150335,"Apio, Spanish Celery (Root & Tuber Vegetable)",J,30
+25,150336,"Apio, Spanish Celery, Breaded",K,30
+25,150337,"Apio, Spanish Celery, Dried or Paste",L,30
+25,150338,"Apio, Spanish Celery, Juice or Drink",M,30
+25,150339,"Apio, Spanish Celery, with Sauce",N,30
+25,165821,Kimchi (Mixed Vegetables),E,13
+25,165822,Kimchee (Mixed Vegetables),E,13
+25,165823,Tzahp Choy (Chinese Canned Sweet Pickles made from Mixed Vegetables) (Mixed Vegetables),E,14
+25,165824,Tropical Mixed Vegetables (Mixed Vegetables),E,15
+25,165825,Mesculin Lettuce (Mixed Vegetables),E,95
+25,165826,Mesculn (Mixed Vegetables),E,95
+25,165827,"Kimchi, Dried or Paste",F,13
+25,165828,"Kimchee, Dried or Paste",F,13
+25,165829,"Tzahp Choy (Chinese Canned Sweet Pickles made from Mixed Vegetables), Dried or Paste",F,14
+25,165830,"Tropical Mixed Vegetables, Dried or Paste",F,15
+25,165831,"Mesculin Lettuce, Dried or Paste",F,95
+25,165832,"Mesculn, Dried or Paste",F,95
+25,165833,"Kimchi, Juice or Drink",G,13
+25,165834,"Kimchee, Juice or Drink",G,13
+25,165836,"Tzahp Choy (Chinese Canned Sweet Pickles made from Mixed Vegetables), Juice or Drink",G,14
+25,165837,"Tropical Mixed Vegetables, Juice or Drink",G,15
+25,165838,"Mesculin Lettuce, Juice or Drink",G,95
+25,165839,"Mesculn, Juice or Drink",G,95
+25,165841,"Kimchi, with Sauce",H,13
+25,165842,"Kimchee, with Sauce",H,13
+25,165843,"Tzahp Choy (Chinese Canned Sweet Pickles made from Mixed Vegetables), with Sauce",H,14
+25,165844,"Tropical Mixed Vegetables, with Sauce",H,15
+25,165845,"Mesculin Lettuce, with Sauce",H,95
+25,165846,"Mesculn, with Sauce",H,95
+25,168102,Spring Salad Mix (Mixed Vegetables),E,95
+25,168103,Field Greens (Mixed Vegetables),E,95
+25,168104,Spring Mix (Mixed Vegetables),E,95
+25,168105,"Pickled Mixed Vegetables, Dried or Paste",F,14
+25,168106,"Spring Salad Mix, Dried or Paste",F,95
+25,168107,"Field Greens, Dried or Paste",F,95
+25,168108,"Spring Mix, Dried or Paste",F,95
+25,168109,"Pickled Mixed Vegetables, Juice or Drink",G,14
+25,168110,Spring Salad Mix  (Juice or Drink),G,95
+25,168111,Field Greens  (Juice or Drink),G,95
+25,168112,Spring Mix  (Juice or Drink),G,95
+25,168113,"Pickled Mixed Vegetables, with Sauce",H,14
+25,168114,"Spring Salad Mix,  with Sauce",H,95
+25,168115,"Field Greens,  with Sauce",H,95
+25,168116,"Spring Mix,  with Sauce",H,95
+25,168117,Baby Carrots,J,01
+25,168119,Beta Sweet Carrots,J,01
+25,168120,Pickled Mixed Vegetables (Mixed Vegetables),E,14
+25,168121,Mini-Carrots,J,01
+25,168122,Purple Carrots,J,01
+25,168123,Red Carrots,J,01
+25,168124,Violet Carrots,J,01
+25,168125,White Carrots,J,01
+25,168126,American Flag Leek,J,03
+25,168127,Baby Leek,J,03
+25,168128,Blue Leaf Leek,J,03
+25,168129,Carentan Leek,J,03
+25,168130,Long Flag Leek,J,03
+25,168131,Musselburg Leek,J,03
+25,168132,Winter Leek,J,03
+25,168133,Bunching Onion,J,04
+25,168134,Chinese Onion,J,04
+25,168135,Crystal Wax,J,04
+25,168136,Eclipse,J,04
+25,168137,Mexican Onion,J,04
+25,168138,Salad Onion,J,04
+25,168139,Southport,J,04
+25,168140,Spanish,J,04
+25,168141,Spring Onion,J,04
+25,168142,Stone Leek,J,04
+25,168143,White Globe,J,04
+25,168144,White Lisbon,J,04
+25,168145,White Portugal,J,04
+25,168146,White Sweet Spanish,J,04
+25,168147,Chiefton,J,06
+25,168148,Desiree,J,06
+25,168149,Fingerlings,J,06
+25,168150,Larouge,J,06
+25,168151,Long Whites,J,06
+25,168152,Pontiac,J,06
+25,168153,Red Lasoda,J,06
+25,168154,Red Norland,J,06
+25,168155,Red Potato,J,06
+25,168156,Red Ruby,J,06
+25,168157,Round,J,06
+25,168158,Round Whites,J,06
+25,168159,Russet Burbank,J,06
+25,168160,Sangre,J,06
+25,168161,Viking,J,06
+25,168162,White Rose,J,06
+25,168163,Yellow -fleshed Potato,J,06
+25,168164,Yukon Gold,J,06
+25,168165,Black Radish,J,07
+25,168166,California Mammoth White Radish,J,07
+25,168167,Cherry Belle,J,07
+25,168168,Easter Egg Radish,J,07
+25,168169,European Radish,J,07
+25,168170,French Breakfast Radish,J,07
+25,168171,Fuego,J,07
+25,168172,Noir Gros Round d'Hiver,J,07
+25,168173,Red Devil,J,07
+25,168174,Red Globe,J,07
+25,168175,Red Prince,J,07
+25,168176,Red Silk,J,07
+25,168177,Round Black Spanish,J,07
+25,168178,Scalet Globe,J,07
+25,168179,Small Radish,J,07
+25,168180,Sparkler Radish,J,07
+25,168181,Spring Radish,J,07
+25,168182,Summer Radish,J,07
+25,168183,Table Radish,J,07
+25,168184,White Icicle Radish,J,07
+25,168185,Winter Radish,J,07
+25,168186,Canadian Turnip,J,09
+25,168187,Chou-navet Jaune,J,09
+25,168188,Russian Turnnip,J,09
+25,168189,Swede Rutabaga,J,09
+25,168190,Swedish Turnip,J,09
+25,168191,Yellow Turnip,J,09
+25,168192,Black Salsify,J,10
+25,168193,Scorzonera,J,10
+25,168194,White Salsify,J,10
+25,168195,Asian Shallots,J,11
+25,168196,Baby Onion,J,11
+25,168197,Brittany Red Shallots,J,11
+25,168198,Dutch Red Shallots,J,11
+25,168199,Dutch Yellow Shallots,J,11
+25,168200,Echalion,J,11
+25,168201,Fermor Shallots,J,11
+25,168202,Jersey Half-Long Shallots,J,11
+25,168203,Long Onion,J,11
+25,168204,"Sweet Potato, Orange-Fleshed Sweet Potato",J,12
+25,168205,"Sweet Potato, Jewel Sweet Potato",J,12
+25,168206,"Sweet Potato, Garnet Sweet Potato",J,12
+25,168207,"Sweet Potato, Oriental Sweet Potato",J,12
+25,168208,"Sweet Potato, Japanese Sweet Potato",J,12
+25,168209,"Sweet Potato, Korean Sweet Potato",J,12
+25,168210,"Sweet Potato, Hayman Sweet Potato",J,12
+25,168224,Tokyo-type Turnip,J,14
+25,168225,Ma Tai,J,15
+25,168226,Waterchestnut,J,15
+25,168227,Chinese Water Chestnut,J,15
+25,168228,Brazilian Arrowroot,J,16
+25,168229,Casava,J,16
+25,168230,Mandioca,J,16
+25,168231,Manioc,J,16
+25,168232,Tapioca Root,J,16
+25,168233,Yuca,J,16
+25,168234,Yuca Root,J,16
+25,168235,Yucca,J,16
+25,168236,Yucca Root,J,16
+25,168237,"Jimaca, Yam Bean",J,17
+25,168238,"Jicama, Dou Shu",J,17
+25,168239,"Jicama, Sha Got",J,17
+25,168240,"Jicama, Chop Suey Yam",J,17
+25,168241,"Jicama, Chopsui Potato",J,17
+25,168242,"Jicama, Singkamas",J,17
+25,168243,"Jicama, Mexican Yam Bean",J,17
+25,168244,"Jicama, Ahipa",J,17
+25,168245,"Jicama, Saa Got",J,17
+25,168246,"Jicama, Mexican Potato",J,17
+25,168247,"Jicama, Chinese Turnip",J,17
+25,168248,"Jicama, Chinese Potato",J,17
+25,168249,Great Burdock,J,22
+25,168250,Arbi,J,23
+25,168251,Arvi,J,23
+25,168252,Baddo,J,23
+25,168253,Coco,J,23
+25,168254,Cocoyam,J,23
+25,168255,Colocasia,J,23
+25,168256,Eddo,J,23
+25,168257,Eddoes,J,23
+25,168258,Elephant's Ear,J,23
+25,168259,Gabi,J,23
+25,168260,Japanese Potato,J,23
+25,168261,Malanga,J,23
+25,168262,Malanga Islena,J,23
+25,168263,Old Cocoyam,J,23
+25,168264,Patra,J,23
+25,168265,"Sato Imo (Japanese mellow-flavored tuber vegetable w/pale grey, smooth flesh & dark brown hairy skin",J,23
+25,168266,Satoimo,J,23
+25,168267,Tanier,J,23
+25,168268,Tannia,J,23
+25,168269,Tannier,J,23
+25,168270,Taro Root,J,23
+25,168271,Woo Tau,J,23
+25,168272,Yautia,J,23
+25,168273,Boilers,J,25
+25,168274,Cipolinne,J,25
+25,168275,Creamers,J,25
+25,168276,Grand Canyon Sweet (Red and Yellow),J,25
+25,168277,Italian Pearl Onion,J,25
+25,168278,Maui,J,25
+25,168279,Maui Sweet Onion,J,25
+25,168280,Mayan Sweet,J,25
+25,168281,Mexican Onion,J,25
+25,168282,Mini-Onion,J,25
+25,168283,Numex,J,25
+25,168284,OSO Sweet,J,25
+25,168285,Pearl Onion,J,25
+25,168286,Picklers,J,25
+25,168287,Sweet Imperial,J,25
+25,168288,"Texas Sweets (Yellow, Red, White)",J,25
+25,168289,Vidalia,J,25
+25,168290,Walla Walla,J,25
+25,168291,Asian Radish,J,26
+25,168292,Beauty Heart Radish,J,26
+25,168293,Green-skinned Asian Radish,J,26
+25,168294,Lo Bok,J,26
+25,168295,Lo Pak,J,26
+25,168296,Luo Boh,J,26
+25,168297,Moo,J,26
+25,168298,Mooli,J,26
+25,168299,Mu,J,26
+25,168300,Oriental Radish,J,26
+25,168301,White Asian Radish,J,26
+25,168302,Arrowroot,J,28
+25,168303,Chi Ku,J,28
+25,168304,Chinese Arrowhead,J,28
+25,168305,Chinese Potato,J,28
+25,168306,Ci Gu,J,28
+25,168307,Swamp Potato,J,28
+25,168308,Girasole,J,29
+25,168309,Sunchoke,J,29
+25,168310,Sunroot,J,29
+25,168311,Topinambour,J,29
+25,168312,Apio Amarillo,J,30
+25,168313,Arracacha,J,30
+25,168314,Peruvian Carrot,J,30
+25,168315,Peruvian Parsnip,J,30
+25,168316,Ginseng (Root & Tuber Vegetable),J,31
+25,168317,Gensing Root,J,31
+25,168318,Ren Shen,J,31
+25,168319,Konjac (Root & Tuber Vegetable),J,32
+25,168320,Konnyaku (Root & Tuber Vegetable),J,32
+25,168321,Sirataki,J,32
+25,168322,Sukiyaki,J,32
+25,168323,Chives (Root & Tuber Vegetable),J,35
+25,168324,Ramps (Root & Tuber Vegetable),J,36
+25,168325,Ramp,J,36
+25,168326,Wild Leek,J,36
+25,168327,Tennessee Truffle,J,36
+25,168329,Baby Carrots,K,01
+25,168330,Beta Sweet Carrots,K,01
+25,168331,Mini-Carrots,K,01
+25,168332,Purple Carrots,K,01
+25,168333,Red Carrots,K,01
+25,168334,Violet Carrots,K,01
+25,168335,White Carrots,K,01
+25,168336,American Flag Leek,K,03
+25,168337,Baby Leek,K,03
+25,168338,Blue Leaf Leek,K,03
+25,168339,Carentan Leek,K,03
+25,168340,Long Flag Leek,K,03
+25,168341,Musselburg Leek,K,03
+25,168342,Winter Leek,K,03
+25,168343,Bunching Onion,K,04
+25,168344,Chinese Onion,K,04
+25,168345,Crystal Wax,K,04
+25,168346,Eclipse,K,04
+25,168347,Mexican Onion,K,04
+25,168348,Salad Onion,K,04
+25,168349,Southport,K,04
+25,168350,Spanish,K,04
+25,168351,Spring Onion,K,04
+25,168352,Stone Leek,K,04
+25,168353,White Globe,K,04
+25,168354,White Lisbon,K,04
+25,168355,White Portugal,K,04
+25,168356,White Sweet Spanish,K,04
+25,168357,Chiefton,K,06
+25,168358,Desiree,K,06
+25,168359,Fingerlings,K,06
+25,168360,Larouge,K,06
+25,168361,Long Whites,K,06
+25,168362,Pontiac,K,06
+25,168363,Red Lasoda,K,06
+25,168366,Red Norland,K,06
+25,168367,Red Potato,K,06
+25,168368,Red Ruby,K,06
+25,168369,Round,K,06
+25,168370,Round Whites,K,06
+25,168371,Russet Burbank,K,06
+25,168372,Sangre,K,06
+25,168373,Viking,K,06
+25,168374,White Rose,K,06
+25,168375,Yellow -fleshed Potato,K,06
+25,168376,Yukon Gold,K,06
+25,168377,Black Radish,K,07
+25,168378,California Mammoth White Radish,K,07
+25,168379,Cherry Belle,K,07
+25,168380,Easter Egg Radish,K,07
+25,168381,European Radish,K,07
+25,168382,French Breakfast Radish,K,07
+25,168383,Fuego,K,07
+25,168384,Noir Gros Round d'Hiver,K,07
+25,168385,Red Devil,K,07
+25,168386,Red Globe,K,07
+25,168387,Red Prince,K,07
+25,168388,Red Silk,K,07
+25,168389,Round Black Spanish,K,07
+25,168390,Scalet Globe,K,07
+25,168391,Small Radish,K,07
+25,168392,Sparkler Radish,K,07
+25,168393,Spring Radish,K,07
+25,168394,Summer Radish,K,07
+25,168395,Table Radish,K,07
+25,168396,White Icicle Radish,K,07
+25,168397,Winter Radish,K,07
+25,168398,Canadian Turnip,K,09
+25,168399,Chou-navet Jaune,K,09
+25,168400,Russian Turnnip,K,09
+25,168401,Swede Rutabaga,K,09
+25,168402,Swedish Turnip,K,09
+25,168403,Yellow Turnip,K,09
+25,168404,Black Salsify,K,10
+25,168405,Scorzonera,K,10
+25,168406,White Salsify,K,10
+25,168407,Asian Shallots,K,11
+25,168408,Baby Onion,K,11
+25,168409,Brittany Red Shallots,K,11
+25,168410,Dutch Red Shallots,K,11
+25,168411,Dutch Yellow Shallots,K,11
+25,168412,Echalion,K,11
+25,168413,Fermor Shallots,K,11
+25,168414,Jersey Half-Long Shallots,K,11
+25,168415,Long Onion,K,11
+25,168416,"Sweet Potato, Orange-Fleshed Sweet Potato",K,12
+25,168417,"Sweet Potato, Jewel Sweet Potato",K,12
+25,168418,"Sweet Potato, Garnet Sweet Potato",K,12
+25,168419,"Sweet Potato, Oriental Sweet Potato",K,12
+25,168420,"Sweet Potato, Japanese Sweet Potato",K,12
+25,168421,"Sweet Potato, Korean Sweet Potato",K,12
+25,168422,"Sweet Potato, Hayman Sweet Potato",K,12
+25,168436,Tokyo-type Turnip,K,14
+25,168437,Ma Tai,K,15
+25,168438,Waterchestnut,K,15
+25,168439,Chinese Water Chestnut,K,15
+25,168440,Brazilian Arrowroot,K,16
+25,168441,Casava,K,16
+25,168442,Mandioca,K,16
+25,168443,Manioc,K,16
+25,168444,Tapioca Root,K,16
+25,168445,Yuca,K,16
+25,168446,Yuca Root,K,16
+25,168447,Yucca,K,16
+25,168448,Yucca Root,K,16
+25,168449,"Jimaca, Yam Bean",K,17
+25,168450,"Jicama, Dou Shu",K,17
+25,168451,"Jicama, Sha Got",K,17
+25,168452,"Jicama, Chop Suey Yam",K,17
+25,168453,"Jicama, Chopsui Potato",K,17
+25,168454,"Jicama, Singkamas",K,17
+25,168455,"Jicama, Mexican Yam Bean",K,17
+25,168456,"Jicama, Ahipa",K,17
+25,168457,"Jicama, Saa Got",K,17
+25,168458,"Jicama, Mexican Potato",K,17
+25,168459,"Jicama, Chinese Turnip",K,17
+25,168460,"Jicama, Chinese Potato",K,17
+25,168461,Great Burdock,K,22
+25,168462,Arbi,K,23
+25,168463,Arvi,K,23
+25,168464,Baddo,K,23
+25,168465,Coco,K,23
+25,168466,Cocoyam,K,23
+25,168467,Colocasia,K,23
+25,168468,Eddo,K,23
+25,168469,Eddoes,K,23
+25,168470,Elephant's Ear,K,23
+25,168471,Gabi,K,23
+25,168472,Japanese Potato,K,23
+25,168473,Malanga,K,23
+25,168474,Malanga Islena,K,23
+25,168475,Old Cocoyam,K,23
+25,168476,Patra,K,23
+25,168477,"Sato Imo (Japanese mellow-flavored tuber vegetable w/pale grey, smooth flesh & dark brown hairy skin",K,23
+25,168478,Satoimo,K,23
+25,168479,Tanier,K,23
+25,168480,Tanier,K,23
+25,168481,Tannia,K,23
+25,168482,Tannier,K,23
+25,168483,Taro Root,K,23
+25,168484,Woo Tau,K,23
+25,168485,Yautia,K,23
+25,168486,Boilers,K,25
+25,168487,Cipolinne,K,25
+25,168488,Creamers,K,25
+25,168489,Grand Canyon Sweet (Red and Yellow),K,25
+25,168490,Italian Pearl Onion,K,25
+25,168491,Maui,K,25
+25,168492,Maui Sweet Onion,K,25
+25,168493,Mayan Sweet,K,25
+25,168494,Mexican Onion,K,25
+25,168495,Mini-Onion,K,25
+25,168496,Numex,K,25
+25,168497,OSO Sweet,K,25
+25,168498,Pearl Onion,K,25
+25,168499,Picklers,K,25
+25,168500,Sweet Imperial,K,25
+25,168501,"Texas Sweets (Yellow, Red, White)",K,25
+25,168502,Vidalia,K,25
+25,168503,Walla Walla,K,25
+25,168504,Asian Radish,K,26
+25,168505,Beauty Heart Radish,K,26
+25,168506,Green-skinned Asian Radish,K,26
+25,168507,Lo Bok,K,26
+25,168508,Lo Pak,K,26
+25,168509,Luo Boh,K,26
+25,168510,Moo,K,26
+25,168511,Mooli,K,26
+25,168512,Mu,K,26
+25,168513,Oriental Radish,K,26
+25,168514,White Asian Radish,K,26
+25,168515,Arrowroot,K,28
+25,168516,Chi Ku,K,28
+25,168517,Chinese Arrowhead,K,28
+25,168518,Chinese Potato,K,28
+25,168519,Ci Gu,K,28
+25,168520,Swamp Potato,K,28
+25,168521,Girasole,K,29
+25,168522,Sunchoke,K,29
+25,168523,Sunroot,K,29
+25,168524,Topinambour,K,29
+25,168525,Apio Amarillo,K,30
+25,168526,Arracacha,K,30
+25,168527,Peruvian Carrot,K,30
+25,168528,Peruvian Parsnip,K,30
+25,168529,"Ginseng, Breaded (Root & Tuber Vegetable)",K,31
+25,168530,Gensing Root,K,31
+25,168531,Ren Shen,K,31
+25,168532,"Konjac, Breaded (Root  & Tuber Vegetable)",K,32
+25,168533,"Konnyaku, Breaded (Japanese Root Vegetable)",K,32
+25,168534,Sirataki,K,32
+25,168535,Sukiyaki,K,32
+25,168536,"Water Caltrop, Breaded (Root & Tuber Vegetable)",K,33
+25,168542,"Ling Gok, Chinese Shiny Black Chestnut-Shaped Corn (Root and Tuber Vegetable)",K,33
+25,168543,"Chinese Chive, Breaded (Root & Tuber Vegetable)",K,34
+25,168544,Chinese Chives Flower Stalk,K,34
+25,168545,Chinese Leek,K,34
+25,168546,Flowering Chinese Chive,K,34
+25,168547,Garlic Chive,K,34
+25,168548,Gil Choy,K,34
+25,168549,Gow Choy,K,34
+25,168550,Jiu Cai,K,34
+25,168551,Jiu Tsai,K,34
+25,168552,Kau Tsai,K,34
+25,168553,Ku Chai,K,34
+25,168554,Ndoh Dah,K,34
+25,168555,Nira,K,34
+25,168556,Oriental Chive,K,34
+25,168557,Oriental Leek,K,34
+25,168558,Yellow Chinese Chive,K,34
+25,168559,"Chives, Breaded (Root & Tuber Vegetable)",K,35
+25,168560,"Ramps, Breaded (Root & Tuber Vegetable)",K,36
+25,168561,Ramp,K,36
+25,168562,Wild Leek,K,36
+25,168563,Tennessee Truffle,K,36
+25,168564,Baby Carrots,L,01
+25,168565,Beta Sweet Carrots,L,01
+25,168566,Mini-Carrots,L,01
+25,168567,Purple Carrots,L,01
+25,168568,Red Carrots,L,01
+25,168569,Violet Carrots,L,01
+25,168570,White Carrots,L,01
+25,168571,American Flag Leek,L,03
+25,168572,Baby Leek,L,03
+25,168573,Blue Leaf Leek,L,03
+25,168574,Carentan Leek,L,03
+25,168575,Long Flag Leek,L,03
+25,168576,Musselburg Leek,L,03
+25,168577,Winter Leek,L,03
+25,168578,Bunching Onion,L,04
+25,168579,Chinese Onion,L,04
+25,168582,Crystal Wax,L,04
+25,168583,Eclipse,L,04
+25,168584,Mexican Onion,L,04
+25,168585,Salad Onion,L,04
+25,168586,Southport,L,04
+25,168587,Spanish,L,04
+25,168588,Spring Onion,L,04
+25,168589,Stone Leek,L,04
+25,168590,White Globe,L,04
+25,168591,White Lisbon,L,04
+25,168592,White Portugal,L,04
+25,168593,White Sweet Spanish,L,04
+25,168594,Chiefton,L,06
+25,168595,Desiree,L,06
+25,168596,Fingerlings,L,06
+25,168597,Larouge,L,06
+25,168598,Long Whites,L,06
+25,168599,Pontiac,L,06
+25,168600,Red Lasoda,L,06
+25,168601,Red Norland,L,06
+25,168622,Red Potato,L,06
+25,168623,Red Ruby,L,06
+25,168624,Round,L,06
+25,168625,Round Whites,L,06
+25,168626,Russet Burbank,L,06
+25,168627,Sangre,L,06
+25,168628,Viking,L,06
+25,168629,White Rose,L,06
+25,168630,Yellow -fleshed Potato,L,06
+25,168631,Yukon Gold,L,06
+25,168632,Black Radish,L,07
+25,168633,California Mammoth White Radish,L,07
+25,168634,Cherry Belle,L,07
+25,168635,Easter Egg Radish,L,07
+25,168636,European Radish,L,07
+25,168637,French Breakfast Radish,L,07
+25,168638,Fuego,L,07
+25,168639,Noir Gros Round d'Hiver,L,07
+25,168640,Red Devil,L,07
+25,168641,Red Globe,L,07
+25,168642,Red Prince,L,07
+25,168643,Red Silk,L,07
+25,168644,Round Black Spanish,L,07
+25,168645,Scalet Globe,L,07
+25,168646,Small Radish,L,07
+25,168647,Sparkler Radish,L,07
+25,168648,Spring Radish,L,07
+25,168649,Summer Radish,L,07
+25,168650,Table Radish,L,07
+25,168651,White Icicle Radish,L,07
+25,168652,Winter Radish,L,07
+25,168653,Canadian Turnip,L,09
+25,168654,Chou-navet Jaune,L,09
+25,168655,Russian Turnnip,L,09
+25,168656,Swede Rutabaga,L,09
+25,168657,Swedish Turnip,L,09
+25,168658,Yellow Turnip,L,09
+25,168662,Black Salsify,L,10
+25,168663,Scorzonera,L,10
+25,168664,White Salsify,L,10
+25,168665,Asian Shallots,L,11
+25,168666,Baby Onion,L,11
+25,168667,Brittany Red Shallots,L,11
+25,168668,Dutch Red Shallots,L,11
+25,168669,Dutch Yellow Shallots,L,11
+25,168670,Echalion,L,11
+25,168671,Fermor Shallots,L,11
+25,168672,Jersey Half-Long Shallots,L,11
+25,168673,Long Onion,L,11
+25,168674,"Sweet Potato, Orange-Fleshed Sweet Potato",L,12
+25,168675,"Sweet Potato, Jewel Sweet Potato",L,12
+25,168676,"Sweet Potato, Garnet Sweet Potato",L,12
+25,168677,"Sweet Potato, Oriental Sweet Potato",L,12
+25,168678,"Sweet Potato, Japanese Sweet Potato",L,12
+25,168679,"Sweet Potato, Korean Sweet Potato",L,12
+25,168680,"Sweet Potato, Hayman Sweet Potato",L,12
+25,168695,Tokyo-type Turnip,L,14
+25,168696,Ma Tai,L,15
+25,168697,Waterchestnut,L,15
+25,168698,Chinese Water Chestnut,L,15
+25,168699,Brazilian Arrowroot,L,16
+25,168700,Casava,L,16
+25,168701,Mandioca,L,16
+25,168702,Manioc,L,16
+25,168703,Tapioca Root,L,16
+25,168704,Yuca,L,16
+25,168705,Yuca Root,L,16
+25,168706,Yucca,L,16
+25,168707,Yucca Root,L,16
+25,168708,"Jimaca, Yam Bean",L,17
+25,168709,"Jicama, Dou Shu",L,17
+25,168710,"Jicama, Sha Got",L,17
+25,168711,"Jicama, Chop Suey Yam",L,17
+25,168712,"Jicama, Chopsui Potato",L,17
+25,168713,"Jicama, Singkamas",L,17
+25,168714,"Jicama, Mexican Yam Bean",L,17
+25,168715,"Jicama, Ahipa",L,17
+25,168716,"Jicama, Saa Got",L,17
+25,168717,"Jicama, Mexican Potato",L,17
+25,168718,"Jicama, Chinese Turnip",L,17
+25,168719,"Jicama, Chinese Potato",L,17
+25,168720,Great Burdock,L,22
+25,168721,Arbi,L,23
+25,168722,Arvi,L,23
+25,168723,Baddo,L,23
+25,168724,Coco,L,23
+25,168725,Cocoyam,L,23
+25,168726,Colocasia,L,23
+25,168728,Colocasia,L,23
+25,168729,Eddo,L,23
+25,168730,Eddoes,L,23
+25,168731,Elephant's Ear,L,23
+25,168732,Gabi,L,23
+25,168733,Japanese Potato,L,23
+25,168734,Malanga,L,23
+25,168737,Malanga,L,23
+25,168738,Malanga Islena,L,23
+25,168739,Old Cocoyam,L,23
+25,168740,Patra,L,23
+25,168741,"Sato Imo (Japanese mellow-flavored tuber vegetable w/pale grey, smooth flesh & dark brown hairy skin",L,23
+25,168742,Satoimo,L,23
+25,168743,Tanier,L,23
+25,168744,Tannia,L,23
+25,168745,Tannier,L,23
+25,168746,Taro Root,L,23
+25,168747,Woo Tau,L,23
+25,168748,Yautia,L,23
+25,168749,Boilers,L,25
+25,168750,Cipolinne,L,25
+25,168751,Creamers,L,25
+25,168752,Grand Canyon Sweet (Red and Yellow),L,25
+25,168753,Italian Pearl Onion,L,25
+25,168754,Maui,L,25
+25,168755,Maui Sweet Onion,L,25
+25,168756,Mayan Sweet,L,25
+25,168757,Mexican Onion,L,25
+25,168758,Mini-Onion,L,25
+25,168759,Numex,L,25
+25,168760,OSO Sweet,L,25
+25,168761,Pearl Onion,L,25
+25,168762,Picklers,L,25
+25,168763,Sweet Imperial,L,25
+25,168764,"Texas Sweets (Yellow, Red, White)",L,25
+25,168765,Vidalia,L,25
+25,168766,Walla Walla,L,25
+25,168767,Asian Radish,L,26
+25,168768,Beauty Heart Radish,L,26
+25,168769,Green-skinned Asian Radish,L,26
+25,168770,Lo Bok,L,26
+25,168771,Lo Pak,L,26
+25,168772,Luo Boh,L,26
+25,168773,Moo,L,26
+25,168774,Mooli,L,26
+25,168775,Mu,L,26
+25,168776,Oriental Radish,L,26
+25,168777,White Asian Radish,L,26
+25,168778,Arrowroot,L,28
+25,168779,Chi Ku,L,28
+25,168780,Chinese Arrowhead,L,28
+25,168781,Chinese Potato,L,28
+25,168782,Ci Gu,L,28
+25,168783,Swamp Potato,L,28
+25,168784,Girasole,L,29
+25,168785,Sunchoke,L,29
+25,168786,Sunroot,L,29
+25,168787,Topinambour,L,29
+25,168788,Apio Amarillo,L,30
+25,168789,Arracacha,L,30
+25,168790,Peruvian Carrot,L,30
+25,168791,Peruvian Parsnip,L,30
+25,168792,"Ginseng, Dried or Paste (Root & Tuber Vegetable)",L,31
+25,168793,Gensing Root,L,31
+25,168794,Ren Shen,L,31
+25,168795,"Konjac, Dried or Paste (Root & Tuber Vegetable)",L,32
+25,168796,Konnyaku (Root & Tuber Vegetable),L,32
+25,168797,Japanese root vegetable similar to potato; used to make firm vegetable jelly,L,32
+25,168798,Sirataki,L,32
+25,168799,Sukiyaki,L,32
+25,168800,"Water Caltrop, Dried or Paste (Root & Tuber Vegetable)",L,33
+25,168801,"Ling Gok, Chinese Shiny Black Chestnut-Shaped Corn (Root and Tuber Vegetable)",L,33
+25,168802,"Chinese Chive, Dried or Paste (Root & Tuber Vegetable)",L,34
+25,168803,Chinese Chives Flower Stalk,L,34
+25,168804,Chinese Leek,L,34
+25,168805,Flowering Chinese Chive,L,34
+25,168806,Garlic Chive,L,34
+25,168807,Gil Choy,L,34
+25,168808,Gow Choy,L,34
+25,168809,Jiu Cai,L,34
+25,168810,Jiu Tsai,L,34
+25,168811,Kau Tsai,L,34
+25,168812,Ku Chai,L,34
+25,168813,Ndoh Dah,L,34
+25,168814,Nira,L,34
+25,168815,Oriental Chive,L,34
+25,168816,Oriental Leek,L,34
+25,168817,Yellow Chinese Chive,L,34
+25,168818,Water Caltrop (Root & Tuber Vegetable),J,33
+25,168819,"Ling Gok, Chinese Shiny Black Chestnut-Shaped Corn (Root and Tuber Vegetable)",J,33
+25,168844,Chinese Chive (Root & Tuber Vegetable),J,34
+25,168845,Chinese Chives Flower Stalk,J,34
+25,168846,Chinese Leek,J,34
+25,168847,Flowering Chinese Chive,J,34
+25,168848,Garlic Chive,J,34
+25,168849,Gil Choy,J,34
+25,168850,Gow Choy,J,34
+25,168851,Jiu Cai,J,34
+25,168852,Jiu Tsai,J,34
+25,168853,Kau Tsai,J,34
+25,168854,Ku Chai,J,34
+25,168855,Ndoh Dah,J,34
+25,168856,Nira,J,34
+25,168857,Oriental Chive,J,34
+25,168858,Oriental Leek,J,34
+25,168859,Yellow Chinese Chive,J,34
+25,168860,"Chives, Dried or Paste (Root & Tuber Vegetable)",L,35
+25,168861,"Ramps, Dried or Paste (Root & Tuber Vegetable)",L,36
+25,168862,Ramp,L,36
+25,168863,Wild Leek,L,36
+25,168864,Tennessee Truffle,L,36
+25,168865,Baby Carrots,M,01
+25,168866,Beta Sweet Carrots,M,01
+25,168867,Mini-Carrots,M,01
+25,168868,Purple Carrots,M,01
+25,168869,Red Carrots,M,01
+25,168870,Violet Carrots,M,01
+25,168871,White Carrots,M,01
+25,168872,American Flag Leek,M,03
+25,168873,Baby Leek,M,03
+25,168874,Blue Leaf Leek,M,03
+25,168875,Carentan Leek,M,03
+25,168876,Long Flag Leek,M,03
+25,168877,Musselburg Leek,M,03
+25,168878,Winter Leek,M,03
+25,168879,Bunching Onion,M,04
+25,168880,Chinese Onion,M,04
+25,168881,Crystal Wax,M,04
+25,168882,Eclipse,M,04
+25,168883,Mexican Onion,M,04
+25,168884,Salad Onion,M,04
+25,168885,Southport,M,04
+25,168886,Spanish,M,04
+25,168887,Spring Onion,M,04
+25,168888,Stone Leek,M,04
+25,168889,White Globe,M,04
+25,168902,White Lisbon,M,04
+25,168903,White Portugal,M,04
+25,168904,White Sweet Spanish,M,04
+25,168905,Chiefton,M,06
+25,168906,Desiree,M,06
+25,168907,Fingerlings,M,06
+25,168908,Larouge,M,06
+25,168909,Long Whites,M,06
+25,168910,Pontiac,M,06
+25,168911,Red Lasoda,M,06
+25,168912,Red Norland,M,06
+25,168913,Red Potato,M,06
+25,168914,Red Ruby,M,06
+25,168915,Round,M,06
+25,168916,Round Whites,M,06
+25,168917,Russet Burbank,M,06
+25,168918,Sangre,M,06
+25,168919,Viking,M,06
+25,168920,White Rose,M,06
+25,168921,Yellow -fleshed Potato,M,06
+25,168922,Yukon Gold,M,06
+25,168942,Black Radish,M,07
+25,168943,California Mammoth White Radish,M,07
+25,168944,Cherry Belle,M,07
+25,168945,Easter Egg Radish,M,07
+25,168946,European Radish,M,07
+25,168947,French Breakfast Radish,M,07
+25,168948,Fuego,M,07
+25,168949,Noir Gros Round d'Hiver,M,07
+25,168950,Red Devil,M,07
+25,168951,Red Globe,M,07
+25,168952,Red Prince,M,07
+25,168953,Red Silk,M,07
+25,168954,Round Black Spanish,M,07
+25,168955,Scalet Globe,M,07
+25,168956,Small Radish,M,07
+25,168957,Sparkler Radish,M,07
+25,168958,Spring Radish,M,07
+25,168959,Summer Radish,M,07
+25,168960,Table Radish,M,07
+25,168961,White Icicle Radish,M,07
+25,168962,Winter Radish,M,07
+25,168963,Canadian Turnip,M,09
+25,168964,Chou-navet Jaune,M,09
+25,168965,Russian Turnnip,M,09
+25,168966,Swede Rutabaga,M,09
+25,168967,Swedish Turnip,M,09
+25,168968,Yellow Turnip,M,09
+25,168969,Black Salsify,M,10
+25,168970,Scorzonera,M,10
+25,168971,White Salsify,M,10
+25,168972,Asian Shallots,M,11
+25,168973,Baby Onion,M,11
+25,168974,Brittany Red Shallots,M,11
+25,168975,Brittany Red Shallots,M,11
+25,168976,Dutch Red Shallots,M,11
+25,168977,Dutch Yellow Shallots,M,11
+25,168978,Echalion,M,11
+25,168979,Fermor Shallots,M,11
+25,168980,Jersey Half-Long Shallots,M,11
+25,168981,Long Onion,M,11
+25,168982,"Sweet Potato, Yams, Orange-Fleshed Sweet Potato",M,12
+25,168983,"Sweet Potato, Yams, Jewel Sweet Potato",M,12
+25,168984,"Sweet Potato, Yams, Garnet Sweet Potato",M,12
+25,168985,"Sweet Potato, Yams, Oriental Sweet Potato",M,12
+25,168986,"Sweet Potato, Yams, Japanese Sweet Potato",M,12
+25,168987,"Sweet Potato, Yams, Korean Sweet Potato",M,12
+25,168988,"Sweet Potato, Yams, Hayman Sweet Potato",M,12
+25,168989,"Sweet Potato, Yams, Purple Yam , Ube",M,12
+25,168990,"Sweet Potato, Yams, Purple Yam , Ratala",M,12
+25,168991,"Sweet Potato, Yams, Purple Yam , Kand",M,12
+25,168992,"Sweet Potato, Yams, Cushcush Yam",M,12
+25,168993,"Sweet Potato, Yams, Cushcush Yam, Mapuey",M,12
+25,168994,"Sweet Potato, Yams, ?ame Mapuey",M,12
+25,168995,"Sweet Potato, Yams, Aftrican White Yam",M,12
+25,168996,"Sweet Potato, Yams, Chinese Yams",M,12
+25,168997,"Sweet Potato, Yams, White Yam",M,12
+25,168998,"Sweet Potato, Yams, Water Yam",M,12
+25,168999,"Sweet Potato, Yams, Ghana Yam",M,12
+25,169000,"Sweet Potato, Yams, White Guinea Yam",M,12
+25,169001,"Sweet Potato Yams, ?ame Guineo",M,12
+25,169002,Tokyo-type Turnip,M,14
+25,169003,Ma Tai,M,15
+25,169004,Waterchestnut,M,15
+25,169005,Chinese Water Chestnut,M,15
+25,169006,Brazilian Arrowroot,M,16
+25,169007,Casava,M,16
+25,169008,Mandioca,M,16
+25,169009,Manioc,M,16
+25,169010,Tapioca Root,M,16
+25,169011,Yuca,M,16
+25,169012,Yuca Root,M,16
+25,169013,Yucca,M,16
+25,169014,Yucca Root,M,16
+25,169015,"Jimaca, Yam Bean",M,17
+25,169016,"Jicama, Dou Shu",M,17
+25,169017,"Jicama, Sha Got",M,17
+25,169018,"Jicama, Chop Suey Yam",M,17
+25,169019,"Jicama, Chopsui Potato",M,17
+25,169020,"Jicama, Singkamas",M,17
+25,169021,"Jicama, Mexican Yam Bean",M,17
+25,169022,"Jicama, Ahipa",M,17
+25,169023,"Jicama, Saa Got",M,17
+25,169024,"Jicama, Mexican Potato",M,17
+25,169025,"Jicama, Chinese Turnip",M,17
+25,169026,"Jicama, Chinese Potato",M,17
+25,169027,Great Burdock,M,22
+25,169043,Arbi,M,23
+25,169044,Arvi,M,23
+25,169045,Baddo,M,23
+25,169046,Coco,M,23
+25,169047,Cocoyam,M,23
+25,169048,Colocasia,M,23
+25,169049,Eddo,M,23
+25,169050,Eddoes,M,23
+25,169051,Elephant's Ear,M,23
+25,169052,Gabi,M,23
+25,169053,Japanese Potato,M,23
+25,169054,Malanga,M,23
+25,169055,Malanga Islena,M,23
+25,169056,Old Cocoyam,M,23
+25,169057,Patra,M,23
+25,169058,"Sato Imo (Japanese mellow-flavored tuber vegetable w/pale grey, smooth flesh & dark brown hairy skin",M,23
+25,169059,Satoimo,M,23
+25,169060,Tanier,M,23
+25,169061,Tannia,M,23
+25,169062,Tannier,M,23
+25,169063,Taro Root,M,23
+25,169064,Woo Tau,M,23
+25,169065,Yautia,M,23
+25,169066,Boilers,M,25
+25,169067,Cipolinne,M,25
+25,169068,Creamers,M,25
+25,169069,Grand Canyon Sweet (Red and Yellow),M,25
+25,169070,Italian Pearl Onion,M,25
+25,169071,Maui,M,25
+25,169072,Maui Sweet Onion,M,25
+25,169073,Mayan Sweet,M,25
+25,169074,Mexican Onion,M,25
+25,169075,Mini-Onion,M,25
+25,169076,Numex,M,25
+25,169077,OSO Sweet,M,25
+25,169078,Pearl Onion,M,25
+25,169079,Picklers,M,25
+25,169080,Sweet Imperial,M,25
+25,169081,"Texas Sweets (Yellow, Red, White)",M,25
+25,169082,Vidalia,M,25
+25,169083,Walla Walla,M,25
+25,169084,Asian Radish,M,26
+25,169085,Beauty Heart Radish,M,26
+25,169086,Green-skinned Asian Radish,M,26
+25,169087,Lo Bok,M,26
+25,169088,Lo Pak,M,26
+25,169089,Luo Boh,M,26
+25,169090,Moo,M,26
+25,169091,Mooli,M,26
+25,169092,Mu,M,26
+25,169093,Oriental Radish,M,26
+25,169094,White Asian Radish,M,26
+25,169095,Arrowroot,M,28
+25,169096,Chi Ku,M,28
+25,169097,Chinese Arrowhead,M,28
+25,169098,Chinese Potato,M,28
+25,169099,Ci Gu,M,28
+25,169100,Swamp Potato,M,28
+25,169101,Girasole,M,29
+25,169102,Sunchoke,M,29
+25,169103,Sunroot,M,29
+25,169104,Topinambour,M,29
+25,169105,Apio Amarillo,M,30
+25,169106,Arracacha,M,30
+25,169107,Peruvian Carrot,M,30
+25,169108,Peruvian Parsnip,M,30
+25,169109,"Ginseng, Juice or Drink (Root & Tuber Vegetable)",M,31
+25,169110,Gensing Root,M,31
+25,169111,Ren Shen,M,31
+25,169112,"Konjac, Juice or Drink (Root & Tuber Vegetable)",M,32
+25,169113,Japanese root vegetable similar to potato; used to make firm vegetable jelly,M,32
+25,169114,Sirataki,M,32
+25,169115,Sukiyaki,M,32
+25,169116,"Water Caltrop, Juice or Drink (Root & Tuber Vegetable)",M,33
+25,169117,"Ling Gok, Chinese Shiny Black Chestnut-Shaped Corn (Root and Tuber Vegetable)",M,33
+25,169118,"Chinese Chive, Juice or Drink (Root & Tuber Vegetable)",M,34
+25,169119,Chinese Chives Flower Stalk,M,34
+25,169120,Chinese Leek,M,34
+25,169121,Flowering Chinese Chive,M,34
+25,169122,Garlic Chive,M,34
+25,169123,Gil Choy,M,34
+25,169124,Gow Choy,M,34
+25,169125,Jiu Cai,M,34
+25,169126,Jiu Tsai,M,34
+25,169127,Kau Tsai,M,34
+25,169128,Ku Chai,M,34
+25,169129,Ndoh Dah,M,34
+25,169130,Nira,M,34
+25,169131,Oriental Chive,M,34
+25,169132,Oriental Leek,M,34
+25,169133,Yellow Chinese Chive,M,34
+25,169134,"Chives, Juice or Drink (Root & Tuber Vegetable)",M,35
+25,169135,"Ramps, Juice or Drink (Root & Tuber Vegetable)",M,36
+25,169136,Ramp,M,36
+25,169137,Wild Leek,M,36
+25,169138,Tennessee Truffle,M,36
+25,169139,Baby Carrots,N,01
+25,169140,Beta Sweet Carrots,N,01
+25,169141,Mini-Carrots,N,01
+25,169142,Purple Carrots,N,01
+25,169143,Red Carrots,N,01
+25,169144,Violet Carrots,N,01
+25,169145,White Carrots,N,01
+25,169146,American Flag Leek,N,03
+25,169147,Baby Leek,N,03
+25,169148,Blue Leaf Leek,N,03
+25,169162,Carentan Leek,N,03
+25,169163,Long Flag Leek,N,03
+25,169164,Musselburg Leek,N,03
+25,169165,Winter Leek,N,03
+25,169166,Bunching Onion,N,04
+25,169167,Chinese Onion,N,04
+25,169168,Crystal Wax,N,04
+25,169169,Eclipse,N,04
+25,169170,Mexican Onion,N,04
+25,169171,Salad Onion,N,04
+25,169172,Southport,N,04
+25,169173,Spanish,N,04
+25,169174,Spring Onion,N,04
+25,169222,Stone Leek,N,04
+25,169223,White Globe,N,04
+25,169224,White Lisbon,N,04
+25,169225,White Portugal,N,04
+25,169226,White Sweet Spanish,N,04
+25,169227,Chiefton,N,06
+25,169228,Desiree,N,06
+25,169229,Fingerlings,N,06
+25,169230,Larouge,N,06
+25,169231,Long Whites,N,06
+25,169232,Pontiac,N,06
+25,169233,Red Lasoda,N,06
+25,169234,Red Norland,N,06
+25,169235,Red Potato,N,06
+25,169236,Red Ruby,N,06
+25,169237,Round,N,06
+25,169238,Round Whites,N,06
+25,169239,Russet Burbank,N,06
+25,169240,Sangre,N,06
+25,169241,Viking,N,06
+25,169242,White Rose,N,06
+25,169243,Yellow -fleshed Potato,N,06
+25,169244,Yukon Gold,N,06
+25,169245,Black Radish,N,07
+25,169246,California Mammoth White Radish,N,07
+25,169247,Cherry Belle,N,07
+25,169248,Easter Egg Radish,N,07
+25,169249,European Radish,N,07
+25,169250,French Breakfast Radish,N,07
+25,169251,Fuego,N,07
+25,169252,Noir Gros Round d'Hiver,N,07
+25,169253,Red Devil,N,07
+25,169254,Red Globe,N,07
+25,169255,Red Prince,N,07
+25,169256,Red Silk,N,07
+25,169257,Round Black Spanish,N,07
+25,169258,Scalet Globe,N,07
+25,169259,Small Radish,N,07
+25,169260,Sparkler Radish,N,07
+25,169261,Spring Radish,N,07
+25,169262,Summer Radish,N,07
+25,169263,Table Radish,N,07
+25,169264,White Icicle Radish,N,07
+25,169265,Winter Radish,N,07
+25,169266,Canadian Turnip,N,09
+25,169267,Chou-navet Jaune,N,09
+25,169268,Russian Turnnip,N,09
+25,169269,Swede Rutabaga,N,09
+25,169270,Swedish Turnip,N,09
+25,169271,Yellow Turnip,N,09
+25,169272,Black Salsify,N,10
+25,169273,Scorzonera,N,10
+25,169274,White Salsify,N,10
+25,169275,Asian Shallots,N,11
+25,169276,Baby Onion,N,11
+25,169277,Brittany Red Shallots,N,11
+25,169278,Dutch Red Shallots,N,11
+25,169279,Dutch Yellow Shallots,N,11
+25,169280,Echalion,N,11
+25,169281,Fermor Shallots,N,11
+25,169282,Jersey Half-Long Shallots,N,11
+25,169283,Long Onion,N,11
+25,169284,"Sweet Potato, Yams, Orange-Fleshed Sweet Potato",N,12
+25,169285,"Sweet Potato, Yams, Jewel Sweet Potato",N,12
+25,169286,"Sweet Potato, Yams, Garnet Sweet Potato",N,12
+25,169287,"Sweet Potato, Yams, Oriental Sweet Potato",N,12
+25,169288,"Sweet Potato, Yams, Japanese Sweet Potato",N,12
+25,169289,"Sweet Potato, Yams, Korean Sweet Potato",N,12
+25,169290,"Sweet Potato, Yams, Hayman Sweet Potato",N,12
+25,169291,"Sweet Potato, Yams, Purple Yam , Ube",N,12
+25,169292,"Sweet Potato, Yams, Purple Yam , Ratala",N,12
+25,169293,"Sweet Potato, Yams, Purple Yam , Kand",N,12
+25,169294,"Sweet Potato, Yams, Cushcush Yam",N,12
+25,169295,"Sweet Potato, Yams, Cushcush Yam, Mapuey",N,12
+25,169296,"Sweet Potato, Yams, ?ame Mapuey",N,12
+25,169297,"Sweet Potato, Yams, Aftrican White Yam",N,12
+25,169298,"Sweet Potato, Yams, Chinese Yams",N,12
+25,169299,"Sweet Potato, Yams, White Yam",N,12
+25,169300,"Sweet Potato, Yams, Water Yam",N,12
+25,169301,"Sweet Potato, Yams, Ghana Yam",N,12
+25,169302,"Sweet Potato, Yams, White Guinea Yam",N,12
+25,169303,"Sweet Potato Yams, ?ame Guineo",N,12
+25,169304,Tokyo-type Turnip,N,14
+25,169305,Ma Tai,N,15
+25,169306,Waterchestnut,N,15
+25,169307,Chinese Water Chestnut,N,15
+25,169308,Brazilian Arrowroot,N,16
+25,169309,Casava,N,16
+25,169310,Mandioca,N,16
+25,169311,Manioc,N,16
+25,169312,Tapioca Root,N,16
+25,169313,Yuca,N,16
+25,169314,Yuca Root,N,16
+25,169315,Yucca,N,16
+25,169316,Yucca Root,N,16
+25,169322,"Jimaca, Yam Bean",N,17
+25,169323,"Jicama, Dou Shu",N,17
+25,169324,"Jicama, Sha Got",N,17
+25,169325,"Jicama, Chop Suey Yam",N,17
+25,169326,"Jicama, Chopsui Potato",N,17
+25,169327,"Jicama, Singkamas",N,17
+25,169328,"Jicama, Mexican Yam Bean",N,17
+25,169329,"Jicama, Ahipa",N,17
+25,169330,"Jicama, Saa Got",N,17
+25,169331,"Jicama, Mexican Potato",N,17
+25,169332,"Jicama, Chinese Turnip",N,17
+25,169333,"Jicama, Chinese Potato",N,17
+25,169334,Great Burdock,N,22
+25,169335,Arbi,N,23
+25,169336,Arvi,N,23
+25,169337,Baddo,N,23
+25,169338,Coco,N,23
+25,169339,Cocoyam,N,23
+25,169340,Colocasia,N,23
+25,169341,Eddo,N,23
+25,169342,Eddoes,N,23
+25,169343,Elephant's Ear,N,23
+25,169344,Gabi,N,23
+25,169345,Japanese Potato,N,23
+25,169346,Malanga,N,23
+25,169347,Malanga Islena,N,23
+25,169348,Old Cocoyam,N,23
+25,169349,Patra,N,23
+25,169350,"Sato Imo (Japanese mellow-flavored tuber vegetable w/pale grey, smooth flesh & dark brown hairy skin",N,23
+25,169351,Satoimo,N,23
+25,169352,Tanier,N,23
+25,169353,Tannia,N,23
+25,169354,Tannier,N,23
+25,169355,Taro Root,N,23
+25,169356,Woo Tau,N,23
+25,169357,Yautia,N,23
+25,169358,Boilers,N,25
+25,169359,Cipolinne,N,25
+25,169360,Creamers,N,25
+25,169361,Grand Canyon Sweet (Red and Yellow),N,25
+25,169362,Italian Pearl Onion,N,25
+25,169363,Maui,N,25
+25,169364,Maui Sweet Onion,N,25
+25,169365,Mayan Sweet,N,25
+25,169366,Mexican Onion,N,25
+25,169367,Mini-Onion,N,25
+25,169368,Numex,N,25
+25,169369,OSO Sweet,N,25
+25,169370,Pearl Onion,N,25
+25,169371,Picklers,N,25
+25,169372,Sweet Imperial,N,25
+25,169373,"Texas Sweets (Yellow, Red, White)",N,25
+25,169374,Vidalia,N,25
+25,169375,Walla Walla,N,25
+25,169376,Asian Radish,N,26
+25,169377,Beauty Heart Radish,N,26
+25,169378,Green-skinned Asian Radish,N,26
+25,169379,Lo Bok,N,26
+25,169380,Lo Pak,N,26
+25,169381,Luo Boh,N,26
+25,169382,Moo,N,26
+25,169383,Mooli,N,26
+25,169384,Mu,N,26
+25,169385,Oriental Radish,N,26
+25,169386,White Asian Radish,N,26
+25,169387,White Asian Radish,N,26
+25,169388,Arrowroot,N,28
+25,169389,Chi Ku,N,28
+25,169390,Chinese Arrowhead,N,28
+25,169391,Chinese Potato,N,28
+25,169392,Ci Gu,N,28
+25,169393,Swamp Potato,N,28
+25,169394,Girasole,N,29
+25,169395,Sunchoke,N,29
+25,169396,Sunroot,N,29
+25,169397,Topinambour,N,29
+25,169398,Apio Amarillo,N,30
+25,169399,Arracacha,N,30
+25,169400,Peruvian Carrot,N,30
+25,169401,Peruvian Parsnip,N,30
+25,169402,"Ginseng, with Sauce (Root & Tuber Vegetable)",N,31
+25,169403,Gensing Root,N,31
+25,169404,Ren Shen,N,31
+25,169405,"Konjac, with Sauce (Root & Tuber Vegetable)",N,32
+25,169406,Konnyaku (Root & Tuber Vegetable),N,32
+25,169407,Japanese root vegetable similar to potato; used to make firm vegetable jelly,N,32
+25,169408,Sirataki,N,32
+25,169409,Sukiyaki,N,32
+25,169410,"Water Caltrop, with Sauce (Root & Tuber Vegetable)",N,33
+25,169411,"Ling Gok, Chinese Shiny Black Chestnut-Shaped Corn (Root and Tuber Vegetable)",N,33
+25,169412,"Chinese Chive, with Sauce (Root & Tuber Vegetable)",N,34
+25,169413,Chinese Chives Flower Stalk,N,34
+25,169414,Chinese Leek,N,34
+25,169415,Flowering Chinese Chive,N,34
+25,169416,Garlic Chive,N,34
+25,169417,Gil Choy,N,34
+25,169418,Gow Choy,N,34
+25,169419,Jiu Cai,N,34
+25,169420,Jiu Tsai,N,34
+25,169421,Kau Tsai,N,34
+25,169422,Ku Chai,N,34
+25,169423,Ndoh Dah,N,34
+25,169424,Nira,N,34
+25,169425,Oriental Chive,N,34
+25,169426,Oriental Leek,N,34
+25,169427,Yellow Chinese Chive,N,34
+25,169428,"Chives, with Sauce (Root & Tuber Vegetable)",N,35
+25,169429,"Ramps, with Sauce (Root & Tuber Vegetable)",N,36
+25,169430,Ramp,N,36
+25,169431,Wild Leek,N,36
+25,169432,Tennessee Truffle,N,36
+25,169433,Black Truffle,P,02
+25,169434,Chinese Truffle,P,02
+25,169435,Himalayan Truffle,P,02
+25,169436,Italian White Truffle,P,02
+25,169437,Oregon Black Truffle,P,02
+25,169438,Oregon White Truffle,P,02
+25,169439,Summer Truffle,P,02
+25,169440,Tuber Brumale,P,02
+25,169441,Tuscan Truffle,P,02
+25,169442,"Black Forest, Shiitake Mushrooms",P,04
+25,169443,"Black Mushroom, Shiitake Mushrooms",P,04
+25,169444,Black Oakwood,P,04
+25,169445,Chinese Black Mushrooms,P,04
+25,169446,Chinese Shiitake Mushrooms,P,04
+25,169447,Golden Oak,P,04
+25,169448,Oak Tree,P,04
+25,169449,"Oakwood, Shiitake Mushrooms",P,04
+25,169450,Black Morel,P,06
+25,169451,Golden Morel,P,06
+25,169452,Merkel,P,06
+25,169453,Morille,P,06
+25,169454,White Morel,P,06
+25,169455,Yellow Morel,P,06
+25,169456,African Red-Capped Chanterelle,P,07
+25,169457,Black Trumpet Chanterelle,P,07
+25,169458,Golden Chanterelle,P,07
+25,169459,Horn of Plenty Chanterelle,P,07
+25,169460,Trumpet Chanterelle,P,07
+25,169461,White Chanterelle,P,07
+25,169462,Ear Fungus,P,09
+25,169463,Jew's Ear,P,09
+25,169464,Kikurage,P,09
+25,169465,Mo-er,P,09
+25,169466,Mu-her,P,09
+25,169467,Tree Ear,P,09
+25,169468,Wood-Ear,P,09
+25,169469,"Enokitake Mushrooms, Whole (Button) (Fungi)",P,11
+25,169470,"Enokidake Mushrooms, Whole (Button) (Fungi)",P,11
+25,169471,"Enoki Mushrooms, Whole (Button) (Fungi)",P,11
+25,169472,"Winter Mushrooms, Whole (Button) (Fungi)",P,11
+25,169473,"Maitake Mushrooms, Whole (Button) (Fungi)",P,12
+25,169474,"Hen of the Woods Mushrooms, Whole (Button) (Fungi)",P,12
+25,169475,"Matsutake Mushrooms, Whole (Button) (Fungi)",P,13
+25,169476,"White Matsutake Mushrooms, Whole (Button) (Fungi)",P,13
+25,169477,"Pine Mushroom, Whole (Button) (Fungi)",P,13
+25,169478,"Tso Gu (dried Chinese grass mushrooms, have stronger fragrance than Chinese dried mushrooms)",P,14
+25,169479,Black Truffle,Q,02
+25,169480,Chinese Truffle,Q,02
+25,169481,Himalayan Truffle,Q,02
+25,169482,Italian White Truffle,Q,02
+25,169483,Oregon Black Truffle,Q,02
+25,169484,Oregon White Truffle,Q,02
+25,169485,Summer Truffle,Q,02
+25,169486,Tuber Brumale,Q,02
+25,169487,Tuscan Truffle,Q,02
+25,169503,"Black Forest, Shiitake Mushrooms",Q,04
+25,169504,"Black Mushroom, Shiitake Mushrooms",Q,04
+25,169505,Black Oakwood,Q,04
+25,169506,Chinese Black Mushrooms,Q,04
+25,169507,Chinese Shiitake Mushrooms,Q,04
+25,169508,Golden Oak,Q,04
+25,169509,Oak Tree,Q,04
+25,169510,"Oakwood, Shiitake Mushrooms",Q,04
+25,169511,Black Morel,Q,06
+25,169512,Golden Morel,Q,06
+25,169513,Merkel,Q,06
+25,169514,Morille,Q,06
+25,169515,White Morel,Q,06
+25,169516,Yellow Morel,Q,06
+25,169517,African Red-Capped Chanterelle,Q,07
+25,169518,Black Trumpet Chanterelle,Q,07
+25,169519,Golden Chanterelle,Q,07
+25,169520,Horn of Plenty Chanterelle,Q,07
+25,169521,Trumpet Chanterelle,Q,07
+25,169522,White Chanterelle,Q,07
+25,169523,Yellow-footed Chanterelle,Q,07
+25,169524,Ear Fungus,Q,09
+25,169525,Jew's Ear,Q,09
+25,169526,Kikurage,Q,09
+25,169527,Mo-er,Q,09
+25,169528,Mu-her,Q,09
+25,169529,Tree Ear,Q,09
+25,169530,Wood-Ear,Q,09
+25,169531,"Maitake Mushrooms,",Q,11
+25,169532,Hen of the Woods,Q,11
+25,169533,Matsutake (large Japanese mushroom that is sold canned),Q,12
+25,169534,White Matsutake,Q,12
+25,169535,Pine Mushroom,Q,12
+25,169536,"Tso Gu (dried Chinese grass mushrooms, have stronger fragrance than Chinese dried mushrooms)",Q,13
+25,169537,Enokitake,Q,14
+25,169538,Enoki Mushroom,Q,14
+25,169539,Enokidake,Q,14
+25,169540,"Enokitake, Enoki",Q,14
+25,169541,Winter Mushroom,Q,14
+25,169542,Black Truffle,R,02
+25,169543,Chinese Truffle,R,02
+25,169544,Himalayan Truffle,R,02
+25,169545,Italian White Truffle,R,02
+25,169546,Oregon Black Truffle,R,02
+25,169547,Oregon White Truffle,R,02
+25,169548,Summer Truffle,R,02
+25,169549,Tuber Brumale,R,02
+25,169550,Tuscan Truffle,R,02
+25,169551,"Black Forest, Shiitake Mushrooms",R,04
+25,169552,"Black Mushroom, Shiitake Mushrooms",R,04
+25,169553,Black Oakwood,R,04
+25,169554,Chinese Black Mushrooms,R,04
+25,169555,Chinese Shiitake Mushrooms,R,04
+25,169556,Golden Oak,R,04
+25,169557,Oak Tree,R,04
+25,169558,"Oakwood, Shiitake Mushrooms",R,04
+25,169559,Black Morel,R,06
+25,169560,Golden Morel,R,06
+25,169561,Merkel,R,06
+25,169562,Morille,R,06
+25,169563,White Morel,R,06
+25,169564,Yellow Morel,R,06
+25,169565,African Red-Capped Chanterelle,R,07
+25,169566,Black Trumpet Chanterelle,R,07
+25,169567,Golden Chanterelle,R,07
+25,169568,Horn of Plenty Chanterelle,R,07
+25,169569,Trumpet Chanterelle,R,07
+25,169570,White Chanterelle,R,07
+25,169571,Yellow-footed Chanterelle,R,07
+25,169572,Ear Fungus,R,09
+25,169573,Jew's Ear,R,09
+25,169574,Kikurage,R,09
+25,169575,Mo-er,R,09
+25,169576,Mu-her,R,09
+25,169577,Tree Ear,R,09
+25,169578,Wood-Ear,R,09
+25,169579,"Mushrooms, Maitake",R,11
+25,169580,Hen of the Woods,R,11
+25,169581,Matsutake (large Japanese mushroom that is sold canned),R,12
+25,169582,White Matsutake,R,12
+25,169583,Pine Mushroom,R,12
+25,169584,"Tso Gu (dried Chinese grass mushrooms, have stronger fragrance than Chinese dried mushrooms)",R,13
+25,169585,Enokitake,R,14
+25,169586,Enoki Mushroom,R,14
+25,169587,Enokidake,R,14
+25,169588,"Enokitake, Enoki",R,14
+25,169589,Winter Mushroom,R,14
+25,169590,Black Truffle,S,02
+25,169591,Chinese Truffle,S,02
+25,169592,Himalayan Truffle,S,02
+25,169593,Italian White Truffle,S,02
+25,169594,Oregon Black Truffle,S,02
+25,169595,Oregon White Truffle,S,02
+25,169596,Summer Truffle,S,02
+25,169597,Tuber Brumale,S,02
+25,169598,Tuscan Truffle,S,02
+25,169599,"Black Forest, Shiitake Mushrooms",S,04
+25,169600,"Black Mushroom, Shiitake Mushrooms",S,04
+25,169601,Black Oakwood,S,04
+25,169602,Chinese Black Mushrooms,S,04
+25,169603,Chinese Shiitake Mushrooms,S,04
+25,169604,Golden Oak,S,04
+25,169605,Oak Tree,S,04
+25,169606,"Oakwood, Shiitake Mushrooms",S,04
+25,169607,Black Morel,S,06
+25,169608,Golden Morel,S,06
+25,169609,Merkel,S,06
+25,169610,Morille,S,06
+25,169611,White Morel,S,06
+25,169612,Yellow Morel,S,06
+25,169662,African Red-Capped Chanterelle,S,07
+25,169663,Black Trumpet Chanterelle,S,07
+25,169664,Golden Chanterelle,S,07
+25,169665,Horn of Plenty Chanterelle,S,07
+25,169666,Trumpet Chanterelle,S,07
+25,169667,White Chanterelle,S,07
+25,169668,Yellow-footed Chanterelle,S,07
+25,169669,Ear Fungus,S,09
+25,169670,Jew's Ear,S,09
+25,169671,Kikurage,S,09
+25,169672,Mo-er,S,09
+25,169673,Mu-her,S,09
+25,169674,Tree Ear,S,09
+25,169675,Wood-Ear,S,09
+25,169676,"Mushrooms, Maitake",S,11
+25,169677,Hen of the Woods,S,11
+25,169678,Matsutake (large Japanese mushroom that is sold canned),S,12
+25,169679,White Matsutake,S,12
+25,169680,Pine Mushroom,S,12
+25,169681,"Tso Gu (dried Chinese grass mushrooms, have stronger fragrance than Chinese dried mushrooms)",S,13
+25,169682,Enokitake,S,14
+25,169683,Enoki Mushroom,S,14
+25,169684,Enokidake,S,14
+25,169685,"Enokitake, Enoki",S,14
+25,169686,Winter Mushroom,S,14
+25,173194,Yams (Root & Tuber Vegetable),J,37
+25,173195,"White, Yams",J,37
+25,173196,"Purple, Ube, Yams",J,37
+25,173197,"Cush Cush, Yams",J,37
+25,173198,Chinese Yams,J,37
+25,173199,"White Guinea, Yams",J,37
+25,173200,Water Yams,J,37
+25,173201,"Mapuey, Yams",J,37
+25,173202,"Sweet Potato, Boniato-Type, Breaded",K,12
+25,173203,"Yams, Breaded (Root & Tuber Vegetable)",K,37
+25,173291,"Yams, Dried or Paste (Root & Tuber Vegetable)",L,37
+25,173292,"Chinese Yams, Dried or Paste",L,37
+25,173293,"Cush Cush Yams, Dried or Paste",L,37
+25,173294,"Mapuey, Yams, Dried or Paste",L,37
+25,173295,"Purple, Ube, Yams, Dried or Paste",L,37
+25,173296,"Water Yams, Dried or Paste",L,37
+25,173297,"White Guinea, Yams, Dried or Paste",L,37
+25,173298,"White Yams, Dried or Paste",L,37
+25,173299,"Chinese Yams, Breaded (Root & Tuber Vegetables",K,37
+25,173300,"Cush Cush, Yams, Breaded (Root & Tuber Vegetable)",K,37
+25,173301,"Mapuey, Yams, Breaded (Root & Tuber Vegetable)",K,37
+25,173302,"Purple, Ube, Yams, Breaded (Root & Tuber Vegetable)",K,37
+25,173303,"Water Yams, Breaded (Root & Tuber Vegetable)",K,37
+25,173304,"White Guinea, Yams, Breaded (Root & Tuber Vegetable)",K,37
+25,173305,"White Yams, Breaded (Root & Tuber Vegetable)",K,37
+25,173516,Carrots and Green Beans (Stringbeans)   (Microgreen),I,01
+25,173517,Carrots and Peas (Sweet)   (Microgreen),I,02
+25,173518,Corn and Peppers   (Microgreen),I,03
+25,173519,"Corn, Okra and Tomatoes  (Microgreen)",I,04
+25,173520,Corn and Tomatoes  (Microgreen),I,05
+25,173521,Cucumbers and Onions   (Microgreen),I,06
+25,173522,Cucumbers and Tomatoes  (Microgreen),I,07
+25,173523,Green Beans and Potatoes   (Microgreen),I,08
+25,173524,Okra and Tomatoes   (Microgreen),I,09
+25,173525,Peas and Potatoes   (Microgreen),I,10
+25,173526,Peas and Onions   (Microgreen),I,11
+25,173527,Succotash (Beans and Corn)   (Microgreen),I,12
+25,173528,Kimchi  (Microgreen),I,13
+25,173529,Tzahp Choy (Chinese Canned Sweet Pickles made from Mixed Vegetables)  (Microgreen),I,14
+25,173530,Tropical Mixed Vegetables  (Microgreen),I,15
+25,173531,Asian Mix (Microgreen),I,16
+25,173532,Basil  Mix (Microgreen),I,17
+25,173533,Burpee's Mix (Microgreen),I,18
+25,173534,Fiery Mix (Microgreen),I,19
+25,173535,Merlot Mix (Microgreen),I,20
+25,173536,Mesculin Mix (Microgreen),I,21
+25,173537,Rainbow Mix (Microgreen),I,22
+25,173538,Sakura Mix (Microgreen),I,23
+25,173539,Savory Mix,I,24
+25,173540,Spicey Picante Mix (Microgreen),I,25
+25,173541,Vegi Mix (Microgreen),I,26
+25,173542,Fresh Shredded Mixed Vegetables for Salads  (Microgreen),I,95
+25,173543,"Mixed Vegetables, N.E.C. (Microgreen)",I,99
+25,173544,Carrot  (Microgreen),T,01
+25,173545,Horseradish  (Microgreen),T,02
+25,173546,Leek (a Type of Onion)   (Microgreen),T,03
+25,173547,"Scallions, Green Onions   (Microgreen)",T,04
+25,173548,Parsnip  (Microgreen),T,05
+25,173549,Potato  (Microgreen),T,06
+25,173550,Radish  (Microgreen),T,07
+25,173551,Red Beet  (Microgreen),T,08
+25,173552,Rutabaga  (Microgreen),T,09
+25,173553,Salsify (Oyster Plant)   (Microgreen),T,10
+25,173554,Shallot (Onion)  (Microgreen),T,11
+25,173555,Sweet Potato  (Microgreen),T,12
+25,173556,Sugar Beet  (Microgreen),T,13
+25,173557,Turnip  (Microgreen),T,14
+25,173558,Water Chestnut  (Microgreen),T,15
+25,173559,Cassava  (Microgreen),T,16
+25,173560,Jicama   (Microgreen),T,17
+25,173561,Lotus Root  (Microgreen),T,18
+25,173562,"Lily (Flower, Bulb, Stem)   (Microgreen)",T,19
+25,173563,Chicory Root  (Microgreen),T,20
+25,173564,Garlic Bulb   (Microgreen),T,21
+25,173565,"Burdock, Gobo  (Microgreen)",T,22
+25,173566,"Taro, Dasheen  (Microgreen)",T,23
+25,173567,Ginger Root  (Microgreen),T,24
+25,173568,"Onion Bulb (Yellow, White, Red, Etc.)  (Microgreen)",T,25
+25,173569,Chinese Radish (Daikon)  (Microgreen),T,26
+25,173570,White Radish  (Microgreen),T,27
+25,173571,Arrowhead  (Microgreen),T,28
+25,173572,Jerusalem Artichoke  (Microgreen),T,29
+25,173573,"Apio, Spanish Celery  (Microgreen)",T,30
+25,173574,Ginseng  (Microgreen),T,31
+25,173575,Konjac  (Microgreen),T,32
+25,173576,Water Caltrop  (Microgreen),T,33
+25,173577,Chinese Chive  (Microgreen),T,34
+25,173578,Chives  (Microgreen),T,35
+25,173579,Ramps  (Microgreen),T,36
+25,173580,Yams  (Microgreen),T,37
+25,173581,"Root & Tuber Vegetable, N.E.C. (Microgreen)",T,99
+25,173658,"Oyster Mushrooms, Whole (Button) (Fungi)",P,15
+25,173661,"Oyster Mushrooms,Fungi, Pieces and Stems, Sliced",Q,15
+25,173662,"Oyster Mushrooms,Fungi, Broken or Kibbled",R,15
+25,173663,"Oyster Mushrooms,Fungi Products,N.E.C.",S,15
+25,174584,Corn Smut,S,16
+25,174585,Huitlacoche,S,16
+25,176206,Seafood mushroom,P,11
+25,176208,Seafood Mushroom,Q,14
+25,176209,Seafood Mushroom,R,14
+25,176210,Seafood Mushroom,S,14
+25,176959,"Mushroom, Shimeji (Beech), Whole (Button) (Fungi)",P,17
+25,176960,"Mushroom, Shimeji (Beech), Fungi, Pieces and Stems, Sliced",Q,17
+25,176961,"Mushroom, Shimeji (Beech), Fungi, Broken or Kibbled",R,17
+25,176962,"Mushroom, Shimeji (Beech), Fungi Products, N.E.C.",S,17

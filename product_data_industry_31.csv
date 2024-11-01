@@ -1,0 +1,97 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+31,2030,"Coffee, Beans",A,01
+31,2031,Chicory (Root) Powder (Cofffee Substitute),E,01
+31,2032,"Tea, Black",K,01
+31,2034,"Coffee, Ground",A,02
+31,2035,Chicory-Coffee Mixtures  (Coffee Substitute),E,02
+31,2036,"Tea, Green",K,02
+31,2037,"Tea, Mint  (Tea Substitute)",P,02
+31,2038,"Coffee, Instant",A,03
+31,2039,"Roast Cereal (Postum, Etc.)  (Coffee Substitute)",E,03
+31,2040,"Tea, Oolong",K,03
+31,2041,"Tea, Sassafras  (Tea Substitute)",P,03
+31,2042,"Tea, Mixed (Green and Black, Etc.)",K,04
+31,2043,"Tea, Camomille, Chamomile  (Tea Substitute)",P,04
+31,2044,"Tea, Spice",K,05
+31,2046,"Tea, Scented",K,06
+31,2047,"Tea, Rose Hip  (Tea Substitute)",P,06
+31,2049,"Tea, Liquid",K,20
+31,2050,"Tea, Instant, Plain",K,30
+31,2051,"Tea, Instant Mix (with Lemon, Sugar, Etc.)",K,40
+31,2052,"Coffee, N.E.C.",A,99
+31,2053,"Coffee Substitutes, N.E.C.",E,99
+31,2054,"Tea, N.E.C.",K,99
+31,2055,"Tea Substitutes, N.E.C.",P,99
+31,24642,"Coffee, Beans, Decaffeinated",B,01
+31,24643,"Coffee, Ground, Decaffeinated",B,02
+31,24644,"Coffee, Instant, Decaffeinated",B,03
+31,24645,"Coffee, Decaffeinated, N.E.C.",B,99
+31,24646,"Tea, Black, Decaffeinated",L,01
+31,24647,"Tea, Green, Decaffeinated",L,02
+31,24648,"Tea, Oolong, Decaffeinated",L,03
+31,24649,"Tea, Mixed (Green and Black, Etc.), Decaffeinated",L,04
+31,24650,"Tea, Spice, Decaffeinated",L,05
+31,24651,"Tea, Scented, Decaffeinated",L,06
+31,24652,"Tea, Liquid, Decaffeinated",L,20
+31,24653,"Tea, Instant, Plain, Decaffeinated",L,30
+31,24654,"Tea, Instant Mix (with Lemon, Sugar, Etc.), Decaffeinated",L,40
+31,24655,"Tea, Decaffeinated, N.E.C.",L,99
+31,25161,"Tea, Barley  (Tea Substitute)",P,99
+31,25456,Bancha (Japanese tea of ground stems and leaves),K,99
+31,25484,Cajnij (East Asia beverage made by fermentation of tea extracts),K,99
+31,25530,"Genmai Cha (Japanese tea made from green tea leaves and roasted rice kernels, smokey flavor & aroma)",K,99
+31,25561,"Mugi Cha (Japanese roasted barley tea, called bori cha in Korea)",P,99
+31,25575,"Nihon-Cha (Japanese tea made from unprocessed young green leaves, drunk daily)",K,99
+31,25579,Ocha (popular Japanese green tea),K,02
+31,25654,"Iron Kuan Yin (Chinese naturally fragrant black tea w/stiff shiny leaves, keeps fresh for years)",K,01
+31,25722,Tea Fungus (fermented Russian beverage made of tea extracts),K,99
+31,25723,"Teekvass (fermented beverage from extracts of tea; produced in Russia, Eastern Europe Germany Tibet)",K,99
+31,25766,Kombucha (Tibetan fermented beverage made of tea extracts),K,99
+31,25811,Matcha (Japanese bright green tea powder from ground leaf tips),K,99
+31,163883,Green Tea,K,02
+31,163884,Green Tea Extract,K,02
+31,163885,Green Sencha Tea,K,02
+31,163886,Camellia theifera,K,02
+31,163887,Thea bohea,K,02
+31,163888,Thea viridis,K,02
+31,163889,Camellia senensis,K,02
+31,163890,Camellia thea,K,02
+31,163891,"Green Tea, Decaffeinated",L,02
+31,163892,"Green Tea Extract, Decaffeinated",L,02
+31,163893,"Green Sencha Tea, Decaffeinated",L,02
+31,163894,"Japanese Tea, Decaffeinated",L,02
+31,163895,"Camellia thea, Decaffeinated",L,02
+31,163896,"Camellia theifera, Decaffeinated",L,02
+31,163897,"Thea senensis, Decaffeinated",L,02
+31,163898,"Thea viridis, Decaffeinated",L,02
+31,163899,"Camellia sinensis, Decaffeinated",L,02
+31,163900,"Thea bohea, Decaffeinated",L,02
+31,167622,Hemp Coffee,E,04
+31,167623,Dandelion (Root) Coffee,E,05
+31,167624,"Herbal Coffee (Blend of herbs, grains, fruits and nuts)",E,06
+31,167625,Coffee Drink,G,01
+31,167626,Flavored Coffee Drink,G,02
+31,167627,"Coffee Ready to Drink, N.E.C.",G,99
+31,167628,"Tea, White",K,42
+31,167629,"Tea, Red",K,43
+31,167630,"Tea, White, Decaffeinated",L,42
+31,167631,"Tea, Red, Decaffeinated",L,43
+31,167632,"Tea With Fruit (peels, chunks, bits or pieces)",M,01
+31,167633,Tea With Extracts or Concentrates,M,02
+31,167634,"Tea With Nuts or Seeds (pieces, slivers, etc.)",M,03
+31,167635,"Tea With Vegetables (peels, chunks, bits or pieces)",M,04
+31,167636,"Tea With Whole Grains or Starch (peels, chunks, bits or pieces)",M,05
+31,167637,Wheat Tea,M,06
+31,167638,"Bojenmi Tea (crataegus, malt, pharbitis, pogostemon, hoelen, citrus, alisma, cassia, phaseolus, she-",M,07
+31,167639,"Woo Doo Meal Tea (Beans, barley, pine nuts and walnuts)",M,08
+31,167640,Corni Fructus Tea (Corni Fructus and Chinese Quince),M,09
+31,167641,Corn and Barley Tea,M,10
+31,167642,"Blended Teas, N.E.C.",M,99
+31,167678,Bubble Tea,N,01
+31,167679,Coca Tea (tea with chocolate flavor),N,02
+31,167680,Tea with Honey,N,03
+31,167681,"Kohyang Yulmuch Tea (adlay flour, soybean powder, barley flour)",N,04
+31,167682,Lasi Tea (south asian tea with fermented goat or cow's milk),N,05
+31,167684,"Novelty Teas, N.E.C.",N,99
+31,167685,Seaweed,P,10
+31,167686,Bird's Nest Tea (bird's nest and white fungus from china),P,11

@@ -1,0 +1,510 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+75,19673,"Zimmerman (Spectrophotometric), 17-Ketosteroids",C,CY
+75,19674,"Zimmerman/Norymberski, 17-Ketogenic Steroids",C,CZ
+75,19675,"Acid, Nitrous and Nitrosonaphthol, 5-Hydroxyindole Acetic Acid/Serotonin",C,DA
+75,19676,"Porter Silber Hydrazone, 17-Hydroxycorticosteroids",C,DB
+75,19677,"L-Leucyl B-Naphthylamide, Leucine Aminopeptidase",C,DC
+75,19678,"Radioassay, Vitamin B12",C,DD
+75,19679,"Chromatographic Separation/Zimmerman, 17-Ketosteroids",C,DE
+75,19680,"Acid, Vanilmandelic, Diazo, P-Nitroaniline/Vanillin",C,DF
+75,19681,Chromatography Separation/Zimmerman 17-Ketogenic Steroids,C,DG
+75,19682,"Acid, Uric, Phosphotungstate Reduction",C,DH
+75,19683,"Acid, Vanilmandelic, Electrophoretic Separation",C,DK
+75,19684,"Berthelot Indophenol, Urea Nitrogen",C,DL
+75,19685,"Diazonium Colorimetry, Urobilinogen (Urinary, Non-Quant.)",C,DM
+75,19686,"Urease, Photometric, Urea Nitrogen",C,DN
+75,19687,"Acid, Uric, Uricase (U.V.)",C,DO
+75,19688,"Radioimmunoassay, Total Triiodothyronine",C,DP
+75,19689,"Urease And Glutamic Dehydrogenase, Urea Nitrogen",C,DQ
+75,19690,"1-Nitroso-2-Naphthol (Fluorometric), Free Tyrosine",C,DR
+75,19691,"Electrode, Ion Specific, Urea Nitrogen",C,DS
+75,19692,"Lipase Hydrolysis/Glycerol Kinase Enzyme, Triglycerides",C,DT
+75,19693,"Diacetyl-Monoxime, Urea Nitrogen",C,DW
+75,19694,"Radioimmunoassay, Total Thyroxine",C,DX
+75,19695,"Radioimmunoassay, Testosterones And Dihydrotestosterone",C,DZ
+75,19696,Tlc Chromatographic Separation Triglycerides,C,EA
+75,19697,"Radioimmunoassay, Free Thyroxine",C,EC
+75,19698,"5-Amp-Phosphate Release (Colorimetric Test), 5'-Nucleotidase",C,ED
+75,19699,"Radioimmunoassay, Thyroxine-Binding Globulin",C,EE
+75,19700,"Electrophoretic, Protein Fractionation",C,EF
+75,19701,"Uranyl Acetate/Zinc Acetate, Sodium",C,EI
+75,19702,"Tetraphenyl Borate, Colorimetry, Potassium",C,EJ
+75,19703,"Biuret (Colorimetric), Total Protein",C,EK
+75,19704,"Ammonium Molybdate And Ammonium Vanadate, Phospholipids",C,EL
+75,19705,"Electrode, Ion Specific, Potassium",C,EM
+75,19706,"Dye-Indicator, Ph (Urinary, Non-Quant.)",C,EN
+75,19707,"Phosphomolybdate (Colorimetric), Inorganic Phosphorus",C,EO
+75,19708,"Radioimmunoassay, Luteinizing Hormone",C,EP
+75,19709,"Molybdenum Blue Method, Phospholipids",C,EQ
+75,19710,"2,4-Dinitrophenylhydrazine, Lactate Dehydrogenase",C,ER
+75,19711,"Chromogenesis, Phenylketones (Urinary, Non-Quant.)",C,ES
+75,19712,"Olive Oil Emulsion (Turbidimetric), Lipase",C,ET
+75,19713,"Radioimmunoassay, Parathyroid Hormone",C,EW
+75,19714,"Chromatographic Separation, Lactate Dehydrogenase Isoenzymes",C,EX
+75,19715,"Electrode, Ion Specific, Magnesium",C,FA
+75,19716,"Chromatographic Derivative, Total Lipids",C,FB
+75,19717,"Sulfophosphovanillin, Colorimetry, Total Lipids",C,FD
+75,19718,"Electrophoretic, Lactate Dehydrogenase Isoenzymes",C,FE
+75,19720,"Oil Emulsion/Thymolphthalein (Titrimetric), Lipase",C,FG
+75,19721,"Tetrazolium Int Dye-Diaphorase, Lactate Dehydrogenase",C,FH
+75,19722,"Nad Reduction/Nadh Oxidation, Lactate Dehydrogenase",C,FJ
+75,19723,"Radioimmunoassay, Human Growth Hormone",C,FL
+75,19724,"Bathophenanthroline, Colorimetry, Iron (Non-Heme)",C,FM
+75,19726,"Titrimetric, Magnesium",C,FO
+75,19727,"Radioimmunoassay, Immunoreactive Insulin",C,FP
+75,19729,"Hexokinase, Glucose",C,FR
+75,19730,"Radioimmunoassay, Prolactin (Lactogen)",C,FT
+75,19731,"Copper Reduction, Glucose",C,FW
+75,19732,"Glucose Oxidase, Glucose",C,GA
+75,19733,"Radioimmunoassay, Gastrin",C,GC
+75,19734,"Ferricyanide, Glucose",C,GD
+75,19735,"Orthotoluidine, Glucose",C,GE
+75,19736,"Radioimmunoassay, Estrone",C,GF
+75,19737,"Electrophoretic, Globulin",C,GH
+75,19738,"Radioimmunoassay, Estriol",C,GI
+75,19739,"Radioimmunoassay, Follicle-Stimulating Hormone",C,GJ
+75,19740,"Electrode, Ion Based, Enzymatic, Creatinine",C,GL
+75,19742,"Acid, Folic, Radioimmunoassay",C,GN
+75,19743,"Lieberman-Burchard/Abell-Kendall, Colorimetric, Cholesterol",C,GO
+75,19744,"Radioimmunoassay, Cortisol",C,GR
+75,19745,"Nad Reduction/Nadh Oxidation, Cpk Or Isoenzymes",C,GS
+75,19746,"Radioimmunoassay, Cyclic Gmp",C,GT
+75,19747,"Alkaline Picrate, Colorimetry, Creatinine",C,GX
+75,19748,"Electrode, Ion-Specific, Chloride",C,GZ
+75,19749,"Radioimmunoassay, Corticosterone",C,HA
+75,19750,"Titrimetric Permanganate And Bromophenol Blue, Calcium",C,HC
+75,19751,"Acid, Ferric Ion-Sulfuric, Cholesterol",C,HD
+75,19752,"Radioimmunoassay, Corticoids",C,HE
+75,19753,"Acid, Phosphoric-Tungstic (Spectrophotometric), Chloride",C,HG
+75,19754,"Enzymatic Esterase--Oxidase, Cholesterol",C,HH
+75,19755,"Lipase-Esterase, Enzymatic, Photometric, Lipase",C,HI
+75,19756,"Mercuric Thiocyanate, Colorimetry, Chloride",C,HJ
+75,19757,"Mercuric Nitrate And Diphenyl Carbazone (Titrimetric), Chloride",C,HK
+75,19758,"Electrode Measurement, Blood-Gases (Pco2, Po2) And Blood Ph",C,HL
+75,19759,"Radioimmunoassay, Total Estrogens In Pregnancy",C,HM
+75,19761,"Radioimmunoassay, Cyclic Amp",C,HO
+75,19762,"Radioimmunoassay, Estradiol",C,HP
+75,19763,"Chromatographic/Fluorometric Method, Catecholamines",C,HQ
+75,19764,"Titrimetric Phenol Red, Carbon-Dioxide",C,HR
+75,19765,"Coulometric Method, Carbon-Dioxide",C,HS
+75,19766,"Electrophoretic Method, Catecholamines",C,HT
+75,19767,"Titrimetric With Edta And Indicator, Calcium",C,HW
+75,19768,"Di (O-Hydroxyphenylimine) Ethane, Calcium",C,HZ
+75,19769,"Methylthymol Blue, Calcium",C,IA
+75,19770,"Radioimmunoassay, Angiotensin I And Renin",C,IB
+75,19771,"Cresolphthalein Complexone, Calcium",C,IC
+75,19772,"Alizarin Sulfonate, Calcium",C,ID
+75,19773,"Volumetric/Manometric, Carbon-Dioxide",C,IE
+75,19774,"Vanillin Pyruvate, Ast/Sgot",C,IF
+75,19775,"Diazo Colorimetry, Bilirubin",C,IG
+75,19776,"Saccharogenic, Amylase",C,IJ
+75,19777,"Radial Diffusion, Amylase",C,IK
+75,19778,"Cresol Red Colorimetry, Carbon-Dioxide",C,IL
+75,19779,"Electrophoretic Separation, Alkaline Phosphatase Isoenzymes",C,IN
+75,19780,"Thymolphthalein Monophosphate, Alkaline Phosphatase Or Isoenzymes",C,IO
+75,19781,"Diazo, Ast/Sgot",C,IQ
+75,19782,"Hydrazone Colorimetry, Ast/Sgot",C,IS
+75,19783,"Nadh Oxidation/Nad Reduction, Ast/Sgot",C,IT
+75,19784,"Starch-Dye Bound Polymer, Amylase",C,IW
+75,19785,"Bromcresol Green Dye-Binding, Albumin",C,IX
+75,19786,"Radioimmunoassay, Androsterone",C,IY
+75,19787,"Radioimmunoassay, Androstenedione",C,IZ
+75,19788,"Amyloclastic, Amylase",C,JA
+75,19789,"Chromatographic Separation/Radioimmunoassay, Aldosterone",C,JB
+75,19790,"Fructose-1, 6-Diphosphate And Nadh (U.V.), Aldolase",C,JC
+75,19791,"Nitrosalicylate Reduction, Amylase",C,JD
+75,19792,"Nitrophenylphosphate, Alkaline Phosphatase Or Isoenzymes",C,JE
+75,19793,"Tetrabromophenolphthalein, Albumin",C,JF
+75,19794,"Tetrabromo-M-Cresolsulfonphthalein, Albumin",C,JG
+75,19795,"Thymol Blue Monophosphate, Alkaline Phosphatase Or Isoenzymes",C,JH
+75,19796,"Disodium Phenylphosphate, Alkaline Phosphatase Or Isoenzymes",C,JI
+75,19797,"Diazo, Alt/Sgpt",C,JJ
+75,19798,"Phenolphthalein Phosphate, Alkaline Phosphatase Or Isoenzymes",C,JK
+75,19799,"Beta Glycerophosphate, Alkaline Phosphatase Or Isoenzymes",C,JL
+75,19800,"Radioimmunoassay, Aldosterone",C,JM
+75,19801,"Acid Phosphatase, Nitrophenylphosphate",C,JN
+75,19802,"Alpha-Naphthyl Phosphate, Alkaline Phosphatase Or Isoenzymes",C,JO
+75,19803,"Radial Immunodiffusion, Albumin",C,JQ
+75,19804,"Acid Phosphatase, Thymol Blue Monophosphate",C,JR
+75,19805,"Hydrazone Colorimetry, Aldolase",C,JT
+75,19806,"Bromcresol Purple Dye-Binding, Albumin",C,JW
+75,19807,"Acid Phosphatase, Disodium Phenylphosphate",C,JX
+75,19808,"Azo Dye, Calcium",C,JY
+75,19809,"Hydroxyazobenzene-Benzoic Acid, Albumin",C,JZ
+75,19810,"Nadh Oxidation/Nad Reduction, Alt/Sgpt",C,KA
+75,19811,"Acid Phosphatase, Naphthyl Phosphate",C,KB
+75,19812,"Vanillin Pyruvate, Alt/Sgpt",C,KC
+75,19813,"Hydrazone Colorimetry, Alt/Sgpt",C,KD
+75,19814,"Acid Phosphatase, Thymolphthale Inmonophosphate",C,KE
+75,19815,"Phenylphosphate, Alkaline Phosphatase Or Isoenzymes",C,KF
+75,19816,"Radioimmunoassay, Acth",C,KG
+75,19817,"Acid Phosphatase, Beta Glycerophosphate",C,KH
+75,19957,"System, Test, Human Chorionic Gonadotropin",D,HA
+75,21099,"Tubes, Vacuum Sample, With Anticoagulant",G,IM
+75,21109,"Tray, Blood Collection",G,JE
+75,21139,"Mixer, Blood Tube",G,LE
+75,22212,"Timer, General Laboratory",J,BS
+75,22277,"Acid Phosphatase (Prostatic), Tartrate Inhibited",J,FH
+75,22278,"Catalytic Methods, Amylase",J,FJ
+75,22279,"Ph Rate Measurement, Carbon-Dioxide",J,FL
+75,22280,"Enzymatic Method, Bilirubin",J,FM
+75,22281,"Atomic Absorption, Calcium",J,FN
+75,22282,"Fluorometric, Calcium",J,FO
+75,22283,"Electrode, Ion Specific, Calcium",J,FP
+75,22286,"Coulometric, Chloride",J,FS
+75,22287,"Fluorometric, Cortisol",J,FT
+75,22288,"Enzymatic Method, Creatinine",J,FY
+75,22289,"Tryptophan Measurement (Colorimetric), Globulin",J,GC
+75,22290,"Nephelometric Method, Globulin",J,GD
+75,22291,"Turbidimetric Method, Globulin",J,GE
+75,22292,"Differential Rate Kinetic Method, Lactate Dehydrogenase Isoenzymes",J,GF
+75,22293,"L-Leucine-4-Nitroanilide (Colorimetric), Leucine Arylamidase",J,GG
+75,22294,"Atomic Absorption, Magnesium",J,GI
+75,22295,"Photometric Method, Magnesium",J,GJ
+75,22296,"Ferric Chloride, Phenylketones (Urinary, Non-Quant.)",J,GK
+75,22297,"Flame Photometry, Potassium",J,GM
+75,22298,"Lowry (Colorimetric), Total Protein",J,GP
+75,22299,"Turbidimetric, Total Protein",J,GQ
+75,22300,"Refractometric, Total Protein",J,GR
+75,22301,"Electrode, Ion Specific, Sodium",J,GS
+75,22302,"Flame Photometry, Sodium",J,GT
+75,22303,"Fluorometric Method, Triglycerides",J,GW
+75,22304,"Turbidimetric Method, Triglycerides",J,GX
+75,22305,"Colorimetric Method, Triglycerides",J,GY
+75,22306,"O-Phthalaldehyde, Urea Nitrogen",J,GZ
+75,22307,"Acid, Uric, Uricase (Gasometric)",J,HA
+75,22309,"Acid, Uric, Uricase (Oxygen Rate)",J,HC
+75,22310,"Fluorometric Method, 17-Hydroxycorticosteroids",J,HD
+75,22311,"Radioassay, 17-Hydroxycorticosteroids",J,HE
+75,22312,"Colorimetric Method, Lecithin/Sphingomyelin Ratio",J,HF
+75,22313,"Chromatographic Separation, Lecithin/Sphingomyelin Ratio",J,HG
+75,22314,"Electrophoretic Method, Lecithin/Sphingomyelin Ratio",J,HH
+75,22315,"Radioimmunoassay, Human Chorionic Gonadotropin",J,HI
+75,22316,"Agglutination Method, Human Chorionic Gonadotropin",J,HJ
+75,22317,"Microdensitometry Method, Lipoproteins",J,HL
+75,22318,"Colorimetric Method, Lipoproteins",J,HM
+75,22319,"Turbidimetric Method, Lipoproteins",J,HN
+75,22320,"Electrophoretic Separation, Lipoproteins",J,HO
+75,22321,"Radial Immunodiffusion, Lipoproteins",J,HP
+75,22322,"Nephelometric Method, Lipoproteins",J,HQ
+75,22324,"Differential Rate Kinetic Method, Cpk Or Isoenzymes",J,HS
+75,22325,"Chromatographic Separation, Cpk Isoenzymes",J,HT
+75,22326,"U.V. Method, Cpk Isoenzymes",J,HW
+75,22327,"Fluorometric Method, Cpk Or Isoenzymes",J,HX
+75,22328,"Colorimetric Method, Cpk Or Isoenzymes",J,HY
+75,22329,"Enzymatic Methods, Galactose",J,IA
+75,22330,"U.V. Method, Galactose",J,IB
+75,22331,"Colorimetric Method, Galactose",J,IC
+75,22332,"Photometric Method, Ammonia",J,ID
+75,22333,"Method, Ion-Exchange, Ammonia",J,IE
+75,22334,"Enzymatic Method, Ammonia",J,IF
+75,22335,"Electrode, Ion-Specific Method, Ammonia",J,IG
+75,22338,"Wet Ash Method, Protein-Bound Iodine",J,IJ
+75,22339,"Dry Ash Method, Protein-Bound Iodine",J,IK
+75,22340,"Enzymatic Method, Glucose (Urinary, Non-Quant.)",J,IL
+75,22341,"Metallic Reduction Method, Glucose (Urinary, Non-Quant.)",J,IM
+75,22342,"Nitroprusside, Ketones (Urinary, Non-Quant.)",J,IN
+75,22345,"Turbidimetric Method, Protein Or Albumin (Urinary, Non-Quant.)",J,IQ
+75,22346,"Indicator Method, Protein Or Albumin (Urinary, Non-Quant.)",J,IR
+75,22347,"Calibrator, Primary",J,IS
+75,22348,"Calibrator, Secondary",J,IT
+75,22349,"Calibrator, Surrogate",J,IW
+75,22350,"Calibrator, Multi-Analyte Mixture",J,IX
+75,22351,"Photometric Method, Iron (Non-Heme)",J,IY
+75,22352,"Atomic Absorption, Iron (Non-Heme)",J,IZ
+75,22353,"Radio-Labeled Iron Method, Iron (Non-Heme)",J,JA
+75,22354,"Azo-Dyes, Colorimetric, Bilirubin & Its Conjugates (Urinary, Non-Quant.)",J,JB
+75,22355,"Analyzer, Chemistry (Sequential Multiple, Continuous Flow) Clinical Use",J,JC
+75,22356,"Analyzer, Chemistry (Photometric, Discrete) For Clinical Use",J,JE
+75,22357,"Analyzer, Chemistry, Micro, For Clinical Use",J,JF
+75,22358,"Analyzer, Chemistry, Centrifugal, For Clinical Use",J,JG
+75,22359,Clinical Sample Concentrator,J,JH
+75,22360,"Analyzer, Enzyme, For Clinical Use",J,JI
+75,22361,"Counter (Beta, Gamma) For Clinical Use",J,JJ
+75,22362,"Plasma Oncometer, For Clinical Use",J,JK
+75,22363,Plasma Viscometer For Clinical Use,J,JL
+75,22364,Osmometer For Clinical Use,J,JM
+75,22365,"Apparatus, Electrophoresis, For Clinical Use",J,JN
+75,22366,Flame Emission Photometer For Clinical Use,J,JO
+75,22367,"Electrode, Ion Selective (Non-Specified)",J,JP
+75,22368,"Colorimeter, Photometer, Spectrophotometer For Clinical Use",J,JQ
+75,22369,Electrolyte Controls (Assayed And Unassayed),J,JR
+75,22370,"Controls For Blood-Gases, (Assayed And Unassayed)",J,JS
+75,22371,Enzyme Controls (Assayed And Unassayed),J,JT
+75,22372,Urinalysis Controls (Assayed And Unassayed),J,JW
+75,22373,Single (Specified) Analyte Controls (Assayed And Unassayed),J,JX
+75,22374,"Multi-analyte controls, all kinds (assayed)",J,JY
+75,22375,"Tubes, Vials, Systems, Serum Separators, Blood Collection",J,KA
+75,22376,"Radioimmunoassay, Compound S (11-Deoxycortisol)",J,KB
+75,22377,"Radioimmunoassay, Dehydroepiandrosterone (Free And Sulfate)",J,KC
+75,22378,"Radioimmunoassay, C-Peptides Of Proinsulin",J,KD
+75,22379,"Dinitrophenyl Hydrazone Measurement (Colorimetric), Hydroxybutyric Dehydroge",J,KF
+75,22380,"L-Isocitrate And Nadp (U.V.), Isocitric Dehydrogenase",J,KG
+75,22381,"Hydrazone Deriv. Of Alpha-Ketogluterate (Colorimetry), Isocitric Dehydrogen",J,KH
+75,22382,"Fluorometric Measurement, Porphyrins",J,KJ
+75,22383,"Acid, Delta-Aminolevulinic, Ion-Exchange Columns With Colorimetry",J,KL
+75,22385,"Chromium-51, Blood Volume",J,KP
+75,22387,"Radioimmunoassay, Calcitonin",J,KR
+75,22390,"N-Acetyl-L-Tyrosine Ethyl Ester (U.V.), Chymotrypsin",J,KW
+75,22391,"N-Benzoyl-L-Tyrosine Ethyl Ester (U.V.), Chymotrypsin",J,KX
+75,22392,"Oxalydihydrazide (Spectroscopic), Copper",J,KY
+75,22393,"Diethyldithiocarbamate (Colorimetric), Copper",J,KZ
+75,22394,"Conversion To Creatinine, Creatine",J,LA
+75,22395,"Atp And Creatine Kinase (Enzymatic), Creatine",J,LB
+75,22396,"Nitroprusside Reaction (Qualitative, Urine), Cystine",J,LC
+75,22397,"Chromatographic, Cystine",J,LD
+75,22398,"Radioimmunoassay, Desoxycorticosterone",J,LE
+75,22399,"Radioimmunoassay, Etiocholanolone",J,LF
+75,22400,"Conversion To Ferric Hydroxymates (Colorimetric), Fatty Acids",J,LG
+75,22401,"Titrimetric, Fatty Acids",J,LH
+75,22402,"Tetrahydrofolate, Enzymatic (U.V.), Formiminoglutamic Acid",J,LI
+75,22403,"Uridine-5-Diphosphoglucose, Nad (U.V.), Alpha-D Galactose-1-Phosphate",J,LJ
+75,22404,"Sodium Hydroxide And Phenol Red (Titrimetric), Gastric Acidity",J,LK
+75,22405,"Tubeless Analysis, Gastric Acidity",J,LL
+75,22407,"Chromatographic, Glutathione",J,LN
+75,22408,"Enzymatic (Glutathione Reductase), Glutathione",J,LO
+75,22409,"Spectrophotometric Method, Pregnanediol",J,LP
+75,22410,"Spectrophotometric Method, Pregnanetriol",J,LQ
+75,22411,"Gas Chromatography, Pregnanetriol",J,LR
+75,22412,"Radioimmunoassay, Progesterone",J,LS
+75,22413,"Acid, Pyruvic, Enzymatic (U.V.)",J,LT
+75,22414,"Radioimmunoassay, Thyroid-Stimulating Hormone",J,LW
+75,22415,"Radioimmunoassay, 17-Hydroxyprogesterone",J,LX
+75,22416,"Phosphoglycerate Mutase (Colorimetric), 2,3-Diphosphoglyceric Acid",J,LY
+75,22417,"Nadh, Phosphoglycerate Mutase, Atp (U.V.) 2,3-Diphosphoglyceric Acid",J,LZ
+75,22418,"Acid, Ascorbic, 2,4-Dinitrophenylhydrazine (Spectrophotometric)",J,MA
+75,22421,"Radioimmunoassay, Total Estrogens, Nonpregnancy",J,MD
+75,22422,"Radioimmunoassay, Glucagon",J,ME
+75,22423,"Radioimmunoassay, Human Placental Lactogen",J,MF
+75,22426,"Chromatographic, Histidine",J,MI
+75,22427,"Microbiological, Histidine",J,MJ
+75,22428,"Acid, Alpha-Ketobutyric and NADH (U.V.), Hydroxybutyric Dehydrogenase",J,MK
+75,22429,"Column Chromatography & Color Development, Hydroxyproline",J,MM
+75,22430,"Extraction Plus Chromatography With Color By Ninhydrin, Hydroxyproline",J,MN
+75,22431,Ferrozine (Colorimetric) Iron Binding Capacity,J,MO
+75,22432,"M. Lysodeikticus Cells (Spectrophotometric), Lysozyme (Muramidase)",J,MQ
+75,22433,"Immunochemical, Lysozyme (Muramidase)",J,MR
+75,22434,"Acid, Oxalacetic and NADH Oxidation (U.V.), Malic Dehydrogenase",J,MS
+75,22435,"Diazo (Colorimetric), Nitrite (Urinary, Non-Quant)",J,MT
+75,22436,"2,4-Dinitrofluorobenzene (Spectroscopic), Nitrogen (Amino-Nitrogen)",J,MW
+75,22437,"Ninhydrin, Nitrogen (Amino-Nitrogen)",J,MX
+75,22438,"Citrulline, Arsenate, Nessler (Colorimetry), Ornithine Carbamyl Transferase",J,MY
+75,22439,"Comparison Of Freezing Points & Stds. Of Known Osmotic Pressure, Osmolality",J,MZ
+75,22440,"Vapor Pressure, Osmolality Of Serum & Urine",J,
+75,22441,"Ninhydrin And L-Leucyl-L-Alanine (Fluorimetric), Phenylalanine",J,NB
+75,22442,"Column Or Paper Chromatography Plus Ninhydrin, Phenylalanine",J,NC
+75,22443,"NADP Reduction, 6-Phosphogluconate Dehydrogenase",J,ND
+75,22444,"Glucose-6-Phosphate (Colorimetric), Phosphohexose Isomerase",J,NE
+75,22445,"Ion-Exchange Resin, Ehrlich'S Reagent, Porphobilinogen",J,NF
+75,22446,"Radioimmunoassay, Pregnenolone",J,NG
+75,22447,"Phosphoenol Pyruvate, Adp, Nadh, Pyruvate Kinase",J,NJ
+75,22448,"Beta-D-Fructose & Nadh Oxidation (U.V.), Sorbitol Dehydrogenase",J,NK
+75,22451,"P-Toluenesulphonyl-L-Arginine Methyl Ester (U.V.), Trypsin",J,NN
+75,22452,"N-Benzoyl-L-Arginine Ethyl Ester (U.V.), Trypsin",J,NO
+75,22453,"Infrared Spectroscopy Measurement, Urinary Calculi (Stone)",J,NP
+75,22454,"Qualitative Chemical Reactions, Urinary Calculi (Stone)",J,NQ
+75,22455,"Stannous Chloride - Hydrazine, Phospholipids",J,NS
+75,22456,"Chromatographic, Phospholipids",J,NT
+75,22457,"Timed Flow In Capillary, Plasma Viscometry",J,NW
+75,22458,"Membrane Osmometry, Plasma Oncometry",J,NX
+75,22459,"Glyceralde-3-Phosphate, Nadh (Enzymatic), Triose Phosphate Isomerase",J,NY
+75,22460,"Fluorometric, Uroporphyrin",J,NZ
+75,22461,"Acid, Trifluoroacetic, Vitamin A, Hexane Extraction",J,OA
+75,22462,"Hexane Extraction, Fluorescence, Vitamin E",J,OB
+75,22463,"Colorimetric, Xylose",J,OC
+75,22494,"Colorimetric Method, Gamma-Glutamyl Transpeptidase",J,PZ
+75,22495,"Electrophoretic, Gamma-Glutamyl Transpeptidase Isoenzymes",J,QA
+75,22496,"Kinetic Method, Gamma-Glutamyl Transpeptidase",J,QB
+75,22497,"Centrifuges (Micro, Ultra, Refrigerated) For Clinical Use",J,QC
+75,22498,"Resin, Ion-Exchange, Thioglycolic Acid, Colorimetry, Iron Binding Capacity",J,QD
+75,22499,"Resin, Ion-Exchange, Ascorbic Acid, Colorimetry, Iron Binding Capacity",J,QE
+75,22500,"Bathophenanthroline, Iron Binding Capacity",J,QF
+75,22501,"Radiometric, Fe59, Iron Binding Capacity",J,QG
+75,22502,"Trinitrobenzene Sulfonate (Spectroscopic), Nitrogen (Amino-Nitrogen)",J,QH
+75,22503,"Rotating Disc, Plasma Viscometry",J,QI
+75,22504,"Densitometeric, Protein Fractionation",J,QJ
+75,22505,"Immunodiffusion, Protein Fractionation",J,QK
+75,22506,"Spectrophotometric, Uroporphyrin",J,QL
+75,22507,"P-Bromoaniline, Xylose",J,QM
+75,22508,"Colorimetric, Mucopolysaccharides",J,QN
+75,22509,"Balance, Analytical",J,QO
+75,22510,"Calculator/Data Processing Module, For Clinical Use",J,QP
+75,22511,Dialyzer,J,QQ
+75,22512,"Densitometer/Scanner (Integrating, Reflectance, Tlc, Radiochromat.) Clinica",J,QT
+75,22513,"Station, Pipetting and Diluting, For Clinical Use",J,QW
+75,22514,"Nephelometer, For Clinical Use",J,QX
+75,22515,Ph Meter,J,QY
+75,22516,Polarimeter,J,QZ
+75,22517,"Microtitrator, For Clinical Use",J,RA
+75,22518,Micro Mixer,J,RB
+75,22519,Micro Pipette,J,RC
+75,22520,Refractometer For Clinical Use,J,RE
+75,22521,"Block, Heating",J,RG
+75,22523,"Curvette, Thermostated",J,RI
+75,22524,"Unit, Drying",J,RJ
+75,22525,Evaporator,J,RK
+75,22526,"Unit, Filter, Membrane",J,RL
+75,22527,Freezer,J,RM
+75,22528,Blender/Mixer,J,RO
+75,22529,Shaker/Stirrer,J,RQ
+75,22530,"Regulator, Temperature",J,RR
+75,22531,"Purifier, Water (Absorption, Deionization, Membrane Filter, Reverse Osmosis)",J,RS
+75,22800,"Nephelometric, Amylase",K,HM
+75,22801,"Fluorometer, For Clinical Use",K,HO
+75,22802,"Acid, Lactic, Enzymatic Method",K,HP
+75,22803,"Radioassay, Triiodothyronine Uptake",K,HQ
+75,22805,"Enzymatic, Carbon-Dioxide",K,HS
+75,22885,"Enzyme Immunoassay, Non-Radiolabeled, Total Thyroxine",K,LI
+75,22886,"Nad Reduction (U.V.), Phosphohexose Isomerase",K,LJ
+75,22910,"Phenolphthalein Colorimetry, Carbon-Dioxide",K,MS
+75,22922,"Acid, Uric, Uricase (Colorimetric)",K,NK
+75,22990,"Radioassay, Angiotensin Converting Enzyme",K,QN
+75,22991,Automated Urinalysis System,K,QO
+75,22992,"Fluorescent Proc. (Qual.), Galactose-1-Phosphate Uridyl Transferase",K,QP
+75,23084,"Radioimmunoassay, Cholyglycine, Bile Acids",K,WW
+75,23085,"Radioimmunoassay, Conjugated Sulfalithocholic (Slcg) Acid, Bile Acids",K,WX
+75,23192,"Ldl & Vldl Precipitation, Hdl",L,BR
+75,23193,"Ldl & Vldl Precipitation, Cholesterol Via Esterase-Oxidase, Hdl",L,BS
+75,23194,"Electrophoresis, Cholesterol Via Esterase-Oxidase, Hdl",L,BT
+75,23204,"Tonometer (Calibration And Q.C. Of Blood-Gas Instruments), Clinical",L,CH
+75,23205,"Automated Radioimmunoassay Systems, For Clinical Use",L,CI
+75,23218,"Kit, Test, Pregnancy, HCG, Over the Counter",L,CX
+75,23282,"Conductivity Rate, Urea Nitrogen",L,FP
+75,23283,"Acid, Uric, Acid Reduction of Ferric Ion",L,FQ
+75,23284,"Glucose Dehydrogenase, Glucose",L,FR
+75,23285,"Radioreceptor Assay, Human Chorionic Gonadotropin",L,FS
+75,23344,"Radioassay, Intrinsic Factor Blocking Antibody",L,IG
+75,23513,"Kit, Assay, Progesterone Receptor",L,PI
+75,23514,"Kit, Assay, Estrogen Receptor",L,PJ
+75,23520,Urinary Homocystine (Nonquantitative) Test System,L,PS
+75,23521,"System, Test, Urinary Methylmalonic Acid",L,PT
+75,23522,"System, Test, Oxalate",L,PW
+75,23600,Hyaline Membrane Disease Assay,L,TC
+75,23661,"Equipment, Laboratory, General Purpose, Labeled or Promoted for a Specific Medical Use",L,XG
+75,25237,"Immunoassay Method, Troponin Subunit",M,MI
+75,25238,Urinary Carbohydrate Analysis Kit,M,PG
+75,25239,"Specimen Container, Urine, Drugs of Abuse, Over the Counter",M,PQ
+75,25240,Bilirubin (Total and Unbound) in the Neonate Test System,M,QM
+75,150568,"Test, Carbohydrate Deficient Transferrin",N,AO
+75,150572,"System, Test, Sodium, Enzymatic Method",M,ZU
+75,150573,"System, Test, Potassium, Enzymatic Method",M,ZV
+75,150575,"Test, Immunoassay, BioSensor, hCG",N,AL
+75,150576,"System, Test, Biotinidase",N,AK
+75,150577,"Biosensor, Immunoassay, CPK or Isoenzymes",M,YT
+75,150636,"Test, Natriuretic Peptide",N,BC
+75,150645,"Lipoprotein, High Density, HDL, Over the Counter",N,AQ
+75,150667,"System, Test, Blood Glucose, Over the Counter",N,BW
+75,151522,"Glucose, Noninvasive Technology",N,CT
+75,151724,"Immunoassay, Enzyme, Inhibin-A",N,DR
+75,151782,"Test, Cystatin C",N,DY
+75,151983,"System, Test, Osteocalcin",N,EO
+75,152155,"Enzyme Immunoassay, Fetal Fibronectin",L,KV
+75,152156,"System, Test, Vitamin D",M,RG
+75,152157,"System, Test, Low Density, Lipoprotein",M,RR
+75,152158,"Drink, Glucose Tolerance",M,RV
+75,152159,Apolipoproteins,M,SJ
+75,152160,"System, Test, Lipoprotein (A)",M,SM
+75,152161,"System, Test, Total Antioxidant Status",M,WQ
+75,152162,"System, Test, Breath Nitric Oxide",M,XA
+75,152163,"Test, Vaginal, Bacterial Sialidase",M,XB
+75,152165,"Device, Accessory, Cooling Plate for Tissue Embedding Station",M,XT
+75,153189,"Enzyme Immunoassay, Cortisol, Salivary",N,HG
+75,153823,"Sensor, Gluscose, Invasive",M,DS
+75,153872,"Immunoassay, Placental alpha-1 Microglobulin (PAMG-1)",N,QM
+75,153896,"System, Breath Measurement",N,RH
+75,153906,"Test, Breath Analysis, Volatile Organic Compounds",N,QC
+75,153910,"System, Test, Amino Acids, Free Carnitines and Acylcarnitines Tandem Mass Spectrometry",N,QL
+75,155000,"Test, Albumin Cobalt Binding",N,JV
+75,155001,Instrumentation For Clinical Muliplex Test Systems,N,SU
+75,155353,"Antigen, anti-cardiac, indirect fluorescent antibody test sytem",N,UK
+75,155354,"Antigen, anti-skeletal, indirect fluorescent antibody test system",N,UL
+75,155794,"Digital image, storage and communications, non-diagnostic, laboratory information system",N,VV
+75,164579,Multi-analyte controls unassayed,O,HQ
+75,164739,Blood and urine collection kit (excludes hiv testing),O,IB
+75,164740,Blood alcohol kit (excludes hiv testing),O,IC
+75,164741,Sex crimes/sexual assault/suspect evidence collection kit (excludes hive testing),O,ID
+75,164742,Urine collection kit (excludes hiv testing),O,IE
+75,164743,Neonatal blood collection kit and screening form (excludes hiv testing),O,IA
+75,164744,Urine transport kit (excludes hiv testing),O,HZ
+75,165619,Real time nucleic acid amplification system,O,OI
+75,166863,Urinary pH (nonquantitative) test system,O,AM
+75,166864,"Internal  Polymerase Chain Reaction  Control, Not Assay Specific",O,LD
+75,166865,osmolality of tears,O,ND
+75,166866,cardiac allograft gene expression profiling test system,O,JQ
+75,167262,Galectin-3 in vitro diagnostic assay,O,SX
+75,167282,Mass spectrometer for clinical multiplex test systems,O,TA
+75,167403,Research use only/clinical chemistry devices,O,TV
+75,167562,"Thermocycler, generic",O,UL
+75,167782,Complete gene expression profiling accessory reagents,O,VA
+75,170182,"Pump, infusion, insulin, to be used with invasive glucose sensor",O,YC
+75,170472,St2 assay,O,YG
+75,170522,"Dna specimen collection, saliva",O,YJ
+75,171102,"Artificial pancreas device system, bihormonal control",O,ZQ
+75,171103,"Artificial pancreas device system, single hormonal control",O,ZP
+75,171104,"Artificial pancreas device system, threshold suspend",O,ZO
+75,171624,"Test, volatile organic compounds breath analysis",P,AR
+75,171625,"Test, NR2 antibody",P,AQ
+75,172082,DNA genetic analyzer,P,CA
+75,172345,Investigational use only - Clinical Chemistry,P,DA
+75,172562,Amniotic fluid protein immunoassay,P,DS
+75,172682,Nucleic Acid Quantitation Kit,P,EG
+75,172702,salivary estriol test,P,EJ
+75,172842,hemoglobin a1c test system,P,DJ
+75,172964,"Automated pipetting, diluting and specimen processing workstations for flow cytometric analysis",P,ER
+75,172988,MMP-9 test system,P,FQ
+75,173092,Droplet Digital PCR System,P,HG
+75,173098,"Test, cell mediated immune response, liver and small bowel transplant/transplantation",P,HK
+75,173175,Acute kidney injury test system,P,IG
+75,173343,Blood/plasma collection device for DNA testing,P,JE
+75,173344,Oral fluid drugs of abuse and alcohol test specimen collection device,P,JD
+75,173345,Newborn screening specimen collection paper,P,JC
+75,173366,Continuous glucose monitor secondary display,P,JT
+75,173627,Insulin pump secondary display,P,KU
+75,174545,Blood specimen collection convenience kit (excludes HIV),P,QD
+75,174594,Capillary blood collection device for alternative site collection,P,RJ
+75,174627,Refractometer for donor testing,P,SM
+75,174641,"Sensor, glucose, invasive, non-adjunctive",P,QF
+75,174644,Uric acid test system for at home prescription use,P,TC
+75,174863,Low-density lipoprotein (LDL) cholesterol sub-fraction test,P,YP
+75,174867,25-OH-Vitamin D Mass Spectrometry test system,P,SL
+75,174872,Hospital continuous glucose monitoring system,P,YV
+75,174879,"Sensor, glucose, invasive, non-adjunctive, factory-calibrated, user-initiated",P,ZE
+75,174898,Prescription use blood glucose meter for near-patient testing,P,ZI
+75,174996,"Integrated Continuous Glucose Monitoring system, factory calibrated",Q,BJ
+75,175033,Automated pooling platform consisting of software and instrumentation for pooling and/or lysing dono,Q,BZ
+75,175042,Insulin pump therapy adjustment calculator for healthcare professionals,Q,CC
+75,175045,?-glucocerebrosidase (GBA) newborn screening test system,P,QV
+75,175046,alpha-D-glucosidase (GAA) newborn screening test system,P,QU
+75,175047,alpha-L-iduronidase (IDUA) newborn screening test system,P,QT
+75,175048,?-galactocerebrosidase (GALC) newborn screening test system,Q,CM
+75,175049,Acid-sphingomyelinase (ASM) newborn screening test system,Q,CL
+75,175082,"Continuous glucose monitor, implanted, adjunctive use",Q,CD
+75,175085,Integrated continuous glucose monitoring system for non-intensive diabetes management,Q,DK
+75,175087,Menopause test system,Q,DH
+75,175097,"Radioimmunoassay (Two-Site Solid Phase), Ferritin",J,MG
+75,175098,Continuous glucose monitor retrospective data analysis software,P,HV
+75,175268,Direct-to-consumer access pharmacogenetic assessment system,Q,DJ
+75,175271,Integrated continuous glucose monitoring system for professional retrospective use,Q,DL
+75,175293,Alpha-D-galactosidase A (GLA) newborn screening test system,P,QW
+75,175300,Breast milk macronutrients test system,Q,EI
+75,175457,Alternate controller enabled insulin infusion pump,Q,FG
+75,175484,"Pump, infusion, analytical sampling",L,ZF
+75,175591,"Sensor, glucose, implanted, non-adjunctive use",Q,HJ
+75,175604,"Controller, closed-loop blood glucose",L,HE
+75,175605,"Monitor, skin resistance/skin temperature, for insulin reactions",L,MY
+75,175606,"Pump, infusion, insulin",L,ZG
+75,175607,"Calculator, drug dose",N,DC
+75,175610,Integrated continuous glucose monitoring system for professional directed retrospective or real-time,Q,II
+75,175774,Muscular dystrophy newborn screening test,Q,JE
+75,175775,Interoperable automated glycemic controller,Q,JI
+75,175820,"Interoperable automated glycemic controller, insulin suspend",Q,JS
+75,175952,"Integrated continuous glucose monitoring system, factory calibrated, not for use with automated insu",Q,LG
+75,176000,Blood collection device for cell-free nucleic acid,Q,MA
+75,176143,Prognostic test for assessment of liver related disease progression,Q,QB
+75,176322,Setmelanotide eligibility gene variant detection system,Q,RV
+75,176323,Continuous glucose monitor informed insulin dose calculator,Q,RX
+75,176763,Human immunodeficiency virus (HIV) viral load monitoring test,Q,UM
+75,177013,Prognostic test for assessment of chrmic kidney disease progression,Q,WZ
+75,177021,Diabetes Digital Therapeutic Device,Q,XC
+75,177053,"Pump, infusion, insulin bolus",O,PP
+75,177102,Menstrual Blood Collection Device,Q,ZG

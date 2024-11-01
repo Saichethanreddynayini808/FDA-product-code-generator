@@ -1,0 +1,189 @@
+/* Custom Styles */
+
+body {
+    background-image: url('./products.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    opacity: 1;
+}
+
+.header {
+    background-color: rgba(15, 114, 169, 1);
+    height: 95px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.btn-upload {
+    cursor: pointer;
+}
+
+.upload-block {
+    padding: 20px;
+    cursor: text;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.footer {
+    background-color: rgba(15, 114, 169, 1);
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    margin: 0;
+    padding: 18px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 150px);
+}
+
+.content-wrapper {
+    width: 80%;
+    max-width: 800px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    margin-bottom: 0.5px;
+}
+
+.form-container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.output-box-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.output-box {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 18px;
+    color: #333;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#outputLabel {
+    margin-top: 30px;
+}
+
+.btn-upload {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-upload:hover {
+    background-color: #45a049;
+}
+
+.nested-placeholder {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 3px solid #ccc;
+    border-radius: 5px;
+}
+
+.chat-button {
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+.modal-content {
+    width: 200px;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    position: fixed;
+    bottom: 60px;
+    right: 20px;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.upload-block {
+    padding: 0px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.upload-block label,
+.upload-block input,
+.upload-block button {
+    display: block;
+    margin: 10px auto;
+}
+
+#myFile {
+    display: none;
+}
+
+/* New Styles for Descriptions and Explanations */
+.description-box, .explanation-box {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 18px;
+    color: #333;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+/* Styling for Descriptions and Explanations Containers */
+#descriptions, #explanations {
+    margin-top: 20px;
+}
+
+/* Flex layout to align like output-box */
+#descriptions .description-box-container, #explanations .explanation-box-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

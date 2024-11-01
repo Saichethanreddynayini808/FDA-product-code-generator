@@ -1,0 +1,314 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+38,2472,"Asparagus Broth, Dried",P,01
+38,2473,Asparagus Soup,A,01
+38,2474,"Asparagus Soup, Concentrated",B,01
+38,2475,"Asparagus Soup, Dried",C,01
+38,2476,"Asparagus Soup, Creamed",F,01
+38,2477,"Asparagus Soup, Creamed, Concentrated",G,01
+38,2478,"Asparagus Soup, Creamed, Dried",H,01
+38,2479,Asparagus Consomme and Bouillion,J,01
+38,2480,"Asparagus Consomme and Bouillion, Concentrated",K,01
+38,2481,"Asparagus Consomme and Bouillion, Dried",L,01
+38,2482,Asparagus Broth (Meat and/or Vegetable Stock),M,01
+38,2483,"Asparagus Broth, Concentrated",N,01
+38,2484,"Bean Broth, Dried",P,02
+38,2485,Bean Soup,A,02
+38,2486,"Bean Soup, Concentrated",B,02
+38,2487,"Bean Soup, Dried",C,02
+38,2488,"Bean Soup, Creamed",F,02
+38,2489,"Bean Soup, Creamed, Concentrated",G,02
+38,2490,"Bean Soup, Creamed, Dried",H,02
+38,2491,Bean Consomme/Bouillion,J,02
+38,2492,"Bean Consomme and Bouillion, Concentrated",K,02
+38,2493,"Bean Consomme and Bouillion, Dried",L,02
+38,2494,Bean Broth (Meat and/or Vegetable Stock),M,02
+38,2495,"Bean Broth, Concentrated",N,02
+38,2496,"Beef Broth, Plain, Dried",P,03
+38,2497,"Beef Soup, Plain",A,03
+38,2498,"Beef Soup, Plain, Concentrated",B,03
+38,2499,"Beef Soup, Plain, Dried",C,03
+38,2500,"Beef Soup, Plain, Creamed",F,03
+38,2501,"Beef Soup, Plain, Creamed, Concentrated",G,03
+38,2502,"Beef Soup, Plain, Creamed, Dried",H,03
+38,2503,"Beef Consomme and Bouillion, Plain",J,03
+38,2504,"Beef Consomme and Bouillion, Concentrated, Plain",K,03
+38,2505,"Beef Consomme and Bouillion, Plain, Dried",L,03
+38,2506,"Beef Broth, Plain (Meat and/or Vegetable Stock)",M,03
+38,2507,"Beef Broth, Plain, Concentrated",N,03
+38,2508,"Vegetable Beef Broth, Dried",P,04
+38,2509,Vegetable Beef Soup,A,04
+38,2510,"Vegetable Beef Soup, Concentrated",B,04
+38,2511,"Vegetable Beef Soup, Dried",C,04
+38,2512,"Vegetable Beef Soup, Creamed",F,04
+38,2513,"Vegetable Beef Soup, Creamed, Concentrated",G,04
+38,2514,"Vegetable Beef Soup, Creamed, Dried",H,04
+38,2515,Vegetable Beef Consomme and Bouillion,J,04
+38,2516,"Vegetable Beef Consomme and Bouillion, Concentrated",K,04
+38,2517,"Vegetable Beef Consomme and Bouillion, Dried",L,04
+38,2518,Vegetable Beef Broth (Meat and/or Vegetable Stock),M,04
+38,2519,"Vegetable Beef Broth, Concentrated",N,04
+38,2520,"Broccoli Broth, Dried",P,05
+38,2521,Broccoli Soup,A,05
+38,2522,"Broccoli Soup, Concentrated",B,05
+38,2523,"Broccoli Soup, Dried",C,05
+38,2524,"Broccoli Soup, Creamed",F,05
+38,2525,"Broccoli Soup, Creamed, Concentrated",G,05
+38,2526,"Broccoli Soup, Creamed, Dried",H,05
+38,2527,Broccoli Consomme and Bouillion,J,05
+38,2528,"Broccoli Consomme and Bouillion, Concentrated",K,05
+38,2529,"Broccoli Consomme and Bouillion, Dried",L,05
+38,2530,Broccoli Broth (Meat and/or Vegetable Stock),M,05
+38,2531,"Broccoli Broth, Concentrated",N,05
+38,2544,"Corn Broth, Dried",P,07
+38,2545,Corn Soup,A,07
+38,2546,"Corn Soup, Concentrated",B,07
+38,2547,"Corn Soup, Dried",C,07
+38,2548,"Corn Soup, Creamed",F,07
+38,2549,"Corn Soup, Creamed, Concentrated",G,07
+38,2550,"Corn Soup, Creamed, Dried",H,07
+38,2551,Corn Consomme and Bouillion,J,07
+38,2552,"Corn Consomme and Bouillion, Concentrated",K,07
+38,2553,"Corn Consomme and Bouillion, Dried",L,07
+38,2554,Corn Broth (Meat and/or Vegetable Stock),M,07
+38,2555,"Corn Broth, Concentrated",N,07
+38,2556,"Cheese Broth, Dried",P,08
+38,2557,Cheese Soup,A,08
+38,2558,"Cheese Soup, Concentrated",B,08
+38,2559,"Cheese Soup, Dried",C,08
+38,2560,"Cheese Soup, Creamed",F,08
+38,2561,"Cheese Soup, Creamed, Concentrated",G,08
+38,2562,"Cheese Soup, Creamed, Dried",H,08
+38,2563,Cheese Consomme and Bouillion,J,08
+38,2564,"Cheese Consomme and Bouillion, Concentrated",K,08
+38,2565,"Cheese Consomme and Bouillion, Dried",L,08
+38,2566,Cheese Broth (Meat and/or Vegetable Stock),M,08
+38,2567,"Cheese Broth, Concentrated",N,08
+38,2568,"Cereal Grain Broth, Dried",P,09
+38,2569,Cereal Grain Soup,A,09
+38,2570,"Cereal Grain Soup, Concentrated",B,09
+38,2571,"Cereal Grain Soup, Dried",C,09
+38,2572,"Cereal Grain Soup, Creamed",F,09
+38,2573,"Cereal Grain Soup, Creamed, Concentrated",G,09
+38,2574,"Cereal Grain Soup, Creamed, Dried",H,09
+38,2575,Cereal Grain Consomme and Bouillion,J,09
+38,2576,"Cereal Grain Consomme and Bouillion, Concentrated",K,09
+38,2577,"Cereal Grain Consomme and Bouillion, Dried",L,09
+38,2578,Cereal Grain Broth (Meat and/or Vegetable StocK),M,09
+38,2579,"Cereal Grain Broth, Concentrated",N,09
+38,2580,"Celery Broth, Dried",P,10
+38,2581,Celery Soup,A,10
+38,2582,"Celery Soup, Concentrated",B,10
+38,2583,"Celery Soup, Dried",C,10
+38,2584,"Celery Soup, Creamed",F,10
+38,2585,"Celery Soup, Creamed, Concentrated",G,10
+38,2586,"Celery Soup, Creamed, Dried",H,10
+38,2587,Celery Consomme and Bouillion,J,10
+38,2588,"Celery Consomme and Bouillion, Concentrated",K,10
+38,2589,"Celery Consomme and Bouillion, Dried",L,10
+38,2590,Celery Broth (Meat and/or Vegetable Stock),M,10
+38,2591,"Celery Broth, Concentrated",N,10
+38,2592,"Chicken Broth, Plain, Dried",P,11
+38,2593,"Chicken Soup, Plain",A,11
+38,2594,"Chicken Soup, Plain, Concentrated",B,11
+38,2595,"Chicken Soup, Plain, Dried",C,11
+38,2596,"Chicken Soup, Plain, Creamed",F,11
+38,2597,"Chicken Soup, Plain, Creamed, Concentrated",G,11
+38,2598,"Chicken Soup, Plain, Creamed, Dried",H,11
+38,2599,"Chicken Consomme and Bouillion, Plain",J,11
+38,2600,"Chicken Consomme and Bouillion, Plain, Concentrated",K,11
+38,2601,"Chicken Consomme and Bouillion, Plain, Dried",L,11
+38,2602,"Chicken Broth, Plain (Meat and/or Vegetable Stock)",M,11
+38,2603,"Chicken Broth, Plain, Concentrated",N,11
+38,2604,"Vegetable Chicken Broth, Dried",P,12
+38,2605,Vegetable Chicken Soup,A,12
+38,2606,"Vegetable Chicken Soup, Concentrated",B,12
+38,2607,"Vegetable Chicken Soup, Dried",C,12
+38,2608,"Vegetable Chicken Soup, Creamed",F,12
+38,2609,"Vegetable Chicken Soup, Creamed, Concentrated",G,12
+38,2610,"Vegetable Chicken Soup, Creamed, Dried",H,12
+38,2611,Vegetable Chicken Consomme and Bouillion,J,12
+38,2612,"Vegetable Chicken Consomme and Bouillion, Concentrated",K,12
+38,2613,"Vegetable Chicken Consomme and Bouillion, Dried",L,12
+38,2614,Vegetable Chicken Broth (Meat and/or Vegetable Stock,M,12
+38,2615,"Vegetable Chicken Broth, Concentrated",N,12
+38,2616,"Chicken Noodle Broth, Dried",P,13
+38,2617,Chicken Noodle Soup,A,13
+38,2618,"Chicken Noodle Soup, Concentrated",B,13
+38,2619,"Chicken Noodle Soup, Dried",C,13
+38,2620,"Chicken Noodle Soup, Creamed",F,13
+38,2621,"Chicken Noodle Soup, Creamed, Concentrated",G,13
+38,2622,"Chicken Noodle Soup, Creamed, Dried",H,13
+38,2623,Chicken Noodle Consomme and Bouillion,J,13
+38,2624,"Chicken Noodle Consomme and Bouillion, Concentrated",K,13
+38,2625,"Chicken Noodle Consomme and Bouillion, Dried",L,13
+38,2626,Chicken Noodle Broth (Meat and/or Vegetable Stock),M,13
+38,2627,"Chicken Noodle Broth, Concentrated",N,13
+38,2640,"Beef Noodle Broth, Dried",P,15
+38,2641,Beef Noodle Soup,A,15
+38,2642,"Beef Noodle Soup, Concentrated",B,15
+38,2643,"Beef Noodle Soup, Dried",C,15
+38,2644,"Beef Noodle Soup, Creamed",F,15
+38,2645,"Beef Noodle Soup, Creamed, Concentrated",G,15
+38,2646,"Beef Noodle Soup, Creamed, Dried",H,15
+38,2647,Beef Noodle Consomme and Bouillion,J,15
+38,2648,"Beef Noodle Consomme and Bouillion, Concentrated",K,15
+38,2649,"Beef Noodle Consomme and Bouillion, Dried",L,15
+38,2650,Beef Noodle Broth (Meat and/or Vegetable Stock),M,15
+38,2651,"Beef Noodle Broth, Concentrated",N,15
+38,2652,"Egg Broth, Dried",P,16
+38,2653,Egg Soup,A,16
+38,2654,"Egg Soup, Concentrated",B,16
+38,2655,"Egg Soup, Dried",C,16
+38,2656,"Egg Soup, Creamed",F,16
+38,2657,"Egg Soup, Creamed, Concentrated",G,16
+38,2658,"Egg Soup, Creamed, Dried",H,16
+38,2659,Egg Consomme and Bouillion,J,16
+38,2660,"Egg Consomme and Bouillion, Concentrated",K,16
+38,2661,"Egg Consomme and Bouillion, Dried",L,16
+38,2662,Egg Broth (Meat and/or Vegetable Stock),M,16
+38,2663,"Egg Broth, Concentrated",N,16
+38,2676,"Minestrone Broth, Dried",P,18
+38,2677,Minestrone Soup,A,18
+38,2678,"Minestrone Soup, Concentrated",B,18
+38,2679,"Minestrone Soup, Dried",C,18
+38,2680,"Minestrone Soup, Creamed",F,18
+38,2681,"Minestrone Soup, Creamed, Concentrated",G,18
+38,2682,"Minestrone Soup, Creamed, Dried",H,18
+38,2683,Minestrone Consomme and Bouillion,J,18
+38,2684,"Minestrone Consomme and Bouillion, Concentrated",K,18
+38,2685,"Minestrone Consomme and Bouillion, Dried",L,18
+38,2686,Minestrone Broth (Meat and/or Vegetable Stock),M,18
+38,2687,"Minestrone Broth, Concentrated",N,18
+38,2688,"Mushroom Broth, Dried",P,19
+38,2689,Mushroom Soup,A,19
+38,2690,"Mushroom Soup, Concentrated",B,19
+38,2691,"Mushroom Soup, Dried",C,19
+38,2692,"Mushroom Soup, Creamed",F,19
+38,2693,"Mushroom Soup, Creamed, Concentrated",G,19
+38,2694,"Mushroom Soup, Creamed, Dried",H,19
+38,2695,Mushroom Consomme and Bouillion,J,19
+38,2696,"Mushroom Consomme and Bouillion, Concentrated",K,19
+38,2697,"Mushroom Consomme and Bouillion, Dried",L,19
+38,2698,Mushroom Broth (Meat and/or Vegetable Stock),M,19
+38,2699,"Mushroom Broth, Concentrated",N,19
+38,2724,"Pork Vegetable Broth, Dried",P,22
+38,2725,Vegetable Pork Soup,A,22
+38,2726,"Vegetable Pork Soup, Concentrated",B,22
+38,2727,"Vegetable Pork Soup, Dried",C,22
+38,2728,"Vegetable Pork Soup, Creamed",F,22
+38,2729,"Vegetable Pork Soup, Creamed, Concentrated",G,22
+38,2730,"Vegetable Pork Soup, Creamed, Dried",H,22
+38,2731,Vegetable Pork Consomme and Bouillion,J,22
+38,2732,"Vegetable Pork Consomme and Bouillion, Concentrated",K,22
+38,2733,"Pork Vegetable Consomme and Bouillion, Dried",L,22
+38,2734,Pork Vegetable Broth (Meat and/or Vegetable Stock),M,22
+38,2735,"Pork Vegetable Broth, Concentrated",N,22
+38,2736,"Potato Broth, Dried",P,23
+38,2737,Potato Soup,A,23
+38,2738,"Potato Soup, Concentrated",B,23
+38,2739,"Potato Soup, Dried",C,23
+38,2740,"Potato Soup, Creamed",F,23
+38,2741,"Potato Soup, Creamed, Concentrated",G,23
+38,2742,"Potato Soup, Creamed, Dried",H,23
+38,2743,Potato Consomme and Bouillion,J,23
+38,2744,"Potato Consomme and Bouillion, Concentrated",K,23
+38,2745,"Potato Consomme and Bouillion, Dried",L,23
+38,2746,Potato Broth (Meat and/or Vegetable Stock,M,23
+38,2747,"Potato Broth, Concentrated",N,23
+38,2772,"Split Pea Broth, Dried",P,26
+38,2773,Split Pea Soup,A,26
+38,2774,"Split Pea Soup, Concentrated",B,26
+38,2775,"Split Pea Soup, Dried",C,26
+38,2776,"Split Pea Soup, Creamed",F,26
+38,2777,"Split Pea Soup, Creamed, Concentrated",G,26
+38,2778,"Split Pea Soup, Creamed, Dried",H,26
+38,2779,Split Pea Consomme and Bouillion,J,26
+38,2780,"Split Pea Consomme and Bouillion, Concentrated",K,26
+38,2781,"Split Pea Consomme and Bouillion, Dried",L,26
+38,2782,Split Pea Broth (Meat and/or Vegetable Stock),M,26
+38,2783,"Split Pea Broth, Concentrated",N,26
+38,2784,"Tomato Broth, Dried",P,27
+38,2785,Tomato Soup,A,27
+38,2786,"Tomato Soup, Concentrated",B,27
+38,2787,"Tomato Soup, Dried",C,27
+38,2788,"Tomato Soup, Creamed",F,27
+38,2789,"Tomato Soup, Creamed, Concentrated",G,27
+38,2790,"Tomato Soup, Creamed, Dried",H,27
+38,2791,Tomato Consomme and Bouillion,J,27
+38,2792,"Tomato Consomme and Bouillion, Concentrated",K,27
+38,2793,"Tomato Consomme and Bouillion, Dried",L,27
+38,2794,Tomato Broth (Meat and/or Vegetable Stock),M,27
+38,2795,"Tomato Broth, Concentrated",N,27
+38,2796,"Mixed Vegetable Broth, Dried",P,28
+38,2797,Mixed Vegetable Soup,A,28
+38,2798,"Mixed Vegetable Soup, Concentrated",B,28
+38,2799,"Mixed Vegetable Soup, Dried",C,28
+38,2800,"Mixed Vegetable Soup, Creamed",F,28
+38,2801,"Mixed Vegetable Soup, Creamed, Concentrated",G,28
+38,2802,"Mixed Vegetable Soup, Creamed, Dried",H,28
+38,2803,Mixed Vegetable Consomme and Bouillion,J,28
+38,2804,"Mixed Vegetable Consomme and Bouillion, Concentrated",K,28
+38,2805,"Mixed Vegetable Consomme and Bouillion, Dried",L,28
+38,2806,Mixed Vegetable Broth (Meat and/or Vegetable Stock),M,28
+38,2807,"Mixed Vegetable Broth, Concentrated",N,28
+38,2808,"Vegetable (Single Ingredient Not Mentioned Elsewhere) Broth, Dried",P,29
+38,2809,Vegetable (Single Ingredient Not Mentioned Elsewhere) Soup,A,29
+38,2810,"Vegetable (Single Ingredient Not Mentioned Elsewhere) Soup, Concentrated",B,29
+38,2811,"Vegetable (Single Ingredient Not Mentioned Elsewhere) Soup, Dried",C,29
+38,2812,"Vegetable (Single Ingredient Not Mentioned Elsewhere) Soup, Creamed",F,29
+38,2813,"Vegetable (Single Ingredient not Mentioned Elsewhere) Soup, Creamed, Concentrated",G,29
+38,2814,"Vegetable (Single Ingredient Not Mentioned Elsewhere) Soup, Creamed, Dried",H,29
+38,2815,Vegetable (Single Ingredient Not Mentioned Elsewhere) Consomme and Bouillion,J,29
+38,2816,"Vegetable (Single Ingredient Not Mentioned Elsewhere) Consomme and Bouillion, Concentrated",K,29
+38,2817,"Veg (Single Ingr) Consomme/Bouillion, Dried",L,29
+38,2818,Vegetable (Single Ingredient Not Mentioned Elsewhere) Broth (Meat and/or Vegetable Stock),M,29
+38,2819,"Vegetable (Single Ingredient Not Elsewhere Mentioned) Broth, Concentrated",N,29
+38,2820,"Vichyssoise Broth, Dried",P,30
+38,2821,Vichyssoise Soup,A,30
+38,2822,"Vichyssoise Soup, Concentrated",B,30
+38,2823,"Vichyssoise Soup, Dried",C,30
+38,2824,"Vichyssoise Soup, Creamed",F,30
+38,2825,"Vichyssoise Soup, Creamed, Concentrated",G,30
+38,2826,"Vichyssoise Soup, Creamed, Dried",H,30
+38,2827,Vichyssoise Consomme and Bouillion,J,30
+38,2828,"Vichyssoise Consomme and Bouillion, Concentrated",K,30
+38,2829,"Vichyssoise Consomme and Bouillion, Dried",L,30
+38,2830,Vichyssoise Broth (Meat and/or Vegetable Stock),M,30
+38,2831,"Vichyssoise Broth, Concentrated",N,30
+38,2832,"Veal Broth, Dried",P,31
+38,2833,Veal Soup,A,31
+38,2834,"Veal Soup, Concentrated",B,31
+38,2835,"Veal Soup, Dried",C,31
+38,2836,"Veal Soup, Creamed",F,31
+38,2837,"Veal Soup, Creamed, Concentrated",G,31
+38,2838,"Veal Soup, Creamed, Dried",H,31
+38,2839,Veal Consomme and Bouillion,J,31
+38,2840,"Veal Consomme and Bouillion, Concentrated",K,31
+38,2841,"Veal Consomme and Bouillion, Dried",L,31
+38,2842,Veal Broth (Meat and/or Vegetable Stock),M,31
+38,2843,"Veal Broth, Concentrated",N,31
+38,2844,"Dried Broth, N.E.C.",P,99
+38,2845,"Soup, N.E.C.",A,99
+38,2846,"Concentrated Soup, N.E.C.",B,99
+38,2847,"Dried Soup, N.E.C.",C,99
+38,2848,"Creamed Soup, N.E.C.",F,99
+38,2849,"Creamed Concentrated Soup, N.E.C.",G,99
+38,2850,"Creamed, Dried Soup, N.E.C.",H,99
+38,2851,"Consomme and Bouillion, N.E.C.",J,99
+38,2852,"Consomme and Bouillion, Concentrated, N.E.C.",K,99
+38,2853,"Dried Consomme and Bouillion, N.E.C.",L,99
+38,2854,"Broth, N.E.C. (Meat and/or Vegetable Stock)",M,99
+38,2855,"Concentrated Broth, N.E.C.",N,99
+38,2856,"Soup, N.E.C.",Y,99
+38,24450,Miso Soup (Soybean Base),A,33
+38,24451,"Miso Soup (Soybean Base), Concentrated",B,33
+38,24453,"Miso (Soybean Base) Soup, Dried",C,33
+38,24454,"Miso (Soybean Base) Soup, Creamed",F,33
+38,24455,"Miso (Soybean Base) Soup, Creamed, Concentrated",G,33
+38,24456,"Miso (Soybean Base) Soup, Creamed, Dried",H,33
+38,24457,Miso (Soybean Base) Consomme and Bouillion,J,33
+38,24458,"Miso (Soybean Base) Consomme & Bouillion, Concentrated",K,33
+38,24459,"Miso (Soybean Base) Consomme and Bouillion, Dried",L,33
+38,24460,Miso (Soybean Base) Broth (Meat and/or Vegetable Stock),M,33
+38,24461,"Miso (Soybean Base) Broth, Concentrated",N,33
+38,24462,"Miso (Soybean Base) Broth, Dried",P,33

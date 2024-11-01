@@ -1,0 +1,32 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+96,155940,"Microwave Oven, Consumer (Food Prep)",R,CR
+96,155941,"Microwave Oven, Commercial (Food Prep)",R,CS
+96,155942,"Tunnel/Conveyor, Microwave Ovens (Food Prep)",R,CT
+96,155943,"Vending Machine, Microwave Ovens (Food Prep)",R,CU
+96,155944,Food Processing Microwave Heating and Drying Products,R,CV
+96,155945,"Materials Processing , Microwave Heating and Drying Products",R,CW
+96,155946,"Clothes Dryer, Microwave Heating and Drying Products",R,CX
+96,155947,"Medical Waste/Sterilizer, Microwave Heating and Drying Products",R,CY
+96,155948,"Materials Processing, Laboratories, Microwave Heating and Drying Products",R,CZ
+96,155949,"Dielectric Heaters, Induction Heaters, RF Sealers",R,DA
+96,155950,"Electric Blanket, Household ELF Products, Non-Medical",R,DB
+96,155952,"Shavers, Household ELF Products",R,DC
+96,155953,"Hair Dryer, Household ELF Products",R,DD
+96,155954,"Sewing Machine, Household ELF Products",R,DE
+96,155955,"Motor, Household ELF Products",R,DF
+96,155956,"Veterinary, Microwave Medical Products",R,DG
+96,155957,"Air Traffic Control, Microwave Idenification, Safety, Security, and Surveillance Products",R,DH
+96,155958,"Police Radar,  Microwave Identification, Safety, Security, and Surveillance Products",R,DI
+96,155959,"RF Identification,  Microwave Identification, Safety, Security, and Surveillance Products",R,DJ
+96,155960,"Electronic Article Surveillance (EAS), Microwave I.D., Safety, Security, and Surveillance Products",R,DK
+96,155961,"Stun Gun, Microwave Identification, Safety, Security and Surveillance Products",R,DL
+96,155962,"Anti-Theft Detector (Non-EAS), Microwave Identification, Safety, Security, and Surveillance Products",R,DM
+96,155963,"Walkie-Talkie, Microwave Communication, Data Transmit, and Measurement Products",R,DN
+96,155964,"Microwave LAN, Microwave Communication, Data Transmit, and Measurement Products",R,DO
+96,155965,"Wireless (Cordless) Telephone, Microwave Communication Data Transmit, and Measurement Products",R,DP
+96,155966,"CB Amateur Radio, Microwave, Communication, Data Transmit, and Measurement Products",R,DQ
+96,155968,"Weather Doppler, Microwave, Communication, Data Transmit, and Measurement Products",R,DS
+96,155969,"RF-Excited Lighting, Microwave Products",R,DT
+96,155970,"Pest Controller, Microwave Products",R,DU
+96,173321,Smart meter,R,IF
+96,174928,Automotive radar,R,IJ

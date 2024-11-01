@@ -1,0 +1,325 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+23,1227,"Almond, Topping",F,01
+23,1228,"Almond, In Shell",A,01
+23,1229,"Almond, Shelled",B,01
+23,1230,"Almond, Butter",C,01
+23,1231,"Almond, Paste",D,01
+23,1232,"Almond, Spread",E,01
+23,1233,Non-Standardized Mixed Nut Product,J,01
+23,1234,"Non-Standardized Mixed Nuts, In Shell",G,01
+23,1235,"Non-Standardized Mixed Nuts, Shelled",H,01
+23,1236,Pumpkin Seed (Edible Seed),K,01
+23,1237,Imitation Peanut Products,N,01
+23,1238,"Brazil Nut, Topping",F,02
+23,1239,"Brazil Nut, In Shell",A,02
+23,1240,"Brazil Nut, Shelled",B,02
+23,1241,"Brazil Nut, Butter",C,02
+23,1242,"Brazil Nut, Paste",D,02
+23,1243,"Brazil Nut, Spread",E,02
+23,1244,Standardized Mixed Nut Product,J,02
+23,1245,"Standardized Mixed Nuts, In Shell",G,02
+23,1246,"Standardized Mixed Nuts, Shelled",H,02
+23,1247,Sesame Seed (Edible Seed),K,02
+23,1248,"Cashew, Topping",F,03
+23,1249,"Cashew, In Shell",A,03
+23,1250,"Cashew, Shelled",B,03
+23,1251,"Cashew, Butter",C,03
+23,1252,"Cashew, Paste",D,03
+23,1253,"Cashew, Spread",E,03
+23,1254,Soybeans (Edible Seed),K,03
+23,1255,"Chestnut, Topping",F,04
+23,1256,"Chestnut, In Shell",A,04
+23,1257,"Chestnut, Shelled",B,04
+23,1258,"Chestnut, Butter",C,04
+23,1259,"Chestnut, Paste",D,04
+23,1260,"Chestnut, Spread",E,04
+23,1261,Sunflower Seed (Edible Seed),K,04
+23,1262,"Coconut, Topping",F,05
+23,1263,"Coconut, In Shell",A,05
+23,1264,"Coconut, Shelled",B,05
+23,1265,"Coconut, Butter",C,05
+23,1266,"Coconut, Paste",D,05
+23,1267,"Coconut, Spread",E,05
+23,1269,Melon Seeds (Edible Seed),K,05
+23,1270,"Filbert, Hazelnut, Topping",F,06
+23,1271,"Filbert, Hazelnut, In Shell",A,06
+23,1272,"Filbert, Hazelnut, Shelled",B,06
+23,1273,"Filbert, Hazelnut, Butter",C,06
+23,1274,"Filbert, Hazelnut, Paste",D,06
+23,1275,"Filbert, Hazelnut, Spread",E,06
+23,1276,"Peanut, Topping",F,07
+23,1277,"Peanut, In Shell",A,07
+23,1278,"Peanut, Shelled",B,07
+23,1279,"Peanut, Butter",C,07
+23,1280,"Peanut, Paste",D,07
+23,1281,"Peanut, Spread",E,07
+23,1282,"Pecan, Topping",F,08
+23,1283,"Pecan, In Shell",A,08
+23,1284,"Pecan, Shelled",B,08
+23,1285,"Pecan, Butter",C,08
+23,1286,"Pecan, Paste",D,08
+23,1287,"Pecan, Spread",E,08
+23,1288,"Pine Nut (Pinon), Topping",F,09
+23,1289,"Pine Nuts (Pinon), In Shell",A,09
+23,1290,"Pine Nut (Pinon), Shelled",B,09
+23,1291,"Pine Nut (Pinon), Butter",C,09
+23,1292,"Pine Nut (Pinon), Paste",D,09
+23,1293,"Pine Nut (Pinon), Spread",E,09
+23,1294,"Pino-Nut, Topping",F,10
+23,1295,"Pino-Nut, In Shell",A,10
+23,1296,"Pino-Nut, Shelled",B,10
+23,1297,"Pino-Nut, Butter",C,10
+23,1298,"Pino-Nut, Paste",D,10
+23,1299,"Pino-Nut, Spread",E,10
+23,1300,"Pistachio, Topping",F,11
+23,1301,"Pistachio, In Shell",A,11
+23,1302,"Pistachio, Shelled",B,11
+23,1303,"Pistachio, Butter",C,11
+23,1304,"Pistachio, Paste",D,11
+23,1305,"Pistachio, Spread",E,11
+23,1306,"Walnuts, Black, English or Persian, Topping",F,12
+23,1307,"Walnuts, Black, English or Persian, In Shell",A,12
+23,1308,"Walnuts, Black, English or Persian, Shelled",B,12
+23,1309,"Walnuts, Black, English or Persian, Butter",C,12
+23,1310,"Walnuts, Black, English or Persian, Paste",D,12
+23,1311,"Walnuts, Black, English or Persian, Spread",E,12
+23,1312,"Nut, Topping, N.E.C.",F,99
+23,1313,"Nuts, In Shell, N.E.C.",A,99
+23,1314,"Nut, Shelled, N.E.C.",B,99
+23,1315,"Nut, Butter, N.E.C.",C,99
+23,1316,"Nut, Paste, N.E.C.",D,99
+23,1317,"Nut, Spread, N.E.C.",E,99
+23,1318,"Mixed Nut Product, N.E.C.",J,99
+23,1319,"Mixed Nuts, In Shell, N.E.C.",G,99
+23,1320,"Mixed Nuts, Shelled, N.E.C.",H,99
+23,1321,"Edible Seeds, N.E.C.",K,99
+23,1322,"Mixed Edible Seeds, N.E.C.",L,99
+23,1323,"Edible Seed Products, N.E.C.",M,99
+23,1324,"Imitation Nut or Seed Product, N.E.C.",N,99
+23,1325,"Nuts or Edible Seeds Not Mentioned Elsewhere, N.E.C.",Y,99
+23,24098,"Betel Nut, In Shell",A,14
+23,24099,"Betel Nut, Shelled",B,14
+23,24100,"Betel Nut, Butter",C,14
+23,24101,"Betel Nut, Paste",D,14
+23,24102,"Betel Nut, Spread",E,14
+23,24103,"Betel Nut, Topping",F,14
+23,24104,"Ginkgo, Gingko Nut, In Shell",A,15
+23,24105,"Ginkgo, Gingko Nut, Shelled",B,15
+23,24106,"Ginkgo, Gingko Nut, Butter",C,15
+23,24107,"Ginkgo, Gingko Nut, Paste",D,15
+23,24108,"Ginkgo, Gingko Nut, Spread",E,15
+23,24109,"Ginkgo, Gingko Nut, Topping",F,15
+23,24110,"Lotus Nut, In Shell",A,16
+23,24111,"Lotus Nut, Shelled",B,16
+23,24112,"Lotus Nut, Butter",C,16
+23,24113,"Lotus Nut, Paste",D,16
+23,24114,"Lotus Nut, Spread",E,16
+23,24115,"Lotus Nut, Topping",F,16
+23,24116,"Macapuno (Coconut Sport), In Shell",A,17
+23,24117,"Macapuno (Coconut Sport), Shelled",B,17
+23,24118,"Macapuno (Coconut Sport), Butter",C,17
+23,24119,"Macapuno (Coconut Sport), Paste",D,17
+23,24120,"Macapuno (Coconut Sport), Spread",E,17
+23,24121,"Macapuno (Coconut Sport), Topping",F,17
+23,24123,Safflower Seed (Edible Seed),K,07
+23,24124,Millet Seed (Edible Seed),K,08
+23,24125,Quinoa Seed (Edible Seed),K,09
+23,24701,Lotus Seed (Edible Seed),K,06
+23,25429,Akhroot (Indian name for walnut),B,12
+23,25433,"Anardana (Indian sundried pomegranate seeds from variety of pomegranate, inedible in natural state",K,99
+23,25445,Baak Gwoah (Chinese huff-colored sweet nut comes from center of inedible fruit of maidenhair tree),A,15
+23,25447,Badam (Indian name for almonds),B,01
+23,25468,Bongkrek (Indonesian coconut presscake bound by mold mycelium into solid bars),B,05
+23,25486,"Candlenut (Indonesian oily nut, used in bumbu and as thickening agent)",B,99
+23,25493,Chih Mah (Chinese term for sesame seed) (Edible Seed),K,02
+23,25497,Chironji (Indian grayish-brown almond flavored seeds used in desserts or as stuffing),K,99
+23,25534,"Ginnan (Japanese buff-colored, sweet nut comes from center of inedible fruit of maidenhair tree)",A,15
+23,25536,Goma (Japanese term for sesame seed) (Edible Seed),K,02
+23,25558,Moong Phali (Indian term for peanuts),B,07
+23,25605,Pista (Indian name for pistachio),B,11
+23,25669,Kajoo (Indian name for cashews),B,03
+23,25725,"Tempe Bongkrek (Indonesian coconut presscake w/soybeans, bound by mold mycelium into solid bars)",B,05
+23,25733,Til (Indian name for sesame seeds) (Edible Seed),K,02
+23,25791,Lien Jee (Chinese lotus seed) (Edible Seed),K,06
+23,161485,"Macadamia, In Shell",A,18
+23,161486,"Macadamia, Shelled",B,18
+23,161487,"Macadamia, Butter",C,18
+23,161488,"Macadamia, Paste",D,18
+23,161489,"Macadamia, Spread",E,18
+23,161490,"Macadamia, Topping",F,18
+23,161491,"Sesame Seed Paste (e.g., Tahina), Edible Seed Prod.",M,01
+23,170282,"Almond, Nut Flour/Meal",O,01
+23,170283,"Sweet Almond, Nut Flour/Meal",O,01
+23,170303,"Brazil Nut, Nut Flour/Meal",O,02
+23,170305,"Butter Nut, Nut Flour/Meal",O,02
+23,170306,"Cream Nut, Nut Flour/Meal",O,02
+23,170307,"Paranut, Nut Flour/Meal",O,02
+23,170308,"Cashew, Nut Flour/Meal",O,03
+23,170310,"Maranon Seed, Nut Flour/Meal",O,03
+23,170311,"Heart Nut, Nut Flour/Meal",O,03
+23,170312,"Chestnut, Nut Flour/Meal",O,04
+23,170313,"Marron, Nut Flour/Meal",O,04
+23,170315,"Coconut, Nut Flour/Meal",O,05
+23,170317,"Filbert, Hazelnut, Nut Flour/Meal",O,06
+23,170318,"Cobnut, Nut Flour/Meal",O,06
+23,170322,"Turkish Hazelnut, Nut Flour/Meal",O,06
+23,170323,"Peanut, Nut Flour/Meal",O,07
+23,170324,"Goober, Nut Flour/Meal",O,07
+23,170325,"Goober Pea, Nut Flour/Meal",O,07
+23,170326,"Groundnut, Nut Flour/Meal",O,07
+23,170402,"Indian Peanut, Nut Flour/Meal",O,07
+23,170403,"Monkey Nut, Nut Flour/Meal",O,07
+23,170404,"Japanese Style Peanuts, Nut Flour/Meal",O,07
+23,170406,"Runner Peanut, Nut Flour/Meal",O,07
+23,170407,"Spanish Peanut, Nut Flour/Meal",O,07
+23,170408,"Valencia Peanut, Nut Flour/Meal",O,07
+23,170409,"Virginia Peanut, Nut Flour/Meal",O,07
+23,170410,"Pecan, Nut Flour/Meal",O,08
+23,170412,"Pine Nut, Nut Flour/Meal",O,09
+23,170413,"Inidan Nut, Nut Flour/Meal",O,09
+23,170414,"Pignoli, Nut Flour/Meal",O,09
+23,170415,"Pignolia, Nut Flour/Meal",O,09
+23,170416,"Pignolo, Nut Flour/Meal",O,09
+23,170417,"Pine Kernal, Nut Flour/Meal",O,09
+23,170418,"Pinolea, Nut Flour/Meal",O,09
+23,170419,"Pinoli, Nut Flour/Meal",O,09
+23,170420,"Pinon, Nut Flour/Meal",O,09
+23,170421,"Pinyon, Nut Flour/Meal",O,09
+23,170422,"Snoober, Nut Flour/Meal",O,09
+23,170423,"Pistachio, Nut Flour/Meal",O,11
+23,170426,"Walnuts, Black, English or Persian, Nut Flour/Meal",O,12
+23,170428,"Betel Nut, Nut Flour/Meal",O,14
+23,170429,"Piang, Nut Flour/Meal",O,14
+23,170430,"Area Nut, Nut Flour/Meal",O,14
+23,170431,"Ginkgo, Gingko Nut Flour/Meal",O,15
+23,170432,"White Nut, Nut Flour/Meal",O,15
+23,170433,"Macadamia, Nut Flour/Meal",O,18
+23,170434,"Australian Nut, Nut Flour/Meal",O,18
+23,170435,"Bush Nut, Nut Flour/Meal",O,18
+23,170437,"Queensland Nut, Nut Flour/Meal",O,18
+23,170438,"Acorn, Nut Flour/Meal",O,19
+23,170440,"Apricot Kernal, Nut Flour/Meal",O,20
+23,170443,"Chinese Almonds, Nut Flour/Meal",O,20
+23,170444,"Hang yen, Nut Flour/Meal",O,20
+23,170445,"Candlenut (Indonesian oily nut, used in bumbu and as thickening agent), Nut Flour/Meal",O,21
+23,170446,"Buah Keras, Nut Flour/Meal",O,21
+23,170447,"Candle nut, Nut Flour/Meal",O,21
+23,170448,"Country Walnut, Nut Flour/Meal",O,21
+23,170449,"Kemiri nuts, Nut Flour/Meal",O,21
+23,170450,"Kukui Nuts, Nut Flour/Meal",O,21
+23,170451,"Fox Nut, Nut Flour/Meal",O,22
+23,170452,"Hickory Nut, Nut Flour/Meal",O,23
+23,170453,"Kluwak Nuts, Nut Flour/Meal",O,24
+23,170462,"Kluwak Kupas, Nut Flour/Meal",O,24
+23,170463,"Lychee Nut, Nut Flour/Meal",O,25
+23,170464,"Mape, Nut Flour/Meal",O,26
+23,170465,"Polynesian Chestnut, Nut Flour/Meal",O,26
+23,170466,"Paradise Nut, Nut Flour/Meal",O,27
+23,170467,"Sapucaya Nut, Nut Flour/Meal",O,27
+23,170468,"Sapucia Nut, Nut Flour/Meal",O,27
+23,170469,"Pili Nut, Nut Flour/Meal",O,28
+23,170470,"Java Almond, Nut Flour/Meal",O,28
+23,170471,"Pilinuts, Nut Flour/Meal",O,28
+23,170523,"Ogbono Nuts, Nut Flour/Meal",O,29
+23,170524,"Apon Nuts, Nut/Flour Meal",O,29
+23,170525,"Dika Nuts, Nut/Flour Meal",O,29
+23,170527,"Ramon Nut, Nut Flour/Meal",O,30
+23,170528,"Tiger Nut, Nut Flour/Meal",O,31
+23,170529,"Water Caltrop, Nut Flour/Meal",O,32
+23,170530,"Horned Water Chestnut, Nut Flour/Meal",O,32
+23,170531,"Jesuit Nut, Nut Flour/Meal",O,32
+23,170532,"Ling Chio, Nut Flour/Meal",O,32
+23,170533,"Ling Jiao, Nut Flour/Meal",O,32
+23,170534,"Ling Kio, Nut Flour/Meal",O,32
+23,170535,"Ling Kok, Nut Flour/Meal",O,32
+23,170536,"Mixed Nut Spreads, Butters",T,03
+23,170537,Almond and Walnut Butter,T,03
+23,170538,Macademia and Cashew Butter,T,03
+23,170539,Pecan and Sesame Butter,T,03
+23,170540,Tahini and Almond Butter,T,03
+23,170541,Tahini and Walnut Butter,T,03
+23,170542,Tahini and Pecan Butter,T,03
+23,170543,Mixed Nut Paste,T,04
+23,170544,Almond and Hazelnut Paste,T,04
+23,170545,Pumpkin Seed (Edible Seed Paste),R,01
+23,170546,Pepitas (Edible Seed Paste),R,01
+23,170547,Pumpkin Seed Butter (Edible Seed Paste),R,01
+23,170548,White Pumpkin Seeds (Edible Seed Paste),R,01
+23,170549,Pipian Paste (made from ground pumpkin seeds) (Edible Seed Paste),R,01
+23,170550,Pumpkin seed mole (Edible Seed Paste),R,01
+23,170551,Sesame Seed (Edible Seed Paste),R,02
+23,170552,Black Sesame Seed (Edible Seed Paste),R,02
+23,170553,Black Sesame Tahini (Edible Seed Paste),R,02
+23,170554,Sesame Nut Butter (Edible Seed Paste),R,02
+23,170555,Sesame Seed Flour (Edible Seed Paste),R,02
+23,170556,White Sesame Seed (Edible Seed Paste),R,02
+23,170557,Sim Sim (Edible Seed Paste),R,02
+23,170558,Tahini Butter (Edible Seed Paste),R,02
+23,170559,Sesame Tahini Butter (Edible Seed Paste),R,02
+23,170560,Soybeans (Edible Seed Paste),R,03
+23,170561,Soy Nut Butter (Edible Seed Paste),R,03
+23,170562,Soya Nuts (Edible Seed Paste),R,03
+23,170563,Soybean Paste (Edible Seed Paste),R,03
+23,170564,Edamame Paste (Edible Seed Paste),R,03
+23,170565,Sunflower Seed (Edible Seed Paste),R,04
+23,170566,Sunflower Flour (Edible Seed Paste),R,04
+23,170567,Melon Seeds (Edible Seed Paste),R,05
+23,170568,"Bizeer Batehh (watermelon seeds, larger than the black watermelon seeds; middle eastern markets)",R,05
+23,170569,Black Melon Seeds (Edible Seed Paste),R,05
+23,170570,Green Tea Melon Seeds (Edible Seed Paste),R,05
+23,170571,Red Melon Seeds (Edible Seed Paste),R,05
+23,170572,Sunflower Seed Butter (Edible Seed Paste),R,05
+23,170573,Watermelon Seeds (Edible Seed Paste),R,05
+23,170574,Lotus Seed (Edible Seed Paste),R,06
+23,170575,White Lotus Seed Paste (Edible Seed Paste),R,06
+23,170576,Lotus Seed Paste (Edible Seed Paste),R,06
+23,170577,Apricot Seed (Edible Seed Paste),R,11
+23,170578,Beechnut (Edible Seed Paste),R,12
+23,170579,Bechmast (Edible Seed Paste),R,12
+23,170580,Beech Nut (Edible Seed Paste),R,12
+23,170581,Black Walnut (hard to shell but tastier than ordinary walnuts) (Edible Seed Paste),R,13
+23,170582,Breadnut Seed (Edible Seed Paste),R,14
+23,170583,Breadfruit Seed (Edible Seed Paste),R,14
+23,170584,Ramon Nut (Edible Seed Paste),R,14
+23,170585,Maya Nut (Edible Seed Paste),R,14
+23,170586,Chia Seeds (Edible Seed Paste),R,15
+23,170587,Chironji (Indian grayish-brown almond flavored seeds) (Edible Seed Paste),R,16
+23,170588,Ehuru Seeds (Edible Seed Paste),R,17
+23,170589,Hemp Seed (Edible Seed Paste),R,18
+23,170590,Hemp Seed Nut (Edible Seed Paste),R,18
+23,170591,Hemp Fruit (Edible Seed Paste),R,18
+23,170592,Huo Ma Ren (Edible Seed Paste),R,18
+23,170593,Hemp Seed Nut Butter (Edible Seed Paste),R,18
+23,170594,Egusi Seeds (subspecies of the watermelon species) (Edible Seed Paste),R,19
+23,170595,Agushi Seeds (Edible Seed Paste),R,19
+23,170596,Agushie Seeds (Edible Seed Paste),R,19
+23,170597,Agusi Seed (Edible Seed Paste),R,19
+23,170598,Flax Seed (Edible Seed Paste),R,20
+23,170599,Flaxseed (Edible Seed Paste),R,20
+23,170600,Linseed (Edible Seed Paste),R,20
+23,170601,Brown Flax Seed (Edible Seed Paste),R,20
+23,170602,Yellow Flax Seed (Edible Seed Paste),R,20
+23,170603,Flax Meal (Edible Seed Paste),R,20
+23,170604,Jackfruit Seed (Edible Seed Paste),R,21
+23,170605,Ogbono Seed (Edible Seed Paste),R,22
+23,170606,Apon (Edible Seed Paste),R,22
+23,170607,Agbono (Edible Seed Paste),R,22
+23,170608,Etima (Edible Seed Paste),R,22
+23,170609,Odika (Edible Seed Paste),R,22
+23,170610,Dika Nuts (Edible Seed Paste),R,22
+23,170611,Job's Tears Seed (Edible Seed Paste),R,24
+23,170612,Pomegrante Seed (Edible Seed Paste),R,25
+23,170613,"Anardana (Indian sundried pomegranate seeds from variety of pomegranate, inedible in natural state",R,25
+23,170614,Uda Seeds (in African markets) (Edible Seed Paste),R,26
+23,170615,"Sesame Seed Paste, Edible Seed Butters",S,01
+23,170616,"Tahina Paste, Edible Seed Butters",S,01
+23,170617,Peabutter Spread,N,02
+23,170962,Ground Nut,D,07
+23,170963,Kuli-kuli,D,07
+23,175821,Flax Seed (Edible Seed),K,10
+23,175822,Chia Seed (Edible Seed),K,11
+23,175823,Hemp Seed (Edible Seed),K,12
+23,176327,Nut Spreads with Flavorings (e.g. Nutella),Y,01
+23,176328,Hazelnut Spreads with Flavoring,Y,01
+23,177125,Grapeseed (Edible Seed),K,13
+23,177126,"Grapeseed Paste, Edible Seed Butters",S,02

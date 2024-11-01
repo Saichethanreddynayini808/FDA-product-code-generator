@@ -1,0 +1,455 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+58,176348,Benralizumab,A,01
+58,176349,Follitropin Alfa,J,01
+58,176350,Follitropin Alfa/Beta,J,02
+58,176351,"Gonad-Stimulating Principle, NEC",J,99
+58,176352,Palifermin,K,01
+58,176353,Becaplermin,K,02
+58,176354,"Growth Factor, NEC",K,99
+58,176355,Luspatercept-aamt,L,01
+58,176356,Epoetin Alfa-epbx,L,02
+58,176357,Desirudin,L,03
+58,176358,Crizanlizumab-tmca,L,04
+58,176359,Caplacizumab-yhdp,L,05
+58,176360,Ecallantide,L,06
+58,176361,Methoxy Polyethylene Glycol-Epoetin Beta,L,07
+58,176362,Pegfilgrastim-bmez,L,08
+58,176363,Pegfilgrastim-cbqv,L,09
+58,176364,Pegfilgrastim-jmdb,L,10
+58,176365,Romiplostim,L,11
+58,176366,Sargramostim,L,12
+58,176367,Tbo-Filgrastim,L,13
+58,176368,"Hematological Agent, NEC",L,99
+58,176369,Canakinumab,M,01
+58,176370,Tildrakizumab-asmn,M,02
+58,176371,Tocilizumab,M,03
+58,176372,Brodalumab,M,04
+58,176373,Interferon Beta-1a,M,05
+58,176374,Interferon Beta-1b,M,06
+58,176375,Interferon Gamma-1b,M,07
+58,176376,Natalizumab,M,08
+58,176377,Risankizumab-rzaa,M,09
+58,176378,Vedolizumab,M,10
+58,176379,Ixekizumab,M,11
+58,176380,Peginterferon Beta-1a,M,12
+58,176381,Basiliximab,M,13
+58,176382,Cemiplimab-rwlc,M,14
+58,176383,Daclizumab,M,15
+58,176384,Ocrelizumab,M,16
+58,176385,"Immunological Agent, NEC",M,99
+58,176386,Dupilumab,A,02
+58,176387,Mepolizumab,A,03
+58,176388,Omalizumab,A,04
+58,176389,Reslizumab,A,05
+58,176390,"Anti-Asthmatic, NEC",A,99
+58,176391,Calfactant,N,01
+58,176392,"Lung Surfactant, NEC",N,99
+58,176393,Sarilumab,O,01
+58,176394,Bezlotoxumab,O,02
+58,176395,Burosumab-twza,O,03
+58,176396,Emapalumab-lzsg,O,04
+58,176397,Emicizumab-kxwh,O,05
+58,176398,Guselkumab,O,06
+58,176399,Idarucizumab,O,07
+58,176400,Lanadelumab,O,08
+58,176401,Obiltoxaximab,O,09
+58,176402,Ravulizumab-cwvz,O,10
+58,176403,Teprotumumab-trbw,O,11
+58,176404,Romosozumab-aqqg,O,12
+58,176405,"Monoclonal Antibody, NEC",O,99
+58,176406,AbobotulinumtoxinA,P,01
+58,176407,IncobotulinumtoxinA,P,02
+58,176408,PrabotulinumtoxinA-xvfs,P,03
+58,176409,"Neuromuscular Blocker, NEC",P,99
+58,176410,Brolucizumab-dbll,Q,01
+58,176411,Cenegermin-bkbj,Q,02
+58,176412,Ocriplasmin,Q,03
+58,176413,Ranibizumab,Q,04
+58,176414,"Ophthalmologic Agent, NEC",Q,99
+58,176415,Adalimumab-bwwd,S,01
+58,176416,Adalimumab-adaz,S,02
+58,176417,Adalimumab-adbm,S,03
+58,176418,Adalimumab-afzb,S,04
+58,176419,Adalimumab-atto,S,05
+58,176420,Fremanezumab-vfrm,C,01
+58,176421,Galcanezumab-gnlm,C,02
+58,176422,"Antimigraine, NEC",C,99
+58,176423,Alemtuzumab,D,01
+58,176424,Asparaginase Erwinia Chrysanthemi,D,02
+58,176425,Atezolizumab,D,03
+58,176426,Avelumab,D,04
+58,176427,Belantamab Mafodotin-blmf,D,05
+58,176428,Bevacizumab-awwb,D,06
+58,176429,Certolizumab pegol,S,06
+58,176430,Etanercept-szzs,S,07
+58,176431,Etanercept-ykro,S,08
+58,176432,Infliximab-abda,S,09
+58,176433,Infliximab-axxq,S,10
+58,176434,Bevacizumab-bvzr,D,07
+58,176435,Calaspargase Pegol-mknl,D,08
+58,176436,Daratumumab,D,09
+58,176437,Daratumumab and Hyaluronidase-fihj,D,10
+58,176438,Durvalumab,D,11
+58,176439,Elotuzumab,D,12
+58,176440,Gemtuzumab Ozogamicin,D,13
+58,176441,Inotuzumab Ozogamicin,D,14
+58,176442,Ipilimumab,D,15
+58,176443,Infliximab-dyyb,S,11
+58,176444,Mogamulizumab-kpkc,D,16
+58,176445,Moxetumomab Pasudotox-tdfk,D,17
+58,176446,Necitumumab,D,18
+58,176447,Olaratumab,D,19
+58,176448,Polatuzumab Vedotin-piiq,D,20
+58,176449,Rituximab and Hyaluronidase Human,D,21
+58,176450,Rituximab-abbs,D,22
+58,176451,Rituximab-pvvr,D,23
+58,176452,Tagraxofusp-erzs,D,24
+58,176453,Trastuzumab and Hyaluronidase-oysk,D,25
+58,176454,Trastuzumab-anns,D,26
+58,176455,Trastuzumab-dkst,D,27
+58,176456,Trastuzumab-dttb,D,28
+58,176457,Trastuzumab-pkrb,D,29
+58,176458,Trastuzumab-qyyp,D,30
+58,176459,"Antineoplastic, NEC",D,99
+58,176460,Ibalizumab-uiyk,E,01
+58,176461,Infliximab-qbtx,S,12
+58,176462,"Tumor Necrosis Factor (TNF) Inhibitor, NEC",S,99
+58,176463,Interferon Alfa-n3,E,02
+58,176464,Peginterferon Alfa-2b,E,03
+58,176465,"Antiviral, NEC",E,99
+58,176466,Alirocumab,F,01
+58,176467,Evolocumab,F,02
+58,176468,"Cardiovascular Agent, NEC",F,99
+58,176469,Capromab Pendetide,G,01
+58,176470,"Diagnostic Agent, NEC",G,99
+58,176471,Mecasermin Recombinant,H,01
+58,176472,Metreleptin,H,02
+58,176473,"Endocrine-Metabolic Agent, NEC",H,99
+58,176474,Pegvaliase-pqpz,I,01
+58,176475,Collagenase Clostridium Histolyticum-aaes,I,02
+58,176476,Dornase Alfa,I,03
+58,176477,Glucarpidase,I,04
+58,176478,Laronidase,I,05
+58,176479,Pegloticase,I,06
+58,176480,Rasburicase,I,07
+58,176481,Sebelipase Alfa,I,08
+58,176482,Taliglucerase Alfa,I,09
+58,176483,Velaglucerase Alfa,I,10
+58,176484,Vestronidase Alfa-vjbk,I,11
+58,176485,Agalsidase Beta,I,12
+58,176486,Alglucosidase Alfa,I,13
+58,176487,Asfotase Alfa,I,14
+58,176488,Cerliponase Alfa,I,15
+58,176489,Elapegademase,I,16
+58,176490,Elosulfase Alfa,I,17
+58,176491,Galsulfase,I,18
+58,176492,Idursulfase,I,19
+58,176493,"Enzyme, NEC",I,99
+58,176494,Gonal-F,J,01
+58,176495,Gonal-F RFF,J,01
+58,176496,Gonal-F RFF Redi-Ject,J,01
+58,176497,Follistim AQ,J,02
+58,176498,Kepivance,K,01
+58,176499,Regranex,K,02
+58,176500,Reblozyl,L,01
+58,176501,Retacrit,L,02
+58,176502,Iprivask,L,03
+58,176503,Adakveo,L,04
+58,176504,Cablivi,L,05
+58,176505,Kalbitor,L,06
+58,176506,Mircera,L,07
+58,176507,Ziextenzo,L,08
+58,176508,Udenyca,L,09
+58,176509,Fulphila,L,10
+58,176510,Nplate,L,11
+58,176511,Leukine,L,12
+58,176512,Granix,L,13
+58,176513,Ilaris,M,01
+58,176514,Ilumya,M,02
+58,176515,Actemra,M,03
+58,176516,Siliq,M,04
+58,176517,Avonex,M,05
+58,176518,Rebif,M,05
+58,176519,Betaseron,M,06
+58,176520,Extavia,M,06
+58,176521,Actimmune,M,07
+58,176522,Tysabri,M,08
+58,176523,Skyrizi,M,09
+58,176524,Entyvio,M,10
+58,176525,Taltz,M,11
+58,176526,Plegridy,M,12
+58,176527,Simulect,M,13
+58,176528,Libtayo,M,14
+58,176529,Zinbryta,M,15
+58,176530,Ocrevus,M,16
+58,176531,Infasurf,N,01
+58,176532,Kevzara,O,01
+58,176533,Zinplava,O,02
+58,176534,Crysvita,O,03
+58,176535,Gamifant,O,04
+58,176536,Hemlibra,O,05
+58,176537,Tremfya,O,06
+58,176538,Praxbind,O,07
+58,176539,Takhzyro,O,08
+58,176540,Anthim,O,09
+58,176541,Ultomiris,O,10
+58,176542,Tepezza,O,11
+58,176543,Evenity,O,12
+58,176544,Dysport,P,01
+58,176545,Xeomin,P,02
+58,176546,Jeuveau,P,03
+58,176547,Beovu,Q,01
+58,176548,Oxervate,Q,02
+58,176549,Jetrea,Q,03
+58,176550,Lucentis,Q,04
+58,176551,Hadlima,S,01
+58,176552,Hyrimoz,S,02
+58,176553,Cyltezo,S,03
+58,176554,Abrilada,S,04
+58,176555,Amjevita,S,05
+58,176556,Cimzia,S,06
+58,176557,Erelzi,S,07
+58,176558,Eticovo,S,08
+58,176559,Renflexis,S,09
+58,176560,Avsola,S,10
+58,176561,Inflectra,S,11
+58,176562,Ixifi,S,12
+58,176563,Fasenra,A,01
+58,176564,Dupixent,A,02
+58,176565,Nucala,A,03
+58,176566,Xolair,A,04
+58,176567,Cinqair,A,05
+58,176568,Ajovy,C,01
+58,176569,Emgality,C,02
+58,176570,Campath,D,01
+58,176571,Lemtrada,D,01
+58,176572,Erwinaze,D,02
+58,176573,Tecentriq,D,03
+58,176574,Bavencio,D,04
+58,176575,Blenrep,D,05
+58,176576,Mvasi,D,06
+58,176577,Zirabev,D,07
+58,176578,Asparlas,D,08
+58,176579,Darzalex,D,09
+58,176580,Darzalex Faspro,D,10
+58,176581,Imfinzi,D,11
+58,176582,Empliciti,D,12
+58,176583,Mylotarg,D,13
+58,176584,Besponsa,D,14
+58,176585,Yervoy,D,15
+58,176586,Poteligeo,D,16
+58,176587,Lumoxiti,D,17
+58,176588,Portrazza,D,18
+58,176589,Lartruvo,D,19
+58,176590,Polivy,D,20
+58,176591,Rituxan Hycela,D,21
+58,176592,Truxima,D,22
+58,176593,Ruxience,D,23
+58,176594,Elzonris,D,24
+58,176595,Herceptin Hylecta,D,25
+58,176596,Kanjinti,D,26
+58,176597,Ogivri,D,27
+58,176598,Ontruzant,D,28
+58,176599,Herzuma,D,29
+58,176600,Trazimera,D,30
+58,176601,Trogarzo,E,01
+58,176602,Alferon N Injection,E,02
+58,176603,PegIntron,E,03
+58,176604,Sylatron,E,03
+58,176605,Praluent,F,01
+58,176606,Repatha,F,02
+58,176607,ProstaScint,G,01
+58,176608,Increlex,H,01
+58,176609,Myalept,H,02
+58,176610,Palynziq,I,01
+58,176611,Qwo,I,02
+58,176612,Pulmozyme,I,03
+58,176613,Voraxaze,I,04
+58,176614,Aldurazyme,I,05
+58,176615,Krystexxa,I,06
+58,176616,Elitek,I,07
+58,176617,Kanuma,I,08
+58,176618,Elelyso,I,09
+58,176619,VPRIV,I,10
+58,176620,Mepsevii,I,11
+58,176621,Fabrazyme,I,12
+58,176622,Myozyme,I,13
+58,176623,Lumizyme,I,13
+58,176624,Strensiq,I,14
+58,176625,Brineura,I,15
+58,176626,Revcovi,I,16
+58,176627,Vimizim,I,17
+58,176628,Naglazyme,I,18
+58,176629,Elaprase,I,19
+58,176630,Tixagevimab,E,04
+58,176631,Cilgavimab,E,05
+58,176632,Sotrovimab,E,06
+58,176633,Evusheld,E,04
+58,176634,Casirivimab,E,07
+58,176635,Imdevimab,E,08
+58,176636,REGEN-COV,E,07
+58,176740,DaxibotulinumtoxinA-lanm,P,04
+58,176741,Daxxify,P,04
+58,177043,Trastuzumab,D,25
+58,177130,Anacaulase-bcdb,I,20
+58,177131,NexoBrid,I,20
+58,177134,aflibercept,Q,05
+58,177135,epoetin alfa,L,17
+58,177136,darbepoetin alfa,L,16
+58,177137,beractant,N,02
+58,177138,reteplase,L,21
+58,177139,tenecteplase,L,22
+58,177140,imiglucerase,I,23
+58,177141,infliximab,S,13
+58,177142,adalimumab,S,14
+58,177143,etanercept,S,15
+58,177144,golimumab,S,16
+58,177145,abciximab,L,14
+58,177146,parathyroid hormone,H,03
+58,177147,asparaginase,D,33
+58,177148,ustekinumab,M,27
+58,177149,secukinumab,M,25
+58,177150,anakinra,M,18
+58,177151,poractant alfa,N,03
+58,177152,interferon alfa-2b,M,22
+58,177153,palivizumab,O,15
+58,177154,peginterferon alfa-2a,M,23
+58,177155,filgrastim,L,18
+58,177156,bevacizumab,D,34
+58,177157,ado-trastuzumab emtansine,D,31
+58,177158,aldesleukin,D,32
+58,177159,blinatumomab,D,35
+58,177160,brentuximab vedotin,D,36
+58,177161,cetuximab,D,37
+58,177162,denileukin diftitox,D,38
+58,177163,dinutuximab,D,39
+58,177164,ibritumomab tiuxetan,D,40
+58,177165,nivolumab,D,41
+58,177166,obinutuzumab,D,42
+58,177167,panitumumab,D,43
+58,177168,Ziv-Aflibercept,D,49
+58,177169,ofatumumab,O,14
+58,177170,pegaspargase,D,44
+58,177171,pembrolizumab,D,45
+58,177172,pertuzumab,D,46
+58,177173,ramucirumab,D,47
+58,177174,rituximab,D,48
+58,177175,erenumab-aooe,C,03
+58,177176,thyrotropin alfa,G,04
+58,177177,pancrelipase,I,24
+58,177178,collagenase clostridium histolyticum,I,21
+58,177179,choriogonadotropin alfa,J,03
+58,177180,chorionic gonadotropin,J,04
+58,177181,menotropins,J,05
+58,177182,urofollitropin,J,06
+58,177183,belimumab,M,20
+58,177184,denosumab,M,21
+58,177185,eculizumab,O,13
+58,177186,Raxibacumab,O,16
+58,177187,siltuximab,M,26
+58,177188,pegvisomant,H,04
+58,177189,somatropin,H,05
+58,177190,sacrosidase,I,25
+58,177191,belatacept,M,19
+58,177192,alteplase,L,15
+58,177193,filgrastim-sndz,L,19
+58,177194,pegfilgrastim,L,20
+58,177195,albumin Iodinated I-125 Serum,G,02
+58,177196,albumin iodinated I-131 serum,G,03
+58,177197,onabotulinumtoxinA,P,05
+58,177198,Botulinum Toxin Type B,P,06
+58,177199,hyaluronidase,I,22
+58,177200,abatacept,M,17
+58,177201,rilonacept,M,24
+58,177202,collagenase,I,26
+58,177203,Eylea (Inhibitor (Growth Factor)),Q,05
+58,177204,Epogen,L,17
+58,177205,Procrit,L,17
+58,177206,Aranesp,L,16
+58,177207,Survanta,N,02
+58,177208,Retavase,L,21
+58,177210,TNKase,L,22
+58,177211,Cerezyme,I,23
+58,177212,Remicade,S,13
+58,177213,Humira,S,14
+58,177214,Enbrel,S,15
+58,177215,Simponi,S,16
+58,177216,Simponi Aria,S,16
+58,177217,Reopro,L,14
+58,177218,Natpara,H,03
+58,177219,Elspar,D,33
+58,177220,Stelara,M,27
+58,177221,Cosentyx,M,25
+58,177222,Kineret,M,18
+58,177223,Curosurf,N,03
+58,177224,Intron A,M,22
+58,177226,Synagis,O,15
+58,177227,Pegasys,M,23
+58,177228,Neupogen,L,18
+58,177229,Avastin,D,34
+58,177230,Erbitux,D,37
+58,177232,Zaltrap,D,49
+58,177233,Kadcyla,D,31
+58,177234,Proleukin,D,32
+58,177235,Blincyto,D,35
+58,177236,Adcentris,D,36
+58,177237,Ontak,D,38
+58,177238,Unituxin,D,39
+58,177239,Zevalin,D,40
+58,177240,Opdivo,D,41
+58,177241,Gazyva,D,42
+58,177242,Arzerra,O,14
+58,177243,Vectibix,D,43
+58,177244,Oncaspar,D,44
+58,177245,Keytruda,D,45
+58,177246,Perjeta,D,46
+58,177247,Cyramza,D,47
+58,177248,Rituxan,D,48
+58,177249,Aimovig,C,03
+58,177250,Thyrogen,G,04
+58,177251,Pancreaze,I,24
+58,177252,Pertzye,I,24
+58,177253,Viokace,I,24
+58,177254,Zenpep,I,24
+58,177255,Collagenase Santyl,I,26
+58,177257,Xiaflex,I,21
+58,177258,Novarel,J,04
+58,177259,Pregnyl,J,04
+58,177262,Humegon,J,05
+58,177263,Menopur,J,05
+58,177264,Pergonal,J,05
+58,177265,Repronex,J,05
+58,177266,Bravelle,J,06
+58,177267,Ovidrel,J,03
+58,177268,Benlysta,M,20
+58,177269,Prolia,M,21
+58,177270,Soliris,O,13
+58,177271,Sylvant,M,26
+58,177272,Genotropin,H,05
+58,177273,Humatrope,H,05
+58,177274,Norditropin,H,05
+58,177275,Nutropin,H,05
+58,177276,Omnitrope,H,05
+58,177277,Saizen,H,05
+58,177278,Serostim,H,05
+58,177279,Zomacton,H,05
+58,177280,Zorbtive,H,05
+58,177281,Somavert,H,04
+58,177282,Sucraid,I,25
+58,177283,Nulojix,M,19
+58,177284,Neupogen,L,19
+58,177285,Zarxio,L,19
+58,177286,Neulasta,L,20
+58,177287,Activase,L,15
+58,177288,Cathflo Activase,L,15
+58,177289,Jeanatope,G,02
+58,177290,Megatope,G,03
+58,177291,Myobloc,P,06
+58,177292,RimabotulinumtoxinB,P,06
+58,177293,Amphadase,I,22
+58,177294,Hylenex,I,22
+58,177295,Vitrase,I,22
+58,177296,Orencia,M,17
+58,177297,Arcalyst,M,24
+58,177298,Botox,P,05
+58,177299,Botulinum Toxin Type A,P,05

@@ -1,0 +1,339 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+91,19968,"Alcohol Dehydrogenase, Specific Reagent For Ethanol Enzyme Method",D,IC
+91,19969,"Bacillus Subtlis Microbiology Assay, Tobramycin",D,ID
+91,19970,Heavy Metals Control Materials,D,IE
+91,19971,Drug Mixture Control Materials,D,IF
+91,19972,Cholinesterase Test Paper,D,IG
+91,19973,"Colorimetry, Cholinesterase",D,IH
+91,19974,"Columns, Glc",D,II
+91,19975,"Lead, Delta Amino Levulinic Acid",D,IJ
+91,19976,"Thin Layer Chromatography, Quinine",D,IK
+91,19977,"Radioimmunoassay, Primidone",D,IL
+91,19978,"Gas Chromatography, Salicylate",D,IM
+91,19979,"Gas Chromatography, Cocaine",D,IN
+91,19980,"Enzyme Immunoassay, Cocaine And Cocaine Metabolites",D,IO
+91,19981,"Enzyme Immunoassay, Diphenylhydantoin",D,IP
+91,19982,"Radioimmunoassay, Morphine (3-H), Goat Antibody Ammonium Sulfate Sep.",D,IQ
+91,19983,"Free Radical Assay, Cocaine",D,IR
+91,19984,"Enzyme Immunoassay, Barbiturate",D,IS
+91,19985,"Thin Layer Chromatography, Amphetamine",D,IT
+91,19986,"Hemagglutination Inhibition, Methadone",D,IW
+91,19987,"Thin Layer Chromatography, Phenobarbital",D,IX
+91,19988,"Gas Chromatography, Ethosuximide",D,IY
+91,19989,"Delayed Analysis, Alcohol",D,IZ
+91,19990,"Column Supports, Glc",D,JA
+91,19991,"Radioimmunoassay, Gentamicin (125-I), Second Antibody Sep.",D,JB
+91,19992,"Thin Layer Chromatography, Metamphetamine",D,JC
+91,19993,"Enzyme Immunoassay, Primidone",D,JD
+91,19994,"Thin Layer Chromatography, Salicylate",D,JE
+91,19995,"Gas Chromatography, Opiates",D,JF
+91,19996,"Enzyme Immunoassay, Opiates",D,JG
+91,19997,"Gas Chromatography, Phenobarbital",D,JH
+91,19998,"Antiserum, Gentamicin",D,JI
+91,19999,"Fluorometry, Morphine",D,JJ
+91,20000,"Digitoxin Control Serum, Ria",D,JK
+91,20001,"Free Radical Assay, Amphetamine",D,JL
+91,20003,"Mercury Dithiazone, Colorimetry, Barbiturate",D,JN
+91,20004,"Indicator, Cellulose Fluorescent, TLC",D,JO
+91,20005,"Radioimmunoassay, Amphetamine",D,JP
+91,20006,Test Reagents For Phenothiazine,D,JQ
+91,20007,"Enzyme Immunoassay, Methadone",D,JR
+91,20008,"U.V. Light, TLC",D,JS
+91,20009,Test Reagents For Chloral Hydrate,D,JW
+91,20010,"Radioimmunoassay, Ethosuximide",D,JX
+91,20011,Ion-Exchange Chromatography,D,JY
+91,20012,"Devices, Breath Trapping, Alcohol",D,JZ
+91,20013,"Antiserum, Digoxin",D,KA
+91,20014,"Calibrators, Drug Mixture",D,KB
+91,20015,Alcohol Control Materials,D,KC
+91,20016,"Bacillus Subtlis, Microbiological Assay, Gentamicin",D,KD
+91,20017,"Reagents, Test, Tetrahydrocannabinol",D,KE
+91,20018,"Plate, Cellulose, Tlc",D,KG
+91,20019,"Gas Chromatography, Diphenylhydantoin",D,KH
+91,20020,"Colorimetry, Salicylate",D,KJ
+91,20021,"Tanks, Developing, TLC",D,KK
+91,20022,"Radioimmunoassay, Barbiturate",D,KN
+91,20023,"Adsorbents, Ion-Exchange",D,KO
+91,20024,"Radioimmunoassay, Phenobarbital",D,KP
+91,20025,"Antiserum, Digitoxin",D,KQ
+91,20026,"Thin Layer Chromatography, Methadone",D,KR
+91,20027,"Plate, Silica Gel, Tlc",D,KS
+91,20028,"Free Radical Assay, Opiates",D,KT
+91,20029,Test Reagents For Sulphanimide Derivatives,D,KW
+91,20030,"Thin Layer Chromatography, Barbiturate",D,KX
+91,20031,"Indicator, Alumina Fluorescent, TLC",D,KY
+91,20032,"Enzyme Immunoassay, Amphetamine",D,KZ
+91,20033,Test Reagents For Methyl Alcohol,D,LA
+91,20034,"Radioimmunoassay, Lsd (125-I)",D,LB
+91,20035,"Atomizer, Tlc",D,LC
+91,20036,"Thin Layer Chromatography, Codeine",D,LD
+91,20037,"Reagents, Test, Bromides",D,LE
+91,20038,"Enzyme Immunoassay, Ethosuximide",D,LF
+91,20039,"Coating, Liquid, GLC",D,LG
+91,20040,"Gas Chromatography, Alcohol",D,LH
+91,20041,"Acetylcholine Chloride, Specific Reagent For Pseudo Cholinesterase",D,LI
+91,20042,"Calibrators, Drug Specific",D,LJ
+91,20043,"Hemagglutination, Cocaine Metabolites (Benzoylecgnonine)",D,LN
+91,20044,"Indicator, Silica Gel Fluorescent, TLC",D,LO
+91,20045,"Radioimmunoassay, Diphenylhydantoin",D,LP
+91,20046,"Hemagglutination Inhibition, Morphine",D,LR
+91,20047,"Gas Chromatograph, Alcohol (Dedicated Instruments)",D,LS
+91,20048,"Hemagglutination, Opiates",D,LT
+91,20049,"Hemagglutination Inhibition, Barbiturate",D,LX
+91,20050,"Plate, Alumina, Tlc",D,LY
+91,20051,"Enzyme Immunoassay, Phenobarbital",D,LZ
+91,20052,"Gas Chromatography, Methadone",D,MB
+91,20053,"Gas Liquid Chromatography, Barbiturate",D,MF
+91,20054,"Papers, Ion",D,MG
+91,20055,Potassium Dichromate Specific Reagent For Alcohol,D,MI
+91,20056,Test Reagents For Ethyl Alcohol,D,MJ
+91,20057,"Lead, Protoporphyrin, Fluorometric",D,MK
+91,20058,"Nad-Nadh, Specific Reagent For Alcohol Enzyme Method",D,ML
+91,20059,"Thin Layer Chromatography, Cocaine",D,MN
+91,20060,"Digoxin Control Serum, Ria",D,MP
+91,20061,"Gas Chromatography, Primidone",D,MQ
+91,20062,"Solution, M-Nitrophenol, Specific Reagent for Cholinesterase",D,MR
+91,20063,"Gases, Glc",D,MS
+91,20064,"Enzymatic Method, Alcohol Dehydrogenase, Ultraviolet",D,MT
+91,20065,"Liquid Chromatography, Salicylate",D,MX
+91,20066,"Gas Chromatography, Morphine",D,MY
+91,20067,"Liquid Chromatography, Absorbent",D,MZ
+91,20068,"Radioimmunoassay, Morphine-Barbiturate (125-I), Goat Antibody",D,
+91,20069,"Strip, Paper, Salicylate",D,NC
+91,20070,"Radioimmunoassay, Digitoxin (125-I), Rabbit Antibody, Solid Phase Sep.",D,ND
+91,20071,"Atomic Absorption, Antimony",D,NE
+91,20072,"Liquid Chromatography, Ethosuximide",D,NF
+91,20073,"Free Radical, Benzoylecgnonine",D,NG
+91,20074,"Resins, Ion-Exchange, Liquid Chromatography",D,NH
+91,20075,"Liquid Chromatography, Amphetamine",D,NI
+91,20076,"Radioimmunoassay, Digoxin (125-I), Goat Antibody, 2nd Antibody Sep.",D,NJ
+91,20077,"Thin Layer Chromatography, Morphine",D,NK
+91,20078,"Radioimmunoassay, Digoxin (125-I), Rabbit Antibody, Second Antibody Sep.",D,NL
+91,20079,"Calibrators, Ethyl Alcohol",D,NN
+91,20080,"Hemagglutination Inhibition, Gentamicin",D,NO
+91,20081,"Thin Layer Chromatography, Ethosuximide",D,NP
+91,20082,"Radioimmunoassay, Digoxin (3-H), Rabbit Antibody, Coated Tubes Sep.",D,NQ
+91,20083,"Radioimmunoassay, Digoxin (125-I), Rabbit Antibody, Double Label Sep.",D,NS
+91,20084,"Liquid Chromatography, Methadone",D,NT
+91,20085,"Radioimmunoassay, Digitoxin (3-H), Rabbit Antibody, Charcoal Sep.",D,NW
+91,20086,"Lead, Protoporphyrin Zinc Method, Fluorometric",D,NX
+91,20087,"Atomic Absorption, Arsenic",D,NZ
+91,20088,"Radioimmunoassay, Digoxin (125-I), Goat Antibody, Anion Exchange, Resin Sep.",D,OA
+91,20089,"Radioimmunoassay, Digitoxin (3-H)",D,OB
+91,20090,"Gas Chromatography, Amphetamine",D,OD
+91,20091,"Radioimmunoassay, Morphine (125-I), Goat Antibody Ammonium Sulfate Sep.",D,OE
+91,20092,"Lead, Atomic Absorption",D,OF
+91,20093,"Radioimmunoassay, Digoxin (125-I), Rabbit Antibody, Polyethylene Glycol",D,OG
+91,20094,"Electrometry, Cholinesterase",D,OH
+91,20095,"Potassium Dichromate, Alcohol",D,OJ
+91,20096,"Free Radical Assay, Morphine",D,OK
+91,20097,"Free Radical Assay, Lsd",D,OL
+91,20098,"Thin Layer Chromatography, Benzoylecgnonine",D,OM
+91,20099,"Radioimmunoassay, Digoxin (125-I), Rabbit Antibody, Solid Phase Sep.",D,ON
+91,20100,"Liquid Chromatography, Phenobarbital",D,OO
+91,20101,"Mass Spectrometer, Clinical Use",D,OP
+91,20102,"Radioimmunoassay, Digoxin (3-H), Bovine Antibody, Charcoal Sep.",D,OR
+91,20103,"Thin Layer Chromatography, Primidone",D,OS
+91,20104,"Radioimmunoassay, Digitoxin (3-H), Rabbit Antibody, Coated Tube",D,OW
+91,20105,"Fluorometer, Lead (Dedicated Instruments)",D,OX
+91,20106,"Radioimmunoassay, Digoxin (3-H), Goat Antibody, 2nd Antibody Sep.",D,OY
+91,20107,"Liquid Chromatography, Diphenylhydantoin",D,OZ
+91,20108,"Apparatus, General Use, Thin Layer Chromatography",D,PA
+91,20109,"Radioimmunoassay, Digoxin (125-I), Rabbit Antibody, Charcoal Sep.",D,PB
+91,20110,"Radioimmunoassay, Digoxin (3-H), Rabbit Antibody, Charcoal Sep.",D,PD
+91,20111,"Thin Layer Chromatography, Diphenylhydantoin",D,PE
+91,20112,"Radioimmunoassay, Digitoxin (125-I), Rabbit Antibody, Coated Tube Sep.",D,PG
+91,20113,"Mercury, Atomic Absorption",D,PH
+91,20114,"Radioimmunoassay, Digoxin (125-I), Bovine Antibody, Charcoal Sep.",D,PI
+91,20115,"Radioimmunoassay, Amphetamine (125-I), Goat Antibody, Ammonium Sulfate Sep.",D,PJ
+91,20116,"Liquid Chromatography, Morphine",D,PK
+91,20117,"Radioimmunoassay, Digitoxin (125-I), Bovine Antibody, Charcoal Sep.",D,PL
+91,20118,"Columns, Liquid Chromatography",D,PM
+91,20119,"Thin Layer Chromatography, Propoxyphene",D,PN
+91,20120,"Radioimmunoassay, Digoxin (125-I), Rabbit Antibody, Coated Tube Sep.",D,PO
+91,20121,"Free Radical Assay, Methadone",D,PP
+91,20122,"Liquid Chromatography, Primidone",D,PQ
+91,22336,"Flame Photometry, Lithium",J,IH
+91,22337,"Atomic Absorption, Lithium",J,II
+91,22386,"Gold Chloride (Colorimetric), Bromide",J,KQ
+91,22388,"Spectral Absorb. Curve, Oxyhemoglobin, Carboxyhemoglobin, Carbon-Monoxide",J,KS
+91,22389,"Gas Chromatograph, Carbon-Monoxide",J,KT
+91,22551,Chromatography For Bacterial Identification,J,SQ
+91,22596,"Enzyme Immunoassay, Benzodiazipine",J,XM
+91,22597,"Enzyme Immunoassay, Propoxyphene",J,XN
+91,22598,"Enzyme Immunoassay, Cocaine",J,XO
+91,22599,"Monitor, U.V., Glc",J,XQ
+91,22600,"Atomic Absorption Spectrophotometer, General Use",J,XR
+91,22738,"Resins, Ion-Exchange",K,EA
+91,22813,"Apparatus, High Pressure Liquid Chromatography",K,IE
+91,22841,"Radioimmunoassay, Kanamycin",K,JI
+91,22881,"Radioimmunoassay, Tobramycin",K,LB
+91,22888,"Radioimmunoassay, Cocaine Metabolite",K,LN
+91,22889,"Enzymatic Radiochemical Assay, Gentamicin",K,LO
+91,22890,Amikacin Serum Assay,K,LP
+91,22891,"Radioimmunoassay, Amikacin",K,LQ
+91,22892,"Enzyme Immunoassay, Lidocaine",K,LR
+91,22893,"Enzyme Immunoassay, Theophylline",K,LS
+91,22894,"Enzyme Immunoassay, Carbamazepine",K,LT
+91,23104,"Radioimmunoassay, Methaqualone",K,XS
+91,23105,"Enzyme Immunoassay, Digoxin",K,XT
+91,23145,"Chromatography(Gas), Clinical Use",K,ZQ
+91,23146,"Chromatography (Liquid, Gel), Clinical Use",K,ZR
+91,23147,"Chromatography (Thin Layer), Clinical Use",K,ZS
+91,23148,"Kit, Disc, Agar Gel Diffusion, Determine Serum Levels of Gentamicin",K,ZT
+91,23149,"Kit, Disc, Agar Gel Diffusion, Determine Serum Levels Of Kanamycin",K,ZW
+91,23150,"Kit, Disc, Agar Gel Diffusion, Determine Serum Levels Of Tobramycin",K,ZX
+91,23151,"High Pressure Liquid Chromatography, Barbiturate",K,ZY
+91,23152,"Gas Chromatography, Benzodiazipine",K,ZZ
+91,23153,"High Pressure Liquid Chromatography, Benzodiazipine",L,AA
+91,23154,"Thin Layer Chromatography, Benzodiazipine",L,AB
+91,23155,"High Pressure Liquid Chromatography, Cocaine And Cocaine Metabolites",L,AC
+91,23156,"Gas Chromatography, Codeine",L,AD
+91,23157,"High Pressure Liquid Chromatography, Codeine",L,AE
+91,23158,"Gas Chromatography, Methamphetamine",L,AF
+91,23159,"High Pressure Liquid Chromatography, Methamphetamine",L,AG
+91,23160,"High Pressure Liquid Chromatography, Opiates",L,AH
+91,23161,"Thin Layer Chromatography, Opiates",L,AI
+91,23162,"Gas Chromatography, Propoxyphene",L,AJ
+91,23163,"High Pressure Liquid Chromatography, Propoxyphene",L,AK
+91,23164,"EAS Chromatography, Quinine",L,AL
+91,23165,"Eigh Pressure Liquid Chromatography, Quinine",L,AM
+91,23166,"Enzyme Immunoassay, N-Acetylprocainamide",L,AN
+91,23167,"Enzyme Immunoassay, Methotrexate",L,AO
+91,23170,"Enzyme Immunoassay, Procainamide",L,AR
+91,23171,Drug Specific Control Materials,L,AS
+91,23172,"Radioimmunoassay, Cannabinoid(S)",L,AT
+91,23173,Theophylline Control Materials,L,AW
+91,23174,Lidocaine Control Materials,L,AX
+91,23175,Methotrexate Control Materials,L,AY
+91,23176,N-Acetylprocainamide Control Materials,L,AZ
+91,23177,Procainamide Control Materials,L,BA
+91,23198,"Enzyme Immunoassay, Quinidine",L,BZ
+91,23199,"Radioimmunoassay, Theophylline",L,CA
+91,23201,"Enzyme Immunoassay, Gentamicin",L,CD
+91,23202,"Radioimmunoassay, Netilmicin (I-125)",L,CE
+91,23208,"Radioimmunoassay, Phencyclidine",L,CL
+91,23209,"Enzyme immunoassay, phencyclidine",L,CM
+91,23213,Fluorescent Immunoassay Gentamicin,L,CQ
+91,23214,"Fluorescent Immunoassay, Tobramycin",L,CR
+91,23215,"Radioimmunoassay, Digoxin (125-I)",L,CS
+91,23216,"Radioimmunoassay, Digoxin (3-H)",L,CT
+91,23217,"Radioimmunoassay, Digitoxin (125-I)",L,CW
+91,23219,"U.V. Spectrometry, Theophylline",L,CY
+91,23220,"U.V. Spectrometry, Primidone",L,CZ
+91,23221,"U.V. Spectrometry, Phenobarbital",L,DA
+91,23222,"U.V. Spectrometry, Carbamazepine",L,DB
+91,23223,"U.V. Spectrometry, Diphenylhydantoin",L,DC
+91,23230,"Enzyme Immunoassay, Cannabinoids",L,DJ
+91,23232,"Instrumentation, High Pressure Liquid Chromatography",L,DM
+91,23233,"Enzymatic Radiochemical Assay, Amikacin",L,DN
+91,23234,"Enzymatic Radiochemical Assay, Tobramycin",L,DO
+91,23235,"Colorimetry, Acetaminophen",L,DP
+91,23250,"Enzyme Immunoassay, Valproic Acid",L,EG
+91,23251,"Radioimmunoassay, Vancomycin",L,EH
+91,23260,"Detectors, Electrochemical, Liquid Chromatography",L,EQ
+91,23261,"Fluorescent Immunoassay, Theophylline",L,ER
+91,23262,"Fluorescent Immunoassay, Diphenylhydantoin",L,ES
+91,23263,"Fluorescent Immunoassay, Phenobarbital",L,ET
+91,23264,"Thin Layer Chromatography, Theophylline",L,EW
+91,23273,"Radioimmunoassay, Tricyclic Antidepressant Drugs",L,FG
+91,23274,"U.V. Spectrometry, Tricyclic Antidepressant Drugs",L,FH
+91,23275,"High Pressure Liquid Chromatography, Tricyclic Antidepressant Drugs",L,FI
+91,23279,"Enzyme Immunoassay, Digitoxin",L,FM
+91,23280,"Nephelometric Inhibition Immunoassay, Phenobarbital",L,FN
+91,23281,"Nephelometric Inhibition Immunoassay, Diphenylhydantoin",L,FO
+91,23286,"Fluorescent Immunoassay, Primidone",L,FT
+91,23287,"Fluorescence Polarization Immunoassay, Tobramycin",L,FW
+91,23299,"Fluorescence Polarization Immunoassay, Carbamazepine",L,GI
+91,23300,"Fluorescence Polarization Immunoassay, Amibacin",L,GJ
+91,23307,"Fluorescence Polarization Immunoassay, Phenobarbital",L,GQ
+91,23308,"Fluorescence Polarization Immunoassay, Diphenylhydantoin (Total)",L,GR
+91,23309,"Fluorescence Polarization Immunoassay, Theophylline",L,GS
+91,23523,"Radioceptor Assay, Neuroleptic Drugs",L,PX
+91,23766,Tdx Cyclosporine And Metabolites Serum Assay,M,AR
+91,25009,Cyclosporine Radioimmunoassay,L,TB
+91,25012,"Strip, Test Isoniazid",M,IG
+91,25414,Paraquat Assay,L,TD
+91,25415,High Performance Liquid Chromatography for Cyclosporine,M,GS
+91,25416,Fluoresence Polorization Immunoassay for Cyclosporine,M,GU
+91,25417,Radioimmunoassay for Cyclosporine,M,GV
+91,25418,"Test System, for Drugs of Abuse",M,GX
+91,25419,"Enzyme Immunoassay, Nicotine and Nicotine Metabolites",M,KU
+91,25420,Cyclosporine,M,KW
+91,25421,"Thin Layer Chomatography, Tricyclic Antidepressant Drugs",M,LK
+91,25422,"Enzyme Immunoassay, Tracrolimus",M,LM
+91,25423,"Fluorescence Polarization Immunoassay, Diphenylhydantoin (Free)",M,OJ
+91,151762,"Assay, Porphyrin Spectrophotometry, Lithium",N,DW
+91,152410,"Test System, Nicotine, Cotinine, Metabolites",M,RS
+91,152411,Immunoassay For Blood Tacrolimus,M,SK
+91,152412,"System, Test, Topiramatee",M,SL
+91,152413,"Kit, Test, Multiple Drugs of Abuse, Over the Counter",M,VO
+91,153877,Sirolimus Test System,N,RP
+91,155201,"Test, Cholesterol, Total, over the counter",N,FX
+91,155202,"Test, Follicle Stimulating Hormone (FSH), Over the counter",N,GA
+91,155203,"Test, Opiates, Over the counter",N,GL
+91,155204,Drug Metabolizing enzyme genotyping sytems,N,TI
+91,155294,"Myeloperoxidase, Immunoassay, System, Test",N,TV
+91,156674,"Immunoassay, anti-seizure drug",N,WM
+91,157955,Mycophenolic acid test system,O,AV
+91,163999,Cytochrome p450 2c9 (cyp450 2c9) drug metabolizing enzyme genotyping system,O,DW
+91,166729,Breast milk-alcohol test system,O,RA
+91,166821,Lamotrigine assay,O,RH
+91,166823,Levetiracetam assay,O,RI
+91,167032,"test, creatinine, over the counter",N,FZ
+91,167033,"test, lactic acid, over the counter",N,GD
+91,167034,"test, luteinizing hormone (lh), over the counter",N,GE
+91,167035,"test, nitrite, urinary, non-quantitative, over the counter",N,GJ
+91,167036,"test, triglycerides, over the counter",N,GO
+91,167037,"test, glycosylated hemoglobin, over the counter",N,GB
+91,167038,"test, occult blood, over the counter",N,GK
+91,167039,"test, amphetamine, over the counter",N,FT
+91,167040,"test, benzodiazepine, over the counter",N,FV
+91,167041,"test, cannabinoid, over the counter",N,FW
+91,167042,"test, cocaine and cocaine metabolites, over the counter",N,FY
+91,167043,"test, methamphetamine, over the counter",N,GG
+91,167044,"test, morphine, over the counter",N,GI
+91,167045,"software, similarity score algorithm, tissue of origin for malignant tumor types",O,IW
+91,167303,Gabapentin assay,O,TF
+91,167402,Research use only/clinical toxicology,O,TW
+91,167483,Everolimus immunoassay,O,UF
+91,169842,5-fluorouracil assay,O,XR
+91,172344,Investigationa use only - Clinical Toxicology,P,DB
+91,172967,Organophosphate test system,P,DY
+91,173591,Chemiluminescent immunoassay system,P,KM
+91,173608,Gastric Emptying Breath Test,P,GE
+91,174501,"Enzyme immunoassay, oxcarbazepine metabolite",P,OX
+91,174626,Anti-Mullerian hormone test system,P,QO
+91,174630,Minoxidil sulfotransferase or isoenzymes test system,P,SS
+91,174656,"Test, barbiturate, over the counter",P,TH
+91,174657,"Test, methadone, over the counter",P,TG
+91,174660,"Test, phencyclidine (PCP), over the counter",N,GM
+91,174670,Voriconazole test system,P,UJ
+91,174747,"Test, methamphetamine, employment and insurance testing, exempt",P,VD
+91,174748,"Test, methadone, employment and insurance testing, exempt",P,VE
+91,174749,"Test, methaqualone, employment and insurance testing, exempt",P,VF
+91,174750,"Test, morphine, employment and insurance testing, exempt",P,VG
+91,174751,"Test, opiates, employment and insurance testing, exempt",P,VH
+91,174752,"Test, propoxyphene, employment and insurance testing, exempt",P,VI
+91,174753,"Test, cannabinoid, employment and insurance testing, exempt",P,VJ
+91,174754,"Test, tricyclic antidepressant drugs, employment and insurance testing, exempt",P,VK
+91,174755,"Test, amphetamine, employment and insurance testing, exempt",P,UX
+91,174756,"Test, barbiturate, employment and insurance testing, exempt",P,UY
+91,174757,"Test, benzodiazepine, employment and insurance testing, exempt",P,UZ
+91,174758,"Test, cocaine and cocaine metabolite, employment and insurance testing, exempt",P,VA
+91,174759,"Test, codeine, employment and insurance testing, exempt",P,VB
+91,174900,Placental growth factor test,P,ZN
+91,174926,High throughput dna sequence analyzer,P,FF
+91,174971,"Test, tricyclic antidepressants, over the counter",Q,AW
+91,174981,"Test, propoxyphene, over the counter",Q,BF
+91,175078,Docetaxel / Paclitaxel assay,P,RF
+91,175230,Reagents for molecular diagnostic test systems,P,FT
+91,175231,Meprobamate test system,Q,BK
+91,175288,Placental alpha microglobulin-1 immunoassay,Q,BB
+91,175294,"Plazomicin test system, immunoassay",Q,DR
+91,175829,"Immunoassay, pregnanediol glucuronide, over the counter",Q,KE
+91,175935,Clozapine test system,Q,KT
+91,177001,Prognostic test for development or progression of preeclampsia,Q,WH
+91,177046,Adalimumab assay,Q,YD
+91,177047,Infliximab Test System,Q,XT
+91,177097,Opioid use disorder genetic risk variant detection system and collection kit,Q,ZH

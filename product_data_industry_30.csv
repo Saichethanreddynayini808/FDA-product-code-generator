@@ -1,0 +1,58 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+30,1983,"Beverage Base, Berry, Liquid",B,01
+30,1984,"Beverage Base, Berry",A,01
+30,1985,"Beverage Base, Cola, Liquid",G,01
+30,1986,"Beverage Base, Cola",F,01
+30,1987,"Beverage Base, Imitation Berry, Liquid",K,01
+30,1988,"Beverage Base, Imitation Berry",J,01
+30,1989,"Cocktail Base, Combined True Fruit and Imitation Fruit Flavors, Liquid",P,01
+30,1990,"Cocktail Base, Combined True Fruit and Imitation Fruit Flavors",N,01
+30,1991,"Beverage Base, Citrus, Liquid",B,02
+30,1992,"Beverage Base, Citrus",A,02
+30,1993,"Beverage Base, Root Beer, Liquid",G,02
+30,1994,"Beverage Base, Root Beer",F,02
+30,1995,"Beverage Base, Imitation Citrus, Liquid",K,02
+30,1996,"Beverage Base, Imitation Citrus",J,02
+30,1997,"Punch Base, Combined True and Imitation Fruit Flavors, Liquid",P,02
+30,1998,"Punch Base, Combined True Fruit and Imitation Fruit Flavors",N,02
+30,1999,"Beverage Base, Core Fruit, Liquid",B,03
+30,2000,"Beverage Base, Core Fruit",A,03
+30,2001,"Beverage Base, Imitation Core Fruit, Liquid",K,03
+30,2002,"Beverage Base, Imitation Core Fruit",J,03
+30,2003,"Beverage Base, Combination True Fruit and Imitation Fruit Flavors, Liquid  (not Cocktail or Punch)",P,03
+30,2004,"Beverage Base, True Fruit and Imitation Fruit Flavors, (not Cocktail or Punch)",N,03
+30,2005,"Beverage Base, Mixed Fruit, Liquid",B,04
+30,2006,"Beverage Base, Mixed Fruit",A,04
+30,2007,"Beverage Base, Imitation Mixed Fruit, Liquid",K,04
+30,2008,"Beverage Base, Imitation Mixed Fruit",J,04
+30,2009,"Beverage Base, Pit Fruit, Liquid",B,05
+30,2010,"Beverage Base, Pit Fruit",A,05
+30,2011,"Beverage Base, Imitation Pit Fruit, Liquid",K,05
+30,2012,"Beverage Base, Imitation Pit Fruit",J,05
+30,2013,"Beverage Base, Subtropical or Tropical Fruit, Liquid",B,06
+30,2014,"Beverage Base, Subtropical or Tropical Fruit",A,06
+30,2015,"Beverage Base, Imitation Subtropical or Tropical Fruit, Liquid",K,06
+30,2016,"Beverage Base, Imitation Subtropical or Tropical Fruit",J,06
+30,2017,"Beverage Base, Vine Fruit, Liquid",B,07
+30,2018,"Beverage Base, Vine Fruit",A,07
+30,2019,"Beverage Base, Imitation Vine Fruit, Liquid",K,07
+30,2020,"Beverage Base, Imitation Vine Fruit",J,07
+30,2021,"Fruit Beverage Bases, Liquid, N.E.C.",B,99
+30,2022,"Fruit Beverage Base, N.E.C.",A,99
+30,2023,"Beverage Base of Non-Fruit Origin, Liquid, N.E.C.",G,99
+30,2024,"Beverage Base of Non-Fruit Origin, N.E.C.",F,99
+30,2025,"Imitation Fruit Flavored Beverage Base, Liquid, N.E.C.",K,99
+30,2026,"Imitation Fruit Flavored Beverage Base, N.E.C.",J,99
+30,2027,"Combination True Fruit and Imitation Fruit Flavor Beverage Base, Liquid, N.E.C.",P,99
+30,2028,"Combination True and Imitation Fruit Flavored Beverage Bases, N.E.C.",N,99
+30,2029,"Beverage Base Not Mentioned Elsewhere, N.E.C.",Y,99
+30,24385,Grass Jelly Drink Beverage Base,Y,01
+30,24386,Coconut Milk Beverage Base,Y,02
+30,25485,"Calpis (Japanese sweet, chalky syrup, occasionally grape or orange flavored)",Y,99
+30,173593,Corn Beverage Base,Y,03
+30,173594,Pinole (Corn Beverage Base),Y,03
+30,173595,Shuco (Corn Beverage Base),Y,03
+30,173596,Etole (Corn Beverage Base),Y,03
+30,173597,Chilate (Corn Beverage Base),Y,03
+30,174672,Horchata (Beverage Base N.E.C.),Y,04
+30,174673,Orxata (Beverage Base N.E.C.),Y,04

@@ -1,0 +1,345 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+42,173806,"Agave Worms, Whole Edible Insects",A,01
+42,173807,"Edible insect products, N.E.C.",R,99
+42,173808,Edible insect salts,Q,01
+42,173809,Agave worm salt,Q,01
+42,173810,"Chinicuiles, Whole Edible Insects",A,01
+42,173811,Ant seasoning salt,Q,01
+42,173812,Chinicuil salt,Q,01
+42,173813,Grasshopper salt,Q,01
+42,173814,Sal de chapulin,Q,01
+42,173815,Sal de gusano,Q,01
+42,173816,"Mezcal Worms, Whole Edible Insects",A,01
+42,173817,Edible insect spices,Q,02
+42,173818,"Edible insect salts and spices, N.E.C.",Q,99
+42,173819,"Tequila Worms, Whole Edible Insects",A,01
+42,173820,"Aegiale Hesperiaris, Whole Edible Insects",A,01
+42,173821,Edible insect based meatballs,P,01
+42,173822,Mealworm meatballs,P,01
+42,173823,"Gusano Del Maguey, Whole Edible Insects",A,01
+42,173824,Edible insect based nuggets,P,02
+42,173825,"Maguey Worms, Whole Edible Insects",A,01
+42,173826,Buffalo worm nuggets,P,02
+42,173827,Mealworm nuggets,P,02
+42,173828,Edible insect based burgers,P,03
+42,173829,"Meocuiles, Whole Edible Insects",A,01
+42,173830,Buffalo bug vegetable burgers,P,03
+42,173831,Edible insect based schnitzel,P,04
+42,173832,"Hypopta Agavis, Whole Edible Insects",A,01
+42,173833,Buffalo worm schnitzel,P,04
+42,173834,"Comadia Redtenbacheri, Whole Edible Insects",A,01
+42,173835,Edible insect based tofu,P,05
+42,173836,Mealworm based tofu,P,05
+42,173837,"Chilocuiles, Whole Edible Insects",A,01
+42,173838,"Edible insect protein products-simulated meats and Tofu, N.E.C.",P,99
+42,173839,Teas,O,01
+42,173840,"Gusano Rojo, Whole Edible Insects",A,01
+42,173841,Bugapoop tea bags,O,01
+42,173842,"Edible insect beverages, N.E.C.",O,99
+42,173843,"Red Worms, Whole Edible Insects",A,01
+42,173844,Edible insect pastes,N,01
+42,173845,Giant waterbug chili pastes,N,01
+42,173846,"Red Maguey Worms, Whole Edible Insects",A,01
+42,173847,Edible insect spreads,N,02
+42,173848,Mealworm spreads,N,02
+42,173849,"Tecoles, Whole Edible Insects",A,01
+42,173850,"Edible Insect Spreads And Pastes, N.E.C.",N,99
+42,173851,"Scyphophorus Acupunctatus, Whole Edible Insects",A,01
+42,173852,"Agave Snout Weevils, Whole Edible Insects",A,01
+42,173853,Edible insect soups,M,01
+42,173854,"Edible insect soups, N.E.C.",M,99
+42,173855,Edible insect smoothies,L,01
+42,173856,"Edible insect smoothies, N.E.C.",L,99
+42,173857,"Picudo Larvae, Whole Edible Insects",A,01
+42,173858,"Picudo Del Agave, Whole Edible Insects",A,01
+42,173859,"Picudo Worms, Whole Edible Insects",A,01
+42,173860,Edible insect ice cream,J,01
+42,173861,"Black Ants, Whole Edible Insects",A,02
+42,173862,"Giant Black Ant Eggs, Whole Edible Insects",A,02
+42,173863,Cicada ice cream,J,01
+42,173864,Mealworm ice cream,J,01
+42,173865,"Giant Black Liometopum Ants, Whole Edible Insects",A,02
+42,173866,"Edible insect ice cream and Related Products, N.E.C.",J,99
+42,173867,Earthworm jerky,I,01
+42,173868,"Edible insect jerky, N.E.C.",I,99
+42,173869,"Liometopum Ants, Whole Edible Insects",A,02
+42,173870,Cricket granola,H,01
+42,173871,"Carpenter Ants, Whole Edible Insects",A,03
+42,173872,Cricket flour granola,H,01
+42,173873,Mealworm trail mix,H,02
+42,173874,"Mixed edible insects, granola/trail mix",H,03
+42,173875,"Edible insect granola or trail mix, N.E.C.",H,99
+42,173876,Cricket powder capsules,G,01
+42,173877,Locust powder capsules,G,02
+42,173878,"Edible insect capsules, N.E.C.",G,99
+42,173879,Edible insect lollypops,F,01
+42,173880,Ant lollypops,F,01
+42,173881,"Camponotus Pennsylvanicus, Whole Edible Insects",A,03
+42,173882,Cricket lollypops,F,01
+42,173883,Mealworm lollypops,F,01
+42,173884,Scorpion sucker lollypops,F,01
+42,173885,Worm lollypops,F,01
+42,173886,"Black Carpenter Ants, Whole Edible Insects",A,03
+42,173887,Ant candy,F,02
+42,173888,Scorpion candy,F,03
+42,173889,"Fudge with edible insects, without chocolate",F,04
+42,173890,"Edible insect candy without chocolate, N.E.C.",F,99
+42,173891,"Green Tree Ants, Whole Edible Insects",A,04
+42,173892,Chocolate covered edible insects,E,01
+42,173893,"Oecophylla Smaragdina, Whole Edible Insects",A,04
+42,173894,"Honeypot Ants, Whole Edible Insects",A,05
+42,173895,"Leafcutter Ants, Whole Edible Insects",A,06
+42,173896,Chocolate dipped edible insects,E,01
+42,173897,"Chocolate covered, dipped ants",E,01
+42,173898,"Chocolate covered, dipped crickets",E,01
+42,173899,"Chocolate covered, dipped grasshoppers",E,01
+42,173900,"Chocolate covered, dipped sago worms",E,01
+42,173901,"Chocolate covered, dipped scorpions",E,01
+42,173902,"Chocolate covered, dipped silkworm pupae",E,01
+42,173903,"Chocolate covered, dipped superworms",E,01
+42,173904,Chocolate fudge with edible insects,E,02
+42,173905,Chocolate candy with edible insects,E,03
+42,173906,"Edible Insect Candy With Chocolate, N.E.C.",E,99
+42,173907,"Hormigas Culonas, Whole Edible Insects",A,06
+42,173908,Edible insect oils,K,01
+42,173909,Aspongopus vidiuatus oil,K,02
+42,173910,Melon bug oil,K,02
+42,173911,Agonoscelis pubescens oil,K,03
+42,173912,Sorghum bug oil,K,03
+42,173913,Edible insect oils N.E.C.,K,99
+42,173914,Breads with edible insects and/or edible insect products,D,01
+42,173915,Biscuits with edible insects and/or edible insect products,D,02
+42,173916,Cakes with edible insects and/or edible insect products,D,03
+42,173917,Chips with edible insects and/or edible insect products,D,04
+42,173918,Cricket chips,D,04
+42,173919,Cookies with edible insects and/or edible insect products,D,05
+42,173920,Cricket cookies,D,05
+42,173921,Crackers with edible insects and/or edible insect products,D,06
+42,173922,Cricket crackers,D,06
+42,173923,Fruit leather with edible insects and/or edible insect products,D,07
+42,173924,Oatmeal with edible insects and/or edible insect products,D,08
+42,173925,"Edible insect bakery products, N.E.C.",D,99
+42,173926,Cricket energy bars,C,01
+42,173927,"Lemon Ants, Whole Edible Insects",A,07
+42,173928,Cricket bars,C,01
+42,173929,Cricket flour based granola bars,C,01
+42,173930,Cricket flour based protein bars,C,01
+42,173931,Mixed insects - edible insect bars,C,02
+42,173932,"Edible insect bars, N.E.C.",C,99
+42,173933,"Flying Ants, Whole Edible Insects",A,08
+42,173934,Cricket flour,B,01
+42,173935,Cricket gluten,B,01
+42,173936,Cricket meal,B,01
+42,173937,Cricket powder,B,01
+42,173938,Cricket protein,B,02
+42,173939,"Guatemalan Winged-leaf-cutter Ants, Whole Edible Insects",A,08
+42,173940,"May's Sompopos Ants, Whole Edible Insects",A,08
+42,173941,Cricket protein concentrate,B,02
+42,173942,Cricket protein isolate,B,02
+42,173943,Cricket protein powder,B,02
+42,173944,Earthworm flour,B,03
+42,173945,Earthworm powder,B,03
+42,173946,Earthworm protein powder,B,03
+42,173947,Grasshopper flour,B,04
+42,173948,"May's Sompopos Queen Ants, Whole Edible Insects",A,08
+42,173949,"Sompopos Ants, Whole Edible Insects",A,08
+42,173950,"Zompopos Ants, Whole Edible Insects",A,08
+42,173951,"Sompopos de Mayo, Whole Edible Insects",A,08
+42,173952,Grasshopper powder,B,04
+42,173953,Locust flour,B,04
+42,173954,Locust flour protein powder,B,04
+42,173955,Locust powder,B,04
+42,173956,Mealworm flour,B,05
+42,173957,Silkworm pupae flour,B,06
+42,173958,Scorpion flour,B,07
+42,173959,Pasta,B,08
+42,173960,"Weaver Ants, Whole Edible Insects",A,09
+42,173961,Cricket Pasta,B,08
+42,173962,Silk Moth Pupae Pasta,B,08
+42,173963,"Milled edible insect products, N.E.C.",B,99
+42,173964,"Khai Mot-daeng, Whole Edible Insects",A,09
+42,173965,"Oecophylla, Whole Edible Insects",A,09
+42,173966,"Whole, edible insects (adults and immature stages), N.E.C.",A,99
+42,173967,"Whole, mixed edible insects",A,56
+42,173968,Wichety grubs,A,55
+42,173969,"Weaver Ant Eggs and Pupae, Whole Edible Insects",A,09
+42,173970,"Bamboo Worms, Whole Edible Insects",A,10
+42,173971,"Omphisa Fuscidentalis, Whole Edible Insects",A,10
+42,173972,"Bamboo Borer Moth Larvae, Whole Edible Insects",A,10
+42,173973,Witchetty grubs,A,55
+42,173974,Endoxyla leucomochla,A,55
+42,173975,Witchetty grubs,A,55
+42,173976,Bardies,A,55
+42,173977,Bardy grubs,A,55
+42,173978,Bardi grubs,A,55
+42,173979,Bardee grubs,A,55
+42,173980,Witchetty larvae,A,55
+42,173981,Witchetty moth larvae,A,55
+42,173982,Witjuti grubs,A,55
+42,173983,"Grass Moth Larvae, Whole Edible Insects",A,10
+42,173984,"Bees, Whole Edible Insects",A,11
+42,173985,Wax worms,A,51
+42,173986,Waxworms,A,51
+42,173987,Achroia grisella,A,51
+42,173988,Lesser wax moth larvae,A,51
+42,173989,Galleria mellonella,A,51
+42,173990,Greater wax moth larvae,A,51
+42,173991,Wax moth larvae,A,51
+42,173992,Wasps,A,50
+42,173993,"Apis Mellifera, Whole Edible Insects",A,11
+42,173994,"Honey Bees, Whole Edible Insects",A,11
+42,173995,"Honey Bee Larvae, Whole Edible Insects",A,11
+42,173996,Vespa affinis,A,50
+42,173997,Lesser banded hornet,A,50
+42,173998,Giant hornets,A,50
+42,173999,Hornet larvae,A,50
+42,174000,Paper wasps,A,50
+42,174001,Thai giant banded hornet larvae,A,50
+42,174002,Wasp larvae,A,50
+42,174003,Wasp lpupae,A,50
+42,174004,Yellow jacket wasps,A,50
+42,174005,"King Bee Larvae, Whole Edible Insects",A,11
+42,174006,"Queen Bee Larvae, Whole Edible Insects",A,11
+42,174007,Termites,A,49
+42,174008,"Asian Longhorn Beetles, Whole Edible Insects",A,12
+42,174009,Termits alates,A,49
+42,174010,Termite eggs,A,49
+42,174011,Winged termites,A,49
+42,174012,"Anoplophora Glabripennis, Whole Edible Insects",A,12
+42,174013,Spiders,A,48
+42,174014,"Firewood Larvae, Whole Edible Insects",A,12
+42,174015,"Longhorn Beetles, Whole Edible Insects",A,12
+42,174016,A-ping D27,A,48
+42,174017,Tarantula spiders,A,48
+42,174018,Thai zebra tarantulas,A,48
+42,174019,Silkworms,A,47
+42,174020,Bombyx mori,A,47
+42,174021,Silk moth pupae,A,47
+42,174022,Silkworm pupae,A,47
+42,174023,Scorpions,A,46
+42,174024,Heterometrus longimanus,A,46
+42,174025,Asian forest scorpions,A,46
+42,174026,Mesobuthus martensii,A,46
+42,174027,Chinese armor tail scorpions,A,46
+42,174028,Black scorpions,A,46
+42,174029,Giant black scorpions,A,46
+42,174030,Thai scorpions,A,46
+42,174031,Sago worms,A,45
+42,174032,Rhynchophorus ferrugineus beetle larvae,A,45
+42,174033,Red palm weevil larvae,A,45
+42,174034,Rhino grubs,A,45
+42,174035,Sago grubs,A,45
+42,174036,Sago pupae,A,45
+42,174037,Sago worm larvae,A,45
+42,174038,Pill bugs,A,44
+42,174039,Land shrimp,A,44
+42,174040,Roly polies,A,44
+42,174041,Woodlice,A,44
+42,174042,Palm grubs,A,43
+42,174043,Palm weevil caterpillars,A,43
+42,174044,Palm weevil larvae,A,43
+42,174045,Palm weevils,A,43
+42,174046,Mealworms,A,42
+42,174047,Beetle larvae,A,42
+42,174048,Buffalo worms,A,42
+42,174049,Alphitobius diaperinus,A,42
+42,174050,Lesser mealworms,A,42
+42,174051,Tenebrio molitor,A,42
+42,174052,Yellow mealworms,A,42
+42,174053,Mopane worms,A,41
+42,174054,Gonimbrasia belina,A,41
+42,174055,Imbrasia belina,A,41
+42,174056,Mopane caterpillars,A,41
+42,174057,Mantids,A,40
+42,174058,Mantises,A,40
+42,174059,Praying mantises,A,40
+42,174060,Giant katydids,A,39
+42,174061,Bush crickets,A,39
+42,174062,Long horned grasshoppers,A,39
+42,174063,Tettigoniidae,A,39
+42,174064,Female katydids,A,38
+42,174065,Coneheads,A,38
+42,174066,Copiphorini,A,38
+42,174067,Huhu grubs,A,37
+42,174068,Huhu beetle larvae,A,37
+42,174069,Huhu beetle grub,A,37
+42,174070,Grasshoppers,A,36
+42,174071,Acridids,A,36
+42,174072,Chapulin,A,36
+42,174073,Chapulines,A,36
+42,174074,Giant grasshoppers,A,36
+42,174075,Swarming grasshoppers,A,36
+42,174076,Locusts,A,36
+42,174077,Locusta migratoria,A,36
+42,174078,Migratory locusts,A,36
+42,174079,Locust eggs,A,36
+42,174080,Giant mealworms,A,35
+42,174081,Super worms,A,35
+42,174082,Zophobas,A,35
+42,174083,Zophobas morio,A,35
+42,174084,Fly larvae,A,34
+42,174085,Fly maggots,A,34
+42,174086,Fly pupae,A,34
+42,174087,Puparia,A,34
+42,174088,Black soldier flies,A,33
+42,174089,Hermetia illucens,A,33
+42,174090,Black soldier fly larvae,A,33
+42,174091,Black soldier fly maggots,A,33
+42,174092,Soldier fly larvae,A,33
+42,174093,Earthworms,A,32
+42,174094,Eisenia foetida,A,32
+42,174095,Damselflies,A,31
+42,174096,Dragonflies,A,31
+42,174097,Damselfly larvae,A,31
+42,174098,Dragonfly larvae,A,31
+42,174099,Tropical house crickets,A,30
+42,174100,Banded crickets,A,30
+42,174101,Gryllodes sigillatus,A,30
+42,174102,Giant crickets,A,29
+42,174103,Brachytrupes portentosus,A,29
+42,174104,Field crickets,A,28
+42,174105,Gryllus bimaculatus,A,28
+42,174106,African field crickets,A,28
+42,174107,Big crickets,A,28
+42,174108,Black crickets,A,28
+42,174109,Large crickets,A,28
+42,174110,Mediterranean field crickets,A,28
+42,174111,Two-spotted crickets,A,28
+42,174112,Mole crickets,A,27
+42,174113,Gryllotalpidae,A,27
+42,174114,House crickets,A,26
+42,174115,Acheta domestica,A,26
+42,174116,Cockroaches,A,25
+42,174117,Madagasgar hissing cockroaches,A,25
+42,174118,Cicadas,A,24
+42,174119,Cicada nymphs,A,24
+42,174120,Periodical cicadas,A,24
+42,174121,Centipedes,A,23
+42,174122,Water bugs,A,22
+42,174123,Belostomatidae,A,22
+42,174124,Giant water bugs,A,22
+42,174125,Giant water scorpions,A,22
+42,174126,Squash bugs,A,21
+42,174127,Mictis caja,A,21
+42,174128,Stinkbugs,A,20
+42,174129,Halyomorpha halys,A,20
+42,174130,Brown marmorated stink bugs,A,20
+42,174131,Forest shield bugs,A,20
+42,174132,Humiles,A,20
+42,174133,Shield bugs,A,20
+42,174134,Rhino beetles,A,19
+42,174135,Xyloryctes jamaicensis,A,19
+42,174136,June beetles,A,18
+42,174137,Cotinis nitida,A,18
+42,174138,Green June beetle larvae,A,18
+42,174139,Green June beetle grubs,A,18
+42,174140,June bugs,A,18
+42,174141,Junebugs,A,18
+42,174142,May beetles,A,18
+42,174143,Phyllophaga,A,18
+42,174144,Giant water beetles,A,17
+42,174145,Diving beetles,A,16
+42,174146,Dung beetles,A,15
+42,174147,Buffalo dung beetles,A,15
+42,174148,Scarab beetles,A,15
+42,174149,Scarab dung beetles,A,15

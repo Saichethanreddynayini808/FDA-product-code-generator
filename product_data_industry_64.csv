@@ -1,0 +1,339 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+64,5406,Bensalan (Disinfectant),A,01
+64,5407,Apomorphine HCl (Emetic),C,01
+64,5409,Cellulase (Enzyme),E,01
+64,5410,Poligeenan (Enzyme Inhibitor),F,01
+64,5411,Benzestrol (Estrogen),G,01
+64,5412,Bromhexine HCl (Expectorant),H,01
+64,5413,Bisorbin Lactate (Fibrinolytic),I,01
+64,5414,Oxygen (Medicinal Gas),J,01
+64,5415,"Helium  (Gas, Diluent)",K,01
+64,5416,Amcinonide (Glucocorticoid),L,01
+64,5417,Clomiphene Citrate (Gonad-Stimulating Principle),M,01
+64,5418,Dextriferron (Inj) (Hematinic),N,01
+64,5419,Aminocaproic Acid (Hemostatic),P,01
+64,5420,Brocresine (Histidine Decarboxylase Inhibitor),Q,01
+64,5421,Metogest (Hormone),R,01
+64,5422,Allobarbital (Hypnotic),S,01
+64,5423,Azathioprine (Immunosuppressive),T,01
+64,5425,Cholestyramine (Ion-Exchange Resin),V,01
+64,5426,Ringer's (Irrigation Solution),W,01
+64,5427,Benzoxiquine (Disinfectant),A,02
+64,5428,Ambuphylline (Diuretic),B,02
+64,5429,Ipecac (Emetic),C,02
+64,5430,Pancreatin (Enzyme),E,02
+64,5431,Sodium Amylosulfate (Enzyme Inhibitor),F,02
+64,5432,Chlorotrainisene (Estrogen),G,02
+64,5433,Guaifenesin (Expectorant),H,02
+64,5434,Brinolase (Fibrinolytic),I,02
+64,5435,Beclomethasone Dipropionate (Glucocorticoid),L,02
+64,5436,Gonadorelin Acetate (Gonad-Stimulating Principle),M,02
+64,5437,Ferric Fructose (Hematinic),N,02
+64,5438,Ethamsylate (Hemostatic),P,02
+64,5439,Cloflucarban (Disinfectant),A,03
+64,5440,Ambuside (Diuretic),B,03
+64,5442,Dienestrol (Estrogen),G,03
+64,5443,Betamethasone (Glucocorticoid),L,03
+64,5444,Gonadorelin HCl (Gonad-Stimulating Principle),M,03
+64,5445,Ferriclate Calcium Sodium (Hematinic),N,03
+64,5446,"Gelatin Film, Absorbable (Hemostatic)",P,03
+64,5447,Amobarbital Sodium (Hypnotic),S,03
+64,5448,Benzoyl Peroxide (Keratolytic),X,03
+64,5449,Clorophene (Disinfectant),A,04
+64,5450,Amiloride HCl (Diuretic),B,04
+64,5451,Diethylstilbestrol (Estrogen),G,04
+64,5452,Iodinated Glycerol (Expectorant),H,04
+64,5453,Betamethasone Acetate (Glucocorticoid),L,04
+64,5455,Ferrous Fumarate (Hematinic),N,04
+64,5456,Tranexamic Acid (Hemostatic),P,04
+64,5457,Capuride (Hypnotic),S,04
+64,5458,Resorcinol (Keratolytic),X,04
+64,5459,Cresol (Disinfectant),A,05
+64,5460,Alrestatin (Enzyme Inhibitor),F,05
+64,5461,Diethylstilbestrol Diphosphate (Estrogen),G,05
+64,5462,Potassium Guaiacolsulfonate (Expectorant),H,05
+64,5463,Betamethasone Benzoate (Glucocorticoid),L,05
+64,5465,Ferrous Gluconate (Hematinic),N,05
+64,5466,Carbocloral (Hypnotic),S,05
+64,5467,Sodium Polystyrene Sulfonate (Ion-Exchange Resin),V,05
+64,5468,Dibromsalan (Disinfectant),A,06
+64,5469,Azolimine (Diuretic),B,06
+64,5470,Diethylstilbestrol Dipropionate (Estrogen),G,06
+64,5471,Betamethasone Dipropionate (Glucocorticoid),L,06
+64,5472,Ferrous Sulfate (Hematinic),N,06
+64,5473,Corticotropin (Inj) (Hormone),R,06
+64,5474,Chloral Hydrate (Hypnotic),S,06
+64,5475,Salicylic Acid (Keratolytic),X,06
+64,5476,Fluorosalan (Disinfectant),A,07
+64,5477,Bendroflumethiazide (Diuretic),B,07
+64,5478,Taleranol (Enzyme Inhibitor),F,07
+64,5479,Estradiol (Estrogen),G,07
+64,5480,Terpin Hydrate (Expectorant),H,07
+64,5481,Betamethasone Sodium Phosphate (Glucocorticoid),L,07
+64,5482,Iron Dextran (Inj) (Hematinic),N,07
+64,5483,"Cellulose, Oxidized (Hemostatic)",P,07
+64,5484,Corticotropin (Inj) Repository (Hormone),R,07
+64,5485,Tretinoin (Keratolytic),X,07
+64,5486,Formaldehyde Sol (Disinfectant),A,08
+64,5487,Benzthiazide (Diuretic),B,08
+64,5488,Estradiol Benzoate (Estrogen),G,08
+64,5489,Betamethasone Valerate (Glucocorticoid),L,08
+64,5490,Iron Sorbitex (Hematinic),N,08
+64,5491,Gelatin Sponge (Absor) (Hemostatic),P,08
+64,5492,Corticotropin Zinc Hydroxide (Hormone),R,08
+64,5493,Etomidate (Hypnotic),S,08
+64,5494,Fursalan (Disinfectant),A,09
+64,5495,Bumetanide (Diuretic),B,09
+64,5496,Estradiol Cypionate (Estrogen),G,09
+64,5497,Carbenoxolone Sodium (Glucocorticoid),L,09
+64,5498,Polyferose (Hematinic),N,09
+64,5499,Cosyntropin (Hormone),R,09
+64,5500,Flunitrazepam (Hypnotic),S,09
+64,5501,Glutaral (Disinfectant),A,10
+64,5502,Buthiazide (Diuretic),B,10
+64,5503,Chymopapain (Enzyme),E,10
+64,5504,Pepstatin (Enzyme Inhibitor),F,10
+64,5505,Estradiol Dipropionate (Estrogen),G,10
+64,5506,Clocortolone Acetate (Glucocorticoid),L,10
+64,5508,Flurazepam HCl (Hypnotic),S,10
+64,5509,Tetroquinone (Keratolytic),X,10
+64,5510,Halazone (Disinfectant),A,11
+64,5511,Chloromerodrin (Diuretic),B,11
+64,5512,Chymotrypsin (Enzyme),E,11
+64,5513,Polignate Sodium (Enzyme Inhibitor),F,11
+64,5514,Estradiol Enanthate (Estrogen),G,11
+64,5515,Clocortolone Pivalate (Glucocorticoid),L,11
+64,5516,Fosazepam (Hypnotic),S,11
+64,5517,Ictasol (Disinfectant),A,12
+64,5518,Chlorothiazide (Diuretic),B,12
+64,5519,Sutilains (Enzyme),E,12
+64,5520,Estradiol Undecylate (Estrogen),G,12
+64,5521,Cloprednol (Glucocorticoid),L,12
+64,5522,Heptabarbital (Hypnotic),S,12
+64,5523,Metabromsalan (Disinfectant),A,13
+64,5524,Chlorothiazide Sodium (Diuretic),B,13
+64,5525,Trypsin Crystallized (Enzyme),E,13
+64,5526,Estradiol Valerate (Estrogen),G,13
+64,5527,Propiolacetone (Disinfectant),A,14
+64,5528,Chlorthalidone (Diuretic),B,14
+64,5529,Estrazinol Hbr (Estrogen),G,14
+64,5530,Methaqualone (Hypnotic),S,14
+64,5531,Sodium Hypochlorite (Sol) (Disinfectant),A,15
+64,5532,Clazolimine (Diuretic),B,15
+64,5533,Bromocriptine (Enzyme Inhibitor),F,15
+64,5534,Estrofurate (Estrogen),G,15
+64,5535,Posterior Pituitary (Hormone),R,15
+64,5536,Methaqualone HCl (Hypnotic),S,15
+64,5537,Thiosalan (Disinfectant),A,16
+64,5538,Lergotrile (Enzyme Inhibitor),F,16
+64,5539,Conjugated Estrogens (Estrogen),G,16
+64,5540,Cortisone Acetate (Glucocorticoid),L,16
+64,5541,Vasopressin (Inj) (Hormone),R,16
+64,5542,Tibrofan (Disinfectant),A,17
+64,5543,Clorexolone (Diuretic),B,17
+64,5544,Lergotrile Mesylate (Enzyme Inhibitor),F,17
+64,5545,Esterified Estrogens (Estrogens),G,17
+64,5546,Cortivazol (Glucocorticoid),L,17
+64,5547,Tribromsalan (Disinfectant),A,18
+64,5548,Cyclothiazide (Diuretic),B,18
+64,5549,Estrone (Estrogen),G,18
+64,5550,Descinolone Acetonide (Glucocorticoid),L,18
+64,5551,Paraldehyde (Hypnotic),S,18
+64,5552,Triclocarban (Disinfectant),A,19
+64,5553,Ethinyl Estradiol (Estrogen),G,19
+64,5554,Dexamethasone (Glucocorticoid),L,19
+64,5555,Pentobarbital Sodium (Hypnotic),S,19
+64,5556,Triclosan (Disinfectant),A,20
+64,5558,Fenestrel (Estrogen),G,20
+64,5559,Dexamethasone Sodium Phosphate (Glucocorticoid),L,20
+64,5560,Perlapine (Hypnotic),S,20
+64,5561,Ethacrynate Sodium (Diuretic),B,21
+64,5562,Mestranol (Estrogen),G,21
+64,5563,Diflucortolone (Glucocorticoid),L,21
+64,5564,Ethacrynic Acid (Diuretic),B,22
+64,5565,Benurestat (Enzyme Inhibitor),F,22
+64,5566,Nylestriol (Estrogen),G,22
+64,5567,Diflucortolone Pivalate (Glucocorticoid),L,22
+64,5568,Etozolin (Diuretic),B,23
+64,5569,Piperazine Estrone Sulfate (Estrogen),G,23
+64,5570,Flucloronide (Glucocorticoid),L,23
+64,5571,Roletamide (Hypnotic),S,23
+64,5572,Furosemide (Diuretic),B,24
+64,5573,Quinestrol (Estrogen),G,24
+64,5574,Flumethasone (Glucocorticoid),L,24
+64,5575,Secobarbital (Hypnotic),S,24
+64,5576,Hydrochlorothiazide (Diuretic),B,25
+64,5577,Methallenestril (Estrogen),G,25
+64,5578,Flumethasone Pivalate (Glucocorticoid),L,25
+64,5579,Secobarbital Sodium (Hypnotic),S,25
+64,5580,Flunisolide (Glucocorticoid),L,26
+64,5581,Isosorbide (Diuretic),B,27
+64,5582,Fluocinolone Acetonide (Glucocorticoid),L,27
+64,5583,Fluocinonide (Glucocorticoid),L,28
+64,5584,Triclofos Sodium (Hypnotic),S,28
+64,5585,Mefruside (Diuretic),B,29
+64,5586,Fluocortolone (Glucocorticoid),L,29
+64,5587,Meralluride (Diuretic),B,30
+64,5588,Fluocortolone Caproate (Glucocorticoid),L,30
+64,5589,Mercaptomerin Sodium (Diuretic),B,31
+64,5590,Fluorometholone (Glucocorticoid),L,31
+64,5591,Methalthiazide (Diuretic),B,32
+64,5592,Fluperolone Acetate (Glucocorticoid),L,32
+64,5593,Methylclothiazide (Diuretic),B,33
+64,5594,Fluprednisolone (Glucocorticoid),L,33
+64,5595,Metolazone (Diuretic),B,34
+64,5596,Fluprednisolone Valerate (Glucocorticoid),L,34
+64,5597,Polythiazide (Diuretic),B,35
+64,5598,Flurandrenolide (Glucocorticoid),L,35
+64,5599,Quinethazone (Diuretic),B,36
+64,5600,Formocortal (Glucocorticoid),L,36
+64,5601,Spironolactone (Diuretic),B,37
+64,5602,Hydrocortisone (Glucocorticoid),L,37
+64,5603,Spiroxasone (Diuretic),B,38
+64,5604,Hydrocortisone Acetate (Glucocorticoid),L,38
+64,5605,Ticrynafen (Diuretic),B,39
+64,5606,Hydrocortisone Cypionate (Glucocorticoid),L,39
+64,5607,Triamterene (Diuretic),B,40
+64,5608,Hydrocortisone Sodium Phosphate (Glucocorticoid),L,40
+64,5609,Trichlormethiazide (Diuretic),B,41
+64,5610,Hydrocortisone Sodium Succinate (Glucocorticoid),L,41
+64,5611,Triflocin (Diuretic),B,42
+64,5612,Medrysone (Glucocorticoid),L,42
+64,5613,Urea (Diuretic),B,43
+64,5614,Meprednisone (Glucocorticoid),L,43
+64,5615,Mersalyl (Diuretic),B,44
+64,5616,Methylprednisolone (Glucocorticoid),L,44
+64,5617,Theobromine (Diuretic),B,45
+64,5618,Methylprednisolone Acetate (Glucocorticoid),L,45
+64,5619,Mercurophylline (Diuretic),B,46
+64,5620,Methylprednisolone Sodium Phosphate (Glucocorticoid),L,46
+64,5621,Flumethiazide (Diuretic),B,47
+64,5622,Methylprednisolone Sodium Succinate (Glucocorticoid),L,47
+64,5623,Nivazol (Glucocorticoid),L,48
+64,5624,Paramethasone Acetate (Glucocorticoid),L,49
+64,5625,Prednisolone (Glucocorticoid),L,50
+64,5626,Prednisolone Acetate (Glucocorticoid),L,51
+64,5627,Prednisolone Sodium Phosphate (Glucocorticoid),L,52
+64,5628,Prednisolone Sodium Succinate (Inj) (Glucocorticoid),L,53
+64,5629,Prednisolone Succinate (Glucocorticoid),L,54
+64,5630,Prednisolone Tebutate (Glucocorticoid),L,55
+64,5631,Prednisone (Glucocorticoid),L,56
+64,5632,Prednival (Glucocorticoid),L,57
+64,5633,Pregnenolone Succinate (Glucocorticoid),L,58
+64,5634,Tralonide (Glucocorticoid),L,59
+64,5635,Triamcinolone (Glucocorticoid),L,60
+64,5636,Triamcinolone Acetonide (Glucocorticoid),L,61
+64,5637,Triamcinolone Acetonide Sodium Phosphate (Glucocorticoid),L,62
+64,5638,Triamcinolone Diacetate (Glucocorticoid),L,63
+64,5639,Triamcinolone Hexacetonide (Glucocorticoid),L,64
+64,5640,Disinfectant N.E.C.,A,99
+64,5641,Diuretic N.E.C.,B,99
+64,5642,Emetic N.E.C.,C,99
+64,5643,"Emollient, Lubricant, N.E.C.",D,99
+64,5644,Enzyme N.E.C.,E,99
+64,5645,Enzyme Inhibitor N.E.C.,F,99
+64,5646,Estrogen N.E.C.,G,99
+64,5647,Expectorant N.E.C.,H,99
+64,5648,Fibrinolytic N.E.C.,I,99
+64,5649,"Gas, Medicinal N.E.C.",J,99
+64,5650,"Gas, Diluent N.E.C.",K,99
+64,5651,Glucocorticoid N.E.C.,L,99
+64,5652,Gonad-Stimulating Principle N.E.C.,M,99
+64,5653,Hematinic N.E.C.,N,99
+64,5654,Hemostatic N.E.C.,P,99
+64,5655,Histidine Decarboxylase Inhibitor N.E.C.,Q,99
+64,5656,Hormone N.E.C.,R,99
+64,5657,Hypnotic N.E.C.,S,99
+64,5658,Immunosuppress N.E.C.,T,99
+64,5659,Inhibitor N.E.C.,U,99
+64,5660,Ion-Exchange Resin N.E.C.,V,99
+64,5661,Irrigation Solution N.E.C.,W,99
+64,5662,Keratolytic N.E.C.,X,99
+64,151166,Indapamide (Diuretic),B,48
+64,151167,Methyclothiazide (Diuretic),B,49
+64,151168,Torsemide (Diuretic),B,50
+64,151169,Fomepizole (Emetic),C,03
+64,151170,Alglucerase (Enzyme),E,14
+64,151171,Aprotinin (Enzyme Inhibitor),F,23
+64,151172,Bromocriptine Mesylate (Enzyme Inhibitor),F,24
+64,151173,17 Beta Estradiol (Estrogen),G,26
+64,151174,Desogestrel/Ethinyl Estradiol (Estrogen),G,27
+64,151175,Estrogens Conjugated (Estrogen),G,28
+64,151176,Levonorgestrel (Estrogen),G,29
+64,151177,Brompheniramine/DM HBR/Pseudoephedrine (Expectorant),H,08
+64,151178,Aclometasone Dipropionate (Glucocorticoid),L,65
+64,151179,Beclomethasone Dipropionate Monohydrate (Glucocorticoid),L,66
+64,151180,Clobetasol Propionate (Glucocorticoid),L,67
+64,151181,Fluorometholone Acetate (Glucocorticoid),L,68
+64,151182,Halobetasol Propionate (Glucocorticoid),L,69
+64,151183,Hydrocortisone Buteprate (Glucocorticoid),L,70
+64,151184,Hydrocortisone Butyrate (Glucocorticoid),L,71
+64,151185,Hydrocortisone Valerate (Glucocorticoid),L,72
+64,151186,Prednicarbate (Glucocorticoid),L,73
+64,151188,Antuitrin (Gonad-Stimulating Principle),M,06
+64,151189,Follistim (Follitropin Beta(RDNA)) (Gonad-Stimulating Principle),M,07
+64,151190,Gametotropin Beta (Gonad-Stimulating Principle),M,08
+64,151191,Nafarelin Acetate (Gonad-Stimulating Principle),M,09
+64,151193,Ferric Ammonium Citrate (Hematinic),N,10
+64,151194,Anagrelide Hydrocholoride (Hemostatic),P,09
+64,151196,Anastrozole (Hormone),R,17
+64,151197,Human Growth Hormone (Hormone),R,18
+64,151198,Sermorelin Acetate (Hormone),R,19
+64,151203,Glatiramer Acetate (Immunosuppressive),T,02
+64,151204,Levamisole Hydrochloride (Immunosuppressive),T,03
+64,151205,Mycophenolate Mofetil (Immunosuppressive),T,04
+64,151206,Mycophenolate Mofetil HCL (Immunosuppressive),T,05
+64,151207,Pegademase Bovine (Immunosuppressive),T,06
+64,151209,Tacrolimus (Immunosuppressive),T,08
+64,151210,Acarbose (Inhibitor (Decarboxylase)),U,02
+64,151211,Carbidopa (Inhibitor (Decarboxylase)),U,03
+64,151212,Cilastatin Sodium/Imipenem (Inhibitor (Decarboxylase)),U,04
+64,151213,Clavulanate Potass./Ticarcillin Disodium (Inhibitor (Decarboxylase)),U,05
+64,151214,Finasteride (Inhibitor (Decarboxylase)),U,06
+64,151215,Miglitol (Inhibitor (Decarboxylase)),U,07
+64,151216,Isotretinoin (Keratolytic),X,11
+64,151460,Nitric Oxide (Medicinal Gas),J,02
+64,151461,Ganirelix Acetate (Gonad-Stimulating Principle),M,11
+64,152526,Cetrorelix Acetate (Gonad-Stimulating Principle),M,13
+64,153750,Dutasteride,U,08
+64,153763,Imatinib mesylate (Immunosuppressive),T,09
+64,153769,Nitisinone,F,25
+64,155067,Avodart,U,08
+64,155082,Gleevec,T,09
+64,155088,Orfadin,F,25
+64,155237,Zopiclone,S,29
+64,156898,Propecia,U,06
+64,156899,Proscar,U,06
+64,173167,Eszopiclone (Hypnotic),S,07
+64,173168,Lunesta (Hypnotic),S,07
+64,173169,Suvorexant (Hypnotic),S,27
+64,173170,Belsomra (Hypnotic),S,27
+64,173346,Sapropterin Dihydrochloride (Enzyme Modifier),F,26
+64,173351,Kuvan (Enzyme Modifier),F,26
+64,173631,Bazedoxifene Acetate (Estrogen),G,30
+64,173632,Duavee (Estrogen),G,30
+64,173644,"Monoclonal Antibodies, N.E.C.",O,99
+64,173777,"Calcium Chloride, Dextrose, Magnesium Chloride, Sodium Chloride, Sodium Lactate, Peritoneal Dialysis",Z,01
+64,173778,Dianeal,Z,01
+64,173779,Delflex,Z,01
+64,173780,"Icodextrin, Peritoneal Dialysis",Z,02
+64,173781,Extraneal,Z,02
+64,174267,Alefacept (Immunosuppressive),T,10
+64,174268,Amevive (Immunosuppressive),T,10
+64,174633,"Carboxymethylcellulose Sodium, Emollient,Lubricant",D,01
+64,174634,"Polyethylene Glycol, Emollient,Lubricant",D,02
+64,174694,Sirolimus (Immunosuppressive),T,12
+64,174695,Rapamune (Immunosuppressive),T,12
+64,174852,Dexamethasone Acetate (Glucocorticoid),L,13
+64,175540,Ramelteon (Hypnotic),S,30
+64,175541,Rozerem,S,30
+64,175600,Tasimelteon (Hypnotic),S,31
+64,175601,Hetlioz (Hypnotic),S,31
+64,175833,Patiromer Sorbitex Calcium (Ion-Exchange Resin),V,02
+64,175834,Veltassa,V,02
+64,175880,Netarsudil Dimesylate (Enzyme inhibitor),F,27
+64,175881,Fostamatinib Disodium (Enzyme inhibitor),F,28
+64,175919,Rhopressa,F,27
+64,175920,Tavalisse,F,28
+64,176061,Somapacitan-beco,R,25
+64,176063,Sogroya,R,25

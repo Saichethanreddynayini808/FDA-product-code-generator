@@ -1,0 +1,30 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+18,799,Bacon-Type Crumbles (Vegetable Protein),A,01
+18,800,Chicken-Flavored Crumbs or Chips (Vegetable Protein),B,01
+18,801,"Red Meat-Like Combinations (Bologna, Hot Dogs, Sausage-Like Products) (Vegetable Protein)",C,01
+18,802,"Fish-Textured Vegetable Protein (Products having Appearance of Fish Portions, Fillets, Etc.)",D,01
+18,803,"Cereal Base Meat Extenders, Wheat Protein, Etc.",E,01
+18,804,Beef-Flavored Loaf (Vegetable Protein),A,02
+18,805,Chicken-Flavored Loaf (Vegetable Protein),B,02
+18,806,Poultry-Like Combinations (Vegetable Proteins),C,02
+18,807,Shellfish-Like Vegetable Protein Products,D,02
+18,808,Soy Fiber (Meat Extenders),E,02
+18,809,Beef-Type Stew (Vegetable Protein),A,03
+18,810,"Vegetable Protein Product, Meat Textured, with Appearance of Poultry Portions",B,03
+18,811,Red Meat and Poultry-Like Combinations (Vegetable Proteins),C,03
+18,812,Soybean Protein Powder  (Meat Extender),E,03
+18,813,Bologna-Like Loaf (Vegetable Protein),A,04
+18,814,Poultry-Like Spreads  (Vegetable Protein),B,04
+18,815,Meat-Textured Vegetable Protein Product with Appearance of Red Meat Portion,A,05
+18,816,Soy Meat-Flavored Simulated Chips,A,06
+18,817,Soybean Sandwich Spread (Red Meat-Like Product),A,07
+18,818,"Veal Cutlets, Meatless",A,08
+18,819,Vegetable Protein Burger (Tofu Burger),A,09
+18,820,"Red Meat-Like Products (Vegetable Protein), N.E.C.",A,99
+18,821,"Poultry-Like Products (Vegetable Protein), N.E.C.",B,99
+18,822,"Combination Meat-Like Vegetable Protein Products, N.E.C.",C,99
+18,823,"Fish and Shellfish-Like Vegetable Protein Products, N.E.C.",D,99
+18,824,"Vegetable Protein Meat Extenders, N.E.C.",E,99
+18,825,"Vegetable Protein Products Not Elsewhere Mentioned, N.E.C.",Y,99
+18,23991,"Tofu Weiner, Frankfurter, Hot Dog",A,10
+18,25814,Mein Gon (Chinese meat substitute made from wheat gluten having chewy firm texture and beefy flavor),A,99

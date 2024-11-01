@@ -1,0 +1,404 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+17,774,Beef (3% or less),A,01
+17,775,"Chicken Products, N.E.C.",B,01
+17,776,"Red Meat Combination Products, N.E.C.",C,01
+17,777,Unflavored Bulk Gelatin (For Further Processing),D,01
+17,778,Buffalo Meat (Bison),A,02
+17,779,"Duck Products, N.E.C.",B,02
+17,780,"Poultry Meat Combination Products, N.E.C.",C,02
+17,781,Lamb (3% or less),A,03
+17,782,Game Bird Products,B,03
+17,783,"Red Meat and Poultry Combination Products, N.E.C.",C,03
+17,784,Mutton (3% or less),A,04
+17,785,"Geese Products, N.E.C.",B,04
+17,786,Pork (3% or less),A,05
+17,787,Rock Cornish Fowl Products,B,05
+17,788,Rabbit Products,A,06
+17,789,"Turkey Products, N.E.C",B,06
+17,790,Veal (3% or less),A,07
+17,791,Venison,A,08
+17,792,Animal Casings,A,40
+17,793,Shortening (Lard),A,50
+17,794,"Red Meat Products, N.E.C.",A,99
+17,795,"Poultry and Poultry Products, Part I,  N.E.C.",B,99
+17,796,"Combination Prepared Meat Products, N.E.C.",C,99
+17,797,"Bulk Gelatin (For Further Processing), N.E.C.",D,99
+17,798,"Meat And Meat Products n.e.c., Meat/Exotic Meat Products, n.e.c.",Y,99
+17,23983,Bear Products,A,09
+17,23984,Elk Products,A,10
+17,23985,Moose Products,A,11
+17,23986,Reindeer/Caribou/Muskox,A,12
+17,23987,Armadillo Products,Y,01
+17,23989,Monkey Meat Products,Y,03
+17,25739,"Toulouse sausage (French sausage made of diced pork, flavored with wine, garlic & seasonings)",A,05
+17,25794,Linguica (Portuguese sausage heavily flavored w/garlic; used in many Latin American dishes),Y,99
+17,25796,Lop Chong (Chinese smoked slightly sweet & highly seasoned sausage usually made from pork),A,05
+17,25849,Yookpo (Korean dried meat jerky),A,01
+17,25854,Zungenwurst (dried variety of German blood sausage containing chunks of pickled tongue),Y,99
+17,150040,"Red Meat/Exotic Red Sausage, N.E.C.",E,99
+17,150148,"Snake (terrestrial and aquatic), Meat/Exotic Meat Products, n.e.c.",Y,10
+17,153543,Bush Meat,Y,03
+17,153544,Bushmeat,Y,03
+17,153545,Rat,Y,11
+17,153546,Guinea Pig,Y,12
+17,153983,Horse,A,27
+17,153984,"Horse, asses, mules or hinnies, edible offal",A,28
+17,153985,Goat (> than 3%),A,29
+17,153986,"Goat, edible offal",A,30
+17,153987,"Bovine, carcasses",A,31
+17,153988,"Bovine, Cuts",A,32
+17,153989,"Rabbit, Hare (edible offal)",A,33
+17,153990,"Bones, Red Meat Animals, N.E.C.",A,34
+17,153991,"Red Meat Animal Blood, N.E.C.",A,35
+17,153992,"Chicken, Backs",B,12
+17,153993,"Chicken, Basted, Injected, or Marinated",B,13
+17,153994,"Chicken, Breast",B,14
+17,153995,"Chicken, Breast with Ribs",B,15
+17,153996,"Chicken, By-Product",B,16
+17,153997,"Chicken, Carcass",B,17
+17,153998,"Chicken, Cut-Up",B,18
+17,153999,"Chicken, Drumsticks",B,19
+17,154000,"Chicken, Emulsion for Further Processing",B,20
+17,154001,"Chicken, Fat",B,21
+17,154002,"Chicken, Front Quarters",B,22
+17,154003,"Chicken, Ground or Chopped",B,23
+17,154004,"Chicken, Legs",B,24
+17,154005,"Chicken, Liver",B,25
+17,154006,"Chicken, Meat",B,26
+17,154007,"Chicken, Mechanically Deboned",B,27
+17,154008,"Chicken, Neck",B,28
+17,154009,"Chicken, Patties",B,29
+17,154010,"Chicken, Quarters",B,30
+17,154011,"Chicken, Thighs",B,31
+17,154012,"Chicken, Whole",B,32
+17,154013,"Chicken, Edible Offal N.E.C",B,33
+17,154014,"Chicken, Young (broiler, fryers, roasters, capons)",B,34
+17,154036,"Duck, Legs",B,40
+17,154037,"Duck, Liver",B,41
+17,154038,"Duck, Feet",B,42
+17,154039,"Duck, Gizzards",B,43
+17,154040,"Duck, Breast",B,44
+17,154041,"Duck, Whole",B,45
+17,154042,"Duck, Edible Offal N.E.C.",B,46
+17,154043,"Goose, Whole",B,50
+17,154044,"Goose, Fat",B,51
+17,154045,"Goose, Liver",B,52
+17,154046,"Goose, Parts",B,53
+17,154047,"Goose, By-Products",B,54
+17,154048,"Goose, Edible Offal N.E.C.",B,55
+17,154049,"Turkey, Breast",B,60
+17,154050,"Turkey, Carcass",B,61
+17,154051,"Turkey, Chopped",B,62
+17,154052,"Turkey, Chubbies",B,63
+17,154053,"Turkey, Cut-Up",B,64
+17,154054,"Turkey, Emulsion for Further Processing",B,65
+17,154055,"Turkey, Gizzard",B,66
+17,154056,"Turkey, Ground",B,67
+17,154057,"Turkey, Legs",B,68
+17,154058,"Turkey, Liver",B,69
+17,154059,"Turkey, Meat",B,70
+17,154060,"Turkey, Neck",B,71
+17,154061,"Turkey, Parts",B,72
+17,154062,"Turkey, Patties",B,73
+17,154063,"Turkey, Split",B,74
+17,154064,"Turkey, Stuffed",B,75
+17,154065,"Turkey, Thighs",B,76
+17,154066,"Turkey, Whole",B,77
+17,154067,"Turkey, Wings",B,78
+17,154068,"Turkey, Edible Offal N.E.C.",B,79
+17,154071,Poultry Bones,B,98
+17,154072,Beef & Pork Barbeque,C,04
+17,154073,Beef & Pork Beer Sticks,C,05
+17,154074,Beef & Pork BBQ Stick,C,06
+17,154075,Beef & Pork Bologna,C,07
+17,154076,Beef & Pork Burrito,C,08
+17,154077,Beef & Pork Calzone,C,09
+17,154078,Beef & Pork Chili,C,10
+17,154079,Beef & Pork Chili Dogs,C,11
+17,154080,Beef & Pork Chorizos,C,12
+17,154081,Beef & Pork Corn Dogs,C,13
+17,154082,Beef & Pork Dumplings,C,14
+17,154083,Beef & Pork Entree,C,15
+17,154084,Beef & Pork Franks with Beans,C,16
+17,154085,Beef & Pork Frankfurterters,C,17
+17,154086,Beef & Pork Frankfurters Cocktail,C,18
+17,154087,Beef & Pork Frankfurters with Cheese,C,19
+17,154088,Beef & Pork Frankfurters with Extenders,C,20
+17,154089,Beef & Pork Fritters,C,21
+17,154090,Beef & Pork Head Cheese,C,22
+17,154091,Beef & Pork Holsteiner,C,23
+17,154092,Beef & Pork Hors D'Oeuvres,C,24
+17,154093,Beef & Pork with Sauce,C,25
+17,154094,Beef & Pork with Vegetables,C,26
+17,154095,Beef & Pork Jerky,C,27
+17,154096,Beef & Pork Lebanon Bologna,C,28
+17,154097,Beef & Pork Loaf,C,29
+17,154098,"Beef & Pork Loaf, Pickle",C,30
+17,154099,Beef & Pork Luncheon Loaf,C,31
+17,154100,Beef & Pork Luncheon Meat,C,32
+17,154101,Beef & Pork Meat Spread,C,33
+17,154102,"Beef & Pork Meat, Ground or Chopped",C,34
+17,154103,Beef & Pork Meatballs,C,35
+17,154104,Beef & Pork Mexican Dish,C,36
+17,154105,Beef & Pork Pate,C,37
+17,154106,Beef & Pork Patties,C,38
+17,154107,Beef & Pork Pepperoni Pizza,C,39
+17,154108,Beef & Pork Potted Meat,C,40
+17,154109,Beef & Pork Pudding,C,41
+17,154110,"Beef & Pork Pudding, Blood",C,42
+17,154111,Beef & Pork Ravioli Filling,C,43
+17,154112,Beef & Pork Ravioli with Sauce,C,44
+17,154113,Beef & Pork Roll,C,45
+17,154114,Beef & Pork Salad,C,46
+17,154115,Beef & Pork Spread,C,47
+17,154116,Beef & Pork Stromboli,C,48
+17,154117,Beef & Pork Wieners,C,49
+17,154118,Beef & Pork Miscellaneous Food Product,C,50
+17,154119,Combination BBQ Stick (Other Than Beef & Pork),C,51
+17,154120,Combination Bologna (Other Than Beef & Pork),C,52
+17,154121,Combination Chili with Beans (Other Than Beef & Pork),C,53
+17,154122,Combination Chili with Wieners (Other Than Beef & Pork),C,54
+17,154123,Combination Chorizos (Other Than Beef & Pork),C,55
+17,154124,Combination Cordon Bleu (Other Than Beef & Pork),C,56
+17,154125,Combination Corn Dogs (Other Than Beef & Pork),C,57
+17,154126,Combination Entree (Other Than Beef & Pork),C,58
+17,154127,Combination Extracts (Other Than Beef & Pork),C,59
+17,154128,Combination Foie Gras (Other Than Beef & Pork),C,60
+17,154129,Combination Frankfurters (Other Than Beef & Pork),C,61
+17,154130,"Combination Frankfurterss, Cocktail (Other Than Beef & Pork)",C,62
+17,154131,Combination Gyro (Other Than Beef & Pork),C,63
+17,154132,COmbination Jellied Product (Other Than Beef & Pork),C,64
+17,154133,Combination Jerky (Other Than Beef & Pork),C,65
+17,154134,Combination Loaf (non specific),C,66
+17,154135,"Combination Luncheon Roll, Minced (Other Than Beef & Pork)",C,67
+17,154136,Combination Luncheon Meat (Other Than Beef & Pork),C,68
+17,154137,Combination Meat Entree (Other Than Beef & Pork),C,69
+17,154138,Combination Meat Ground or Chopped (Other Than Beef & Pork),C,70
+17,154139,Combination Meat Patties (Other Than Beef & Pork),C,71
+17,154140,Combination Meat Salad (Other Than Beef & Pork),C,72
+17,154141,Combination Meat Snack (Other Than Beef & Pork),C,73
+17,154142,Combination Meat Spread (Other Than Beef & Pork),C,74
+17,154143,Combination Meatballs (Other Than Beef & Pork),C,75
+17,154144,Combination Meatloaf (Other Than Beef & Pork),C,76
+17,154145,"Combination Mush (Mousse), (Other Than Beef & Pork)",C,77
+17,154146,Combination Oriental Product (Other Than Beef & Pork),C,78
+17,154147,Combination Pate (Other Than Beef & Pork),C,79
+17,154148,Combination Pizza Topping (Other Than Beef & Pork),C,80
+17,154149,"Combination PUdding, Liver (Other Than Beef & Pork)",C,81
+17,154150,"Combination Pudding, White (Other Than Beef & Pork)",C,82
+17,154151,"Combination Roll, (Other Than Beef & Pork)",C,83
+17,154152,Combination Potted Meat (Other Than Beef & Pork),C,84
+17,154153,Combination Salad (Non-Specific),C,85
+17,154154,Combination Shortening (Other Than Beef & Pork),C,86
+17,154155,Combination Spreads (Non-Specific),C,87
+17,154156,Combination Wieners (Other Than Beef & Pork),C,88
+17,154157,"Beef, Bratwurst",E,11
+17,154158,"Beef, Kielbasa",E,12
+17,154159,"Beef, Knackwurst",E,13
+17,154160,"Beef, Knockwurst",E,14
+17,154161,"Beef, Landjager",E,15
+17,154162,"Beef, Mettwurst",E,16
+17,154163,"Beef, Pastrami",E,17
+17,154164,"Beef, Pepperoni",E,18
+17,154165,"Beef, Salami",E,19
+17,154166,"Beef, Salami Italian",E,20
+17,154167,Beef Sausage,E,21
+17,154168,"Beef, Sausage Brown 'N Serve",E,22
+17,154169,"Beef, Sausage Italian",E,23
+17,154170,"Beef, Sausage Liver",E,24
+17,154171,"Beef, Sausage Polish",E,25
+17,154172,"Beef, Sausage Summer",E,26
+17,154173,"Beef, Sausage Vienna",E,27
+17,154174,"Beef, Sausage with Extenders",E,28
+17,154175,"Beef, Thuringer",E,29
+17,154176,"Beef, Sausage/Salami Products, N.E.C.",E,30
+17,154177,Beef & Pork Bockwurst,E,31
+17,154178,Beef & Pork Braunschweiger,E,32
+17,154179,Beef & Pork Bratwurst,E,33
+17,154180,Beef & Pork Kielbasa,E,34
+17,154181,Beef & Pork Knackwurst,E,35
+17,154182,Beef & Pork Knockwurst,E,36
+17,154183,Beef & Pork Landjager,E,37
+17,154184,Beef & Pork Mettwurst,E,38
+17,154185,Beef & Pork Pepperoni,E,39
+17,154186,Beef & Pork Plockwurst,E,40
+17,154187,Beef & Pork Genoa Salami,E,41
+17,154188,Beef & Pork Salami,E,42
+17,154189,"Beef & Pork Salami-Cotto, Kosher",E,43
+17,154190,Beef & Pork Sausage,E,44
+17,154191,Beef & Pork Sausage with Sauce,E,45
+17,154192,"Beef & Pork Sausage, Blood & Tongue",E,46
+17,154193,"Beef & Pork Sausage, Brown 'N Serve",E,47
+17,154194,"Beef & Pork Sausage, Hash",E,48
+17,154195,"Beef & Pork Sausage, Italian",E,49
+17,154196,"Beef & Pork Sausage, Liver",E,50
+17,154197,"Beef & Pork Sausage, Polish",E,51
+17,154198,"Beef & Pork Sausage, Slim Jim",E,52
+17,154199,"Beef & Pork Sausage, Summer",E,53
+17,154200,"Beef & Pork Sausage, Vienna",E,54
+17,154201,Beef & pork Sausage for Pizza,E,55
+17,154202,Beef & Pork Teewurst,E,56
+17,154203,Beef & Pork Thuringer,E,57
+17,154204,Beef & Pork Weiswurst,E,58
+17,154205,"Beef & Pork Sausage/Salami Products, N.E.C.",E,59
+17,154206,"Pork, Bangers",E,60
+17,154207,"Pork, Bratwurst",E,61
+17,154208,"Pork, Braunschweiger",E,62
+17,154209,"Pork, Kielbasa",E,63
+17,154210,"Pork, Landjager",E,64
+17,154211,"Pork, Linguica",E,65
+17,154212,"Pork, Longaniza",E,66
+17,154213,"Pork, Salami",E,67
+17,154214,"Pork, Sausage",E,68
+17,154215,"Pork, Sausage Bangers",E,69
+17,154216,"Pork, Sausage Blood",E,70
+17,154217,"Pork, Sausage Brown 'N Serve",E,71
+17,154218,"Pork, Sausage Oriental",E,72
+17,154219,"Pork, Sausage Italian",E,73
+17,154220,"Pork, Sausage Links",E,74
+17,154221,"Pork, Sausage Liver",E,75
+17,154222,"Pork, Sausage Pizza Topping",E,76
+17,154223,"Pork, Sausage Polish",E,77
+17,154224,"Pork, Sausage Whole",E,78
+17,154225,"Pork, Scrapple",E,79
+17,154226,"Pork, Sausage Toulouse",E,80
+17,154227,"Pork, Sausage, N.E.C.",E,81
+17,154228,"Veal, Brotwurst",E,82
+17,154229,"Veal, Knackwurst",E,83
+17,154230,"Veal, Sausage",E,84
+17,154231,"Veal, Sausage Italian",E,85
+17,154232,"Veal, Sausage Liver Calf",E,86
+17,154233,"Veal, Sausage/Salami Products, N.E.C.",E,87
+17,154234,"Venison, Edible Offal",G,09
+17,154267,"Bushmeat or Bush Meat or Wild Meats (Smoked, Roasted, Dried, Boiled, Broiled)",Y,13
+17,154268,Civet,Y,14
+17,154269,Mongoose,Y,15
+17,154270,"Reptiles, Whole or Meat, N.E.C.",Y,16
+17,154271,"Primate, Whole or Meat, N.E.C.",Y,17
+17,154373,"Animal Casings, Beef",M,01
+17,154374,"Animal Casings, Lamb",M,02
+17,154375,"Animal Casings, Mutton",M,03
+17,154376,"Animal Casings, Pork",M,04
+17,154377,"Animal Casings, Sheep",M,05
+17,154378,"Animal Casings, N.E.C.",M,06
+17,154379,"Pork, Meat Emulsions for Further Processing",M,10
+17,154380,"Pork, Extract",M,11
+17,154381,Shortening (Lard) Pork,M,12
+17,154382,"Animal By Products, N.E.C.",M,99
+17,158594,"Buffalo, Chopped or Ground",A,02
+17,158595,"Bison, Cuts Bone In",A,02
+17,158596,Rabbit meat,A,06
+17,158597,Hare meat,A,06
+17,158598,Deer meat,A,08
+17,158605,"Meat of Horse, asses, mules or hinnies",A,27
+17,158606,Horse meat,A,27
+17,158607,Goat meat,A,29
+17,158608,Other Bovine Carcasses,A,31
+17,158609,"Other Bovine Cuts, Boneless",A,32
+17,158610,"Other Bovine Cuts, Bone In",A,32
+17,158611,Boneless Bovine Cuts,A,32
+17,158612,"Hen, Cornish",B,05
+17,158613,"Hen, Guinea",B,05
+17,158614,"Beef & Pork Prepared Meals, N.E.C.",C,50
+17,158615,"Combination Meat Prepared Meals other than beef & pork, N.E.C.",C,69
+17,158616,Duck and Pork Pate,C,79
+17,158617,Antelope Sausage,E,01
+17,158618,Antelope Salami,E,01
+17,158619,Bear Sausage,E,02
+17,158620,Bear Salami,E,02
+17,158621,Buffalo Sausage,E,03
+17,158622,Buffalo Salami,E,03
+17,158623,Bison Sausage,E,03
+17,158624,Bison Salami,E,03
+17,158625,Elk Sausage,E,04
+17,158626,Elk Salami,E,04
+17,158627,Kangaroo Sausage,E,05
+17,158628,Kanagroo Salami,E,05
+17,158629,Rabbit sausage,E,07
+17,158630,Rabbit salami,E,07
+17,158631,Venison Sausage,E,08
+17,158632,Venison Salami,E,08
+17,158633,Deer Sausage,E,08
+17,158634,Deer Salami,E,08
+17,158635,"Lamb, Red Meat/Exotic Red Meat Sausages, Salami",E,09
+17,158636,"Mutton, Red Meat/Exotic Red Meat Sausages, Salami",E,10
+17,158637,"Mutton, Kielbasa",E,10
+17,158638,Mutton Sausage,E,10
+17,158639,Mutton Salami,E,10
+17,158640,"Deer, edible offal",G,09
+17,158647,"Animal (Sausage) Casings, Beef",M,01
+17,158648,"Animal (Sausage) Casings, Lamb",M,02
+17,158649,"Animal (Sausage) Casings, Mutton",M,03
+17,158650,"Animal Casings, Hog",M,04
+17,158651,"Animal Casings, Swine",M,04
+17,158652,"Animal (Sausage) Casings, Swine, Hog, Pork",M,04
+17,158653,"Animal (Sausage) Casings, Sheep",M,05
+17,158654,"Animal (Sausage) Casings, n.e.c.",M,06
+17,158655,Linguica (Portuguese sausage heavily flavored w/garlic; used in many Latin American dishes),E,77
+17,158656,Chourico,E,77
+17,158657,Animal Casings made from Collagen Film,M,07
+17,158658,"Animal Casings, Collagen, Beef",M,08
+17,158659,"Animal (Sausage), Collagen, Beef",M,08
+17,158660,"Animal (Sausage), Collagen, Cattle",M,08
+17,158661,"Animal (Sausage), Collagen, Bovine",M,08
+17,158662,"Monkey, Bushmeat or Monkey, Bush Meat or Wild Monkey Meat (smoked, roasted, dried, fried, boiled, br",Y,04
+17,158663,Alligator  Bushmeat (Bush Meat),Y,13
+17,158664,"Antelope, Bushmeat (Bush Meat)",Y,13
+17,158665,"Buffalo, Bushmeat (Bush Meat)",Y,13
+17,158666,"Bush Pig, Bushmeat (Bush Meat)",Y,13
+17,158667,"Cane Rat, Bushmeat (Bush Meat)",Y,13
+17,158668,"Cats, Bushmeat (Bush Meat)",Y,13
+17,158669,"Crocodile, Bushmeat (Bush Meat)",Y,13
+17,158670,"Elephant, Bushmeat (Bush Meat)",Y,13
+17,158671,"Guinea Fowl, Bushmeat (Bush Meat)",Y,13
+17,158672,"Impalas, Bushmeat (Bush Meat)",Y,13
+17,158673,"Lizard, Bushmeat (Bush Meat)",Y,13
+17,158674,"Pangolin, Bushmeat (Bush Meat)",Y,13
+17,158675,"Porcupine, Bushmeat (Bush Meat)",Y,13
+17,158676,"Rodent, Bushmeat (Bush Meat)",Y,13
+17,161188,Antelope,A,13
+17,161189,Beaver,A,14
+17,161190,Camel,A,15
+17,161191,Giraffe,A,16
+17,161192,Goat (3% or less),A,17
+17,161193,Hippopotamus,A,18
+17,161194,Kangaroo,A,19
+17,161195,Lion,A,20
+17,161196,Llama,A,21
+17,161197,Opossum,A,22
+17,161198,Raccoon,A,23
+17,161199,Water Buffalo,A,24
+17,161200,Yak,A,25
+17,161201,Zebra,A,26
+17,161204,Pheasant,B,09
+17,161205,Quail,B,10
+17,161206,"Pigeon, older than 30 days",B,11
+17,161207,"Antelope, Red Meat/Exotic Red Meat Sausages, Salami",E,01
+17,161208,"Bear, Red Meat/Exotic Red Meat Sausages, Salami",E,02
+17,161209,"Buffalo/Bison, Red Meat/Exotic Red Meat Sausages, Salami",E,03
+17,161210,"Elk, Red Meat/Exotic Red Meat Sausages, Salami",E,04
+17,161211,"Kangaroo, Red Meat/Exotic Red Meat Sausages, Salami",E,05
+17,161212,"Pheasant, Red Meat/Exotic Red Meat Sausages, Salami",E,06
+17,161213,"Rabbit, Red Meat/Exotic Red Meat Sausages, Salami",E,07
+17,161214,"Venison (deer), Red Meat/Exotic Red Meat Sausages, Salami",E,08
+17,161215,"Buffalo/Bison, Red Meat/Exotic Red Meat Soups/Stews/Chili/Ravioli",F,01
+17,161216,"Caribou, Red Meat/Exotic Red Meat Soups/Stews/Chili/Ravioli",F,02
+17,161217,"Pheasant, Red Meat/Exotic Red Meat Soups/Stews/Chili/Ravioli",F,03
+17,161218,"Rabbit, Red Meat/Exotic Red Meat Soups/Stews/Chili/Ravioli",F,04
+17,161219,"Rattlesnake, Red Meat/Exotic Red Meat Soups/Stews/Chili/Ravioli",F,05
+17,161220,"Venison (deer), Red Meat/Exotic Red Meat Soups/Stews/Chili/Ravioli",F,06
+17,161221,"Testis, Game Meat Offal",G,01
+17,161222,"Kidney, Game Meat Offal",G,02
+17,161223,"Pancreas, Game Meat Offal",G,03
+17,161224,"Brain, Game Meat Offal",G,04
+17,161225,"Heart, Game Meat Offal",G,05
+17,161226,"Liver, Game Meat Offal",G,06
+17,161227,"Thymus, Game Meat Offal",G,07
+17,161228,"Sweetbread, Game Meat Offal",G,08
+17,161229,Gecko,Y,05
+17,161230,Bovine By-Products,Y,06
+17,161231,Ovine By-Products,Y,07
+17,161232,Porcine By-Products,Y,08
+17,161233,Muskrat/Nutria,Y,09
+17,161840,"Red Meat/Exotic Red Meat Soups, Stews, Chili, Ravioli, n.e.c.",F,99
+17,161841,"Game Meat Offal, n.e.c.",G,99

@@ -1,0 +1,269 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+85,20680,"Bell, Circumcision",F,HG
+85,20683,"Shield, Circumcision",F,HJ
+85,21426,"Curette, Uterine",H,CY
+85,21427,"Forceps, Surgical, Gynecological",H,CZ
+85,21428,"Forceps, Obstetrical",H,DA
+85,21429,"Extractor, Vacuum, Fetal",H,DB
+85,21430,"Tenaculum, Uterine",H,DC
+85,21431,"Table, Obstetrical, Ac-Powered (And Accessories)",H,DD
+85,21432,"Hook, Fibroid, Gynecological",H,DE
+85,21433,"Speculum, Vaginal, Metal",H,DF
+85,21434,"Speculum, Vaginal, Metal, Fiberoptic",H,DG
+85,21435,"Needle, Cerclage, Gynecological",H,DH
+85,21436,"Hook, Destructive, Obstetrical",H,DI
+85,21437,"Scissors, Umbilical",H,DJ
+85,21438,"Scissors, Episiotomy",H,DK
+85,21439,"Retractor, Vaginal",H,DL
+85,21440,"Packer, Uterine",H,DM
+85,21441,"Dilator, Cervical, Expandable",H,DN
+85,21442,"Valve, Tubal Occlusion",H,DO
+85,21443,"Elevator, Uterine",H,DP
+85,21444,"Dilator, Cervical, Fixed Size",H,DQ
+85,21445,"Cap, Cervical",H,DR
+85,21446,"Device, Intrauterine, Contraceptive and Introducer",H,DT
+85,21447,"Diaphragm, Contraceptive (And Accessories)",H,DW
+85,21448,"Dilator, Vaginal",H,DX
+85,21449,"Dilator, Cervical, Hygroscopic-Laminaria",H,DY
+85,21450,"Knife, Cervical Cone",H,DZ
+85,21452,"Tampon, Menstrual, Unscented",H,EB
+85,21453,"Insufflator, Vaginal",H,EC
+85,21454,"Douche Apparatus, Vaginal, Therapeutic",H,ED
+85,21455,"Set, Anesthesia, Paracervical",H,EE
+85,21457,"Set, Anethesia, Pudendal",H,EG
+85,21458,"Chamber, Decompression, Abdominal",H,EH
+85,21459,"Monitor, Heart-Valve Movement, Fetal, Ultrasonic",H,EI
+85,21460,"Monitor, Hemic Sound, Ultrasonic",H,EJ
+85,21461,"Monitor, Heart Sound, Fetal, Ultrasonic",H,EK
+85,21462,"Monitor, Heart Rate, Fetal, Ultrasonic",H,EL
+85,21463,"Imager, Ultrasonic Obstetric-Gynecologic",H,EM
+85,21464,"Caliper, Fetal Head, Ultrasonic",H,EN
+85,21465,"Analyzer, Data, Obstetric",H,EO
+85,21466,"Monitor, Blood-Flow, Ultrasonic",H,EP
+85,21467,"Monitor, Pressure, Arterial, Fetal, Ultrasonic",H,EQ
+85,21468,"Pelvimeter, External",H,ER
+85,21469,"Insufflator, Carbon-Dioxide, Uterotubal (And Accessories)",H,ES
+85,21470,"Laparoscope, Gynecologic (And Accessories)",H,ET
+85,21471,Culdoscope (And Accessories),H,EW
+85,21472,Colposcope (And Colpomicroscope),H,EX
+85,21473,"Endoscope, Transcervical (Amnioscope)(And Accessories)",H,EZ
+85,21474,"Amnioscope, Transabdominal (Fetoscope) (And Accessories)",H,FA
+85,21475,"Forceps, Biopsy, Gynecological",H,FB
+85,21476,"Aspirator, Endocervical",H,FC
+85,21477,"Washer, Endometrial",H,FD
+85,21478,"Brush, Endometrial",H,FE
+85,21479,"Aspirator, Endometrial",H,FF
+85,21480,"Coagulator, Laparoscopic, Unipolar (And Accessories)",H,FG
+85,21481,"Coagulator, Hysteroscopic (And Accessories)",H,FH
+85,21482,"Coagulator, Culdoscopic (And Accessories)",H,FI
+85,21483,"Prosthesis, Fallopian Tube",H,FJ
+85,21484,"Mold, Vaginal",H,FK
+85,21485,"Drain, Cervical",H,FL
+85,21486,"Monitor, Uterine Contraction, External",H,FM
+85,21487,"Transducer, Pressure, Intrauterine",H,FN
+85,21488,"Recorder, Pressure, Intrauterine",H,FO
+85,21489,"Monitor, Phonocardiographic, Fetal",H,FP
+85,21491,"Clamp, Umbilical",H,FW
+85,21492,"Clamp, Circumcision",H,FX
+85,21493,"Band, Tubal Occlusion",H,FY
+85,21494,Craniotribe,H,FZ
+85,21495,Cranioclast,H,GA
+85,21496,"Clip, Tubal Occlusion",H,GB
+85,21497,"Clamp, Uterine",H,GC
+85,21498,"Applicator, Vaginal",H,GD
+85,21499,Amniotome,H,GE
+85,21500,"Source, Abortion Unit, Vacuum",H,GF
+85,21501,"Controller, Abortion Unit, Vacuum",H,GG
+85,21502,"Cannula, Suction, Uterine",H,GH
+85,21503,"Electrocautery, Gynecologic (And Accessories)",H,GI
+85,21504,"Transducer, Ultrasonic, Obstetric",H,GL
+85,21505,"System, Monitoring, Perinatal",H,GM
+85,21506,"Stethoscope, Fetal",H,GN
+85,21507,"Monitor, Electroencephalographic, Fetal (And Accessories)",H,GO
+85,21508,"Electrode, Circular (Spiral), Scalp And Applicator",H,GP
+85,21509,"Catheter, Intrauterine And Introducer",H,GS
+85,21510,"Sampler, Blood, Fetal",H,GW
+85,21511,"Pump, Breast, Powered",H,GX
+85,21512,"Pump, Breast, Non-Powered",H,GY
+85,21513,"Heater, Perineal, Direct Contact",H,GZ
+85,21514,"Heater, Perineal, Radiant, Non-Contact",H,HA
+85,21515,"Pad, Menstrual, Unscented",H,HD
+85,21516,"Cup, Menstrual",H,HE
+85,21517,"Remover, Intrauterine Device, Contraceptive, Hook-Type",H,HF
+85,21518,"Dilator, Cervical, Vibratory",H,HG
+85,21519,"System, Abortion, Vacuum",H,HI
+85,21520,"Locator, Intracorporeal Device, Ultrasonic",H,HJ
+85,21521,"Curette, Suction, Endometrial (And Accessories)",H,HK
+85,21522,"Pad, Menstrual, Scented",H,HL
+85,21523,"Sound, Uterine",H,HM
+85,21524,Cleidoclast,H,HN
+85,21525,"Screw, Fibroid, Gynecological",H,HO
+85,21526,"Table, Obstetrical, Manual (And Accessories)",H,HP
+85,21527,"System, Abortion, Metreurynter-Balloon",H,HQ
+85,21528,"Laser, Surgical, Gynecologic",H,HR
+85,21529,Transcervical Contraceptive Tubal Occlusion Device,H,HS
+85,21530,"Spatula, Cervical, Cytological",H,HT
+85,21531,"Pessary, Vaginal",H,HW
+85,21532,"Holograph, Fetal, Acoustical",H,HX
+85,21533,"Prosthesis, Suture, Cerclage",H,HY
+85,21534,"Speculum, Vaginal, Nonmetal",H,IB
+85,21535,"Speculum, Vaginal, Nonmetal, Fiberoptic",H,IC
+85,21536,"Insufflator, Laparoscopic",H,IF
+85,21537,"Insufflator, Hysteroscopic",H,IG
+85,21538,Hysteroscope (And Accessories),H,IH
+85,21539,"Stimulator, Vaginal, Muscle, Powered, for Therapeutic Use",H,II
+85,21540,"Tampon, Menstrual, Scented, Deodorized",H,IL
+85,21541,"Electrocautery, Endoscopic And Accessories",H,IM
+85,21542,"Coagulator-Cutter, Endoscopic, Bipolar (And Accessories)",H,IN
+85,21543,"Sampler, Amniotic Fluid (Amniocentesis Tray)",H,IO
+85,21544,"Electrode, Clip, Fetal Scalp (And Applicator)",H,IQ
+85,21546,Condom,H,IS
+85,22914,"Instrument, Manual, Specialized Obstetric-Gynecologic",K,
+85,22915,"Instrument, Destructive, Fetal, Obstetric",K,NB
+85,22916,"Table, Obstetric (And Accessories)",K,NC
+85,22917,"Heater, Perineal",K,ND
+85,22918,"Set, Anesthesia, Obstetric",K,NE
+85,22919,"Coagulator-Cutter, Endoscopic, Unipolar (And Accessories)",K,NF
+85,22920,"Monitor, Ultrasonic, Fetal",K,NG
+85,22921,Laparoscopic Contraceptive Tubal Occlusion Device,K,NH
+85,22942,"Instrument, Manual, General Obstetric-Gynecologic",K,OH
+85,23099,"Monitor, Cardiac, Fetal",K,XN
+85,23100,"Monitor, Pressure, Intrauterine",K,XO
+85,23101,"Stent, Vaginal",K,XP
+85,23102,"Vibrator For Therapeutic Use, Genital",K,XQ
+85,23196,"Pelvimeter, Internal",L,BX
+85,23318,"Device, fertility diagnostic, proceptive",L,HD
+85,23337,"Viscometer, Mucus, Cervical",L,HZ
+85,23390,"Cannula, manipulator/injector, uterine",L,KF
+85,23425,"Cap, Cervical, Contraceptive",L,LQ
+85,23429,"Laser, Neodymium:Yag for Gynecologic Use",L,LW
+85,23430,"Catheter, Sampling, Chorionic Villus",L,LX
+85,23477,"Paper, Obstetric Ph",L,NW
+85,23482,"Dilator, Cervical, Synthetic Osmotic",L,OB
+85,23536,Tokodynamometer,L,QK
+85,23598,"Fluid, Hysteroscopy",L,TA
+85,23620,"Fluid, Cytological Collection",L,TY
+85,23621,Condom With Nonoxynol-9,L,TZ
+85,23718,Micro-Condom,L,ZL
+85,23733,"Endoscope, Fetal Blood Sampling (And Accessories)",H,GK
+85,23797,Single-use internal condom,M,BU
+85,24976,"Barrier, Absorable, Adhesion",M,CN
+85,24978,"Stimulator, Fetal, Acoustic",M,CP
+85,24981,"System, Intrafallopian Cannula",M,DG
+85,24984,"Cannula, Intrauterine Insemination",M,FD
+85,24985,"Aspirator, Ultrasonic",M,GI
+85,25335,"Catheter, Balloon, Transcervical",M,KN
+85,25336,Falloposcope,M,KO
+85,25337,Labor and Delivery Kit,M,LS
+85,25338,Pelvic exam kit,M,LT
+85,25339,"Oximeter, Fetal Pulse",M,MA
+85,25342,"Device, Thermal Ablation, Endometrial",M,NB
+85,25343,"Monitor, Heart Rate, Fetal, Non-Stress Test (Home Use)",M,OH
+85,25344,Vaginoscope and Accessories,M,OK
+85,25345,"Condom, Non-Latex",M,OL
+85,25346,"Catheters, Salpingography",M,OV
+85,25348,Fetal Bladder Stent,M,PR
+85,25350,Contraception calculator,M,PT
+85,25351,"Source, Chemiluminescent Light",M,PU
+85,25352,"Needle, Assisted Reproduction",M,QE
+85,25353,"Catheter, Assisted Reproduction",M,QF
+85,25354,"Accessory, Assisted Reproduction",M,QG
+85,25355,"Microtools, assisted reproduction (pipettes)",M,QH
+85,25356,"Microtool Fabrication, Assisted Reproduction",M,QI
+85,25357,"Micromanipulators and Microinjectors, Assisted Reproduction",M,QJ
+85,25358,"Labware, Assisted Reproduction",M,QK
+85,25359,"Media, Reproductive",M,QL
+85,150586,"Agents, Embolic, For Treatment of Uterine Fibroids",N,AJ
+85,150627,"Clamp and Cutter, Umbilical",N,BZ
+85,150668,"Engorgement Device, Clitoral",N,BV
+85,152343,"System, Laser Assisted Hatching",M,RX
+85,152344,"System, Water, Reproduction, Assisted and Purification",M,TW
+85,152345,"Microscope and Microscope Accessories, Reproduction, Assisted",M,TX
+85,152346,"Sensor, Electro-Optical (For Cervical Cancer)",M,WM
+85,153184,"Sheet, Recording, Breast Examination",N,HM
+85,153584,"System, Documentation, Breast Lesion",N,KA
+85,153894,"Pads, Menstrual, Scented-Deodorized",N,RC
+85,153945,"System, Monitoring, for Progress of Labor",N,PB
+85,153950,"Tubing/Tubing with Filter, Insufflation, Laparoscopic",N,KC
+85,155177,"Barrier, Std, Oral Sex",M,SC
+85,155179,"Forceps, Biopsy, Gynecological, Reprocessed",N,MG
+85,155180,"Laparoscope and accessories, Gynecologic, Reprocessed",N,MH
+85,155182,"Needle, Reproduction, Assisted, Reprocessed",N,NB
+85,155414,"Pad, menstrual, reusable",N,UQ
+85,155415,"Pad, Interlabial",N,UR
+85,155754,Tubing and tubing/filter fits,N,VT
+85,156694,"Laparoscope and accessories, gynecologic",N,WV
+85,156695,Hysteroscope and accessories,N,WW
+85,158076,"Kit, conception-assist, home use",O,BB
+85,158314,"Condom, female, animal tissue",O,BY
+85,164399,"Lubricant, Patient, Vaginal, Latex Compatible",N,UC
+85,164480,Obstetrical vacuum delivery kit,O,HC
+85,164481,Gynecological laparoscopic kit,O,HD
+85,164482,Forensic evidence sexual assault kit,O,HE
+85,164483,Culdocentesis Kit,O,HF
+85,164484,Circumcision Tray,O,HG
+85,164485,Breast pump kit,O,HH
+85,164520,Pap smear kit,O,HL
+85,164521,Cesarean section kit,O,HM
+85,166733,Intrauterine tamponade balloon,O,QY
+85,166977,"laparoscopic insufflator and accessories, reprocessed",N,MI
+85,166978,hysterectomy kit,O,JF
+85,166979,emergency obstetrical kit,O,KU
+85,166980,obstetrical kit,O,KV
+85,166981,seminal fluid collection kit,O,KW
+85,166982,obstetrics and gynecology trocar kit,O,KX
+85,166983,cytology kit,O,KY
+85,167001,endometrial sampling kit,O,KZ
+85,167204,"Monitoring system, perinatal using electromyographic",O,SP
+85,167382,"Mesh, surgical, gynecologic, for apical vaginal prolapse, transabdominally placed",O,TO
+85,167384,"Mesh, surgical, synthetic, urogynecologic, for pelvic organ prolapse, transvaginally placed",O,TP
+85,169176,Water immersion labor pool,O,VX
+85,171564,"Mesh, surgical, non-synthetic, urogynecologic, for pelvic organ prolapse, transvaginally placed",P,AI
+85,171565,"Mesh, surgical, non-synthetic, urogynecologic, for apical vaginal and uterine prolapse, transabdomin",P,AJ
+85,171571,Hemorrhoid prevention pressure wedge,O,OA
+85,172022,"Fixation, non-absorbable, for pelvic use",P,BQ
+85,172142,"sampler, endocervical",P,CF
+85,172973,"Lubricant, personal, gamete, fertilization, and embryo compatible",P,EB
+85,172979,"Catheter, balloon, dilation of cervical canal",P,FJ
+85,173035,"Cannula, injector, uterine, endometrial biopsy",P,GK
+85,173055,"Insufflator, hysteroscopic, fluid, closed-loop recirculation with cutter-coagulator, endoscopic, bip",P,GT
+85,173119,"Embryo imaging system, diagnostic, assisted reproduction",P,BH
+85,173584,D and C tray,P,KF
+85,173602,"Dilator, cervical, synthetic, osmotic",P,KN
+85,174467,"Catheter, balloon, dilation of cervical canal",P,ON
+85,174515,"Culture, intravaginal, assisted reproduction",O,YO
+85,174517,"Containment system, laparoscopic power morcellation, with instrument port",P,MU
+85,174581,"Pressure wedge, perianal, for reduction of Cesarean delivery",P,NU
+85,174703,Vaginal Examination Tray,P,VX
+85,174704,Pudendal Anesthesia Kit,P,VW
+85,174705,Paracervical Anesthesia Kit,P,VV
+85,174706,Obstetrical Anesthesia Kit,P,VU
+85,174707,Maternity Kit,P,VT
+85,174708,Fetal Blood Sampling Kit (Excludes HIV Testing),P,VS
+85,174709,D&C Tray,P,VR
+85,174712,"Breast Pump Accessory, Milk Expression Aid, via Positive Pressure",P,WA
+85,174718,"Labware, assisted reproduction, exempt",P,UD
+85,174719,"Microtools, assisted reproduction (pipettes), exempt",P,UC
+85,174720,"Accessory, assisted reproduction, exempt",P,UB
+85,174721,"Tenaculum, uterine, exempt",P,UA
+85,174722,"Colposcope (and colpomicroscope), exempt",P,TZ
+85,174744,"Instrumentation, surgical mesh, urogynecologic, transabdominal repair of pelvic organ prolapse",P,WK
+85,174746,"Instrumentation, surgical mesh, urogynecologic, transvaginal repair of pelvic organ prolapse",P,WI
+85,174761,Fetal head elevator,P,WB
+85,175075,"Device, fertility diagnostic, contraceptive, software application",P,YT
+85,175125,"Graft, Vascular, Hemodialysis Access, Synthetic/Biological Composite",M,CI
+85,175128,"Ablation System, High intensity focused Ultrasound (HIFU), MR-Guided",N,RZ
+85,175130,"Insfufflator, endoscopic vessel harvesting",O,SV
+85,175131,"RF/Microwave hyperthermia system, cancer treatment",P,AS
+85,175132,Perineal irrigation kit,P,SI
+85,175237,"plethysmograph, air displacement for body composition analysis",O,AC
+85,175509,"Instrument, biopsy, core, soft tissue, female reproductive organs",Q,HC
+85,175596,"Seal, cervical, mechanical, unpowered",Q,HZ
+85,175953,"System, intravaginal, for controlled release of drug substance, cder or cber led",Q,LH
+85,175991,Assisted reproduction laminar flow workstation,Q,KH
+85,175992,"Media, reproductive, exempt",Q,KI
+85,176130,Personal lubricant ring,Q,PD
+85,176337,External condom for anal intercourse or vaginal intercourse,Q,RZ
+85,176338,"Orthosis, Truncal, Pregnancy",Q,SB
+85,176753,Automated Cryopreservation Storage System,Q,UJ
+85,177088,At Home Intravaginal Insemination System,Q,YZ

@@ -1,0 +1,32 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+36,2357,Beet Sugar (Sucrose),A,01
+36,2358,Coffee Syrup,B,01
+36,2359,Comb Honey,C,01
+36,2360,Imitation Maple Syrup,D,01
+36,2361,Brown Sugar (Sucrose from Cane),A,02
+36,2362,Glucose and Corn Syrup,B,02
+36,2363,Strained Honey,C,02
+36,2364,Cane Sugar (Sucrose),A,03
+36,2365,Malt Syrup,B,03
+36,2366,Whipped Honey,C,03
+36,2367,Corn Sugar (Dextrose),A,04
+36,2368,Maltose Syrup,B,04
+36,2369,Corn Syrup Solids,A,05
+36,2370,Maple Syrup,B,05
+36,2371,Grape Sugar (Frutose),A,06
+36,2372,Molasses,B,06
+36,2373,Invert Sugar,A,07
+36,2374,Sorghum Syrup,B,07
+36,2375,Malt Sugar (Maltose),A,08
+36,2376,"Sugar Syrup, Beet and Cane (Liquid Sucrose, Simple Syrup)",B,08
+36,2377,Maple Sugar,A,09
+36,2378,Refiner's Syrup,B,09
+36,2379,Milk Sugar,A,10
+36,2380,"Blended Syrups, Pancake and Waffle Syrup",B,10
+36,2381,"Sugar Products, N.E.C.",A,99
+36,2382,"Syrups and Molasses, N.E.C.",B,99
+36,2383,"Honey, N.E.C.",C,99
+36,2384,"Imitation Syrups, Molasses and Honey, N.E.C.",D,99
+36,2385,Food Sweetners (Nutritive) N.E.C.,Y,99
+36,25019,Honey,C,04
+36,173764,Coconut Sugar (Sugar Products),A,11

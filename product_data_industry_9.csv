@@ -1,0 +1,214 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+9,312,Butter (Plain or Whipped),A,01
+9,313,"Buttermilk, Non Fat",E,01
+9,314,Buttermilk,C,01
+9,315,"Buttermilk, Low Fat",D,01
+9,316,Butter Oil,A,02
+9,321,"Milk, Concentrated, Evaporated, Condensed, Non Fat",E,03
+9,322,"Milk, Concentrated, Evaporated and Condensed",C,03
+9,323,"Milk, Concentrated, Evaporated, Condensed, Low Fat",D,03
+9,324,"Egg Nog, Non Fat",E,04
+9,325,Egg Nog,C,04
+9,326,"Egg Nog, Low Fat",D,04
+9,327,"Milk, Flavored, Non Fat",E,05
+9,328,"Milk, Flavored (Chocolate, Etc.)",C,05
+9,329,"Milk, Flavored, Low Fat",D,05
+9,330,"Goats Milk, Non Fat",E,06
+9,331,Goats Milk,C,06
+9,332,"Goats Milk, Low Fat",D,06
+9,333,"Half And Half, Non Fat",E,07
+9,334,Half And Half (Milk and Cream),C,07
+9,335,"Half And Half, Low Fat",D,07
+9,336,"Milk, Malted, Non Fat",E,08
+9,337,"Milk, Malted",C,08
+9,338,"Milk, Malted, Low Fat",D,08
+9,339,"Milk, Plain, Non Fat",E,09
+9,340,"Milk, Plain",C,09
+9,341,"Milk, Plain, Low Fat",D,09
+9,342,"Milk, Vitamin D, Non Fat",E,10
+9,343,"Milk, Vitamin D",C,10
+9,344,"Milk, Vitamin D, Low Fat",D,10
+9,345,"Milk With Multivitamins Added, Non Fat",E,11
+9,346,Milk With Multivitamins Added,C,11
+9,347,"Milk With Multivitamins Added,Low Fat",D,11
+9,348,"Cream, Sour, Non Fat",E,12
+9,349,"Cream, Sour",C,12
+9,350,"Cream, Sour, Low Fat",D,12
+9,351,"Cream, Sweet, Whipping, Table, Non Fat",E,13
+9,352,"Cream, Sweet, Whipping, Table, Etc.",C,13
+9,353,"Cream, Sweet, Whipping or Table, Low Fat",D,13
+9,357,"Yogurt (Plain, Flavored and Fruit Added), Non Fat",E,15
+9,358,"Yogurt (Plain, Flavored or Fruit Added)",C,15
+9,359,"Yogurt (Plain, Flavored or Fruit Added), Low Fat",D,15
+9,360,"Dried Milk, Non Fat",E,16
+9,361,"Milk, Dried",C,16
+9,362,"Milk, Dried, Low Fat",D,16
+9,363,"Import Milk Act, Non-Fat",E,95
+9,364,Import Milk Act,C,95
+9,365,"Import Milk Act, Low Fat",D,95
+9,366,"Butter And Butter Products, N.E.C.",A,99
+9,367,"Non Fat Milk Products, N.E.C.",E,99
+9,368,"Milk and Cream, N.E.C.",C,99
+9,369,"Low Fat Milk Product, N.E.C.",D,99
+9,370,"Fluid/Dry Milk Products Not Elsewhere Mentioned, N.E.C.",Y,99
+9,25532,"Ghee (Indian form of clarified butter, w/nutty, caramel-like flavor & aroma)",A,02
+9,25706,"Tairu (Malaysian fermented cow's milk product similar to yogurt, consistency similar to sour cream)",C,99
+9,25756,Khoa (very thick Indian condensed milk),C,03
+9,160060,"Buttermilk, Goat Milk",F,01
+9,160061,"Milk, Concentrated, Evaporated and Concentrated, Goat Milk",F,03
+9,160080,"Khoa (very thick Indian condensed milk), Goat Milk",F,03
+9,160100,"Egg Nog, Goat Milk",F,04
+9,160120,"Milk, Flavored (Chocolate, Etc.), Goat Milk",F,05
+9,160121,"Half and Half (Milk and Cream), Goat Milk",F,07
+9,160140,"Milk, Malted, Goat Milk",F,08
+9,160141,"Milk, Plain, Goat Milk",F,09
+9,160142,"Milk, Vitamin D, Goat Milk",F,10
+9,160143,"Milk with Multivitamins added, Goat Milk",F,11
+9,160144,"Cream, sour, Goat Milk",F,12
+9,160145,"Cream, Sweet, Whipping, Table, etc., Goat Milk",F,13
+9,160160,"Yogurt (plain, flavored or fruit added), Goat Milk",F,15
+9,160161,"Non-Fat Dried Milk, Goat Milk",F,16
+9,160162,"Import Milk Act, Goat Milk",F,95
+9,160163,"Milk and Cream, N.E.C., Goat Milk",F,99
+9,160180,"Buttermilk, Sheep Milk",G,01
+9,160200,"Milk, Concentrated, Evaporated and Concentrated, Sheep Milk",G,03
+9,160220,"Khoa, (very thick Indian condensed milk), Sheep Milk",G,03
+9,160221,"Egg Nog, Sheep Milk",G,04
+9,160222,"Milk, Flavored (Chocolate, etc.), Sheep Milk",G,05
+9,160223,"Half and Half (Milk and Cream), Sheep Milk",G,07
+9,160224,"Milk, Malted, Sheep Milk",G,08
+9,160225,"Milk, Plain, Sheep Milk",G,09
+9,160226,"Milk, Vitamin D, Sheep Milk",G,10
+9,160227,"Milk with Multivitamins Added, Sheep Milk",G,11
+9,160228,"Cream, sour, Sheep Milk",G,12
+9,160229,"Cream, Sweet, Whipping, Table, etc., Sheep Milk",G,13
+9,160230,"Yogurt (Plain, flavored or fruit added), Sheep Milk",G,15
+9,160231,"Non-Fat Dried Milk, Sheep Milk",G,16
+9,160232,"Import Milk Act, Sheep Milk",G,95
+9,160233,"Milk and Cream, N.E.C. Sheep Milk",G,99
+9,160240,Whey (dried),C,17
+9,160260,Whey (liquid),C,18
+9,160280,"Whey, condensed",C,19
+9,160281,"Whey products, modified (condensed, dry)",C,20
+9,160282,Whey cream,C,21
+9,160300,Whey (dried),D,17
+9,160320,Whey (liquid),D,18
+9,160340,"Whey, condensed",D,19
+9,160360,"Whey products, modified (condensed, dry)",D,20
+9,160380,Whey cream,D,21
+9,160400,Whey (dried,E,17
+9,160401,"Whey, liquid",E,18
+9,160402,"Whey, condensed",E,19
+9,160403,"Whey products, modified (condensed, dry)",E,20
+9,160404,Whey cream,E,21
+9,160420,"Whey (dried), Goat Milk",F,17
+9,160440,"Whey, liquid, Goat Milk",F,18
+9,160441,"Whey, condensed, Goat Milk",F,19
+9,160442,"Whey products, modified (condensed, dry), Goat Milk",F,20
+9,160443,"Whey cream, Goat Milk",F,21
+9,160460,"Whey (dried), Sheep Milk",G,17
+9,160461,"Whey, liquid, Sheep Milk",G,18
+9,160462,"Whey, condensed, Sheep Milk",G,19
+9,160463,"Whey products, modified (condensed, dry), Sheep Milk",G,20
+9,160464,"Whey cream, Sheep Milk",G,21
+9,160480,Whey cream and cream blends,C,22
+9,160481,Anhydrous Milk Fat,C,23
+9,160482,Cholesterol modified anhydrous milk fat,C,24
+9,160483,Cholesterol modified fluid milk products,C,25
+9,160484,"Milk and milk products, cultured or acidified",C,26
+9,160485,"Milk and milk products, lactose reduced",C,27
+9,160486,"Milk and milk products, low-sodium",C,28
+9,160487,"Milk and milk products, added safe and suitable microbial organisms (e.g. Lactobacillus acidophilus)",C,29
+9,160488,Acid (lactic) casein,C,30
+9,160489,Rennet Casein,C,31
+9,160490,Milk protein concentrate,C,32
+9,160491,Caseinates,C,33
+9,160492,Whey Protein concentrate,C,34
+9,160493,Lactalbumin,C,35
+9,160500,Whey cream and cream blends,D,22
+9,160501,Anhydrous Milk Fat,D,23
+9,160502,Cholesterol modified anhydrous milk fat,D,24
+9,160503,Cholesterol modified fluid milk products,D,25
+9,160504,"Milk and milk products, cultured or acidified",D,26
+9,160505,"Milk and milk products, lactose reduced",D,27
+9,160506,"Milk and milk products, low-sodium",D,28
+9,160507,"Milk and milk products, added safe and suitable microbial organisms (e.g. Lactobacillus acidophilus)",D,29
+9,160508,Acid (lactic) casein,D,30
+9,160509,Rennet Casein,D,31
+9,160510,Milk protein concentrate,D,32
+9,160511,Caseinates,D,33
+9,160512,Whey Protein concentrate,D,34
+9,160513,Lactalbumin,D,35
+9,160520,Whey cream and cream blends,E,22
+9,160521,Anhydrous Milk Fat,E,23
+9,160540,Cholesterol modified anhydrous milk fat,E,24
+9,160541,Cholesterol modified fluid milk products,E,25
+9,160542,"Milk and milk products, cultured or acidified",E,26
+9,160543,"Milk and milk products, lactose reduced",E,27
+9,160544,"Milk and milk products, low-sodium",E,28
+9,160545,"Milk and milk products, added safe and suitable microbial organisms (e.g. Lactobacillus acidophilus)",E,29
+9,160546,Acid (lactic) casein,E,30
+9,160547,Rennet Casein,E,31
+9,160548,Milk protein concentrate,E,32
+9,160549,Caseinates,E,33
+9,160550,Whey Protein concentrate,E,34
+9,160551,Lactalbumin,E,35
+9,160560,"Whey cream and cream blends, Goat Milk",F,22
+9,160580,"Anhydrous Milk Fat, Goat Milk",F,23
+9,160581,"Cholesterol modified anhydrous milk fat, Goat Milk",F,24
+9,160582,"Cholesterol modified fluid milk products, Goat Milk",F,25
+9,160583,"Milk and milk products, cultured or acidified, Goat Milk",F,26
+9,160584,"Milk and milk products, lactose reduced, Goat Milk",F,27
+9,160585,"Milk and milk products, low-sodium, Goat Milk",F,28
+9,160586,"Milk and milk prod, added safe & suitable microbial organisms (e.g. Lactobacillus acidophilus), Goat",F,29
+9,160587,"Acid (lactic) casein, Goat Milk",F,30
+9,160588,"Rennet Casein, Goat Milk",F,31
+9,160589,"Milk protein concentrate, Goat Milk",F,32
+9,160590,"Caseinates, Goat Milk",F,33
+9,160591,"Whey Protein concentrate, Goat Milk",F,34
+9,160592,"Lactalbumin, Goat Milk",F,35
+9,160600,"Whey cream and cream blends, Sheep Milk",G,22
+9,160620,"Anhydrous Milk Fat, Sheep Milk",G,23
+9,160621,"Cholesterol modified anhydrous milk fat, Sheep Milk",G,24
+9,160622,"Cholesterol modified fluid milk products, Sheep Milk",G,25
+9,160623,"Milk and milk products, cultured or acidified, Sheep Milk",G,26
+9,160624,"Milk and milk products, lactose reduced, Sheep Milk",G,27
+9,160625,"Milk and milk products, low-sodium, Sheep Milk",G,28
+9,160626,"Milk and milk prod, added safe & suitable microbial organisms (e.g. Lactobacillus acidophilus) Sheep",G,29
+9,160627,"Acid (lactic) casein, Sheep Milk",G,30
+9,160628,"Rennet Casein, Sheep Milk",G,31
+9,160629,"Milk protein concentrate, Sheep Milk",G,32
+9,160630,"Caseinates, Sheep Milk",G,33
+9,160631,"Whey Protein concentrate, Sheep Milk",G,34
+9,160632,"Lactalbumin, Sheep Milk",G,35
+9,161820,"Casein, Edible, Goat Milk",F,02
+9,175543,"Buttermilk, Grade A",H,01
+9,175544,"Cream, Sweet, Heavy, Whipping, Table Etc, Grade A",H,02
+9,175545,"Cream, Sweet, Whipping, Table, Etc, Low Fat, Grade A",H,03
+9,175546,"Fat Free Half and Half, Grade A",H,04
+9,175547,"Creme Fraiche, Grade A",H,05
+9,175548,"Cultured or Acidified and Flavored Fluid Milk, Grade A",H,06
+9,175549,"Culture or Acidified and Flavored Half and Half, Grade A",H,07
+9,175550,"Fluid Milk Products, Skim, 1%, 2%, Whole and All Flavored and Modified (lactose reduced, ie) Grade A",H,08
+9,175551,Aseptic Fluid Milk Products,H,08
+9,175552,UHT Fluid Milk Products,H,08
+9,175553,Ultra-Pasteurized Fluid Milk Products,H,08
+9,175554,"Sour cream, Cultured or Acidified and Flavored Sour Cream, Grade A",H,09
+9,175555,"Yogurt, All Type (Greek, Strained, Flavored), Grade A",H,10
+9,175556,Kefir,H,10
+9,175557,Kephir,H,10
+9,175558,Laben,H,10
+9,175559,Lebben,H,10
+9,175560,Leben,H,10
+9,175561,Lben,H,10
+9,175562,Liban,H,10
+9,175563,"Ultra Filtered, Concentrated or Condensed Milk Products, Grade A",H,11
+9,175564,"Egg Nog (All Fat Levels), Grade A",H,12
+9,175565,Creme Fraiche (Egg Nog),H,12
+9,175566,"Cream, Light",H,12
+9,175567,"Clotted Cream, Grade A",H,13
+9,175568,Scalded Cream,H,13
+9,175569,Clouted Cream,H,13
+9,175570,Double Devon Cream,H,13
+9,175571,Devonshire Cream,H,13
+9,175572,Cornish Cream,H,13

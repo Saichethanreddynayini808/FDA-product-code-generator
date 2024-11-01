@@ -1,0 +1,285 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+82,19719,"Immunoelectrophoretic, Immunoglobulins, (G, A, M)",C,FF
+82,19725,"Method, Nephelometric, Immunoglobulins (G, A, M)",C,FN
+82,19728,"Radioimmunoassay, Immunoglobulins (G, A, M)",C,FQ
+82,19741,"Method, Immunodiffusion, Immunoglobulins (G, A, M)",C,GM
+82,19760,"Immunochemical, Ceruloplasmin",C,HN
+82,19818,"Igd, Antigen, Antiserum, Control",C,ZJ
+82,19819,"Iga, Rhodamine, Antigen, Antiserum, Control",C,ZK
+82,19820,"Iga, Peroxidase, Antigen, Antiserum, Control",C,ZL
+82,19821,"Iga, Ferritin, Antigen, Antiserum, Control",C,ZM
+82,19822,"Iga, Fitc, Antigen, Antiserum, Control",C,ZN
+82,19823,"Inter-Alpha Trypsin Inhibitor, Antigen, Antiserum, Control",C,ZO
+82,19824,"Iga, Antigen, Antiserum, Control",C,ZP
+82,19825,"Bence-Jones Protein, Antigen, Antiserum, Control",C,ZQ
+82,19826,"Hemopexin, Rhodamine, Antigen, Antiserum, Control",C,ZR
+82,19827,"Retinol-Binding Protein, Antigen, Antiserum, Control",C,ZS
+82,19828,"Hemopexin, Fitc, Antigen, Antiserum, Control",C,ZT
+82,19829,"Complement C3, Antigen, Antiserum, Control",C,ZW
+82,19830,"Hemopexin, Antigen, Antiserum, Control",C,ZX
+82,19831,"Complement C1s, Antigen, Antiserum, Control",C,ZY
+82,19832,"Haptoglobin, Rhodamine, Antigen, Antiserum, Control",C,ZZ
+82,19834,"Haptoglobin, Fitc, Antigen, Antiserum, Control",D,AB
+82,19835,"Complement C3b Activator, Antigen, Antiserum, Control",D,AC
+82,19836,"Haptoglobin, Antigen, Antiserum, Control",D,AD
+82,19837,"Complement C9, Antigen, Antiserum, Control",D,AE
+82,19838,"Gamma Globulin, Fitc, Antigen, Antiserum, Control",D,AF
+82,19839,"Complement C8, Antigen, Antiserum, Control",D,AG
+82,19840,"Gamma Globulin, Antigen, Antiserum, Control",D,AH
+82,19841,"Complement C1r, Antigen, Antiserum, Control",D,AI
+82,19842,"Free Secretory Component, Antigen, Antiserum, Control",D,AJ
+82,19843,"Complement C1q, Antigen, Antiserum, Control",D,AK
+82,19844,"Fraction Iv-5, Antigen, Antiserum, Control",D,AL
+82,19845,"Hemoglobin, Chain Specific, Antigen, Antiserum, Control",D,AM
+82,19846,"Fibrinopeptide A, Antigen, Antiserum, Control",D,AN
+82,19847,"Igm (Mu Chain Specific), Antigen, Antiserum, Control",D,AO
+82,19849,"Igg (Fd Fragment Specific), Antigen, Antiserum, Control",D,AQ
+82,19851,"Igg (Fc Fragment Specific), Antigen, Antiserum, Control",D,AS
+82,19853,"Alpha-2-Ap-Glycoprotein, Antigen, Antiserum, Control",D,AW
+82,19855,"Complement C5, Antigen, Antiserum, Control",D,AY
+82,19857,"Complement C1 Inhibitor (Inactivator), Antigen, Antiserum, Control",D,BA
+82,19858,"Alpha 2, 2n-Glycoprotein, Antigen, Antiserum, Control",D,BC
+82,19859,"Antismooth Muscle Antibody, Indirect Immunofluorescent, Antigen, Control",D,BE
+82,19860,"Ferritin, Antigen, Antiserum, Control",D,BF
+82,19861,"Fc, Rhodamine, Antigen, Antiserum, Control",D,BH
+82,19862,"Complement C4, Antigen, Antiserum, Control",D,BI
+82,19863,"Antiparietal Antibody, Indirect Immunofluorescent, Antigen, Control",D,BJ
+82,19864,"Fc, Fitc, Antigen, Antiserum, Control",D,BK
+82,19865,"Multiple Autoantibodies, Indirect Immunofluorescent, Antigen, Control",D,BL
+82,19866,"Antimitochondrial Antibody, Indirect Immunofluorescent, Antigen, Control",D,BM
+82,19867,"Fc, Antigen, Antiserum, Control",D,BN
+82,19869,"Fab, Rhodamine, Antigen, Antiserum, Control",D,BY
+82,19870,"Fab, Fitc, Antigen, Antiserum, Control",D,CB
+82,19871,"Fab, Antigen, Antiserum, Control",D,CE
+82,19872,"Albumin, Antigen, Antiserum, Control",D,CF
+82,19873,"System, Test, C-Reactive Protein, Rhodamine",D,CH
+82,19874,"Beta-Globulin, Antigen, Antiserum, Control",D,CJ
+82,19875,"C-Reactive Protein, Antigen, Antiserum, And Control",D,CK
+82,19876,"System, Test, C-Reactive Protein",D,CN
+82,19877,"Alpha-Globulin, Antigen, Antiserum, Control",D,CO
+82,19878,"Ceruloplasmin, Rhodamine, Antigen, Antiserum, Control",D,CT
+82,19879,"Ceruloplasmin, Fitc, Antigen, Antiserum, Control",D,CY
+82,19880,"Ceruloplasmin, Antigen, Antiserum, Control",D,DB
+82,19881,"Thyroglobulin, Antigen, Antiserum, Control",D,DC
+82,19882,"Transferrin, Rhodamine, Antigen, Antiserum, Control",D,DD
+82,19885,"Transferrin, Antigen, Antiserum, Control",D,DG
+82,19887,"Transferrin, Fitc, Antigen, Antiserum, Control",D,DI
+82,19888,"Thyroglobulin, Fitc, Antigen, Antiserum, Control",D,DJ
+82,19889,"Beta-2-Glycoprotein Iii, Antigen, Antiserum, Control",D,DK
+82,19890,"Thyroglobulin, Rhodamine, Antigen, Antiserum, Control",D,DL
+82,19891,"Beta-2-Glycoprotein I, Antigen, Antiserum, Control",D,DN
+82,19892,"Myoglobin, Rhodamine, Antigen, Antiserum, Control",D,DO
+82,19894,"Myoglobin, Antigen, Antiserum, Control",D,DR
+82,19895,"Prealbumin, Fitc, Antigen, Antiserum, Control",D,DS
+82,19896,"Alpha-2-Macroglobulin, Rhodamine, Antigen, Antiserum, Control",D,DT
+82,19898,"Alpha-2-Macroglobulin, Fitc, Antigen, Antiserum, Control",D,DY
+82,19899,"Albumin, Fitc, Antigen, Antiserum, Control",D,DZ
+82,19900,"Myoglobin, Fitc, Antigen, Antiserum, Control",D,EA
+82,19901,"Alpha-2-Macroglobulin, Antigen, Antiserum, Control",D,EB
+82,19902,"Inter-Alpha Trypsin Inhibitor, Fitc, Antigen, Antiserum, Control",D,EC
+82,19903,"Alpha-2-Hs-Glycoprotein, Antigen, Antiserum, Control",D,EF
+82,19904,"Lactoferrin, Antigen, Antiserum, Control",D,EG
+82,19905,"Lambda, Antigen, Antiserum, Control",D,EH
+82,19906,"Alpha-1-Antitrypsin, Fitc, Antigen, Antiserum, Control",D,EI
+82,19907,"Alpha-2-Glycoproteins, Antigen, Antiserum, Control",D,EJ
+82,19908,"Kappa, Rhodamine, Antigen, Antiserum, Control",D,EK
+82,19909,"Lipoprotein X, Antigen, Antiserum, Control",D,EL
+82,19910,"Alpha-1-Antitrypsin, Antigen, Antiserum, Control",D,EM
+82,19911,"Alpha-1-T-Glycoprotein, Antigen, Antiserum, Control",D,EN
+82,19912,"Kappa, Fitc, Antigen, Antiserum, Control",D,EO
+82,19914,"Alpha-1-Lipoprotein, Antigen, Antiserum, Control",D,ER
+82,19915,"Lambda, Fitc, Antigen, Antiserum, Control",D,ES
+82,19916,"Lactic Dehydrogenase, Antigen, Antiserum, Control",D,ET
+82,19917,"Igg, Antigen, Antiserum, Control",D,EW
+82,19918,"Alpha-1-B-Glycoprotein, Antigen, Antiserum, Control",D,EX
+82,19920,"Igm, Rhodamine, Antigen, Antiserum, Control",D,EZ
+82,19921,"Alpha-1-Antitrypsin, Rhodamine, Antigen, Antiserum, Control",D,FB
+82,19922,"Lipoprotein, Low-Density, Antigen, Antiserum, Control",D,FC
+82,19924,"Alpha-1-Antichymotrypsin, Antigen, Antiserum, Control",D,FF
+82,19925,"Lambda, Rhodamine, Antigen, Antiserum, Control",D,FG
+82,19926,"Kappa, Antigen, Antiserum, Control",D,FH
+82,19927,"Total Spinal-Fluid, Antigen, Antiserum, Control",D,FI
+82,19928,"Albumin, Rhodamine, Antigen, Antiserum, Control",D,FJ
+82,19929,"Igg (Fab Fragment Specific), Antigen, Antiserum, Control",D,FK
+82,19930,"Igm, Ferritin, Antigen, Antiserum, Control",D,FL
+82,19931,"Ige, Ferritin, Antigen, Antiserum, Control",D,FM
+82,19932,"Igg, Rhodamine, Antigen, Antiserum, Control",D,FO
+82,19933,"Sperm, Antigen, Antiserum, Control",D,FQ
+82,19934,"Igm, Fitc, Antigen, Antiserum, Control",D,FS
+82,19935,"Igm, Antigen, Antiserum, Control",D,FT
+82,19936,"Sperm, Fitc, Antigen, Antiserum, Control",D,FX
+82,19937,"Igg (Gamma Chain Specific), Antigen, Antiserum, Control",D,FZ
+82,19938,"Cohn Fraction Ii, Antigen, Antiserum, Control",D,GA
+82,19940,"Ige, Antigen, Antiserum, Control",D,GC
+82,19941,"Igg, Ferritin, Antigen, Antiserum, Control",D,GD
+82,19942,"Igd, Rhodamine, Antigen, Antiserum, Control",D,GE
+82,19943,"Igd, Fitc, Antigen, Antiserum, Control",D,GG
+82,19945,"Breast Milk, Rhodamine, Antigen, Antiserum, Control",D,GI
+82,19946,"Colostrum, Antigen, Antiserum, Control",D,GJ
+82,19947,"Igg, Fitc, Antigen, Antiserum, Control",D,GK
+82,19948,"Ige, Rhodamine, Antigen, Antiserum, Control",D,GL
+82,19949,"Breast Milk, Antigen, Antiserum, Control",D,GM
+82,19950,"Breast Milk, Fitc, Antigen, Antiserum, Control",D,GN
+82,19952,"Ige, Fitc, Antigen, Antiserum, Control",D,GP
+82,19955,"System, Test, Hypersensitivity Pneumonitis",D,GW
+82,19956,"Ng1m(A), Antigen, Antiserum, Control",D,GX
+82,19958,"System, Test, Radioallergosorbent (RAST) Immunological",D,HB
+82,19959,"System, Test, Systemic Lupus Erythematosus",D,HC
+82,19961,"Ng3m(Bo), Antigen, Antiserum, Control",D,HI
+82,19962,"Protein, Complement, Antigen, Antiserum, Control",D,HL
+82,19963,"Antinuclear Antibody, Indirect Immunofluorescent, Antigen, Control",D,HN
+82,19964,"Ng3m(G), Antigen, Antiserum, Control",D,HQ
+82,19965,"System, Test, Rheumatoid Factor",D,HR
+82,19966,"System, Test, Carcinoembryonic Antigen",D,HX
+82,19967,"Ng4m(A), Antigen, Antiserum, Control",D,HY
+82,22284,"P-Phenyl-Enediamine/Edta (Spectrophotometric), Ceruloplasmin",J,FQ
+82,22285,"Indirect Copper Assay, Ceruloplasmin",J,FR
+82,22323,"Radioimmunoassay, Immunoglobulins (D, E)",J,HR
+82,22384,"Immunochemical, Bence-Jones Protein",J,KM
+82,22449,"Immunochemical, Thyroglobulin Autoantibody",J,NL
+82,22450,"Immunochemical, Transferrin",J,NM
+82,22637,"System, Test, Beta-2-Microglobulin Immunological",J,ZG
+82,22638,"Factor B, Antigen, Antiserum, Control",J,ZH
+82,22639,"Prealbumin, Antigen, Antiserum, Control",J,ZJ
+82,22640,"System, Test, Thyroid Autoantibody",J,ZO
+82,22641,"Plates, Ouchterlony Agar",J,ZP
+82,22642,"Plates and Equipment, Radial Immunodiffusion",J,ZQ
+82,22643,Support Gels,J,ZR
+82,22644,Electrophoresis Instrumentation,J,ZS
+82,22645,Fluorometer,J,ZT
+82,22646,Nephelometer,J,ZW
+82,22647,"Equipment, Rocket Immunoelectrophoresis",J,ZX
+82,22806,"Fraction V, Antigen, Antiserum, Control",K,HT
+82,23051,"System, Test, Alpha-Fetoprotein, Ria",K,TJ
+82,23053,Anti-DNA Indirect Immunofluorescent Solid Phase,K,TL
+82,23054,C3-Indirect Immunofluorescent Solid Phase,K,TM
+82,23055,"System, Test, Infectious Mononucleosis",K,TN
+82,23056,"Reagent, Immunoassay, IGG",K,TO
+82,23057,Complement C3b Activator Immunoassay Reagents,K,TP
+82,23058,"Reagent, Complement",K,TQ
+82,23060,Second Antibody (Species Specific Anti-Animal Gamma Globulin),K,TS
+82,23374,"Antinuclear Antibody (Enzyme-Labeled), Antigen, Controls",L,JM
+82,23394,"Antinuclear Antibody, Antigen, Control",L,KJ
+82,23396,"Alpha-1-Acid-Glycoprotein, Antigen, Antiserum, Control",L,KL
+82,23399,"Anti-Rnp Antibody, Antigen and Control",L,KO
+82,23400,"Anti-Sm Antibody, Antigen and Control",L,KP
+82,23420,"Extractable Antinuclear Antibody, Antigen And Control",L,LL
+82,23490,"Kit, Test, Alpha-Fetoprotein for Testicular Cancer",L,OJ
+82,23491,"Kit, Test, Alpha-Fetoprotein For Neural Tube Defects",L,OK
+82,23562,"Anti-DNA Antibody (Enzyme-Labeled), Antigen, Control",L,RM
+82,23594,"Anti-DNA Antibody, Antigen And Control",L,SW
+82,23607,Prostate-Specific Antigen (PSA) For Management Of Prostate Cancers,L,TJ
+82,23608,"Test, Epithelial Ovarian Tumor-Associated Antigen (CA125)",L,TK
+82,23614,Calibrator For Alpha-Fetoprotein In Mid-Pregnancy Maternal Serum,L,TQ
+82,24936,"Alpha-1 Microglobulin, Antigen, Antiserum, Control",M,GA
+82,24938,"System, Test, Anticardiolipin Immunological",M,ID
+82,25297,"Antigen, Cancer 549",M,JB
+82,25298,"Enzyme Immunoassay, Antiparietal Cell Antibody, Antigen, Control",M,LE
+82,25300,"Strip, HAMA IGG, Elisa, In Vitro Test System",M,LH
+82,25303,"Antigen, Tumor Marker, Bladder (Basement Membrane Complexes)",M,MW
+82,25304,"Test System, Antineutrophil Cytoplasmic Antibodies (ANCA)",M,OB
+82,25305,"Antigen, Tumor Marker, Breast",M,OI
+82,25306,Anti-Ribosomal P Antibodies,M,QA
+82,150582,"Antigen (Complexed), Prostate Specific (cPSA)",N,AF
+82,150583,"System, Test, Tumor Marker, for Detection of Bladder Cancer",N,AH
+82,150584,"Autoantibodies, Skin (desmoglein 1 and desmoglein 3)",N,BO
+82,150669,"Antibodies, Saccharomyces cerevisiae (S. cerevisiae)",N,BT
+82,150670,"Autoantibodies, LKM-1 (liver/kidney microsome, type 1)",N,BS
+82,150671,"Kit, Test, Quality Control for Endotoxin",M,ZL
+82,150672,"Test, Donor, Syphilis, Antigens, Treponemal",M,YR
+82,150673,"Kit, Test, Donors, For Bloodborne Pathogen",M,YZ
+82,150674,"Test, Equipment, Automated, Bloodborne Pathogen",M,ZA
+82,150675,"System, Detection, Bacterial, For Platelet Transfusion Products",M,ZC
+82,150677,"Test, Donors, CMV",M,ZE
+82,150678,"Test, HIV Detection",M,ZF
+82,151622,"System, Test, HER-2/NEU, Monitoring",N,CW
+82,152103,"Test, Prostate Specific Antigen, Free (Noncomplexed) to Distinguish Prostate Cancer from Benign Cond",M,TG
+82,152295,"Antibodies, Gliadin",M,ST
+82,152296,"System, Test, Antibodies, B2 - Glycoprotein I (B2 - GPI)",M,SV
+82,152297,"System, Test, Thyroglobulin",M,SW
+82,152298,"Total, Prostate Specific Antigen (Noncomplexed & Complexed) for Detection of Prostate Cancer",M,TF
+82,152299,"Kit, Test for Nuclear Matrix (Numa) Protein (For Monitoring and Management of Colorectal",M,UT
+82,152301,"Biosensor, Immunoassay, Myoglobin",M,VE
+82,152302,"Devices, Measure, Antibodies to Glomerular Basement Membrane (GBM)",M,VJ
+82,152303,"Autoantibodies, Endomysial (Tissue Transglutaminase)",M,VM
+82,153173,"Antibodies, Anti-Cyclic Citrullinated Peptide (CCP)",N,HX
+82,153178,"Assay, Genotype, HIV Drug Resistance, In Vitro",N,HS
+82,153198,"System, Test, Carbohydrate Antigen (CA 19-9), for Monitoring And Management of Pancreatic Cancer",N,IG
+82,153204,"Autoantibodies, Anti-Soluble Liver Antigen (SLA), Autoimmune Hepatitis",N,IY
+82,153424,"Antibodies, Anti-Actin, Anti-Smooth Muscle",N,JF
+82,153897,"Autoantibodies, Nuclear Pore Glycoprotein GP210",N,RI
+82,153899,"Cardiac C-Reactive Protein, Antigen, Antiserum, and Control",N,QD
+82,153938,"Antibodies, Cartilage Oligomeric Matrix Protein (COMP)",N,PH
+82,153964,"Test, System, Immunoassay, Lipoprotein-Associated Phospholipase A2",N,OE
+82,155163,Complement 4D (C4D) and complement Receptor 1 (CR1),N,RX
+82,155164,"Test, Alph Fetoprotein L3 Subfraction (AFP-L3%), For Hepatocelluar Carcinoma risk assessment",N,SF
+82,155165,"Autoantibodies, Acetylcholine Receptor, Acetylcholine Blocking and non-blocking",N,ST
+82,155280,"System, Test, Fibrin/Fibrinogen degradation products for monitoring of colorectal cancer",N,TY
+82,155373,"Autoanibodies, nuclear body protein, sp100",N,UM
+82,155514,"Cancer monitoring test system, soluble mesothelin",N,VA
+82,155615,"Diagnostic software, k-nearest neighbor algorithm",N,VI
+82,156634,"Autoantibodies, glutamic acid decarboxylase",N,WG
+82,156974,"Calprotectin, fecal",N,XO
+82,157374,"Autoantibodies, anti-ribonucleic acid polymerase (rnap) iii antibody",N,YO
+82,157434,"Chromogenic in situ hybridisation, nucleic acid amplification, her2/neu gene, breast cancer",N,YQ
+82,157508,"Quality control material, genetics, DNA",N,ZB
+82,157934,"Des-gamma-carboxy-prothrombin (dcp), risk assessment, hepatocellular carcinoma",O,AU
+82,157975,"Cancer monitoring test system, soluble mesothelin-related peptides, epithelioid/biphasic mesotheliom",O,AW
+82,158094,Anti-ss-a 52 autoantibodies,O,BE
+82,158334,"Alpha-1-antitrypsin, qualitative phenotype",O,BZ
+82,158374,"Rt-pcr multigene expression test, sentinel lymph node, cancer metastasis detection",O,CB
+82,163201,Insulin autoantibody kit,O,CN
+82,164101,"Autoantibodies, skin (bullous pemphigoid 180 and bullous pemphigoid 230",O,EG
+82,164745,Tyrosine phosphatase (ia-2) autoantibody assay,O,IF
+82,166241,"Auto-antibodies; Phosphatidylserine, prothrombin, phosphatidylserine/prothrombin complex",O,PN
+82,166403,Igak heavy & light chain combined,O,PX
+82,166404,Igal heavy & light chain combined,O,PY
+82,166732,Anti-mutated citrullinated vimentin igg,O,QZ
+82,166953,"test, epithelial ovarian tumor associated antigen (he4)",O,IU
+82,166954,"antibodies, outer-membrane proteins",O,KM
+82,166955,ovarian adnexal mass assessment score test system,O,NX
+82,167162,Anti-glutamate receptor (type nmda) ifa,O,SK
+82,167423,Research use only/immunology devices,O,TR
+82,167482,Micro total analysis instrument system,O,UE
+82,168364,Cytokeratin fragments 21-1 eia kit,O,VK
+82,170070,P2psa,O,YA
+82,170702,"Dna-probe kit, human chromosome",O,YU
+82,170704,Inherited nucleotide repeat disorder DNA test,O,YV
+82,170762,Leukemia translocation panel multiplex test,O,YY
+82,171044,"Tissue rna preservative for collection, storage, and transportation",O,ZF
+82,171537,Voltage gated calcium channel (vgcc) antibody assay,P,AF
+82,171569,TRYPTASE ASSAY SYSTEM,O,YL
+82,172162,21-Hydroxylase Antibody (21-OHAb),P,CG
+82,172242,Immunoglobulin G lambda heavy and light chain combined,P,CO
+82,172243,Immunoglobulin G kappa heavy and ight chain combined,P,CN
+82,172362,Immunoglobulin M kappa heavy and light chain combined,P,DE
+82,172363,immunoglobulin M lambda heavy and light chain combined,P,DF
+82,172963,Anti-SS-A Ro60 autoantibodies,P,ET
+82,173037,"System, microarray-based, genome-wide, postnatal chromosomal abnormality detection",P,FX
+82,173090,Anti-Phospholipase A2 receptor,P,GV
+82,173266,Test for periprosthetic joint infection,P,IL
+82,173332,Zinc Transporter 8 Auto-antibody,P,HF
+82,173592,Automated indirect immunofluorescence microscope and software-assisted system for clinical use,P,IV
+82,174212,Somatic gene mutation detection system,O,WD
+82,174323,Aquaporin-4 autoantibody,P,NI
+82,174642,Genetic variant detection and health risk assessment system,P,TA
+82,174760,"System, test, radioallergosorbent (Rast) immunological, exempt allergens",P,UW
+82,174882,Alpha-1-antrypsin mutation,P,ZH
+82,174912,Prostrate cancer genes nucleic acid amplification test system,O,YM
+82,174969,Brain trauma assessment test,Q,AT
+82,175090,Flow cytometry calibrator,P,DX
+82,175091,Severe combined immunodeficiency disorder (SCID) Newborn Screening Test System,P,JI
+82,175234,"Assay, Interleukin",N,ID
+82,175261,Phytohemaglutinin M,I,BB
+82,175262,Paraformaldehyde,K,EF
+82,175263,"Sorter, Cell",K,EX
+82,175264,"Assay, T Lymphocyte Surface Marker",L,IZ
+82,175265,"Assay, B Lymphocyte Marker",L,JD
+82,175266,"Assay, Interleukin",M,AN
+82,175947,Interleukin 6,Q,LC
+82,176212,Multi-analyte test system with algorithmic analysis for detection of prostate cancer,Q,RF
+82,176637,Alzheimers disease pathology assessment test,Q,SE
+82,176727,Thymidine Kinase Activity,Q,TE
+82,176762,Human Leukocyte Antigen (HLA) Typing Companion Diagnostic Test,Q,UK
+82,177020,Assays to detect pre-existing antibodies to adeno-associated virus (AAV) viral vectors,Q,WQ
+82,177039,Chromogranin A,Q,XS

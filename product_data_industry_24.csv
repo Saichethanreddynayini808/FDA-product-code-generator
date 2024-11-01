@@ -1,0 +1,1117 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+24,1329,"Egg Plant, with Sauce",K,01
+24,1330,Egg Plant  (Fruit Used as Vegetable),F,01
+24,1331,"Egg Plant, Breaded",G,01
+24,1332,"Egg Plant, Dried or Paste",H,01
+24,1333,"Egg Plant, Juice",J,01
+24,1334,"Artichoke, with Sauce",V,01
+24,1335,Artichoke (Leaf & Stem Vegetable),T,01
+24,1336,"Artichoke, Dried or Paste",U,01
+24,1337,"Champion Bean, with Sauce",C,02
+24,1338,Champion Bean,A,02
+24,1339,"Champion Bean, Dried or Paste",B,02
+24,1340,"Okra, with Sauce",K,02
+24,1341,Okra  (Fruit Used as Vegetable),F,02
+24,1342,"Okra, Breaded",G,02
+24,1343,"Okra, Dried or Paste",H,02
+24,1344,"Okra, Juice",J,02
+24,1345,"Asparagus, with Sauce",V,02
+24,1346,Asparagus (Leaf & Stem Vegetable),T,02
+24,1347,"Asparagus, Dried or Paste",U,02
+24,1348,"Chili Bean, with Sauce",C,03
+24,1349,Chili Bean,A,03
+24,1350,"Chili Bean, Dried or Paste",B,03
+24,1356,"Bamboo Shoots, with Sauce",V,03
+24,1357,Bamboo Shoots (Leaf & Stem Vegetable),T,03
+24,1358,"Bamboo Shoots, Dried or Paste",U,03
+24,1359,"Cranberry Bean, with Sauce",C,04
+24,1360,Cranberry Bean,A,04
+24,1361,"Cranberry Bean, Dried or Paste",B,04
+24,1362,"Pimiento Pepper, with Sauce",K,04
+24,1363,Pimiento Pepper (Fruit Used as Vegetable),F,04
+24,1364,"Pimiento Pepper, Breaded",G,04
+24,1365,"Pimiento Pepper, Dried or Paste",H,04
+24,1366,"Pimiento Pepper, Juice",J,04
+24,1367,"Beet Tops, with Sauce",V,04
+24,1368,Beet Tops (Leaf & Stem Vegetable),T,04
+24,1369,"Beet Tops, Dried or Paste",U,04
+24,1370,"Fava Bean, with Sauce",C,05
+24,1371,Fava Bean,A,05
+24,1372,"Fava Bean, Dried or Paste",B,05
+24,1373,"Pumpkins, with Sauce",K,05
+24,1374,Pumpkins (Fruit Used as Vegetable),F,05
+24,1375,"Pumpkins, Breaded",G,05
+24,1376,"Pumpkins, Dried or Paste",H,05
+24,1377,"Pumpkins, Juice",J,05
+24,1378,"Broccoli, with Sauce",V,05
+24,1379,Broccoli (Leaf & Stem Vegetable),T,05
+24,1380,"Broccoli, Dried or Paste",U,05
+24,1381,"Garbanzo Bean, with Sauce",C,06
+24,1382,Garbanzo Bean,A,06
+24,1383,"Garbanzo Bean, Dried or Paste",B,06
+24,1384,"Squash, Summer, with Sauce",K,06
+24,1385,"Squash, Summer (Fruit Used as Vegetable)",F,06
+24,1386,"Squash, Summer, Breaded",G,06
+24,1387,"Squash, Summer, Dried or Paste",H,06
+24,1388,"Squash, Summer, Juice",J,06
+24,1389,"Broccoli Raab (Raab, Ratini), with Sauce",V,06
+24,1390,"Broccoli Raab (Raab, Ratini) (Leaf & Stem Vegetable)",T,06
+24,1391,"Broccoli Raab (Raab, Ratini), Dried or Paste",U,06
+24,1392,"Kidney Bean, with Sauce",C,07
+24,1393,Kidney Bean,A,07
+24,1394,"Kidney Bean, Dried or paste",B,07
+24,1395,"Brussels Sprout, with Sauce",V,07
+24,1396,Brussels Sprouts (Leaf & Stem Vegetable),T,07
+24,1397,"Brussels Sprouts, Dried or Paste",U,07
+24,1398,"Lima Bean, Butter Bean, with Sauce",C,08
+24,1399,Lima Bean,A,08
+24,1400,"Lima Bean, Dried or Paste",B,08
+24,1401,"Cabbage, with Sauce",V,08
+24,1402,Cabbage (Leaf & Stem Vegetable),T,08
+24,1403,"Cabbage, Dried or Paste",U,08
+24,1404,"Mung Bean, with Sauce",C,09
+24,1405,Mung Bean,A,09
+24,1406,"Mung Bean, Dried or Paste",B,09
+24,1407,"Carrot Tops, with Sauce",V,09
+24,1408,Carrot Tops (Leaf & Stem Vegetable),T,09
+24,1409,"Carrot Tops, Dried or Paste",U,09
+24,1410,"Navy (White) Beans (Baked Beans, Pork & Beans), in Sauce",C,10
+24,1411,"Navy (White) Beans, (Baked Beans, Pork & Beans)",A,10
+24,1412,"Navy (White) Beans (Baked Beans, Pork & Beans), Dried or Paste",B,10
+24,1413,"Cauliflower, with Sauce",V,10
+24,1414,Cauliflower (Leaf & Stem Vegetable),T,10
+24,1415,"Cauliflower, Dried or Paste",U,10
+24,1416,"Pinto Bean, with Sauce",C,11
+24,1417,Pinto Bean,A,11
+24,1418,"Pinto Bean, Dried or Paste",B,11
+24,1419,"Celery, with Sauce",V,11
+24,1420,Celery (Leaf & Stem Vegetable),T,11
+24,1421,"Celery, Dried or Paste",U,11
+24,1422,"Roman October Bean, with Sauce",C,12
+24,1423,Roman October Bean,A,12
+24,1424,"Roman October Bean, Dried or Paste",B,12
+24,1425,"Chinese Cabbage, with Sauce",V,12
+24,1426,"Chinese Cabbage, Celery Cabbage (Leaf & Stem Vegetable)",T,12
+24,1427,"Chinese Cabbage, Dried or Paste",U,12
+24,1431,"Collards, with Sauce",V,13
+24,1432,Collard (Leaf & Stem Vegetable),T,13
+24,1433,"Collards, Dried or Paste",U,13
+24,1434,"Stringbean, with Sauce",C,14
+24,1435,Stringbeans,A,14
+24,1436,"Stringbean, Dried or Paste",B,14
+24,1437,"Dandelion Greens, with Sauce",V,14
+24,1438,Dandelion Greens (Leaf & Stem Vegetable),T,14
+24,1439,"Dandelion Greens, Dried or Paste",U,14
+24,1440,"Waxbean, with Sauce",C,15
+24,1441,Waxbeans,A,15
+24,1442,"Waxbeans, Dried or Paste",B,15
+24,1443,"Endive, with Sauce",V,30
+24,1444,Endive (Cichorium endivia) (Leaf & Stem Vegetable),T,30
+24,1445,"Endive, Dried or Paste",U,30
+24,1446,"Black Bean, with Sauce",C,16
+24,1447,Black Beans,A,16
+24,1448,"Black Bean, Dried or Paste",B,16
+24,1449,"Field Cress, with Sauce",V,16
+24,1450,Field Cress (Leaf & Stem Vegetable),T,16
+24,1451,"Field Cress, Dried or Paste",U,16
+24,1452,"Hanover Greens, with Sauce",V,17
+24,1453,Hanover Greens (Leaf & Stem Vegetable),T,17
+24,1454,"Hanover Greens, Dried or Paste",U,17
+24,1455,"Kale, with Sauce",V,18
+24,1456,Kale (Leaf & Stem Vegetable),T,18
+24,1457,"Kale, Dried or Paste",U,18
+24,1458,"Lettuce, Head (e.g., Iceberg), with Sauce",V,31
+24,1459,"Lettuce, Head (e.g. Iceberg) (Leaf & Stem Vegetable)",T,31
+24,1460,"Lettuce, Head (e.g., Iceberg), Dried or Paste",U,31
+24,1461,"Cucumbers, with Sauce",K,20
+24,1462,Cucumbers (Fruit Used as Vegetable),F,20
+24,1463,"Cucumbers, Breaded",G,20
+24,1464,"Cucumbers, Dried or Paste",H,20
+24,1465,"Cucumbers, Juice",J,20
+24,1466,"Mustard Greens, with Sauce",V,20
+24,1467,Mustard Greens (Leaf & Stem Vegetable),T,20
+24,1468,"Mustard Greens, Dried or Paste",U,20
+24,1474,"Parsley, with Sauce",V,21
+24,1475,Parsley (Leaf & Stem Vegetable),T,21
+24,1476,"Parsley, Dried or Paste",U,21
+24,1477,"Pole Greens, with Sauce",V,22
+24,1478,Pole Greens (Leaf & Stem Vegetable),T,22
+24,1479,"Pole Greens, Dried or Paste",U,22
+24,1480,"Rape Greens, with Sauce",V,23
+24,1481,Rape Greens (Leaf & Stem Vegetable),T,23
+24,1482,"Rape Greens, Dried or Paste",U,23
+24,1483,"Rhubarb, with Sauce",V,24
+24,1484,Rhubarb (Leaf & Stem Vegetable),T,24
+24,1485,"Rhubarb, Dried or Paste",U,24
+24,1486,"Spinach, with Sauce",V,25
+24,1487,Spinach (Leaf & Stem Vegetable),T,25
+24,1488,"Spinach, Dried or Paste",U,25
+24,1489,"Swiss Chard, with Sauce",V,26
+24,1490,Swiss Chard (Leaf & Stem Vegetable),T,26
+24,1491,"Swiss Chard, Dried or Paste",U,26
+24,1492,"Turnip Greens, with Sauce",V,27
+24,1493,Turnip Greens (Leaf & Stem Vegetable),T,27
+24,1494,"Turnip Greens, Dried or Paste",U,27
+24,1495,"Water Cress, with Sauce",V,28
+24,1496,Water Cress (Leaf & Stem Vegetable),T,28
+24,1497,"Water Cress, Dried or Paste",U,28
+24,1498,"Seaweed, with Sauce",V,29
+24,1499,Seaweed (Leaf & Stem Vegetable),T,29
+24,1500,"Seaweed, Dried or Paste",U,29
+24,1501,"Blackeye Peas, with Sauce",C,50
+24,1502,Blackeye Peas,A,50
+24,1503,"Blackeye Peas, Dried or Paste",B,50
+24,1504,"Tomatoes, with Sauce",K,50
+24,1505,Tomatoes (Fruit Used as Vegetable),F,50
+24,1506,"Tomatoes, Breaded",G,50
+24,1507,"Tomato, Dried",H,50
+24,1508,"Tomatoes, Juice",J,50
+24,1510,Peas,A,51
+24,1511,"Pea, Dried or Paste",B,51
+24,1512,"Field Pea, with Sauce",C,54
+24,1513,"Field Pea (smooth), Crowder, White Peas",A,54
+24,1514,"Field Pea, Dried or Paste",B,54
+24,1515,"Corn, with Sauce",C,60
+24,1516,"Corn, (Vegetable)",A,60
+24,1517,"Corn, Dried or Paste",B,60
+24,1518,"Hominy, with Sauce",C,61
+24,1519,Hominy,A,61
+24,1520,"Hominy, Dried or Paste",B,61
+24,1521,"Lentils, with Sauce",C,70
+24,1522,Lentils,A,70
+24,1523,"Lentils, Dried or Paste",B,70
+24,1524,"Bean, with Sauce, N.E.C.  (Vegetable)",C,99
+24,1525,"Beans, N.E.C. (Vegetable)",A,99
+24,1526,"Bean, Dried or Paste, N.E.C.  (Vegetable)",B,99
+24,1527,"Fruits Used as Vegetables, with Sauce, N.E.C.",K,99
+24,1528,"Fruits Used as Vegetables, N.E.C.",F,99
+24,1529,"Fruits Used as Vegetables, Breaded, N.E.C.",G,99
+24,1530,"Fruits Used as Vegetables, Dried or Paste, N.E.C.",H,99
+24,1531,"Fruits Used as Vegetables, Juice, N.E.C.",J,99
+24,1532,"Leaf & Stem Vegetables, with Sauce, N.E.C.",V,99
+24,1533,"Leaf & Stem Vegetables, N.E.C.",T,99
+24,1534,"Leaf & Stem Vegetables, Dried or Paste, N.E.C.",U,99
+24,24129,"Soybeans (See Industry 37 for 'Bean Curd'),  Juice or Drink",D,13
+24,24133,"Stringbeans (Green, Snap, Pole), Juice or Drink",D,14
+24,24134,Pigeon Peas,A,17
+24,24135,"Pigeon Peas, Dried or Paste",B,17
+24,24136,"Pigeon Pea, with Sauce",C,17
+24,24137,"Pigeon Peas,  Juice or Drink",D,17
+24,24141,"Peas, Juice or Drink",D,51
+24,24142,"Pepper, Sweet (Fruit Used as Vegetable)",F,07
+24,24143,"Pepper, Sweet, Breaded",G,07
+24,24144,"Pepper, Sweet, Dried or Paste",H,07
+24,24145,"Pepper, Sweet, Juice",J,07
+24,24146,"Pepper, Sweet, with Sauce",K,07
+24,24147,"Pepper, Hot, N.E.C. (Fruit Used as Vegetable)",F,08
+24,24148,"Pepper, Hot, Breaded",G,08
+24,24149,"Pepper, Hot, Dried or Paste",H,08
+24,24150,"Pepper, Hot, Juice",J,08
+24,24151,"Pepper, Hot, with Sauce",K,08
+24,24152,Gourd (Fruit Used as Vegetable),F,09
+24,24153,"Gourd, Breaded",G,09
+24,24154,"Gourd, Dried or Paste",H,09
+24,24155,"Gourd, Juice",J,09
+24,24156,"Gourd, with Sauce",K,09
+24,24157,Chinese Okra (Luffa)  (Fruit Used as Vegetable),F,10
+24,24158,"Chinese Okra (Luffa), Breaded",G,10
+24,24159,"Chinese Okra (Luffa), Dried or Paste",H,10
+24,24160,"Chinese Okra (Luffa), Juice",J,10
+24,24161,"Chinese Okra (Luffa), with Sauce",K,10
+24,24162,"Chinese Eggplant, Thai Eggplant (Fruit Used as Vegetable)",F,11
+24,24163,"Chinese Eggplant,Thai Eggplant, Breaded",G,11
+24,24164,"Chinese Eggplant,Thai Eggplant, Dried or Paste",H,11
+24,24165,"Chinese Eggplant,Thai Eggplant, Juice",J,11
+24,24166,"Chinese Eggplant,Thai Eggplant, with Sauce",K,11
+24,24167,Husk Tomato (Tomatillo) (Fruit Used as Vegetable),F,51
+24,24168,"Husk Tomato (Tomatillo), Breaded",G,51
+24,24169,"Husk Tomato (Tomatillo), Dried or Paste",H,51
+24,24170,"Husk Tomato (Tomatillo), Juice",J,51
+24,24171,"Husk Tomato (Tomatillo), with Sauce",K,51
+24,24172,"Bamboo Shoots, Juice or Drink",W,03
+24,24176,"Broccoli Raab (Raab, Ratini), Juice or Drink",W,06
+24,24177,"Endive,  Juice or Drink",W,30
+24,24178,"Lettuce, Head (e.g., Iceberg), Juice or Drink",W,31
+24,24179,"Lettuce, Loose-Leaf (e.g., Romaine) (Leaf & Stem Vegetable)",T,32
+24,24180,"Lettuce, Loose-Leaf (e.g., Romaine) Dried or Paste",U,32
+24,24181,"Lettuce, Loose-Leaf (e.g., Romaine), with Sauce",V,32
+24,24182,"Lettuce, Loose-Leaf (e.g., Romaine), Juice or Drink",W,32
+24,24183,Bok Choy (Leaf & Stem Vegetable),T,33
+24,24184,"Bok Choy,  Dried or Paste",U,33
+24,24185,"Bok Choy, with Sauce",V,33
+24,24186,"Bok Choy, Juice or Drink",W,33
+24,24187,Chicory Leaf  (Cichorium intybus) (Leaf & Stem Vegetable),T,34
+24,24188,"Chicory Leaf, Dried or Paste",U,34
+24,24189,"Chicory Leaf, with Sauce",V,34
+24,24190,"Chicory Leaf, Juice or Drink",W,34
+24,24191,Mache (Leaf & Stem Vegetable),T,35
+24,24192,"Mache, Dried or Paste",U,35
+24,24193,"Mache, with Sauce",V,35
+24,24194,"Mache, Juice or Drink",W,35
+24,24195,Radicchio (Leaf & Stem Vegetable),T,36
+24,24196,"Radicchio, Dried or Paste",U,36
+24,24197,"Radicchio, with Sauce",V,36
+24,24198,"Radicchio, Juice or Drink",W,36
+24,24199,Coltsfoot (Leaf & Stem Vegetable),T,37
+24,24200,"Coltsfoot, Dried or Paste",U,37
+24,24201,"Coltsfoot, with Sauce",V,37
+24,24202,"Coltsfoot, Juice or Drink",W,37
+24,24203,"Fern, Bracken (Leaf & Stem Vegetable)",T,38
+24,24204,"Fern, Bracken, Dried or Paste",U,38
+24,24205,"Fern, Bracken, with Sauce",V,38
+24,24206,"Fern, Bracken, Juice or Drink",W,38
+24,24207,Heart of Palm (Leaf & Stem Vegetable),T,39
+24,24208,"Heart of Palm, Dried or Paste",U,39
+24,24209,"Heart of Palm, with Sauce",V,39
+24,24210,"Heart of Palm, Juice or Drink",W,39
+24,24211,Chinese Broccoli (Leaf & Stem Vegetable),T,40
+24,24212,"Chinese Broccoli, Dried or Paste",U,40
+24,24213,"Chinese Broccoli, with Sauce",V,40
+24,24214,"Chinese Broccoli, Juice or Drink",W,40
+24,24215,Yanang Leaves (Leaf & Stem Vegetable),T,41
+24,24216,"Yanang Leaves, Dried or Paste",U,41
+24,24217,"Yanang Leaves, with Sauce",V,41
+24,24218,"Yanang Leaves, Juice or Drink",W,41
+24,24219,Swamp Cabbage (Leaf & Stem Vegetable),T,42
+24,24220,"Swamp Cabbage, Dried or Paste",U,42
+24,24221,"Swamp Cabbage, with Sauce",V,42
+24,24222,"Swamp Cabbage, Juice or Drink",W,42
+24,24223,Poke Greens (Leaf & Stem Vegetable),T,43
+24,24224,"Poke Greens, Dried or Paste",U,43
+24,24225,"Poke Greens, with Sauce",V,43
+24,24226,"Poke Greens, Juice or Drink",W,43
+24,24227,Celeriac (Root Celery) (Leaf & Stem Vegetable),T,44
+24,24228,"Celeriac (Root Celery), Dried or Paste",U,44
+24,24229,"Celeriac (Root Celery), with Sauce",V,44
+24,24230,"Celeriac (Root Celery), Juice or Drink",W,44
+24,24231,Sugar Cane (Leaf & Stem Vegetable),T,45
+24,24232,"Sugar Cane, Dried or Paste (Leaf & Stem Vegetable)",U,45
+24,24233,"Sugar Cane, with Sauce  (Leaf & Stem Vegetable)",V,45
+24,24234,"Sugar Cane, Juice or Drink (Leaf & Stem Vegetable)",W,45
+24,24597,"Champion Beans, Juice or Drink",D,02
+24,24598,"Chili Beans, Juice or Drink",D,03
+24,24599,"Cranberry Beans, Juice or Drink",D,04
+24,24600,"Fava Beans, Juice or Drink",D,05
+24,24601,"Garbanzo Beans, Chick Peas, Juice or Drink",D,06
+24,24602,"Kidney (Red) Beans, Juice or Drink",D,07
+24,24603,"Lima (Butter) Beans, Juice or Drink",D,08
+24,24604,"Mung Beans, Juice or Drink",D,09
+24,24605,"Navy (White) Beans (Baked Beans, Pork & Beans), Juice or Drink",D,10
+24,24606,"Pinto Beans, Juice or Drink",D,11
+24,24607,"Roman October Beans, Juice or Drink",D,12
+24,24608,"Waxbeans, Juice or Drink",D,15
+24,24609,"Black Beans, Juice or Drink",D,16
+24,24610,"Blackeye Peas, Juice or Drink",D,50
+24,24611,"Field Peas (Smooth), Crowder, White Peas, Juice or Drink",D,54
+24,24612,"Corn, Juice or Drink",D,60
+24,24613,"Hominy, Juice or Drink",D,61
+24,24614,"Lentils, Juice or Drink",D,70
+24,24615,"Other Beans, Peas, Corn, Juice or Drink, N.E.C.",D,99
+24,24616,"Artichoke, Juice or Drink",W,01
+24,24617,"Asparagus, Juice or Drink",W,02
+24,24618,"Beet Tops, Juice or Drink",W,04
+24,24619,"Broccoli, Juice or Drink",W,05
+24,24620,"Brussel Sprouts, Juice or Drink",W,07
+24,24621,"Cabbage, Juice or Drink",W,08
+24,24622,"Carrot Tops, Juice or Drink",W,09
+24,24623,"Cauliflower, Juice or Drink",W,10
+24,24624,"Celery, Juice or Drink",W,11
+24,24625,"Chinese Cabbage, Celery Cabbage, Juice or Drink",W,12
+24,24626,"Collards, Juice or Drink",W,13
+24,24627,"Dandelion Greens, Juice or Drink",W,14
+24,24628,"Field Cress, Juice or Drink",W,16
+24,24629,"Hanover Greens, Juice or Drink",W,17
+24,24630,"Kale, Juice or Drink",W,18
+24,24631,"Mustard Greens, Juice or Drink",W,20
+24,24632,"Parsley, Juice or Drink",W,21
+24,24633,"Pole Greens, Juice or Drink",W,22
+24,24634,"Rape Greens, Juice or Drink",W,23
+24,24635,"Rhubarb, Juice or Drink",W,24
+24,24636,"Spinach, Juice or Drink",W,25
+24,24637,"Swiss Chard, Juice or Drink",W,26
+24,24638,"Turnip Greens, Juice or Drink",W,27
+24,24639,"Water Cress, Juice or Drink",W,28
+24,24640,"Seaweed, Juice or Drink",W,29
+24,24641,"Leaf and Stem Vegetables, Juice or Drink, N.E.C.",W,99
+24,24725,Chick Pea,A,06
+24,24726,Red Bean,A,07
+24,24727,Soybeans (See Industry 37 for 'Bean Curd'),A,13
+24,24728,Butter Bean,A,08
+24,24729,Snapbean,A,14
+24,24730,Greenbean,A,14
+24,24731,Pole Bean,A,14
+24,24733,Garden Peas,A,51
+24,24734,English Peas,A,51
+24,24735,Sweet Peas,A,51
+24,24738,Peapods,A,51
+24,24739,"Pea, N.E.C. (Vegetable)",A,99
+24,24740,"Corn, N.E.C. (Vegetable)",A,99
+24,24741,"Chick Pea, dried or Paste",B,06
+24,24742,"Soybeans (See Industry 37 for Bean Curd), Dried or Paste",B,13
+24,24743,"Pea, Dried or Paste, N.E.C.  (Vegetable)",B,99
+24,24744,"Corn, Dried or Paste, N.E.C.  (Vegetable)",B,99
+24,24745,"Greenbean, Dried or Paste",B,14
+24,24746,"Snapbean, Dried or Paste",B,14
+24,24747,"Pole Bean, Dried or Paste",B,14
+24,24749,"English Pea, Dried or Paste",B,51
+24,24750,"Garden Pea, Dried or Paste",B,51
+24,24751,"Sweet Pea, Dried or Paste",B,51
+24,24752,"Snow Pea, Dried or Paste",B,51
+24,24753,"Sugar Pea, Dried or Paste",B,51
+24,24754,"Peapod, Dried or Paste",B,51
+24,24755,"Chick Pea, with Sauce",C,06
+24,24756,"Soybeans (See Industry 37 for 'Bean Curd'), with Sauce",C,13
+24,24757,"Greenbean, with Sauce",C,14
+24,24758,"Snapbean, with Sauce",C,14
+24,24759,"Polebean, with Sauce",C,14
+24,24767,"Pea, with Sauce, N.E.C.  (Vegetable)",C,99
+24,24768,"Corn, with Sauce, N.E.C.  (Vegetable)",C,99
+24,24774,Tomato Paste,H,50
+24,24794,Chana Dall,A,06
+24,25184,"Buraage, Japanese brown, hollow, square or sausage shape fried soybean cake",A,13
+24,25186,"Acar Rebung (bamboo shoot pickle flavored with nuts, spices and vinegar)",T,03
+24,25187,Achar Tandal (pickled cauliflower stalks),T,10
+24,25437,Aonoriko (Japanese seasoning made from powdered green laver (seaweed),U,29
+24,25452,Bakkoji (Korean dried pumpkin meat),H,05
+24,25455,Banana Pepper (South American sweet pepper that is red when fully ripe),F,07
+24,25492,"Chiang (Chinese soybean paste, made from fermentation of cooked soybeans)",B,13
+24,25496,"Chipotle Pepper (Latin American dried, smoked, ripened jalapeno pepper w/dark red-brown color, hot)",F,08
+24,25499,"Choonjang (Fermented Korean soybean paste, used for Chinese dishes)",B,13
+24,25500,"Choy Sum (Crisp mild variety of Chinese cabbage w/smooth white stalks, dark green leaves)",T,99
+24,25503,Cu Cai Hu (Asian sharp-tasting preserved cabbage),T,08
+24,25505,Daizu (Japanese dried soybeans),B,13
+24,25510,"Denjang (Korean soybean paste, made by fermenting cooked soybeans w/rice or barley & salt)",B,13
+24,25511,Dow Foo (Chinese fresh soybean cake that is white in color),A,13
+24,25512,Dow Ghok (very thin Chinese yard-long beans),A,14
+24,25513,Dow See (Chinese fermented black beans),A,16
+24,25514,Edamame (Japanese soybean pods),A,13
+24,25521,"Fu Joke (Skin of scalded soybean milk, removed & dried, used as wrappers for other food)",B,13
+24,25526,Gai Choy (Chinese mustard-flavored cabbage-like vegetable),T,99
+24,25533,"Giap Ca (Vietnamese mildly sour leafy vegetable, w/wide round shape & pointed tip)",T,99
+24,25535,Gna Tsoi (Chinese mung bean sprouts),A,09
+24,25540,"Guero Pepper (Laten American pale, plum chile pepper, yellowish-green in color and mild)",F,08
+24,25545,"Hair Vegetable (Dried algae resembling black hair, grown in Mongolian desert in water)",U,99
+24,25550,"Hama-Natto (Strong, salty black soybean paste used to add flavor to East & Southeast Asian dishes)",B,13
+24,25554,Hiroshimana (pickled Chinese cabbage (Brassica pekinensis) from Japan),T,12
+24,25557,"Moong Dal (Indian dried, hulled & split green gram beans or mung beans, yellow and used in soups)",B,09
+24,25559,Moyashi (Japanese sprouted mung beans),A,09
+24,25562,"Mugi-Miso (Japanese soybean paste, made by fermenting cooked soybeans, barley & salt)",B,13
+24,25567,Natto (fermented Oriental soybean mash w/glutinous texture; cheese-like flavor),B,13
+24,25568,Naw-Mai-Dong (pickled Thai young bamboo shoots),T,03
+24,25572,Ngaah Choy (Chinese sprouted mung bean),A,09
+24,25578,Nozawana (pickled Japanese field mustard (Brassica rapa),T,20
+24,25590,Paht (Korean red adzuki beans),A,99
+24,25595,Parval (Indian squash shaped like small cucumber w/pointed ends),F,06
+24,25603,"Pipal (Indian long, spicy black pepper w/ginger-like flavor and aroma)",F,08
+24,25608,"Pow Tsai (Chinese vegetable pickle, typically from cabbage made hot w/dried chile pepper)",T,08
+24,25618,"Sabat Urad (Indian whole, dried and hulled black gram beans)",B,99
+24,25629,Sasage (very thin Japanese yard-long beans),A,14
+24,25647,Hontaka Pepper (dried thin red chile pepper grown in Japan),H,08
+24,25649,Hum Choy (Chinese cabbage pickled in rice-washing water; found in Southeast Asia & China),T,12
+24,25653,Indian Lettuce (type of lettuce native to China grown for its succulent leaves used raw or cooked),T,32
+24,25672,Kampyo (Japanese bottled gourd that has been cut into thin strips and air dried),H,09
+24,25674,Karashina (Japanese mustard flavored cabbage-like vegetable having green stalk; eaten pickled),T,99
+24,25678,Shiet Lieh Hung (Chinese vegetable w/green leafy stalk & dull smooth surface),T,40
+24,25679,"Shih (fermented, salted & dried Chinese soybean mash which is shelf stable for many years)",B,13
+24,25685,"Shriata Konbu (Japanese dried, shaved and chopped kelp; used mostly to decorate fish soup and rice)",U,29
+24,25697,Suehn (Chinese bamboo shoots),T,03
+24,25707,Takana (pickled mustard (brassica juncea); from China & Japan),T,20
+24,25708,Takenoko (Japanese bamboo shoots),T,03
+24,25713,"Tao-Chieo (Thai soybean paste, made by fermenting cooked soybeans mixed w/other cereal & salt)",B,13
+24,25714,"Tao-Cho (strong, salty Indonesian black soybean paste made w/rice flour)",B,13
+24,25716,"Tao-si (strong, salty Philippine black soybean paste made with rice)",B,13
+24,25717,"Tao-tjo (strong, salty Thai or Indonesian black soybean paste made w/rice flour)",B,13
+24,25718,"Taoco (Indonesian soybean paste, made by fermenting cooked soybeans mixed w/cereal & salt)",B,13
+24,25729,Tepin Pepper (Mexican fiery hot small and round chile pepper),F,08
+24,25730,"Teranatto (strong, salty Philippine black soybean paste)",B,13
+24,25731,"Thua-nao (fermented Thai soybean mash, may also have wheat added)",B,13
+24,25735,"Togarashi pepper (Japanese dried, hot red pepper use to season grated radishes, salt pickled cabbag)",H,08
+24,25737,Toovar Dal (Indian yellow split pea used in making soups and curries),A,99
+24,25738,Tou-Shih (strong salty Chinese black soybean paste),B,13
+24,25757,Kiam Chai (pickled Thai mustard leaves),T,20
+24,25758,Kiam Chye (pickled Malaysian mustard leaves),T,20
+24,25762,"Kochuman (Korean soybean paste, made by fermenting soybeans w/rice, mustard and salt)",B,13
+24,25768,Kong-Chai (pickled Thai chinese cabbage),T,12
+24,25772,Koya Tofu (Japanese freeze-dried soybean curd,B,13
+24,25795,Lok Dow (Chinese olive-green mung beans),A,09
+24,25804,Malagueta Pepper (Brazilian very hot and small chile pepper),F,08
+24,25824,Mirasol Pepper (Peruvian or Mexican very hot chile pepper has dark red color when ripe),F,08
+24,25827,Twoenjang (fermented Korean soybean paste),B,13
+24,25833,"Urad Dal (Indian dried, hulled and split black gram beans, ivory white in color)",B,99
+24,25834,"Val (Indian dried, hulled and split hyacinth beans)",B,99
+24,25842,"Yaki-Nori (Asian toasted or roasted nori, marine algae most commonly used as a sushi wrapper)",U,29
+24,25851,"Yuba (skin of scaled soybean milk that is removed & dried, Used in Japan as wrappers for other food)",B,13
+24,25852,Yukiwari-Natto (fermented Japanese soybean mash similar to natto but w/rice),B,13
+24,150149,Cilantro (Leaf & Stem Vegetable),T,46
+24,150150,"Coriander, leaf & stem portion (Leaf & Stem Vegetable)",T,46
+24,150151,"Cilantro, dried or paste (Leaf & Stem Vegetables)",U,46
+24,150152,"Coriander, leaf & stem portion (Leaf & Stem Vegs, Dried or Paste)",U,46
+24,150153,"Cilantro, with Sauce (Leaf & Stem Vegetable)",V,46
+24,150154,"Coriander, leaf & stem portion, with Sauce (Leaf & Stem Vegetable)",V,46
+24,150155,"Cilantro, Juice or Drink (Leaf & Stem Vegetable)",W,46
+24,150156,"Coriander, leaf & stem portion, Juice or Drink (Leaf & Stem Vegetable)",W,46
+24,150260,Mesculin Lettuce (Leaf and Stem Vegetable),T,47
+24,150261,"Mesculin Lettuce, Dried or Paste (Leaf and Stem Vegetable)",U,47
+24,150262,"Mesculin Lettuce, with Sauce (Leaf and Stem Vegetable)",V,47
+24,150263,"Mesculin Lettuce, Juice or Drink (Leaf and Stem Vegetable)",W,47
+24,150380,Escarole (Cichorium endivia) (Leaf & Stem Vegetable),T,30
+24,150381,Withloof  (Cichorium intybus) (Leaf & Stem Vegetable),T,34
+24,150382,Lamb's Lettuce (Leaf & Stem Vegetable),T,35
+24,150383,Red Chicory (Leaf & Stem Vegetable),T,36
+24,150384,Red Salad (Leaf & Stem Vegetable),T,36
+24,150385,Red Endive (Leaf & Stem Vegetable),T,36
+24,150386,"Escarole (Cichorium endivia), Dried or Paste",U,30
+24,150387,"Escarole (Cichorium endivia), with Sauce",V,30
+24,150388,"Escarole (Cichorium endivia), Juice or Drink",W,30
+24,150389,"Withloof  (Cichorium intybus), Dried or Paste",U,34
+24,150390,"Withloof  (Cichorium intybus), with Sauce",V,34
+24,150391,"Withloof  (Cichorium intybus), Juice or Drink",W,34
+24,150392,"Lamb's Lettuce, Dried or Paste",U,35
+24,150393,"Lamb's Lettuce, with Sauce",V,35
+24,150394,"Lamb's Lettuce, Juice or Drink",W,35
+24,150395,"Red Endive, Dried or Paste",U,36
+24,150396,"Red Salad, Dried or Paste",U,36
+24,150397,"Red Chicory, Dried or Paste",U,36
+24,150398,"Red Endive, with Sauce",V,36
+24,150399,"Red Salad, with Sauce",V,36
+24,150400,"Red Chicory, with Sauce",V,36
+24,150401,"Red Endive, Juice or Drink",W,36
+24,150402,"Red Salad, Juice or Drink",W,36
+24,150403,"Red Chicory, Juice or Drink",W,36
+24,150420,Chinese Parsley (Leaf & Stem Vegetable),T,46
+24,150421,"Chinese Parsley, dried or paste (Leaf & Stem Vegetables)",U,46
+24,150422,"Chinese Parsley, with Sauce (Leaf & Stem Vegetable)",V,46
+24,150423,"Chinese Parsley, Juice or Drink (Leaf & Stem Vegetable)",W,46
+24,150427,Fresh Mexican Cilantro (Leaf & Stem Vegetable),T,46
+24,150428,"Mexican Cilantro, dried or paste (Leaf & Stem Vegetable)",U,46
+24,150429,"Mexican Cilantro, with Sauce (Leaf & Stem Vegetable)",V,46
+24,150430,"Mexican Cilantro, Juice or Drink (Leaf & Stem Vegetable)",W,46
+24,150441,"Bean, Corn, Pea with Sauce, N.E.C. (Vegetable)",C,99
+24,150442,"Beans, Corn, and Pea, N.E.C. (Vegetable)",A,99
+24,150443,"Bean, Corn, Pea, Dried or Paste, N.E.C. (Vegetable)",B,99
+24,150446,"Bean and Pea Sprouts, N.E.C. (Vegetable)",E,99
+24,150681,Culantro (Leaf & Stem Vegetable),T,48
+24,150682,"Culantro, Dried or Paste (Leaf & Stem Vegetable)",U,48
+24,150683,"Culantro, with Sauce (Leaf and Stem Vegetable)",V,48
+24,150684,"Culantro, Juice or Drink (Leaf & Stem Vegetable)",W,48
+24,150685,"Coriandrum sativum, Juice or Drink (Leaf & Stem Vegetable)",W,46
+24,150686,"Coriandrum sativum, with Sauce (Leaf & Stem Vegetable)",V,46
+24,150687,"Coriandrum sativum, dried or paste (Leaf & Stem Vegetable)",U,46
+24,150688,Coriandrum sativum (Leaf & Stem Vegetable),T,46
+24,150689,Eryngium foetidum (Leaf & Stem Vegetable),T,48
+24,150690,Puerto Rican coriander (Leaf & Stem Vegetable),T,48
+24,150691,Spiny coriander (Leaf & Stem Vegetable),T,48
+24,150692,Fit weed (Leaf & Stem Vegetable),T,48
+24,150693,Perennial coriander (Leaf & Stem Vegetable),T,48
+24,150694,Recao (Leaf & Stem Vegetable),T,48
+24,150695,Spirit Weed (Leaf & Stem Vegetable),T,48
+24,150696,"Eryngium foetidum, dried or paste (Leaf & Stem Vegetable)",U,48
+24,150697,"Eryngium foetidum, with Sauce (Leaf & Stem Vegetable)",V,48
+24,150698,"Eryngium foetidum, Juice or Drink (Leaf & Stem Vegetable)",W,48
+24,150699,"Puerto Rican coriander, dried or paste (Leaf & Stem Vegetable)",U,48
+24,150700,"Puerto Rican coriander, with Sauce (Leaf & Stem Vegetable)",V,48
+24,150701,"Puerto Rican coriander, Juice or Drink (Leaf & Stem Vegetable)",W,48
+24,150702,"Spiny coriander, dried or paste (Leaf & Stem Vegetable)",U,48
+24,150703,"Fit weed, dried or paste (Leaf & Stem Vegetable)",U,48
+24,150704,"Perennial coriander, dried or paste (Leaf & Stem Vegetable)",U,48
+24,150705,"Recao, dried or paste (Leaf & Stem Vegetable)",U,48
+24,150706,"Spirit Weed, dried or paste (Leaf & Stem Vegetable)",U,48
+24,150707,"Spiny coriander, with Sauce (Leaf & Stem Vegetable)",V,48
+24,150708,"Fit Weed, with Sauce (Leaf & Stem Vegetable)",V,48
+24,150709,"Perennial coriander, with Sauce (Leaf & Stem Vegetable)",V,48
+24,150710,"Recao, with Sauce (Leaf & Stem Vegetable)",V,48
+24,150711,"Spirit weed, with Sauce (Leaf & Stem Vegetable)",V,48
+24,150712,"Spiny coriander, Juice or Drink (Leaf & Stem Vegetable)",W,48
+24,150713,"Fit weed, Juice or Drink (Leaf & Stem Vegetable)",W,48
+24,150714,"Perennial coriander, Juice or Drink (Leaf & Stem Vegetable)",W,48
+24,150715,"Recao, Juice or Drink (Leaf & Stem Vegetable)",W,48
+24,150716,"Spirit Weed, Juice or Drink (Leaf & Stem Vegetable)",W,48
+24,154847,Green Beans,E,14
+24,154848,Snap Beans,E,14
+24,154849,Pole Beans,E,14
+24,154855,Fresh Peas,A,51
+24,154856,Green Peas,A,51
+24,154857,Petits Pois,A,51
+24,154858,Shell Peas,A,51
+24,154859,Snow Peas,A,82
+24,154860,Chinese Snow Peas,A,82
+24,154861,Saya Endo,A,82
+24,154862,Mangetout Peas,A,82
+24,154863,Pea Pod,A,83
+24,154864,Chinese Peas,A,83
+24,154865,Chinese Pod Pea,A,83
+24,154866,Sugar Snap Peas,A,84
+24,154867,Sugar Peas,A,84
+24,154868,Longbeans,A,85
+24,154869,"Fresh Pea, Dried or Paste",B,51
+24,154870,"Petit Pois, Dried or Paste",B,51
+24,154871,"Shell Peas, Dried or Paste",B,51
+24,154872,"Snow Peas, Dried or Paste",B,82
+24,154873,"Chinese Snow Peas, Dried or Paste",B,82
+24,154874,"Saya Endo, Dried or Paste",B,82
+24,154875,"Mangetout Peas, Dried or Paste",B,82
+24,154876,"Pea Pod, Dried or Paste",B,83
+24,154877,"Chinese Peas, Dried or Paste",B,83
+24,154878,"Chinese Pod Pea, Dried or Paste",B,83
+24,154879,"Sugar Snap Peas, Dried or Paste",B,84
+24,154880,"Sugar Peas, Dried or Paste",B,84
+24,154881,"Longbeans, Dried or Paste",B,85
+24,154883,"Sweet Peas, Juice or Drink",D,51
+24,154884,"English Peas, Juice or Drink",D,51
+24,154885,"Fresh Peas, Juice or Drink",D,51
+24,154886,"Garden Peas, Juice or Drink",D,51
+24,154887,"Peapod, Juice or Drink",D,51
+24,154888,"Petits Pois, Juice or Drink",D,51
+24,154889,"Shell Peas, Juice or Drink",D,51
+24,154890,"Snow Peas, Juice or Drink",D,82
+24,154891,"Chinese Snow Peas, Juice or Drink",D,82
+24,154892,Saya Endo,D,82
+24,154893,"Mangetout Peas, Juice or Drink",D,82
+24,154894,"Pea Pod, Juice or Drink",D,83
+24,154895,"Chinese Peas, Juice or Drink",D,83
+24,154896,"Chinese Pod Pea, Juice or Drink",D,83
+24,154897,"Sugar Snap Peas, Juice or Drink",D,84
+24,154898,"Sugar Peas, Juice or Drink",D,84
+24,154899,"Longbeans, Juice or Drink",D,85
+24,154900,"Peas, with Sauce",C,51
+24,154901,"English Peas, with Sauce",C,51
+24,154902,"Fresh Peas, with Sauce",C,51
+24,154903,"Petits Pois, with Sauce",C,51
+24,154904,"Shell Peas, with Sauce",C,51
+24,154905,"Snow Peas, with Sauce",C,82
+24,154906,"Chinese Snow Peas, with Sauce",C,82
+24,154907,"Saya Endo, with Sauce",C,82
+24,154908,"Mangetout Peas, with Sauce",C,82
+24,154909,"Pea Pod, with Sauce",C,83
+24,154910,"Chinese Peas, with Sauce",C,83
+24,154911,"Chinese Pod Pea, with Sauce",C,83
+24,154912,"Sugar Snap Peas, with Sauce",C,84
+24,154913,"Sugar Peas, with Sauce",C,84
+24,154914,"Longbeans, with Sauce",C,85
+24,154915,Sweet Peas,E,51
+24,154916,English Peas,E,51
+24,154917,Fresh Peas,E,51
+24,154918,Garden Peas,E,51
+24,154919,Green Peas,E,51
+24,154920,Peapod,E,51
+24,154921,Petits Pois,E,51
+24,154922,Shell Peas,E,51
+24,154923,"Snow Peas, Bean and Pea Sprouts",E,82
+24,154924,Chinese Snow Peas,E,82
+24,154925,Saya Endo,E,82
+24,154926,Mangetout Peas,E,82
+24,154927,"Pea Pod, Bean and Pea Sprouts",E,83
+24,154928,Chinese Peas,E,83
+24,154929,Chinese Pod Peas,E,83
+24,154930,"Sugar Snap Peas, Bean and Pea Sprouts",E,84
+24,154931,Sugar Peas,E,84
+24,154932,"Longbeans, Bean and Pea Sprouts",E,85
+24,161492,"Champion Beans, Bean and Pea Sprouts",E,02
+24,161493,"Chili Bean, Bean and Pea Sprouts",E,03
+24,161494,"Cranberry Bean, Bean and Pea Sprouts",E,04
+24,161495,"Fava Bean, Bean and Pea Sprouts",E,05
+24,161496,"Garbanzo Bean, Bean and Pea Sprouts",E,06
+24,161497,"Kidney Bean, Bean and Pea Sprouts",E,07
+24,161498,"Lima Bean, Bean and Pea Sprouts",E,08
+24,161499,"Mung Bean, Bean and Pea Sprouts",E,09
+24,161500,"Navy (White) Beans, (Baked Beans, Pork & Beans) Sprouts",E,10
+24,161501,"Pinto Bean, Bean and Pea Sprouts",E,11
+24,161502,"Roman October Bean, Bean and Pea Sprouts",E,12
+24,161503,"Stringbeans, Bean and Pea Sprouts",E,14
+24,161504,"Waxbeans, Bean and Pea Sprouts",E,15
+24,161505,"Black Beans, Bean and Pea Sprouts",E,16
+24,161506,"Pigeon Peas, Bean and Pea Sprouts",E,17
+24,161507,"Blackeye Peas, Bean and Pea Sprouts",E,50
+24,161508,"Peas, Bean and Pea Sprouts",E,51
+24,161509,"Lentils, Bean and Pea Sprouts",E,70
+24,161510,"Beans, Sprouts, N.E.C. (Vegetable)",E,99
+24,161511,"Peas, Sprouts, N.E.C. (Vegetable)",E,99
+24,161512,Broccoli sprouts,A,24
+24,161513,"Broccoli Sprouts, Dried or Paste",B,24
+24,161514,"Broccoli Sprouts, with Sauce",C,24
+24,161515,"Broccoli Sprouts, Juice or Drink",D,24
+24,161516,"Broccoli Sprouts, Bean and Pea Sprouts",E,24
+24,161520,Alfalfa beans (seeds),A,18
+24,161521,Adzuki beans,A,19
+24,161522,Chana Dal,A,20
+24,161523,Radish beans (seeds),A,21
+24,161524,Mixed bean/seed sprouts,A,22
+24,161525,"Other bean/seed sprouts, n.e.c.",A,23
+24,161526,"Alfalfa beans (seeds), Dried or Paste",B,18
+24,161527,"Adzuki beans, Dried or Paste",B,19
+24,161528,"Chana Dal, Dried or Paste",B,20
+24,161529,"Radish beans (seeds), Dried or Paste",B,21
+24,161530,"Mixed bean/seed sprouts, Dried or Paste",B,22
+24,161531,"Other bean/seed sprouts, Dried or Paste, n.e.c.",B,23
+24,161532,Alfalfa beans (seeds) with Sauce,C,18
+24,161533,"Adzuki beans, with Sauce",C,19
+24,161534,"Chana Dal, with Sauce",C,20
+24,161535,"Radish beans (seeds), with Sauce",C,21
+24,161536,"Mixed bean/seed sprouts, with Sauce",C,22
+24,161537,"Other bean/seed sprouts, with Sauce, n.e.c.",C,23
+24,161538,"Alfalfa beans (seeds), Juice or Drink",D,18
+24,161539,"Adzuki beans, Juice or Drink",D,19
+24,161540,"Chana Dal, Juice or Drink",D,20
+24,161541,Radish beans (seeds) Juice or Drink,D,21
+24,161542,"Mixed bean/seed sprouts, Juice or Drink",D,22
+24,161543,"Other bean/seed sprouts, Juice or Drink, n.e.c.",D,23
+24,161560,"Alfalfa beans (seeds), Bean and Pea Sprouts",E,18
+24,161561,"Adzuki beans, Bean and Pea Sprouts",E,19
+24,161562,"Chana Dal, Bean and Pea Sprouts",E,20
+24,161563,"Radish beans (seeds), Bean and Pea Sprouts",E,21
+24,161564,"Mixed bean/seed sprouts, Bean and Pea Sprouts",E,22
+24,161565,"Other bean/seed sprouts, n.e.c., Bean and Pea Sprouts",E,23
+24,161566,"Choyote, chayotes (Fruit Used as Vegetable)",F,21
+24,161567,"Choyote, chayotes, Breaded",G,21
+24,161568,"Choyote, chayotes, Dried or Paste",H,21
+24,161569,"Choyote, chayotes, Juice",J,21
+24,161570,"Choyote, chayotes, with Sauce",K,21
+24,164859,"Jalapeno Pepper, Hot  (Fruit Used as Vegetable)",F,12
+24,164860,"Serrano Pepper, Hot (Fruit Used as Vegetable)",F,13
+24,167862,Cannellini Bean,A,25
+24,167863,Lupin Bean,A,26
+24,167864,Rice Bean,A,27
+24,167865,Azufrado Bean,A,28
+24,167866,Lablab Bean,A,29
+24,167867,Flageolet Bean,A,30
+24,167868,Cluster Bean,A,31
+24,167869,Flor de Mayo Bean,A,32
+24,167870,Cicerchia Bean,A,33
+24,167875,Moth Bean,A,34
+24,167876,"Cannellini Bean, Dried or Paste",B,25
+24,167877,"Lupin Bean, Dried or Paste",B,26
+24,167878,"Rice Bean, Dried or Paste",B,27
+24,167879,"Azufrado Bean, Dried or Paste",B,28
+24,167880,"Lablab Bean, Dried or Paste",B,29
+24,167881,"Flageolet Bean, Dried or Paste",B,30
+24,167882,"Cluster Bean, Dried or Paste",B,31
+24,167883,"Flor de Mayo Bean, Dried or Paste",B,32
+24,167884,"Cicerchia Bean, Dried or Paste",B,33
+24,167885,"Moth Bean, Dried or Paste",B,34
+24,167886,"Cannellini Bean, with Sauce",C,25
+24,167887,"Lupin Bean, with Sauce",C,26
+24,167888,"Rice Bean, with Sauce",C,27
+24,167889,"Azufrado Bean, with Sauce",C,28
+24,167890,"Lablab Bean, with Sauce",C,29
+24,167891,"Flageolet Bean, with Sauce",C,30
+24,167892,"Cluster Bean, with Sauce",C,31
+24,167893,"Flor de Mayo Bean, with Sauce",C,32
+24,167894,"Cicerchia Bean, with Sauce",C,33
+24,167895,"Moth Bean, with Sauce",C,34
+24,167896,"Cannellini Bean, Juice or Drink",D,25
+24,167897,"Lupin Bean, Juice or Drink",D,26
+24,167898,"Rice Bean, Juice or Drink",D,27
+24,167899,"Azufrado Bean, Juice or Drink",D,28
+24,167900,"Lablab Bean, Juice or Drink",D,29
+24,167901,"Flageolet Bean, Juice or Drink",D,30
+24,167902,"Cluster Bean, Juice or Drink",D,31
+24,167903,"Flor de Mayo Bean, Juice or Drink",D,32
+24,167904,"Cicerchia Bean, Juice or Drink",D,33
+24,167905,"Moth Bean, Juice or Drink",D,34
+24,167906,"Cannellini Bean, Bean and Pea Sprouts",E,25
+24,167907,"Lupin Bean, Bean and Pea Sprouts",E,26
+24,167908,"Rice Bean, Bean and Pea Sprouts",E,27
+24,167909,"Azufrado Bean, Bean and Pea Sprouts",E,28
+24,167910,"Lablab Bean, Bean and Pea Sprouts",E,29
+24,167911,"Flageolet Bean, Bean and Pea Sprouts",E,30
+24,167912,"Cluster Bean, Bean and Pea Sprouts",E,31
+24,167913,"Flor de Mayo Bean, Bean and Pea Sprouts",E,32
+24,167914,"Cicerchia Bean, Bean and Pea Sprouts",E,33
+24,167915,"Moth Bean, Bean and Pea Sprouts",E,34
+24,167916,Tamarillos (Fruit Used as Vegetable),F,14
+24,167917,Pacaya Palm (Fruit Used as Vegetable),F,15
+24,167918,"Jalapeno Pepper, Hot, Breaded",G,12
+24,167919,"Serrano Pepper, Hot, Breaded",G,13
+24,167920,"Tamarillos, Breaded",G,14
+24,167921,"Pacaya Palm, Breaded",G,15
+24,167922,"Jalapeno Pepper, Hot, Dried or Paste",H,12
+24,167923,"Serrano Pepper, Hot, Dried or Paste",H,13
+24,167924,"Tamarillos, Dried or Paste",H,14
+24,167925,"Pacaya Palm, Dried or Paste",H,15
+24,167926,"Jalapeno Pepper, Juice",J,12
+24,167927,"Serrano Pepper, Juice",J,13
+24,167928,"Tamarillos, Juice",J,14
+24,167929,"Pacaya Palm, Juice",J,15
+24,167930,"Jalapeno Pepper, Hot, with Sauce",K,12
+24,167931,"Serrano Pepper, Hot, with Sauce",K,13
+24,167932,"Tamarillos, with Sauce",K,14
+24,167933,"Pacaya Palm, with Sauce",K,15
+24,167934,Snow Pea Shoots (Leaf & Stem Vegetable),T,49
+24,167935,Mustard Cabbage (Leaf & Stem Vegetable),T,50
+24,167936,Fat Choy (Leaf & Stem Vegetable),T,51
+24,167937,Red Asian Mustard Green (Leaf & Stem Vegetable),T,52
+24,167938,Callaloo (Leaf & Stem Vegetable),T,53
+24,167939,Lamb's Quarter (Leaf & Stem Vegetable),T,54
+24,167940,Perilla Leaves (Leaf & Stem Vegetable),T,55
+24,167941,Banana Blossoms (Leaf & Stem Vegetable),T,56
+24,167942,Epazote Leaf (Leaf & Stem Vegetable),T,57
+24,167943,Chipilin (Leaf & Stem Vegetable),T,58
+24,167944,Cabbage Turnip (Leaf & Stem Vegetable),T,59
+24,167945,Red Cabbage (Leaf & Stem Vegetable),T,60
+24,167946,Celtuce (Leaf & Stem Vegetable),T,61
+24,167947,Chinese Spinach (Leaf & Stem Vegetable),T,62
+24,167948,Chrysanthemum Leaves (Leaf & Stem Vegetable),T,63
+24,167949,Jute Leaf (Leaf & Stem Vegetable),T,64
+24,167950,African Spinach (Leaf & Stem Vegetable),T,65
+24,167951,Malabar Spinach (Leaf & Stem Vegetable),T,66
+24,167952,Purslane (Leaf & Stem Vegetable),T,67
+24,167953,Quail Grass (Leaf & Stem Vegetable),T,68
+24,167954,Sorrel (Leaf & Stem Vegetable),T,69
+24,167955,Water Spinach (Leaf & Stem Vegetable),T,70
+24,167956,"Snow Pea Shoots, Dried or Paste",U,49
+24,167957,"Mustard Cabbage, Dried or Paste",U,50
+24,167958,"Fat Choy, Dried or Paste",U,51
+24,167959,"Red Asian Mustard Green, Dried or Paste",U,52
+24,167960,"Callaloo, Dried or Paste",U,53
+24,167961,"Lamb's Quarter, Dried or Paste",U,54
+24,167962,"Perilla Leaves, Dried or Paste",U,55
+24,167963,"Banana Blossoms, Dried or Paste",U,56
+24,167964,"Epazote Leaf, Dried or Paste",U,57
+24,167965,"Chipilin, Dried or Paste",U,58
+24,167966,"Cabbage Turnip, Dried or Paste",U,59
+24,167967,"Red Cabbage, Dried or Paste",U,60
+24,167968,"Celtuce, Dried or Paste",U,61
+24,167969,"Chinese Spinach, Dried or Paste",U,62
+24,167970,"Chrysanthemum Leaves, Dried or Paste",U,63
+24,167971,"Jute Leaf, Dried or Paste",U,64
+24,167972,"African Spinach, Dried or Paste",U,65
+24,167973,"Malabar Spinach, Dried or Paste",U,66
+24,167974,"Purslane, Dried or Paste",U,67
+24,167975,"Quail Grass, Dried or Paste",U,68
+24,167976,"Sorrel, Dried or Paste",U,69
+24,167977,"Water Spinach, Dried or Paste",U,70
+24,167978,"Snow Pea Shoots, with Sauce",V,49
+24,167979,"Mustard Cabbage, with Sauce",V,50
+24,167980,"Fat Choy, with Sauce",V,51
+24,167981,"Red Asian Mustard Green, with Sauce",V,52
+24,167982,"Callaloo, with Sauce",V,53
+24,167983,"Lamb's Quarter, with Sauce",V,54
+24,167984,"Perilla Leaves, with Sauce",V,55
+24,167985,"Banana Blossoms, with Sauce",V,56
+24,167986,"Epazote Leaf, with Sauce",V,57
+24,167987,"Cabbage Turnip, with Sauce",V,59
+24,167988,"Red Cabbage, with Sauce",V,60
+24,167989,"Chinese Spinach, with Sauce",V,62
+24,167990,"Chrysanthemum Leaves, with Sauce",V,63
+24,167991,"Jute Leaf, with Sauce",V,64
+24,167992,"African Spinach, with Sauce",V,65
+24,167993,"Malabar Spinach, with Sauce",V,66
+24,167994,"Purslane, with Sauce",V,67
+24,167995,"Quail Grass, with Sauce",V,68
+24,167996,"Sorrel, with Sauce",V,69
+24,167997,"Water Spinach, with Sauce",V,70
+24,167998,"Snow Pea Shoots, Juice or Drink",W,49
+24,167999,"Mustard Cabbage, Juice or Drink",W,50
+24,168000,"Fat Choy, Juice or Drink",W,51
+24,168001,"Red Asian Mustard Green, Juice or Drink",W,52
+24,168002,"Callaloo, Juice or Drink",W,53
+24,168003,"Lamb's Quarter, Juice or Drink",W,54
+24,168004,"Perilla Leaves, Juice or Drink",W,55
+24,168005,"Banana Blossoms, Juice or Drink",W,56
+24,168006,"Epazote Leaf, Juice or Drink",W,57
+24,168007,"Chipilin, Juice or Drink",W,58
+24,168008,"Cabbage Turnip, Juice or Drink",W,59
+24,168009,"Red Cabbage, Juice or Drink",W,60
+24,168010,"Celtuce, Juice or Drink",W,61
+24,168011,"Chinese Spinach, Juice or Drink",W,62
+24,168012,"Chrysanthemum Leaves, Juice or Drink",W,63
+24,168013,"Jute Leaf, Juice or Drink",W,64
+24,168014,"African Spinach, Juice or Drink",W,65
+24,168015,"Malabar Spinach, Juice or Drink",W,66
+24,168016,"Purslane, Juice or Drink",W,67
+24,168017,"Quail Grass, Juice or Drink",W,68
+24,168018,"Sorrel, Juice or Drink",W,69
+24,168019,"Water Spinach, Juice or Drink",W,70
+24,170485,Wheat Grass (Leaf & Stem Vegetables,T,71
+24,170486,"Wheat Grass, Dried or Paste",U,71
+24,170487,"Wheat Grass, with Sauce",V,71
+24,170488,"Wheat Grass, Juice or Drink",W,71
+24,172825,Boston,T,31
+24,172826,Butterhead,T,31
+24,172827,Butter,T,31
+24,172828,"Boston, Dried or Paste",U,31
+24,172829,"Butterhead, Dried or Paste",U,31
+24,172830,"Butter, Dried or Paste",U,31
+24,172831,"Boston, with Sauce",V,31
+24,172832,"Butterhead, with Sauce",V,31
+24,172833,"Butter, with Sauce",V,31
+24,172834,"Boston, Juice or Drink",W,31
+24,172835,"Butterhead, Juice or Drink",W,31
+24,172836,"Butter, Juice or Drink",W,31
+24,172962,Cherry Tomatoes,F,50
+24,173013,Korean Pepper (Fruit Used as Vegetable),F,08
+24,173014,Habanero Pepper (Fruit Used as Vegetable),F,08
+24,173148,"Squash, Winter (Fruit Used as Vegetable)",F,52
+24,173149,"Squash, Acorn (Fruit Used as Vegetable)",F,52
+24,173150,"Squash, Butternut (Fruit Used as Vegetable)",F,52
+24,173151,"Squash, Yellow (Fruit Used as Vegetable)",F,06
+24,173152,"Squash, Patty Pan (Fruit Used as Vegetable)",F,06
+24,173153,"Squash, Zucchini (Fruit Used as Vegetable)",F,06
+24,173154,"Squash, Zucchini, Breaded",G,06
+24,173155,"Squash, Yellow, Breaded",G,06
+24,173156,"Squash, Patty Pan, Breaded",G,06
+24,173157,"Squash, Winter, Breaded",G,52
+24,173158,"Squash, Acorn, Breaded",G,52
+24,173159,"Squash, Butternut, Breaded",G,52
+24,173160,"Squash, Zucchini, Dried or Paste",H,06
+24,173161,"Squash, Patty Pan, Dried or Paste",H,06
+24,173162,"Squash, Yellow, Dried or Paste",H,06
+24,173163,"Squash, Winter,  Dried or Paste",H,52
+24,173164,"Squash, Acorn, Dried or Paste",H,52
+24,173165,"Squash, Butternut, Dried or Paste",H,52
+24,173176,"Squash, Zucchini, Juice",J,06
+24,173177,"Squash, Patty Pan, Juice",J,06
+24,173178,"Squash, Yellow, Juice",J,06
+24,173179,"Squash, Winter, Juice",J,52
+24,173180,"Squash, Acorn, Juice",J,52
+24,173181,"Squash, Butternut, Juice",J,52
+24,173182,"Squash, Zucchini, with Sauce",K,06
+24,173183,"Squash, Patty Pan, with Sauce",K,06
+24,173184,"Squash, Yellow, with Sauce",K,06
+24,173185,"Squash, Winter, with Sauce",K,52
+24,173186,"Squash, Acorn, with Sauce",K,52
+24,173187,"Squash, Butternut, with Sauce",K,52
+24,173188,"Pepper, Bell (Fruit Use as Vegetable)",F,07
+24,173189,"Pepper, Bell, Breaded",G,07
+24,173190,"Pepper, Bell, Dried or Paste",H,07
+24,173191,"Pepper, Bell, Juice",J,07
+24,173192,"Pepper, Bell, with Sauce",K,07
+24,173382,Champion Bean (Microgreen),L,02
+24,173383,Chili Bean (Microgreen),L,03
+24,173384,Cranberry Bean (Microgreen),L,04
+24,173385,Fava Bean (Microgreen),L,05
+24,173386,Garbanzo Bean (Microgreen),L,06
+24,173387,Kidney Bean (Microgreen),L,07
+24,173388,Lima Bean (Microgreen),L,08
+24,173389,Mung Bean (Microgreen),L,09
+24,173390,Navy (White) Beans (Microgreen),L,10
+24,173391,Pinto Bean (Microgreen),L,11
+24,173392,Roman October Bean (Microgreen),L,12
+24,173393,Soybeans  (Microgreen),L,13
+24,173394,Stringbeans (Microgreen),L,14
+24,173395,Waxbeans (Microgreen),L,15
+24,173396,Black Beans (Microgreen),L,16
+24,173397,Pigeon Peas (Microgreen),L,17
+24,173398,Alfalfa beans  (Microgreen),L,18
+24,173399,Adzuki beans (Microgreen),L,19
+24,173400,Chana Dal (Microgreen),L,20
+24,173401,Radish beans  (Microgreen),L,21
+24,173402,Mixed bean/seed sprouts (Microgreen),L,22
+24,173403,"Other bean/seed sprouts, n.e.c. (Microgreen)",L,23
+24,173404,Broccoli sprouts (Microgreen),L,24
+24,173405,Cannellini Bean (Microgreen),L,25
+24,173406,Lupin Bean (Microgreen),L,26
+24,173407,Rice Bean (Microgreen),L,27
+24,173408,Azufrado Bean (Microgreen),L,28
+24,173409,Lablab Bean (Microgreen),L,29
+24,173410,Flageolet Bean (Microgreen),L,30
+24,173411,Cluster Bean (Microgreen),L,31
+24,173412,Flor de Mayo Bean (Microgreen),L,32
+24,173413,Cicerchia Bean (Microgreen),L,33
+24,173414,Moth Bean (Microgreen),L,34
+24,173415,Blackeye Peas (Microgreen),L,50
+24,173416,Peas (Microgreen),L,51
+24,173417,"Field Pea (smooth), Crowder, White Peas (Microgreen)",L,54
+24,173418,"Corn,  (Microgreen)",L,60
+24,173419,Hominy (Microgreen),L,61
+24,173420,Lentils (Microgreen),L,70
+24,173421,Snow Peas (Microgreen),L,82
+24,173422,Pea Pod (Microgreen),L,83
+24,173423,Sugar Snap Peas (Microgreen),L,84
+24,173424,Longbeans (Microgreen),L,85
+24,173425,"Beans, Corn, and Pea, N.E.C.  (Microgreen)",L,99
+24,173426,Egg Plant   (Microgreen),M,01
+24,173427,Okra   (Microgreen),M,02
+24,173428,Pimiento Pepper  (Microgreen),M,04
+24,173429,Pumpkins  (Microgreen),M,05
+24,173430,"Squash, Summer  (Microgreen)",M,06
+24,173431,"Pepper, Sweet  (Microgreen)",M,07
+24,173432,"Pepper, Hot, N.E.C.  (Microgreen)",M,08
+24,173433,Gourd  (Microgreen),M,09
+24,173434,Chinese Okra (Luffa)   (Microgreen),M,10
+24,173435,"Chinese Eggplant, Thai Eggplant  (Microgreen)",M,11
+24,173436,"Jalapeno Pepper, Hot   (Microgreen)",M,12
+24,173437,"Serrano Pepper, Hot  (Microgreen)",M,13
+24,173438,Tamarillos  (Microgreen),M,14
+24,173439,Pacaya Palm  (Microgreen),M,15
+24,173440,Cucumbers  (Microgreen),M,20
+24,173441,"Choyote, chayotes  (Microgreen)",M,21
+24,173442,Tomatoes  (Microgreen),M,50
+24,173443,Husk Tomato (Tomatillo)  (Microgreen),M,51
+24,173444,"Squash, Winter  (Microgreen)",M,52
+24,173445,"Fruits Used as Vegetables, N.E.C. (Microgreen)",M,99
+24,173446,Artichoke  (Microgreen),N,01
+24,173447,Asparagus  (Microgreen),N,02
+24,173448,Bamboo Shoots  (Microgreen),N,03
+24,173449,Beet Tops  (Microgreen),N,04
+24,173450,Broccoli  (Microgreen),N,05
+24,173451,"Broccoli Raab (Raab, Ratini)  (Microgreen)",N,06
+24,173452,Brussels Sprouts  (Microgreen),N,07
+24,173453,Cabbage  (Microgreen),N,08
+24,173454,Carrot Tops  (Microgreen),N,09
+24,173455,Cauliflower  (Microgreen),N,10
+24,173456,Celery  (Microgreen),N,11
+24,173457,"Chinese Cabbage, Celery Cabbage  (Microgreen)",N,12
+24,173458,Collard  (Microgreen),N,13
+24,173459,Dandelion Greens  (Microgreen),N,14
+24,173460,Field Cress  (Microgreen),N,16
+24,173461,Hanover Greens  (Microgreen),N,17
+24,173462,Kale  (Microgreen),N,18
+24,173463,Mustard Greens  (Microgreen),N,20
+24,173464,Parsley  (Microgreen),N,21
+24,173465,Pole Greens  (Microgreen),N,22
+24,173466,Rape Greens  (Microgreen),N,23
+24,173467,Rhubarb  (Microgreen),N,24
+24,173468,Spinach  (Microgreen),N,25
+24,173469,Swiss Chard  (Microgreen),N,26
+24,173470,Turnip Greens  (Microgreen),N,27
+24,173471,Water Cress  (Microgreen),N,28
+24,173472,Seaweed  (Microgreen),N,29
+24,173473,Endive (Cichorium endivia)  (Microgreen),N,30
+24,173474,"Lettuce, Head (e.g. Iceberg)  (Microgreen)",N,31
+24,173475,"Lettuce, Loose-Leaf (e.g., Romaine)  (Microgreen)",N,32
+24,173476,Bok Choy  (Microgreen),N,33
+24,173477,Chicory Leaf  (Cichorium intybus)  (Microgreen),N,34
+24,173478,Mache  (Microgreen),N,35
+24,173479,Radicchio  (Microgreen),N,36
+24,173480,Coltsfoot  (Microgreen),N,37
+24,173481,"Fern, Bracken  (Microgreen)",N,38
+24,173482,Heart of Palm  (Microgreen),N,39
+24,173483,Chinese Broccoli  (Microgreen),N,40
+24,173484,Yanang Leaves  (Microgreen),N,41
+24,173485,Swamp Cabbage  (Microgreen),N,42
+24,173486,Poke Greens  (Microgreen),N,43
+24,173487,Celeriac (Root Celery)  (Microgreen),N,44
+24,173488,Sugar Cane  (Microgreen),N,45
+24,173489,Cilantro  (Microgreen),N,46
+24,173490,Mesculin Lettuce  (Microgreen),N,47
+24,173491,Culantro  (Microgreen),N,48
+24,173492,Snow Pea Shoots  (Microgreen),N,49
+24,173493,Mustard Cabbage  (Microgreen),N,50
+24,173494,Fat Choy  (Microgreen),N,51
+24,173495,Red Asian Mustard Green  (Microgreen),N,52
+24,173496,Callaloo  (Microgreen),N,53
+24,173497,Lamb's Quarter  (Microgreen),N,54
+24,173498,Perilla Leaves  (Microgreen),N,55
+24,173499,Banana Blossoms  (Microgreen),N,56
+24,173500,Epazote Leaf  (Microgreen),N,57
+24,173501,Chipilin  (Microgreen),N,58
+24,173502,Cabbage Turnip  (Microgreen),N,59
+24,173503,Red Cabbage  (Microgreen),N,60
+24,173504,Celtuce  (Microgreen),N,61
+24,173505,Chinese Spinach  (Microgreen),N,62
+24,173506,Chrysanthemum Leaves  (Microgreen),N,63
+24,173507,Jute Leaf  (Microgreen),N,64
+24,173508,African Spinach  (Microgreen),N,65
+24,173509,Malabar Spinach  (Microgreen),N,66
+24,173510,Purslane  (Microgreen),N,67
+24,173511,Quail Grass  (Microgreen),N,68
+24,173512,Sorrel  (Microgreen),N,69
+24,173513,Water Spinach  (Microgreen),N,70
+24,173514,Wheat Grass (Leaf & Stem Vegetables (Microgreen),N,71
+24,173515,"Leaf & Stem Vegetables, N.E.C. (Microgreen)",N,99
+24,173732,Sulphur Beans,A,28
+24,173733,Mayocoba Beans,A,28
+24,173734,Peruano Beans,A,28
+24,173735,Canary Beans,A,28
+24,173736,Yellow Beans,A,28
+24,173737,"Sulphur Beans, Dried or Paste",B,28
+24,173738,"Mayocoba Beans, Dried or Paste",B,28
+24,173739,"Peruano Beans, Dried or Paste",B,28
+24,173740,"Canary Beans, Dried or Paste",B,28
+24,173741,"Yellow Beans, Dried or Paste",B,28
+24,173742,"Sulphur Beans, with Sauce",C,28
+24,173743,"Mayocoba Beans, with Sauce",C,28
+24,173744,"Peruano Beans, with Sauce",C,28
+24,173745,"Canary Beans, with Sauce",C,28
+24,173746,"Yellow Beans, with Sauce",C,28
+24,173747,"Sulphur Beans, Juice or Drink",D,28
+24,173748,"Mayocoba Beans, Juice or Drink",D,28
+24,173749,"Peruano Beans, Juice or Drink",D,28
+24,173750,"Canary Beans, Juice or Drink",D,28
+24,173751,"Yellow Beans, Juice or Drink",D,28
+24,173752,"Sulphur Beans, Beans, Peas, Corn, Sprouts",E,28
+24,173753,"Mayocoba Beans, Beans, Peas, Corn, Sprouts",E,28
+24,173754,"Peruano Beans, Beans, Peas, Corn, Sprouts",E,28
+24,173755,"Canary Beans, Beans, Peas, Corn, Sprouts",E,28
+24,173756,"Yellow Beans, Beans, Peas, Corn, Sprouts",E,28
+24,173757,"Sulphur Beans, (Microgreens)",L,28
+24,173758,Mayocoba Beans (Microgreens),L,28
+24,173759,Peruano Beans (Microgreens),L,28
+24,173760,Canary Beans (Microgreens),L,28
+24,173761,Yellow Beans (Microgreens),L,28
+24,175051,Taro Leaves (Leaf & Stem Vegetable),T,72
+24,175052,"Taro Leaves, Dried or Paste",U,72
+24,175053,"Taro Leaves, with Sauce",V,72
+24,175054,"Taro Leaves, Juice or Drink",W,72
+24,175055,Taro Leaves (Microgreen),N,72
+24,175322,Nopal Cactus (Leaf & Stem Vegetable),T,73
+24,175323,Nopal Cactus Paddle (Leaf & Stem Vegetable),T,73
+24,175324,Nopalitos (Leaf & Stem Vegetable),T,73
+24,175325,Nopal Cactus Leaf (Leaf & Stem Vegetable),T,73
+24,175326,Nopales (Leaf & Stem Vegetable),T,73
+24,175327,"Nopal Cactus, Dried or Paste",U,73
+24,175328,"Nopal Cactus Paddle, Dried or Paste",U,73
+24,175329,"Nopalitos, Dried or Paste",U,73
+24,175330,"Nopal Cactus Leaf, Dried or Paste",U,73
+24,175331,"Nopales, Dried or Paste",U,73
+24,175332,"Nopal Cactus, with Sauce",V,73
+24,175333,"Nopal Cactus Paddle, with Sauce",V,73
+24,175334,"Nopalitos, with Sauce",V,73
+24,175335,"Nopal Cactus Leaf, with Sauce",V,73
+24,175336,"Nopales, with Sauce",V,73
+24,175337,"Nopal Cactus, Juice or Drink",W,73
+24,175338,"Nopal Cactus Paddle, Juice or Drink",W,73
+24,175339,"Nopalitos, Juice or Drink",W,73
+24,175340,"Nopal Cactus Leaf, Juice or Drink",W,73
+24,175341,"Nopales, Juice or Drink",W,73
+24,176721,Basil (Leaf & Stem Vegetable),T,74
+24,176722,"Basil, Dried or Paste",U,74
+24,176723,"Basil, with Sauce",V,74
+24,176724,"Basil, Juice or Drink",W,74
+24,176880,Basil (Microgreen),N,74
+24,176881,Arugula (Leaf & Stem Vegetable),T,75
+24,176882,Garden Rocket,T,75
+24,176883,Eruca,T,75
+24,176884,Ruchetta,T,75
+24,176885,Rocket,T,75
+24,176886,Roka,T,75
+24,176887,Roquette,T,75
+24,176888,Rucola,T,75
+24,176889,Rugula,T,75
+24,176890,"Arugula, Dried or Paste",U,75
+24,176891,Garden Rocket,U,75
+24,176892,Eruca,U,75
+24,176893,Ruchetta,U,75
+24,176894,Rocket,U,75
+24,176895,Roka,U,75
+24,176896,Roquette,U,75
+24,176897,Rucola,U,75
+24,176898,Rugula,U,75
+24,176899,"Arugula, with Sauce",V,75
+24,176900,Garden Rocket,V,75
+24,176901,Eruca,V,75
+24,176902,Ruchetta,V,75
+24,176903,Rocket,V,75
+24,176904,Roka,V,75
+24,176905,Roquette,V,75
+24,176906,Rucola,V,75
+24,176907,Rugula,V,75
+24,176908,"Arugula, Juice or Drink",W,75
+24,176909,Garden Rocket,W,75
+24,176910,Eruca,W,75
+24,176911,Ruchetta,W,75
+24,176912,Rocket,W,75
+24,176913,Roka,W,75
+24,176914,Roquette,W,75
+24,176915,Rucola,W,75
+24,176916,Rugula,W,75
+24,176917,Arugula (Microgreen),N,75
+24,176918,Garden Rocket,N,75
+24,176919,Eruca,N,75
+24,176920,Ruchetta,N,75
+24,176921,Rocket,N,75
+24,176922,Roka,N,75
+24,176923,Roquette,N,75
+24,176924,Rucola,N,75
+24,176925,Rugula,N,75

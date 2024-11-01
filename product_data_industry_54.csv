@@ -1,0 +1,979 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+54,3049,Vitamin A,A,01
+54,3050,Calcium (Mineral),B,01
+54,3051,L-Alanine (Protein),C,01
+54,3052,Vitamin B1 (Thiamine),A,02
+54,3053,Chlorine (Mineral),B,02
+54,3054,L-Arginine  (Protein),C,02
+54,3055,Vitamin B2 (Riboflavin),A,03
+54,3056,Choline (Mineral),B,03
+54,3057,L-Asparagine (Protein),C,03
+54,3058,Vitamin B6 (Pyridoxine),A,04
+54,3059,Copper (Mineral),B,04
+54,3060,L-Aspartic Acid (Protein),C,04
+54,3061,Vitamin B12 (Cyanocobalamin),A,05
+54,3062,Fluorine (Mineral),B,05
+54,3063,L-Cysteine (Protein),C,05
+54,3064,Niacin (Nicotinic Acid)  (Vitamin),A,06
+54,3065,Iodine (Mineral),B,06
+54,3066,L-Cystine (Protein),C,06
+54,3067,Nicotinamide (Niacinamide) (Vitamin),A,07
+54,3068,Iron (Mineral),B,07
+54,3069,L-Glutamic Acid (Protein),C,07
+54,3070,Pantothenic Acid (Panthenol) (Vitamin),A,08
+54,3071,Magnesium (Mineral),B,08
+54,3072,L-Glutamine (Protein),C,08
+54,3073,Cobalamin Concentrate (Vitamin),A,09
+54,3074,Manganese (Mineral),B,09
+54,3075,Glycine (Protein),C,09
+54,3076,Mecobalamin (Vitamin),A,10
+54,3077,Phosphorus (Mineral),B,10
+54,3078,L-Histadine (Protein),C,10
+54,3079,Hydroxocobalamin (Vitamin),A,11
+54,3080,Potassium (Mineral),B,11
+54,3081,L-Isoleucline (Protein),C,11
+54,3082,Folic Acid (Vitamin),A,12
+54,3083,Sodium (Mineral),B,12
+54,3084,L-Leucine (Protein),C,12
+54,3085,Vitamin C (Ascorbic Acid),A,13
+54,3086,Zinc (Mineral),B,13
+54,3087,L-Lysine (Protein),C,13
+54,3088,Vit D,A,14
+54,3089,DL-Methionine (Not For Infant Foods) (Protein),C,14
+54,3090,Vitamin D2 (Calciferol),A,15
+54,3091,L-Methionine (Protein),C,15
+54,3092,Vitamin E (Tocopherol),A,16
+54,3093,DL-Phenylalanine (Protein),C,16
+54,3094,"Biotin (Vitamin H, Coenzyme R)",A,17
+54,3095,L-Proline (Protein),C,17
+54,3096,Vitamin K (Phytonadione),A,18
+54,3097,L-Serine (Protein),C,18
+54,3098,Menadiol Sodium Diphosphate (Vitamin),A,19
+54,3099,L-Threonine (Protein),C,19
+54,3100,Menadione (Vitamin),A,20
+54,3101,Selenium (Mineral),B,20
+54,3102,L-Tryptophan (Protein),C,20
+54,3103,Menadione Sodium Bisulfite (Vitamin),A,21
+54,3104,L-Tyrosine (Protein),C,21
+54,3105,Sodium Ascorbate (Vitamin),A,22
+54,3106,L-Valine (Protein),C,22
+54,3108,"Vitamin, N.E.C.",A,99
+54,3109,Mineral N.E.C.,B,99
+54,3110,Protein N.E.C.,C,99
+54,3112,"Vitamin, Mineral, Proteins and Unconventional Dietary Specialities For Humans and Animals, N.E.C.",Y,99
+54,24578,"Spirulina (Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, n.e.c.)",Y,01
+54,24579,"Carnitine, Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, n.e.c.)",Y,02
+54,24580,"Chlorella (tablet), Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, n.e.c.)",Y,03
+54,24581,Ginseng Unconventional Dietary Speciality for Humans or Animals,Y,04
+54,24582,"Laetrile (apricot pits), Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal,n.e.c.",Y,05
+54,24721,Gensing Unconventional Dietary Speciality for Humans or Animals,Y,04
+54,25047,L-Carnitine (Protein),C,23
+54,25048,Boron (Mineral),B,14
+54,25049,Chromium (Mineral),B,15
+54,25050,Aconite (Herbal & Botanical Teas),E,01
+54,25052,Aconitum (Herbal & Botanical Teas),E,01
+54,25053,"Aconite (Herbal & Botanicals, not Teas)",F,01
+54,25055,"Aconitum (Herbal & Botanicals, not Teas)",F,01
+54,25056,Alfalfa (Herbal & Botanical Teas),E,02
+54,25057,"Alfalfa (Herbal & Botanicals, not Teas)",F,02
+54,25058,Angelica (Herbals & Botanical Teas),E,03
+54,25059,"Angelica (Herbal & Botanicals, not Teas)",F,03
+54,25060,Dong Quai (Herbals & Botanical Teas),E,03
+54,25061,"Dong Quai (Herbal & Botanicals, not Teas)",F,03
+54,25062,Camomille (Herbal & Botanical Teas),E,04
+54,25063,"Camomille (Herbal & Botanicals, not Teas)",F,04
+54,25064,Chaparral (Herbal & Botanical Teas),E,05
+54,25065,"Chaparral (Herbal & Botanicals, not Teas)",F,05
+54,25066,Chrysanthemum (Herbal & Botanical Teas),E,06
+54,25067,"Chrysanthemum (Herbal & Botanicals, not Teas)",F,06
+54,25068,Comfrey (Herbal & Botanical Teas),E,07
+54,25069,"Comfrey (Herbal & Botanicals, not Teas)",F,07
+54,25070,Symphytum (Herbal & Botanical Teas),E,07
+54,25071,"Symphytum (Herbal & Botanicals, not Teas)",F,07
+54,25072,Echinacea (Herbal & Botanical Teas),E,08
+54,25073,"Echinacea, Herbal & Botanicals (not teas)",F,08
+54,25074,Ephedra (Herbal & Botanical Teas),E,09
+54,25075,"Ephedra (Herbal & Botanicals, not Teas)",F,09
+54,25076,Ma-Huang (Herbal & Botanical Teas),E,09
+54,25077,"Ma-huang (Herbal & Botanicals, not Teas)",F,09
+54,25078,Garlic (Herbal & Botanical Teas),E,10
+54,25079,"Garlic (Herbal & Botanicals, not Teas)",F,10
+54,25080,"Germander (Teucrium),  (Herbal & Botanical Teas)",E,11
+54,25081,"Germander (Teucrium), (Herbal & Botanicals, not Teas)",F,11
+54,25082,Ginseng (Herbal & Botanical Teas),E,12
+54,25083,"Ginseng (Herbal & Botanicals, not Teas)",F,12
+54,25084,Gensing (Herbal & Botanical Teas),E,12
+54,25085,"Gensing (Herbal & Botanicals, not Teas)",F,12
+54,25086,Gotu Kola (Herbal & Botanical Teas),E,13
+54,25087,"Gotu Kola (Herbal & Botanicals, not Teas)",F,13
+54,25090,Laetrile (Herbal & Botanical Teas),E,15
+54,25091,"Laetrile (Herbal & Botanicals, not Teas)",F,15
+54,25092,Apricot Pits (Herbal & Botanical Teas),E,15
+54,25093,"Apricot Pits (Herbal & Botanicals, not Teas)",F,15
+54,25094,Licorice (Herbal & Botanical Teas),E,16
+54,25095,"Licorice (Herbal & Botanicals, not Teas)",F,16
+54,25096,Lobelia (Herbal & Botanical Teas),E,17
+54,25097,"Lobelia (Herbal & Botanicals, not Teas)",F,17
+54,25098,"Pau D'arco (Taheebo, Lapacho), (Herbal & Botanical Teas)",E,18
+54,25099,"Pau D'arco (Taheebo, Lapacho), (Herbal & Botanicals, not Teas)",F,18
+54,25100,Magnolia (Herbal & Botanical Teas),E,19
+54,25101,"Magnolia (Herbal & Botanicals, not Teas)",F,19
+54,25102,"Mint (Herbal & Botanicals, not Teas - if tea form see 31P)",F,20
+54,25103,"Rose Hips (Herbal & Botanicals, not Teas - if tea form see 31P)",F,21
+54,25104,"Sassafras (Herbal & Botanicals, not Teas - if tea form see 31P)",F,22
+54,25105,Senecio (Herbal & Botanical Teas),E,23
+54,25106,"Senecio (Herbal & Botanicals, not Teas)",F,23
+54,25107,Groundsel (Herbal & Botanical Teas),E,23
+54,25108,"Groundsel (Herbal & Botanicals, not Teas)",F,23
+54,25109,Senna (Herbal & Botanical Teas),E,24
+54,25110,"Senna (Herbal & Botanicals, not Teas)",F,24
+54,25111,Schizandra (Herbal & Botanical Teas),E,25
+54,25112,"Schizandra (Herbal & Botanicals, not Teas)",F,25
+54,25113,"Stephania (Fangji),  (Herbal & Botanical Teas)",E,26
+54,25114,"Stephania (Fangji), (Herbal & Botanicals, not Teas)",F,26
+54,25115,Vervain (Herbal & Botanical Teas),E,27
+54,25116,"Vervain (Herbal & Botanicals, not Teas)",F,27
+54,25117,Verbena (Herbal & Botanical Teas),E,27
+54,25118,"Verbena (Herbal & Botanicals, not Teas)",F,27
+54,25119,Willowbark (Herbal & Botanincal Teas),E,28
+54,25120,"Willowbark (Herbal & Botanicals, not Teas)",F,28
+54,25121,Yohimbe (Herbal & Botanical Teas),E,29
+54,25122,"Yohimbe (Herbal & Botanicals, not Teas)",F,29
+54,25123,"Herbals & Botanical Teas, N.E.C.",E,99
+54,25124,"Herbals & Botanicals (not Teas), N.E.C.",F,99
+54,25125,"Bovine (Cow, Etc.) (Animal By-Products and Extracts)",G,01
+54,25126,"Ovine (Sheep, Etc.) (Animal By-Products and Extracts)",G,02
+54,25127,"Porcine (Pig, Etc.) (Animal By-Products and Extracts)",G,03
+54,25128,Shark (Animal By-Products and Extracts),G,04
+54,25129,"Animal By-Products and Extracts, N.E.C.",G,99
+54,25130,Black Currant Oil  (Fats and Lipid Substances),H,01
+54,25131,Borage Oil (Fats and Lipid Substances),H,02
+54,25132,Evening Primrose Oil (Fats and Lipid Substances),H,03
+54,25133,Fish Oil (Fats and Lipid Substances),H,04
+54,25134,Omega-3 (Fats and Lipid Substances),H,05
+54,25135,"Fats and Lipid Substances, N.E.C.",H,99
+54,25136,Guar Gum (Fiber),I,01
+54,25137,Psyllium (Fiber),I,02
+54,25138,"Fiber, N.E.C.",I,99
+54,25139,"Bee Pollen (Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, N.E.C.)",Y,06
+54,25140,"Bioflavanoids (Vit/Min?protein/Unconventional Dietary Spec for Human/Animal, N.E.C.)",Y,07
+54,25141,"Coenzyme Q10 (Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, N.E.C.)",Y,08
+54,25142,"Germanium (Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, N.E.C.)",Y,09
+54,25143,"Royal Jelly (Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, N.E.C.)",Y,10
+54,150500,"Akebia (Herbal & Botanicals, not Teas)",F,73
+54,150501,Akebia quinata,F,73
+54,150502,Akebia trifoliata,F,73
+54,150503,Chocolate vine,F,73
+54,150504,Fiveleaf akebia,F,73
+54,150505,Mu tong,F,73
+54,150506,Yu zhi zi,F,73
+54,150507,Three leaf akebia,F,73
+54,150508,Clematis,F,74
+54,150509,Clematis armandii,F,74
+54,150510,Clematis chinensis,F,74
+54,150511,Clematis montana,F,74
+54,150512,Armand's clematis,F,74
+54,150513,Chuan mu tong (stem),F,74
+54,150514,Xiao mu tong,F,74
+54,150515,Armand's virgin bower,F,74
+54,150516,Chinese clematis,F,74
+54,150517,Wei ling xian (root),F,74
+54,150518,Cocculus,F,75
+54,150519,Cocculus carolinus,F,75
+54,150520,Cocculus hirsutus,F,75
+54,150521,Cocculus indicus,F,75
+54,150522,Anamirta paniculata,F,75
+54,150523,Indian cockle,F,75
+54,150524,Cocculus laurifolius,F,75
+54,150525,Cocculus leaebe,F,75
+54,150526,Cocculus madagascariensis,F,75
+54,150527,Cocculus diversifolius,F,75
+54,150528,Cocculus orbiculatus,F,75
+54,150529,Cissampelos pareira,F,75
+54,150530,Cocculus pendulus,F,75
+54,150531,Cebatha pendula,F,75
+54,150532,Epibaterium pendulus,F,75
+54,150533,Cocculus palmatus,F,75
+54,150534,Cocculus Epibaterium,F,75
+54,150535,Colombo,F,75
+54,150536,Jateorhiza Miersii,F,75
+54,150537,Cocculus thunbergii,F,75
+54,150538,Cocculus trilobus,F,75
+54,150740,Multiple Vitamins (MVI-12 vitamin combo) (Vitamin),A,90
+54,150741,Safflower Oil (Fats and Lipid Substances),H,06
+54,152083,"Asarum ssp. (Herbal & Botanicals, not Teas)",F,76
+54,152084,"Bragantia ssp. (Herbal & Botanicals, not Teas)",F,77
+54,152085,"Diploclisia ssp. (Herbal & Botanicals, not Teas)",F,78
+54,152086,"Menispernum spp. (Herbal & Botanicals, not Teas)",F,79
+54,152087,"Sinomenium spp. (Herbal & Botanicals, not Teas)",F,80
+54,152088,"Vladimiria spp. (Herbal & Botanicals, not Teas)",F,81
+54,152803,"Coca Leaves (Herbal & Botanicals, not Teas)",F,82
+54,152804,"Erythroxylon coca (Herbal & Botanicals, not Teas)",F,82
+54,153843,Citrus Aurantium,E,83
+54,153844,Milk Thistle,E,84
+54,153845,Citrus Aurantium ( Herbal & Botanical other than Teas),F,83
+54,153846,Milk Thistle (Herbal & Botanical other than teas),F,84
+54,161656,Agrimony (Herbal & Botanical Teas),E,30
+54,161657,"Aristolochia (Fangchi), (Herbal & Botanical Teas)",E,31
+54,161658,Arnica (Herbal & Botanical Teas),E,32
+54,161659,"Astragalus (Milk Vetch Root), (Herbal & Botanical Teas)",E,33
+54,161660,Beebalm (Herbal & Botanical Teas),E,34
+54,161661,Belladonna (Herbal & Botanical Teas),E,35
+54,161662,Black Cohosh (Herbal & Botanical Teas),E,36
+54,161663,Bloodroot (Herbal & Botanical Teas),E,37
+54,161664,Blue Cohosh (Herbal & Botanical Teas),E,38
+54,161665,Broom (Herbal & Botanical Teas),E,39
+54,161666,Buckthorn (Herbal & Botanical Teas),E,40
+54,161667,"Cat's claw (Unad'gato), (Herbal & Botanical Teas)",E,41
+54,161668,"Cascans (Rhamnus), (Herbal & Botanical Teas)",E,42
+54,161669,Damiana (Herbal & Botanical Teas),E,43
+54,161670,Eleutherococcus (Herbal & Botanical Teas),E,44
+54,161671,Fenugreek (Herbal & Botanical Teas),E,45
+54,161672,"Foxglove (Digitalis spp.), (Herbal & Botanical Teas)",E,46
+54,161673,Garcinia cambogia (Herbal & Botanical Teas),E,47
+54,161674,Ginkgo biloba (Herbal & Botanical Teas),E,48
+54,161675,Guarana (Herbal & Botanical Teas),E,49
+54,161676,Hawthorn (Herbal & Botanical Teas),E,50
+54,161677,"Jimson weed, Devil's trumpet, Angel's trumpet (Stranonium/Datura/Jamestown weed) Herbal, Botan'l Tea",E,51
+54,161678,Kava Kava (Herbal & Botanical Teas),E,52
+54,161679,"Milkweed (Asclepias), (Herbal & Botanical Teas)",E,53
+54,161680,Penny Royal (Herbal & Botanical Teas),E,54
+54,161681,"Plantain (e.g., weed), (Herbal & Botanical Teas)",E,55
+54,161682,Red Clover (Herbal & Botanical Teas),E,56
+54,161683,Sarsaparilla (Herbal & Botanical Teas),E,57
+54,161684,Saw Palmetto (Herbal & Botanical Teas),E,58
+54,161685,Serpentwood (Herbal & Botanical Teas),E,59
+54,161686,Sheep Sorrel (Herbal & Botanical Teas),E,60
+54,161687,"Skullcap (scullcap), (Herbal & Botanical Teas)",E,61
+54,161688,Snakeroot (Herbal & Botanical Teas),E,62
+54,161689,"Soapwort (Yucca root, Agave), (Herbal & Botanical Teas)",E,63
+54,161690,St. John's Wort (Herbal & Botanical Teas),E,64
+54,161691,Tansy (Herbal & Botanical Teas),E,65
+54,161692,Usnea (Herbal & Botanical Teas),E,66
+54,161693,Uva Ursi (Herbal & Botanical Teas),E,67
+54,161694,Wahoo (Herbal & Botanical Teas),E,68
+54,161695,White Oak Bark (Herbal & Botanical Teas),E,69
+54,161696,Wormwood (Herbal & Botanical Teas),E,70
+54,161697,Yarrow Root (Herbal & Botanical Teas),E,71
+54,161698,"Yew (Taxus), (Herbal & Botanical Teas)",E,72
+54,161699,"Agrimony (Herbal & Botanicals, not Teas)",F,30
+54,161700,"Aristolochia (Fangchi), (Herbal & Botanicals, not Tea)",F,31
+54,161701,"Arnica (Herbal & Botanicals, not Teas)",F,32
+54,161702,"Astragalus (Milk Vetch Root), (Herbal & Botanicals, not Teas)",F,33
+54,161703,"Beebalm (Herbal & Botanicals, not Teas)",F,34
+54,161704,"Belladonna (Herbal & Botanicals, not Teas)",F,35
+54,161705,"Black Cohosh (Herbal & Botanicals, not Teas)",F,36
+54,161706,"Bloodroot (Herbal & Botanicals, not Teas)",F,37
+54,161707,"Blue Cohosh (Herbal & Botanicals, not Teas)",F,38
+54,161708,"Broom (Herbal & Botanicals, not Teas)",F,39
+54,161709,"Buckthorn (Herbal & Botanicals, not Teas)",F,40
+54,161710,"Cat's Claw (Unad'gato), (Herbal & Botanicals, not Teas)",F,41
+54,161711,"Cascans (Rhamnus), (Herbal & Botanicals, not Teas)",F,42
+54,161712,"Damiana (Herbal & Botanicals, not Teas)",F,43
+54,161713,"Eleutherococcus (Herbal & Botanicals, not Teas)",F,44
+54,161714,"Fenugreek (Herbal & Botanicals, not Teas)",F,45
+54,161715,"Foxglove (Digitalis spp.), (Herbal & Botanicals, not Teas)",F,46
+54,161716,"Garcinia cambogia (Herbal & Botanicals, not Teas)",F,47
+54,161717,"Ginkgo biloba (Herbal & Botanicals, not Teas)",F,48
+54,161718,"Guarana (Herbal & Botanicals, not Teas)",F,49
+54,161719,"Hawthorn (Herbal & Botanicals, not Teas)",F,50
+54,161720,"Jimson weed, Devil's trumpet, Angel's trumpet (Stranonium/Datura/Jamestown weed), Herbal/Bot not Tea",F,51
+54,161721,"Kava Kava (Herbal & Botanicals, not Teas)",F,52
+54,161722,"Milkweed (Asclepias), (Herbal & Botanicals, not Teas)",F,53
+54,161723,"Penny Royal (Herbal & Botanicals, not Teas)",F,54
+54,161724,"Plantain (e.g., weed), (Herbal & Botanicals, not Teas)",F,55
+54,161725,"Red Clover (Herbal & Botanicals, not Teas)",F,56
+54,161726,"Sarsaparilla (Herbal & Botanicals, not Teas)",F,57
+54,161727,"Saw Palmetto (Herbal & Botanicals, not Teas)",F,58
+54,161728,"Serpentwood (Herbal & Botanicals, not Teas)",F,59
+54,161729,"Sheep Sorrel (Herbal & Botanicals, not Teas)",F,60
+54,161730,"Skullcap (scullcap), (Herbal & Botanicals, not Teas)",F,61
+54,161731,"Snakeroot (Herbal & Botanicals, not Teas)",F,62
+54,161732,"Soapwort (Yucca root, Agave), (Herbal & Botanicals, not Teas)",F,63
+54,161733,"St. John's Wort (Herbal & Botanicals, not Teas)",F,64
+54,161734,"Tansy (Herbal & Botanicals, not Teas)",F,65
+54,161735,"Usnea (Herbal & Botanicals, not Teas)",F,66
+54,161736,"Uva Ursi (Herbal & Botanicals, not Teas)",F,67
+54,161737,"Wahoo (Herbal & Botanicals, not Teas)",F,68
+54,161738,"White Oak Bark (Herbal & Botanicals, not Teas)",F,69
+54,161739,"Wormwood (Herbal & Botanicals, not Teas)",F,70
+54,161740,"Yarrow Root (Herbal & Botanicals, not Teas)",F,71
+54,161741,"Yew (Taxus), (Herbal & Botanicals, not Teas)",F,72
+54,163759,"Playtycodon  (Herbal & Botanicals, not Teas)",F,85
+54,163760,"Passionflower  (Herbal & Botanicals, not Teas)",F,87
+54,163761,"Gymnema sylvestre (Herbal & Botanicals, not Teas)",F,88
+54,163762,"Maitake Extract  (Herbal & Botanicals, not Teas)",F,86
+54,163763,"Tribulus (Herbal & Botanicals, not Teas)",F,89
+54,163764,"Epazote (Herbal & Botanicals, not Teas)",F,90
+54,163765,"Boswellia (Herbal & Botanicals, not Teas)",F,91
+54,163766,Codonopsis tangshen,F,92
+54,163767,Epazote (Herbal & Botanical Teas),E,90
+54,163782,Playtycodon (Herbal & Botanical Teas),E,85
+54,163783,Balloon Flower Root  (Herbal & Botanical Teas),E,85
+54,163784,Bell Flower Root  (Herbal & Botanical Teas),E,85
+54,163785,Jiegeng  (Herbal & Botanical Teas),E,85
+54,163786,Platycodin  (Herbal & Botanical Teas),E,85
+54,163787,Platycodon Root  (Herbal & Botanical Teas),E,85
+54,163788,Miatake Extract  (Herbal & Botanical Teas),E,86
+54,163789,Passionflower (Herbal & Botanical Teas),E,87
+54,163790,Passion Vine (Herbal & Botanical Teas),E,87
+54,163791,Apricot Vine  (Herbal & Botanical Teas),E,87
+54,163792,Maypop  (Herbal & Botanical Teas),E,87
+54,163793,Passiflora  (Herbal & Botanical Teas),E,87
+54,163794,Passiflore  (Herbal & Botanical Teas),E,87
+54,163795,Passiflora incarnate L.  (Herbal & Botanical Teas),E,87
+54,163796,Gymnema sylvestre (Herbal & Botanical Teas),E,88
+54,163798,Gymnema  (Herbal & Botanical Teas),E,88
+54,163799,Sylvestre  (Herbal & Botanical Teas),E,88
+54,163800,Ascelpias geminate  (Herbal & Botanical Teas),E,88
+54,163801,Gemnema melicida  (Herbal & Botanical Teas),E,88
+54,163802,Wild Passionflower  (Herbal & Botanical Teas),E,87
+54,163803,Periploca sylvestris  (Herbal & Botanical Teas),E,88
+54,163804,Gur-Mar  (Herbal & Botanical Teas),E,88
+54,163805,Gurmar  (Herbal & Botanical Teas),E,88
+54,163806,Gurmarbooti  (Herbal & Botanical Teas),E,88
+54,163807,Merasingi  (Herbal & Botanical Teas),E,88
+54,163808,Mershashringi  (Herbal & Botanical Teas),E,88
+54,163809,Tribulus (Herbal & Botanical Teas),E,89
+54,163810,Gokshura  (Herbal & Botanical Teas),E,89
+54,163811,Punchturevine caltrop  (Herbal & Botanical Teas),E,89
+54,163812,Small caltrops  (Herbal & Botanical Teas),E,89
+54,163813,Tribulus terrestris L.  (Herbal & Botanical Teas),E,89
+54,163814,Ipazote  (Herbal & Botanical Teas),E,90
+54,163815,Paico  (Herbal & Botanical Teas),E,90
+54,163816,American Wormseed  (Herbal & Botanical Teas),E,90
+54,163817,Wurmsaamen Gansefuss  (Herbal & Botanical Teas),E,90
+54,163818,L'answerine vermifuge  (Herbal & Botanical Teas),E,90
+54,163819,Erva de Santa Maria  (Herbal & Botanical Teas),E,90
+54,163820,Chenopodium ambrosioides  (Herbal & Botanical Teas),E,90
+54,163821,Chenpodium anthelminticum L.  (Herbal & Botanical Teas),E,90
+54,163822,Jesuit Tea  (Herbal & Botanical Teas),E,90
+54,163823,Apazote  (Herbal & Botanical Teas),E,90
+54,163824,Boswellia (Herbal & Botanical Teas),E,91
+54,163825,Boswella  (Herbal & Botanical Teas),E,91
+54,163826,Boswellin  (Herbal & Botanical Teas),E,91
+54,163827,Boswellin Serrata Resin  (Herbal & Botanical Teas),E,91
+54,163828,Gajabhakshya  (Herbal & Botanical Teas),E,91
+54,163829,Indian Olibanum  (Herbal & Botanical Teas),E,91
+54,163830,Resina Bowselliae  (Herbal & Botanical Teas),E,91
+54,163831,Salai Guggal  (Herbal & Botanical Teas),E,91
+54,163832,Salai Guggul  (Herbal & Botanical Teas),E,91
+54,163833,Sallaki Gugggul  (Herbal & Botanical Teas),E,91
+54,163834,Shallaki  (Herbal & Botanical Teas),E,91
+54,163835,Ru Xiang  (Herbal & Botanical Teas),E,91
+54,163836,Boswellia serrata Roxb.  (Herbal & Botanical Teas),E,91
+54,163837,Indian frankincense  (Herbal & Botanical Teas),E,91
+54,163838,Frankincense  (Herbal & Botanical Teas),E,91
+54,163839,Codonopsis tanshen (Herbal & Botanical Teas),E,92
+54,163840,Codonopsis tubulosa  (Herbal & Botanical Teas),E,92
+54,163841,Bastard Ginseng  (Herbal & Botanical Teas),E,92
+54,163842,Bellflower (Codonopsis tangshen)  (Herbal & Botanical Teas),E,92
+54,163843,Bonnet Bellflower  (Herbal & Botanical Teas),E,92
+54,163844,Chuan Dang  (Herbal & Botanical Teas),E,92
+54,163845,Codonopsis modestae  (Herbal & Botanical Teas),E,92
+54,163846,Codonopsis pilosula  (Herbal & Botanical Teas),E,92
+54,163847,Dangshen  (Herbal & Botanical Teas),E,92
+54,163848,Dang shen  (Herbal & Botanical Teas),E,92
+54,163849,Radix Codonopsis  (Herbal & Botanical Teas),E,92
+54,163850,False Ginseng  (Herbal & Botanical Teas),E,92
+54,163851,Codonopsis pilosula modesta  (Herbal & Botanical Teas),E,92
+54,163852,Codonopsis tanshen Oliv.  (Herbal & Botanical Teas),E,92
+54,163853,Chuan deng shen  (Herbal & Botanical Teas),E,92
+54,163854,Sichuan dang shen  (Herbal & Botanical Teas),E,92
+54,163855,Poor man's Ginseng  (Herbal & Botanical Teas),E,92
+54,163857,EPigallo Catechin Gallate (Herbal & Botanical Teas),E,93
+54,163858,EPCG  (Herbal & Botanical Teas),E,93
+54,163859,Glycyrrhiza uralensis (Herbal & Botanical Teas),E,16
+54,163860,Glycyrrhiza glabra var. glandulifera (Herbal & Botanical Teas),E,16
+54,163861,Alcacus (Herbal & Botanical Teas),E,16
+54,163862,Mulhathi (Herbal & Botanical Teas),E,16
+54,163863,Lakritze (Herbal & Botanical Teas),E,16
+54,163864,Liquiritiae radix (Herbal & Botanical Teas),E,16
+54,163865,Liquirizia (Herbal & Botanical Teas),E,16
+54,163866,Liquorice (Herbal & Botanical Teas),E,16
+54,163867,Orozuz (Herbal & Botanical Teas),E,16
+54,163868,Radix Glycyrrhizae (Herbal & Botanical Teas),E,16
+54,163869,Reglisse (Herbal & Botanical Teas),E,16
+54,163870,Zhi Gan Cao (Herbal & Botanical Teas),E,16
+54,163871,Glycyrrhiza glabra L. (Herbal & Botanical Teas),E,16
+54,163872,Russian Licorrice (Herbal & Botanical Teas),E,16
+54,163873,Spanish Licorice (Herbal & Botanical Teas),E,16
+54,163874,Subholz (Herbal & Botanical Teas),E,16
+54,163875,Sweet Root (Herbal & Botanical Teas),E,16
+54,163876,Yashti-Madhu (Herbal & Botanical Teas),E,16
+54,163877,Yashti-Madhuka (Herbal & Botanical Teas),E,16
+54,163878,Black Bugbane (Herbal & Botanical Teas),E,36
+54,163879,Black Snakeroot (Herbal & Botanical Teas),E,36
+54,163880,Rheumatism Weed (Herbal & Botanical Teas),E,36
+54,163881,Actaea racemosa L. (Herbal & Botanical Teas),E,36
+54,163882,Cimicifuga racemosa (Herbal & Botanical Teas),E,36
+54,163901,"Balloon Flower Root  (Herbal & Botanicals, not Teas)",F,85
+54,163902,"Jiegeng  (Herbal & Botanicals, not Teas)",F,85
+54,163903,"Platycodin  (Herbal & Botanicals, not Teas)",F,85
+54,163904,"Platycodon Root  (Herbal & Botanicals, not Teas)",F,85
+54,163905,"Bell Flower Root  (Herbal & Botanicals, not Teas)",F,85
+54,163906,"Passion Vine  (Herbal & Botanicals, not Teas)",F,87
+54,163907,"Apricot Vine  (Herbal & Botanicals, not Teas)",F,87
+54,163908,"Maypop  (Herbal & Botanicals, not Teas)",F,87
+54,163909,"Passiflora (Herbal & Botanicals, not Teas)",F,87
+54,163910,"Passiflore (Herbal & Botanicals, not Teas)",F,87
+54,163911,"Passiflora incarnate L. (Herbal & Botanicals, not Teas)",F,87
+54,163912,"Wild Passionflower (Herbal & Botanicals, not Teas)",F,87
+54,163913,"Sylvestre (Herbal & Botanicals, not Teas)",F,88
+54,163914,"Gymnema (Herbal & Botanicals, not Teas)",F,88
+54,163915,"Ascelpias germinate (Herbal & Botanicals, not Teas)",F,88
+54,163916,"Gemnema melicida (Herbal & Botanicals, not Teas)",F,88
+54,163917,"Periploca sylvestris (Herbal & Botanicals, not Teas)",F,88
+54,163918,"Gur-Mar (Herbal & Botanicals, not Teas)",F,88
+54,163919,"Gurmar (Herbal & Botanicals, not Teas)",F,88
+54,163920,"Gurmarbooti (Herbal & Botanicals, not Teas)",F,88
+54,163921,"Merasingi (Herbal & Botanicals, not Teas)",F,88
+54,163922,"Meshashringi (Herbal & Botanicals, not Teas)",F,88
+54,163923,"Gokshura (Herbal & Botanicals, not Teas)",F,89
+54,163924,"Puncturevine caltrop (Herbal & Botanicals, not Teas)",F,89
+54,163925,"Small Caltrops (Herbal & Botanicals, not Teas)",F,89
+54,163926,"Tribulus terrestris L. (Herbal & Botanicals, not Teas)",F,89
+54,163927,"Ipazote (Herbal & Botanicals, not Teas)",F,90
+54,163928,"Paico (Herbal & Botanicals, not Teas)",F,90
+54,163929,"American Wormseed (Herbal & Botanicals, not Teas)",F,90
+54,163930,"Wurmsaamen gansefuss (Herbal & Botanicals, not Teas)",F,90
+54,163931,"L'answerine vermifuge (Herbal & Botanicals, not Teas)",F,90
+54,163932,"Erva de Santa Maria (Herbal & Botanicals, not Teas)",F,90
+54,163933,"Chenopodium ambrosiodes (Herbal & Botanicals, not Teas)",F,90
+54,163934,"Chenopodium anthelminticum L. (Herbal & Botanicals, not Teas)",F,90
+54,163935,"Jesuit Tea (Herbal & Botanicals, not Teas)",F,90
+54,163936,"Apazote (Herbal & Botanicals, not Teas)",F,90
+54,163937,"Boswella (Herbal & Botanicals, not Teas)",F,91
+54,163938,"Boswellin (Herbal & Botanicals, not Teas)",F,91
+54,163939,"Boswellin Serrata Resin (Herbal & Botanicals, not Teas)",F,91
+54,163940,"Gajabhakshya (Herbal & Botanicals, not Teas)",F,91
+54,163941,"Indian Olobanum (Herbal & Botanicals, not Teas)",F,91
+54,163942,Playtycodon grandiflorus (Herbal & Botanical Teas),E,85
+54,163943,Chinese Bellflower (Herbal & Botanical Teas),E,85
+54,163944,"Playtycodon grandiflorus (Herbal & Botanical, not Teas)",F,85
+54,163945,"Chinese Bellflower (Herbal & Botanical, not Teas)",F,85
+54,163947,Passion Flower (Herbal & Botanical Teas),E,87
+54,163948,"Passion Flower (Herbal & Botanicals, not Teas)",F,87
+54,164899,"Noni (Herbal & Botanicals, not Teas)",F,93
+54,164900,"Ashwagandha (Herbal & Botanicals, not Teas)",F,94
+54,164901,"Ba Ji Tian (Herbal & Botanicals, not Teas)",F,93
+54,164902,"Boi Douleur (Herbal & Botanicals, not Teas)",F,93
+54,164903,"Canarywood (Herbal & Botanicals, not Teas)",F,93
+54,164919,"Canarywood (Herbal & Botanicals, not Teas)",F,93
+54,164920,"Cheese Fruit (Herbal & Botanicals, not Teas)",F,93
+54,164921,"Hai Ba Ji (Herbal & Botanicals, not Teas)",F,93
+54,164922,"Hawaiian Noni (Herbal & Botanicals, not Teas)",F,93
+54,164923,"Hog Apple (Herbal & Botanicals, not Teas)",F,93
+54,164924,"Indian Mulberry (Herbal & Botanicals, not Teas)",F,93
+54,164925,"Luoling (Herbal & Botanicals, not Teas)",F,93
+54,164926,"Mengkuku (Herbal & Botanicals, not Teas)",F,93
+54,164927,"Menkoedoe (Herbal & Botanicals, not Teas)",F,93
+54,164928,"Mora De La India (Herbal & Botanicals, not Teas)",F,93
+54,164929,"Nhau (Herbal & Botanicals, not Teas)",F,93
+54,164930,"Mulberry (Herbal & Botanicals, not Teas)",F,93
+54,164931,"Noni Juice (Herbal & Botanicals, not Teas)",F,93
+54,164932,"Nono (Herbal & Botanicals, not Teas)",F,93
+54,164933,"Nonu (Herbal & Botanicals, not Teas)",F,93
+54,164934,"Pau-Azeitona (Herbal & Botanicals, not Teas)",F,93
+54,164935,"Rotten Cheese Fruit (Herbal & Botanicals, not Teas)",F,93
+54,164936,"Ruibarbo Caribe (Herbal & Botanicals, not Teas)",F,93
+54,164937,"Tahitian Noni Juice (Herbal & Botanicals, not Teas)",F,93
+54,164938,"Ura (Herbal & Botanicals, not Teas)",F,93
+54,164939,"Wild Pine (Herbal & Botanicals, not Teas)",F,93
+54,164940,"Wu Ning (Herbal & Botanicals, not Teas)",F,93
+54,164941,"Morinda citrifolia L (Herbal & Botanicals, not Teas)",F,93
+54,164942,"Ajagandha (Herbal & Botanicals, not Teas)",F,94
+54,164943,"Amangura (Herbal & Botanicals, not Teas)",F,94
+54,164944,"Amukkirag (Herbal & Botanicals, not Teas)",F,94
+54,164945,"Asan (Herbal & Botanicals, not Teas)",F,94
+54,164979,"Banaba (Herbal & Botanicals, not Teas)",F,95
+54,164980,"Dashmoola (Herbal & Botamincals, not Teas)",F,96
+54,164981,"Purslane (Herbal & Botaniicals, not Teas)",F,97
+54,164982,"Bilberry (Herbal & Botanicals, not Teas)",F,98
+54,165071,"Withania somnifera (L.) Dunal (Herbal & Botanicals, not Teas)",F,94
+54,165072,"Asgand (Herbal & Botanicals, not Teas)",F,94
+54,165073,"Asgandh (Herbal & Botanicals, not Teas)",F,94
+54,165074,"Asgandha (Herbal & Botanicals, not Teas)",F,94
+54,165075,"Ashagandha(Herbal & Botanicals, not Teas)",F,94
+54,165076,"Ashvagandha (Herbal & Botanicals, not Teas)",F,94
+54,165077,"Ashwaganda (Herbal & Botanicals, not Teas)",F,94
+54,165078,"Ashwanga (Herbal & Botanicals, not Teas)",F,94
+54,165079,"Asoda (Herbal & Botanicals, not Teas)",F,94
+54,165080,"Asundha (Herbal & Botanicals, not Teas)",F,94
+54,165081,"Asvagandha (Herbal & Botanicals, not Teas)",F,94
+54,165082,"Aswagandha (Herbal & Botanicals, not Teas)",F,94
+54,165083,"Avarada (Herbal & Botanicals, not Teas)",F,94
+54,165084,"Ayurvedic Ginseng (Herbal & Botanicals, not Teas)",F,94
+54,165085,"Clustered Wintercherry (Herbal & Botanicals, not Teas)",F,94
+54,165086,"Ghoda Asoda (Herbal & Botanicals, not Teas)",F,94
+54,165087,"Hayahvaya (Herbal & Botanicals, not Teas)",F,94
+54,165088,"Indian Ginseng (Herbal & Botanicals, not Teas)",F,94
+54,165089,"Kanaje Hindi (Herbal & Botanicals, not Teas)",F,94
+54,165090,"Kuthmithi (Herbal & Botanicals, not Teas)",F,94
+54,165091,"Samm Al Ferakh (Herbal & Botanicals, not Teas)",F,94
+54,165099,"Turangi-Ghanda (Herbal & Botanicals, not Teas)",F,94
+54,165100,"Vajigandha (Herbal & Botanicals, not Teas)",F,94
+54,165101,"Winter Cherry (Herbal & Botanicals, not Teas)",F,94
+54,165102,"Withania (Herbal & Botanicals, not Teas)",F,94
+54,165115,"Alexandrian Senna (Herbal & Botanicals, not Teas)",F,24
+54,165116,"Alexandrinische Senna (Herbal & Botanicals, not Teas)",F,24
+54,165117,"Casse (Herbal & Botanicals, not Teas)",F,24
+54,165118,"Cassia acutifolia (Herbal & Botanicals, not Teas)",F,24
+54,165119,"Cassia augustifolia (Herbal & Botanicals, not Teas)",F,24
+54,165120,"Cassia lancelolata (Herbal & Botanicals, not Teas)",F,24
+54,165121,"Cassia senna (Herbal & Botanicals, not Teas)",F,24
+54,165122,"Fan sie ye (Herbal & Botanicals, not Teas)",F,24
+54,165123,"Indian Senna (Herbal & Botanicals, not Teas)",F,24
+54,165124,"Jian ye fan xie (Herbal & Botanicals, not Teas)",F,24
+54,165125,"Khartoum Senna (Herbal & Botanicals, not Teas)",F,24
+54,165126,"Sena Alejandrina (Herbal & Botanicals, not Teas)",F,24
+54,165127,"Sene d'Egypte (Herbal & Botanicals, not Teas)",F,24
+54,165128,"Senna acutifolia (Herbal & Botanicals, not Teas)",F,24
+54,165129,"Senna augustifolia (Herbal & Botanicals, not Teas)",F,24
+54,165130,"Sennae folium (Herbal & Botanicals, not Teas)",F,24
+54,165131,"Sennae fructus (Herbal & Botanicals, not Teas)",F,24
+54,165132,"Svarnapatri (Herbal & Botanicals, not Teas)",F,24
+54,165133,"Tinnevelly Senna (Herbal & Botanicals, not Teas)",F,24
+54,165134,"True Senna (Herbal & Botanicals, not Teas)",F,24
+54,165135,"Xia ye fan xie (Herbal & Botanicals, not Teas)",F,24
+54,165137,"Withania somnifera (L.) (Herbal & Botanicals, not Teas)",F,94
+54,165138,"*Withania somnifera (L.) Dunal. (Herbal & Botanicals, not Teas)",F,94
+54,165139,"Banaba Extract (Herbal & Botanicals, not Teas)",F,95
+54,165140,"Banabalean (Herbal & Botanicals, not Teas)",F,95
+54,165141,"Corosolic Acid (Herbal & Botanicals, not Teas)",F,95
+54,165142,"Crape Myrtle (Herbal & Botanicals, not Teas)",F,95
+54,165143,"Crepe Myrtle (Herbal & Botanicals, not Teas)",F,95
+54,165144,"Lagerstroemia flos-reginae (Herbal & Botanicals, not Teas)",F,95
+54,165145,"Munchausia speciosa (Herbal & Botanicals, not Teas)",F,95
+54,165146,"Pride-of-India (Herbal & Botanicals, not Teas)",F,95
+54,165147,"Pyinma (Herbal & Botanicals, not Teas)",F,95
+54,165150,"Lagerstroemia speciosa L. (Herbal & Botanicals, not Teas)",F,95
+54,165151,"Dashamula  (Herbal & Botamincals, not Teas)",F,96
+54,165152,"Dashamularista  (Herbal & Botamincals, not Teas)",F,96
+54,165153,"Dashmularishta  (Herbal & Botamincals, not Teas)",F,96
+54,165154,"Garden (common) pursalne  (Herbal & Botamincals, not Teas)",F,97
+54,165155,"Ma chi xian (Chinese)  (Herbal & Botamincals, not Teas)",F,97
+54,165156,"Munyeroo  (Herbal & Botamincals, not Teas)",F,97
+54,165157,"Pigweed  (Herbal & Botamincals, not Teas)",F,97
+54,165158,"Portulaca  (Herbal & Botamincals, not Teas)",F,97
+54,165159,"Pusley  (Herbal & Botamincals, not Teas)",F,97
+54,165160,"Portulaca oleracea L. (Herbal & Botamincals, not Teas)",F,97
+54,165161,"Astragali  (Herbal & Botamincals, not Teas)",F,33
+54,165162,"Astragalus mongholicus  (Herbal & Botamincals, not Teas)",F,33
+54,165163,"Beg Kei  (Herbal & Botamincals, not Teas)",F,33
+54,165164,"Buck Qi  (Herbal & Botamincals, not Teas)",F,33
+54,165165,"Huang Qi  (Herbal & Botamincals, not Teas)",F,33
+54,165166,"Hwanggi  (Herbal & Botamincals, not Teas)",F,33
+54,165167,"Membranous Milk Vetch  (Herbal & Botamincals, not Teas)",F,33
+54,165168,"Milk Vetch  (Herbal & Botamincals, not Teas)",F,33
+54,165169,"Mongolian Milk  (Herbal & Botamincals, not Teas)",F,33
+54,165170,"Ogi  (Herbal & Botamincals, not Teas)",F,33
+54,165171,"Phaca membranacea  (Herbal & Botamincals, not Teas)",F,33
+54,165172,"Radix Astragali  (Herbal & Botamincals, not Teas)",F,33
+54,165173,"Radix Astragalus  (Herbal & Botamincals, not Teas)",F,33
+54,165174,Astragalus membranaceus (Fisch. Ex Link) Bunge,F,33
+54,165175,"Airelle (Herbal & Botanicals, not Teas)",F,98
+54,165176,"Black Whortles (Herbal & Botanicals, not Teas)",F,98
+54,165177,"Bleaberry (Herbal & Botanicals, not Teas)",F,98
+54,165178,"Burren Myrtle (Herbal & Botanicals, not Teas)",F,98
+54,165179,"Dwarf Bilberry (Herbal & Botanicals, not Teas)",F,98
+54,165180,"Dyeberry (Herbal & Botanicals, not Teas)",F,98
+54,165181,"European Bilberry (Herbal & Botanicals, not Teas)",F,98
+54,165182,"Huckleberry (Herbal & Botanicals, not Teas)",F,98
+54,165183,"Swedish Bilberry (Herbal & Botanicals, not Teas)",F,99
+54,165184,"Hurtleberry (Herbal & Botanicals, not Teas)",F,98
+54,165185,"Myrtilli Fructus (Herbal & Botanicals, not Teas)",F,98
+54,165186,"Trackleberry (Herbal & Botanicals, not Teas)",F,98
+54,165187,"Whortleberry (Herbal & Botanicals, not Teas)",F,98
+54,165188,"Wineberry (Herbal & Botanicals, not Teas)",F,98
+54,165189,"Vaccinium myrtillus (Herbal & Botanicals, not Teas)",F,98
+54,165199,Alexandrian Senna (Herbal & Botanical Teas),E,24
+54,165200,Alexandrinische Senna (Herbal & Botanical Teas),E,24
+54,165201,Casse (Herbal & Botanical Teas),E,24
+54,165202,Cassia acutifolia (Herbal & Botanical Teas),E,24
+54,165203,Cassia angustifolia (Herbal & Botanical Teas),E,24
+54,165204,Cassia lancelolata (Herbal & Botanical Teas),E,24
+54,165205,Cassia senna (Herbal & Botanical Teas),E,24
+54,165206,Fan sie ye (Herbal & Botanical Teas),E,24
+54,165207,Indian Senna (Herbal & Botanical Teas),E,24
+54,165208,Jian ye fan xie (Herbal & Botanical Teas),E,24
+54,165209,Khartoum Senna (Herbal & Botanical Teas),E,24
+54,165210,Sena Alejandrina (Herbal & Botanical Teas),E,24
+54,165211,Sene d'Egypte (Herbal & Botanical Teas),E,24
+54,165212,Senna acutifolia (Herbal & Botanical Teas),E,24
+54,165213,Senna angustifolia (Herbal & Botanical Teas),E,24
+54,165214,Senna alexandrina Mill (Herbal & Botanical Teas),E,24
+54,165215,Sennae folium (Herbal & Botanical Teas),E,24
+54,165216,Sennae fructus (Herbal & Botanical Teas),E,24
+54,165217,Svarnapatri (Herbal & Botanical Teas),E,24
+54,165218,Tinnevelly Senna (Herbal & Botanical Teas),E,24
+54,165219,True Senna (Herbal & Botanical Teas),E,24
+54,165220,Xia ye fan xie (Herbal & Botanical Teas),E,24
+54,165239,Ashwagandha (Herbal & Botanical Teas),E,94
+54,165240,Ajagandha (Herbal & Botanical Teas),E,94
+54,165241,Amangura (Herbal & Botanical Teas),E,94
+54,165242,Amukkirag (Herbal & Botanical Teas),E,94
+54,165243,Asan (Herbal & Botanical Teas),E,94
+54,165244,Asgand (Herbal & Botanical Teas),E,94
+54,165245,Asgandh (Herbal & Botanical Teas),E,94
+54,165246,Asgandha (Herbal & Botanical Teas),E,94
+54,165247,Ashagandha (Herbal & Botanical Teas),E,94
+54,165248,Ashvagandha (Herbal & Botanical Teas),E,94
+54,165249,Ashwaganda (Herbal & Botanical Teas),E,94
+54,165250,Ashwanga (Herbal & Botanical Teas),E,94
+54,165251,Asoda (Herbal & Botanical Teas),E,94
+54,165252,Asundha (Herbal & Botanical Teas),E,94
+54,165253,Asvagandha (Herbal & Botanical Teas),E,94
+54,165254,Aswagandha (Herbal & Botanical Teas),E,94
+54,165255,Avarada (Herbal & Botanical Teas),E,94
+54,165256,Ayurvedic Ginseng (Herbal & Botanical Teas),E,94
+54,165257,Clustered Wintercherry (Herbal & Botanical),E,94
+54,165258,Ghoda Asoda (Herbal & Botanical Teas),E,94
+54,165259,Hayahvaya (Herbal & Botanical Teas),E,94
+54,165260,Indian Ginseng (Herbal & Botanical Teas),E,94
+54,165261,Kanaje Hindi (Herbal & Botanical Teas),E,94
+54,165262,Kuthmithi (Herbal & Botanical Teas),E,94
+54,165263,Samm Al Ferakh (Herbal & Botanical Teas),E,94
+54,165264,Turangi-Ghanda (Herbal & Botanical Teas),E,94
+54,165265,Vajigandha (Herbal & Botanical Teas),E,94
+54,165266,Winter Cherry (Herbal & Botanical Teas),E,94
+54,165267,Withania (Herbal & Botanical Teas),E,94
+54,165268,Withania somnifera (L.) (Herbal & Botanical Teas),E,94
+54,165269,Withania somnifera (L.) Dunal. (Herbal & Botanical Teas),E,94
+54,165270,Banaba (Herbal & Botanical Teas),E,95
+54,165271,Banaba Extract (Herbal & Botanical Teas),E,95
+54,165272,Banabalean (Herbal & Botanical Teas),E,95
+54,165273,Corosolic Acid (Herbal & Botanical Teas),E,95
+54,165274,Crape Myrtle (Herbal & Botanical Tea),E,95
+54,165275,Crepe Myrtle (Herbal  & Botanical Teas),E,95
+54,165276,Lagerstroemia flos-reginae (Herbal & Botanical Teas),E,95
+54,165277,Lagerstroemia speciosa L. (Herbal & Botanical Teas),E,95
+54,165278,Munchausia speciosa (Herbal & Botanical Teas),E,95
+54,165279,Pride-of-India (Herbal & Botanical Teas),E,95
+54,165280,Pyinma (Herbal & Botanical Teas),E,95
+54,165281,Queen's Crape Myrtle (Herbal & Botanical Teas),E,95
+54,165282,Dashmoola (Herbal & Botanical Teas),E,96
+54,165283,Dashamula (Herbal & Botanical Teas),E,96
+54,165284,Dashamularista (Herbal & Botanical Teas),E,96
+54,165285,Dashmularishta (Herbal & Botanical Teas),E,96
+54,165286,Purslane (Herbal & Botanical Teas),E,97
+54,165287,Garden (Common) purslane (Herbal & Botanical Teas),E,97
+54,165288,Ma chi xian (Chinese) (Herbal & Botanical Teas),E,97
+54,165289,Munyeroo (Herbal & Botanical Teas),E,97
+54,165290,Pigweed (Herbal & Botanical Teas),E,97
+54,165291,Portulaca (Herbal & Botanical Teas),E,97
+54,165292,Portulaca oleracea L. (Herbal & Botanical Teas),E,97
+54,165293,Pusley (Herbal & Botanical Teas),E,97
+54,165294,Astragalus membranaceus (Fisch. Ex Link) Bunge (Herbal & Botanical Teas),E,33
+54,165295,Astragali (Herbal & Botanical Teas),E,33
+54,165296,Astragalus mongholicus (Herbal & Botanical Teas),E,33
+54,165297,Beg Kei (Herbal & Botanical Teas),E,33
+54,165298,Bei Qi (Herbal & Botanical Teas),E,33
+54,165299,Buck Qi (Herbal & Botanical Teas),E,33
+54,165300,Huang Qi (Herbal & Botanical Teas),E,33
+54,165301,Hwanggi (Herbal & Botanical Teas),E,33
+54,165302,Membranous Milk Vetch (Herbal & Botanical Teas),E,33
+54,165303,Milk Vetch (Herbal & Botanical Teas),E,33
+54,165304,"Mongolian, Milk (Herbal & Botanical Teas)",E,33
+54,165305,Ogi (Herbal & Botanical Teas),E,33
+54,165306,Phaca membranacea (Herbal & Botanical Teas),E,33
+54,165307,Radix Astragali (Herbal & Botanical Teas),E,33
+54,165308,Radix Astragalus (Herbal & Botanical Teas),E,33
+54,165309,Bilberry (Herbal & Botanical Teas),E,98
+54,165310,Airelle (Herbal & Botanical Teas),E,98
+54,165311,Black Whortles (Herbal & Botanical Teas),E,98
+54,165319,Bleaberry (Herbal & Botanical Teas),E,98
+54,165320,Burren Myrtle (Herbal & Botanical Teas),E,98
+54,165321,Dwarf Bilberry (Herbal & Botanical Teas),E,98
+54,165322,Dyeberry (Herbal & Botanical Teas),E,98
+54,165323,European Bilberry (Herbal & Botanical Teas),E,98
+54,165324,Huckleberry (Herbal & Botanical Teas),E,98
+54,165325,Hurtleberry (Herbal & Botanical Teas),E,98
+54,165326,Myrtilli Fructus (Herbal & Botanical Teas),E,98
+54,165327,Swedish Bilberry (Herbal & Botanical Teas),E,98
+54,165328,Trackleberry (Herbal & Botanical Teas),E,98
+54,165329,Vaccinium myrtillus (Herbal & Botanical Teas),E,98
+54,165330,Whortleberry (Herbal & Botanical Teas),E,98
+54,165331,Wineberry (Herbal & Botanical Teas),E,98
+54,165332,"Queen's Crape Myrtle (Herbal & Botanicals, not Teas)",F,95
+54,166761,Bupleurum (Herbal & Botanicals II),J,01
+54,166762,Bupleurum chinense (Herbal & Botanicals II),J,01
+54,166763,Eucommia (Herbal & Botanicals II),J,02
+54,166764,Eucommia ulmoides (Herbal & Botanicals II),J,02
+54,166765,Valerian (Herbal & Botanicals II),J,03
+54,166766,Valeriana officinalis (Herbal & Botanicals II),J,03
+54,166767,Fang Feng (Herbal & Botanicals II),J,04
+54,166768,Saposhnikovia divaricata (Herbal & Botanicals II),J,04
+54,166769,Roselle (Herbal & Botanicals II),J,05
+54,166771,Hibiscus sabdariffa (Herbal & Botanicals II),J,05
+54,166772,Holy Basil (Herbal & Botanicals II),J,06
+54,166773,Ocimum tenuiflorum (Herbal & Botanicals II),J,06
+54,166774,Tulsi (Herbal & Botanicals II),J,06
+54,166775,Tulasi (Herbal & Botanicals II),J,06
+54,166776,Acai (Herbal & Botanicals II),J,07
+54,166777,Euterpe oleracea (Herbal & Botanicals II),J,07
+54,166778,"Bupleurum (Herbal & Botanicals, not Teas II)",K,01
+54,166779,"Bupleurum chinense (Herbal & Botanicals, not Teas II)",K,01
+54,166780,"Eucommia (Herbal & Botanicals, not Teas II)",K,02
+54,166781,"Eucommia ulmoides (Herbal & Botanicals, not Teas II)",K,02
+54,166782,"Valerian (Herbal & Botanicals, not Teas II)",K,03
+54,166783,"Valeriana officinalis (Herbal & Botanicals, not Teas II)",K,03
+54,166784,"Fang Feng (Herbal & Botanicals, not Teas II)",K,04
+54,166785,"Saposhnikovia divaricata (Herbal & Botanicals, not Teas II)",K,04
+54,166786,"Roselle (Herbal & Botanicals, not Teas II)",K,05
+54,166787,"Hibiscus sabdariffa (Herbal & Botanicals, not Teas II)",K,05
+54,166788,"Holy Basil (Herbal & Botanicals, not Teas II)",K,06
+54,166789,"Ocimum tenuiflorum (Herbal & Botanicals, not Teas II)",K,06
+54,166790,"Tulsi (Herbal & Botanicals, not Teas II)",K,06
+54,166791,"Tulasi (Herbal & Botanicals, not Teas II)",K,06
+54,166792,"Acai (Herbal & Botanicals, not Teas II)",K,07
+54,166793,"Euterpe oleracea (Herbal & Botanicals, not Teas II)",K,07
+54,169922,Calabash Chalk,B,21
+54,169923,Calabash Clay (Calabash Chalk),B,21
+54,169924,Nzu (Calabash Chalk),B,21
+54,169925,Poto (Calabash Chalk),B,21
+54,169926,Calabar Stone (Calabash Chalk),B,21
+54,169927,Ndom (Calabash Chalk),B,21
+54,169928,Mabele (Calabash Chalk),B,21
+54,169929,Argile (Calabash Chalk),B,21
+54,169930,La Craie (Calabash Chalk),B,21
+54,170502,"Aloe (Herbal and Botanical Teas II, (continued))",J,08
+54,170503,Aloe (Herbal and Botanical (not teas) II (continued)),K,08
+54,170504,"Betel Leaf (Herbal and Botanical Teas II, (continued))  	",J,09
+54,170506,"Paan (Herbal and Botanical Teas II, (continued))",J,09
+54,170507,Betel Leaf (Herbal and Botanical (not teas) II (continued)),K,09
+54,170508,Paan (Herbal and Botanical (not teas) II (continued)),K,09
+54,171782,"Moringa Oleifera (Herbal and Botanical Teas II, (continued)",J,10
+54,171783,Moringa Oleifera (Herbal and Botanical (not Teas II) contd,K,10
+54,173079,"Betel Nut (Herbal and Botanical Teas II, continued)",J,11
+54,173080,"Betel Nut (Herbal and Botanicals, not Teas II)",K,11
+54,174171,"Kratom (Herbal and Botanical Teas II, continued)",J,12
+54,174172,"Mitragyna speciosa (Herbal and Botanical Teas II, continued)",J,12
+54,174173,"Mitragynine extract (Herbal and Botanical Teas II, continued)",J,12
+54,174174,"Biak-biak (Herbal and Botanical Teas II, continued)",J,12
+54,174175,"Cratom (Herbal and Botanical Teas II, continued)",J,12
+54,174176,"Gratom (Herbal and Botanical Teas II, continued)",J,12
+54,174177,"Ithang (Herbal and Botanical Teas II, continued)",J,12
+54,174178,"Kakuam (Herbal and Botanical Teas II, continued)",J,12
+54,174179,"Katawn (Herbal and Botanical Teas II, continued)",J,12
+54,174180,"Kedemba (Herbal and Botanical Teas II, continued)",J,12
+54,174181,"Ketum (Herbal and Botanical Teas II, continued)",J,12
+54,174182,"Krathom (Herbal and Botanical Teas II, continued)",J,12
+54,174183,"Krton (Herbal and Botanical Teas II, continued)",J,12
+54,174184,"Mambog (Herbal and Botanical Teas II, continued)",J,12
+54,174185,"Madat (Herbal and Botanical Teas II, continued)",J,12
+54,174186,"Maeng da leaf (Herbal and Botanical Teas II, continued)",J,12
+54,174187,"Nauclea (Herbal and Botanical Teas II, continued)",J,12
+54,174188,"Nauclea speciosa (Herbal and Botanical Teas II, continued)",J,12
+54,174189,"Thang (Herbal and Botanical Teas II, continued)",J,12
+54,174190,"Kratom (Herbal and Botanicals, not Teas II)",K,12
+54,174191,"Mitragyna speciosa (Herbal and Botanicals, not Teas II)",K,12
+54,174192,"Mitragynine extract (Herbal and Botanicals, not Teas II)",K,12
+54,174193,"Biak-biak (Herbal and Botanicals, not Teas II)",K,12
+54,174194,"Cratom (Herbal and Botanicals, not Teas II)",K,12
+54,174195,"Gratom (Herbal and Botanicals, not Teas II)",K,12
+54,174196,"Ithang (Herbal and Botanicals, not Teas II)",K,12
+54,174197,"Kakuam (Herbal and Botanicals, not Teas II)",K,12
+54,174198,"Katawn (Herbal and Botanicals, not Teas II)",K,12
+54,174199,"Kedemba (Herbal and Botanicals, not Teas II)",K,12
+54,174200,"Ketum (Herbal and Botanicals, not Teas II)",K,12
+54,174201,"Krathom (Herbal and Botanicals, not Teas II)",K,12
+54,174202,"Krton (Herbal and Botanicals, not Teas II)",K,12
+54,174203,"Mambog (Herbal and Botanicals, not Teas II)",K,12
+54,174204,"Madat (Herbal and Botanicals, not Teas II)",K,12
+54,174205,"Maeng da leaf (Herbal and Botanicals, not Teas II)",K,12
+54,174206,"Nauclea (Herbal and Botanicals, not Teas II)",K,12
+54,174207,"Nauclea speciosa (Herbal and Botanicals, not Teas II)",K,12
+54,174208,"Thang (Herbal and Botanicals, not Teas II)",K,12
+54,174677,"Whey Protein Powder (Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, N.E.C.)",Y,11
+54,174678,"Casein Protein Powder (Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, N.E.C.)",Y,12
+54,174679,Vegetable and Whole Grain Protein Powder (Vit/Min/Protein/Unconventional Dietary Spec for Human/Anim,Y,13
+54,174680,"Soy Protein Powder (Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, N.E.C.)",Y,14
+54,174681,"Hemp Protein Powder (Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, N.E.C.)",Y,15
+54,174682,Whole Grain & Milled Protein Powder (Vit/Min/Protein/Unconven Dietary Spec for Human/Animal NEC),Y,16
+54,174683,Brown Rice Protein Powder,Y,16
+54,174684,"Vegetable Protein Powder (Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, N.E.C.)",Y,17
+54,174685,Pea Protein Powder,Y,17
+54,174686,"Nuts & Edible Seed Protein Powder (Vit/Min/Protein/Unconven Dietary Spec for Human/Animal, N.E.C.)",Y,18
+54,174687,Pumpkin seed protein powder,Y,18
+54,174688,Peanut butter protein powder,Y,18
+54,174689,"Egg Protein Powder (Vit/Min/Protein/Unconventional Dietary Spec for Human/Animal, N.E.C.)",Y,19
+54,174690,Soy Lecithin (Fats and Lipid Substances),H,07
+54,174691,Soybean Lecithin,H,07
+54,174692,Sunflower Lecithin (Fats and Lipid Substances),H,08
+54,174693,Rapeseed Lecithin (Fats and Lipid Substances),H,09
+54,174854,Methylcobalamin (Vitamin),A,10
+54,174855,Methyl B12 (Vitamin),A,10
+54,174950,Krill Oil (Fats and Lipid Substances),H,10
+54,174961,Glucosamine Sulfate (Herbal and Botanical Teas II),J,13
+54,174962,Glucosamine Hydrochloride (Herbals and Teas II),J,14
+54,174963,"Glucosamine Sulfate (Herbal and Botanicals, not Teas II)",K,13
+54,174964,"Glucosamine Hydrochloride (Herbal and Botanicals, not Teas II)",K,14
+54,175452,"Cesium Chloride, non-radioactive (Mineral)",B,22
+54,175883,Selenious Acid,B,20
+54,176214,Cesium monochloride,B,22
+54,176215,Dicesium dichloride,B,22
+54,176216,EC 231-600-2,B,22
+54,176217,EINECS 231-600-2,B,22
+54,176218,HSDB 7149,B,22
+54,176219,NSC 15198,B,22
+54,176220,Tricesium trichloride,B,22
+54,176221,UNII-GNR9HML8BA,B,22
+54,176222,Acacia Rigidula  (Herbal & Botanicals II),J,15
+54,176223,DMBA  (Herbal & Botanicals II),J,16
+54,176224,Higenamine  (Herbal & Botanicals II),J,17
+54,176225,Hordenine  (Herbal & Botanicals II),J,18
+54,176226,Octopamine  (Herbal & Botanicals II),J,19
+54,176227,"Acacia Rigidula (Herbal and Botanicals, not Teas II)",K,15
+54,176228,"DMBA (Herbal and Botanicals, not Teas II)",K,16
+54,176229,"Higenamine (Herbal and Botanicals, not Teas II)",K,17
+54,176230,"Hordenine (Herbal and Botanicals, not Teas II)",K,18
+54,176231,"Octopamine (Herbal and Botanicals, not Teas II)",K,19
+54,176232,A. rigidula,J,15
+54,176233,Vachellia rigidula,J,15
+54,176234,Chaparro Prieto,J,15
+54,176235,Blackbrush,J,15
+54,176236,A. rigidula,K,15
+54,176237,Vachellia rigidula,K,15
+54,176238,Chaparro Prieto,K,15
+54,176239,Blackbrush,K,15
+54,176240,"1,3-Dimethylbutylamine",J,16
+54,176241,2-Amino-4-Methylpentane Citrate,J,16
+54,176242,4-Amino-2-Methylpentane Citrate,J,16
+54,176243,4-Amino Methylpentane Citrate,J,16
+54,176244,Amperall,J,16
+54,176245,4-AMP Citrate,J,16
+54,176246,4-Methyl-2-Pentanamine,J,16
+54,176247,"1,3-Dimethylbutylamine",K,16
+54,176248,2-Amino-4-Methylpentane Citrate,K,16
+54,176249,4-Amino-2-Methylpentane Citrate,K,16
+54,176250,4-Amino Methylpentane Citrate,K,16
+54,176251,Amperall,K,16
+54,176252,4-AMP Citrate,K,16
+54,176253,4-Methyl-2-Pentanamine,K,16
+54,176254,Norcoclaurine; Demethylcoclaurine,J,17
+54,176255,O-Demethylcoclaurine,J,17
+54,176256,(R)-Higenamine,J,17
+54,176257,"6,7-dihydroxy-1-(4-hydroxybenzyl)-1,2,3,4-tetrahydroisoquinoline",J,17
+54,176258,"Coclaurine, O-demethyl-",J,17
+54,176259,6-7-Isoquinolinediol,J,17
+54,176260,"1,2,3,4-tetrahydro-1-((4-hydroxyphenyl)methyl)-",J,17
+54,176261,Norcoclaurine; Demethylcoclaurine,K,17
+54,176262,O-Demethylcoclaurine,K,17
+54,176263,(R)-Higenamine,K,17
+54,176264,"6,7-dihydroxy-1-(4-hydroxybenzyl)-1,2,3,4-tetrahydroisoquinoline",K,17
+54,176265,"Coclaurine, O-demethyl-",K,17
+54,176266,6-7-Isoquinolinediol,K,17
+54,176267,"1,2,3,4-tetrahydro-1-((4-hydroxyphenyl)methyl)-",K,17
+54,176268,4-[2-(Dimethylamino)ethyl]phenol,J,18
+54,176269,"N,N-dimethyltyramine",J,18
+54,176270,"p-hydroxy-N,N-dimethylphenethylamine",J,18
+54,176271,"2-(4-hydroxyphenyl)N,N-dimethyl-ethylamine",J,18
+54,176272,anhaline,J,18
+54,176273,eremursine,J,18
+54,176274,4-[2-(Dimethylamino)ethyl]phenol,K,18
+54,176275,"N,N-dimethyltyramine",K,18
+54,176276,"p-hydroxy-N,N-dimethylphenethylamine",K,18
+54,176277,"2-(4-hydroxyphenyl)N,N-dimethyl-ethylamine",K,18
+54,176278,anhaline,K,18
+54,176279,eremursine,K,18
+54,176280,alpha-(Aminoethyl)-4-hydroxybenzenemethanol,J,19
+54,176281,alpha-(Aminoethyl)-p-hydroxybenzyl alcohol,J,19
+54,176282,alpha-Aminoethyl-4-hydroxybenzylalkohol,J,19
+54,176283,Analet,J,19
+54,176284,Benzenemethano,J,19
+54,176285,alpha-(aminomethyl)-4-hydroxy-;,J,19
+54,176286,Norden,J,19
+54,176287,Norfen,J,19
+54,176288,Norphen,J,19
+54,176289,Norsympathol,J,19
+54,176292,alpha-(Aminoethyl)-4-hydroxybenzenemethanol,K,19
+54,176293,alpha-(Aminoethyl)-p-hydroxybenzyl alcohol,K,19
+54,176294,alpha-Aminoethyl-4-hydroxybenzylalkohol,K,19
+54,176295,Analet,K,19
+54,176296,Benzenemethano,K,19
+54,176297,alpha-(aminomethyl)-4-hydroxy-;,K,19
+54,176298,Norden,K,19
+54,176299,Norfen,K,19
+54,176300,Norphen,K,19
+54,176301,Norsympathol,K,19
+54,176802,Maca (Herbal & Botanicals II),J,20
+54,176803,Ayak Chichira,J,20
+54,176804,Ginseng Andin,J,20
+54,176805,Ayuk Willku,J,20
+54,176806,Ginseng Peruvien,J,20
+54,176807,Lepidium meyenii,J,20
+54,176808,Lepidium peruvianum,J,20
+54,176809,Maca Maca,J,20
+54,176810,Maca Peruvien,J,20
+54,176811,Maino,J,20
+54,176812,Maka,J,20
+54,176813,Peruvian Ginseng,J,20
+54,176814,Peruvian Maca,J,20
+54,176815,"Maca (Herbal & Botanicals, not Teas II)",K,20
+54,176816,Ayak Chichira,K,20
+54,176817,Ayuk Willku,K,20
+54,176818,Ginseng Andin,K,20
+54,176819,Ginseng Peruvien,K,20
+54,176820,Lepidium meyenii,K,20
+54,176821,Lepidium peruvianum,K,20
+54,176822,Maca Maca,K,20
+54,176823,Maca Peruvien,K,20
+54,176824,Maino,K,20
+54,176825,Maka,K,20
+54,176826,Peruvian Ginseng,K,20
+54,176827,Peruvian Maca,K,20
+54,176828,Amla (Herbal & Botanicals II),J,21
+54,176829,Indian Gooseberry,J,21
+54,176830,Amalaki,J,21
+54,176831,Aamalaki,J,21
+54,176832,Amalaki,J,21
+54,176833,Amblabaum,J,21
+54,176834,Amla Berry,J,21
+54,176835,Aonla,J,21
+54,176836,Aovla,J,21
+54,176837,Arbre de Malacca,J,21
+54,176838,Arbre Myrobolan,J,21
+54,176839,Dhatriphala,J,21
+54,176840,Emblic,J,21
+54,176841,Emblica,J,21
+54,176842,Emblica officinalis,J,21
+54,176843,Emblic Myrobalan,J,21
+54,176844,Groseille a Maquereau Indienne,J,21
+54,176845,Groseille Indienne,J,21
+54,176846,Groseillier de Ceylan,J,21
+54,176847,Grosella de la India,J,21
+54,176848,Mirobalano,J,21
+54,176849,Myrobalan Emblic,J,21
+54,176850,Mirobalanus embilica,J,21
+54,176851,Neli,J,21
+54,176852,Phyllanthus emblica,J,21
+54,176853,Yu Gan Zi,J,21
+54,176854,"Amla (Herbal & Botanicals, not Teas II)",K,21
+54,176855,Indian Gooseberry,K,21
+54,176856,Amalaki,K,21
+54,176857,Aamalaki,K,21
+54,176858,Amalaki,K,21
+54,176859,Amblabaum,K,21
+54,176860,Amla Berry,K,21
+54,176861,Aonla,K,21
+54,176862,Aovla,K,21
+54,176863,Arbre de Malacca,K,21
+54,176864,Arbre Myrobolan,K,21
+54,176865,Dhatriphala,K,21
+54,176866,Emblic,K,21
+54,176867,Emblica,K,21
+54,176868,Emblica officinalis,K,21
+54,176869,Emblic Myrobalan,K,21
+54,176870,Groseille a Maquereau Indienne,K,21
+54,176871,Groseille Indienne,K,21
+54,176872,Groseillier de Ceylan,K,21
+54,176873,Grosella de la India,K,21
+54,176874,Mirobalano,K,21
+54,176875,Myrobalan Emblic,K,21
+54,176876,Mirobalanus embilica,K,21
+54,176877,Neli,K,21
+54,176878,Phyllanthus emblica,K,21
+54,176879,Yu Gan Zi,K,21
+54,176957,Turmeric (Herbal & Botanicals II),J,22
+54,176958,"54K[][]22/Turmeric (Herbal & Botanicals, not Teas II)",K,22

@@ -1,0 +1,98 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+15,495,"Eggs, Chicken, In Shell",A,01
+15,496,Egg White (Egg Albumen),B,01
+15,497,Omelette Mix,C,01
+15,498,"Egg White, Incubator Rejects",D,01
+15,499,"Egg White, Imitation or Substitute",E,01
+15,500,"Eggs, Turkey, In Shell",A,02
+15,501,Egg Yolk,B,02
+15,502,"Egg Yolk, Incubator Rejects",D,02
+15,503,"Egg Yolk, Imitation or Substitute",E,02
+15,504,"Eggs, Duck, In Shell",A,03
+15,505,"Egg White, Salted or Sugared",B,03
+15,506,"Egg, Whole, Incubator Rejects",D,03
+15,507,"Egg Mixes, Imitation or Substitute",E,03
+15,508,"Egg Yolk, Salted or Sugared",B,04
+15,509,"Egg, Whole,Shelled, (White and Yolk Mixed)",B,05
+15,510,"Egg, Whole, Shelled, Salted or Sugared",B,06
+15,511,"Eggs, Other Bird,In Shell, N.E.C.",A,99
+15,512,"Shelled Egg Products, N.E.C.",B,99
+15,513,"Egg Mixes, N.E.C.",C,99
+15,514,"Incubator Rejects, N.E.C.",D,99
+15,515,"Egg Products, Imitation or Substitute, N.E.C.",E,99
+15,516,"Egg And Egg Products Not Elsewhere Mentioned, N.E.C.",Y,99
+15,23863,"Eggs, Quail, In Shell",A,04
+15,168042,"Eggs, Ostrich, In Shell",A,05
+15,168043,"Eggs, Guinea, In Shell",A,06
+15,168044,"Eggs, Goose, In Shell",A,07
+15,168045,"Eggs, Specialty",A,08
+15,168046,Balut,A,08
+15,168047,1000 Year Old egg,A,08
+15,168048,Peedan,A,08
+15,168049,"Eggs, Hatching, Chicken",A,09
+15,168051,"Eggs, Hatching, Duck",A,11
+15,168052,"Eggs, Hatching, Goose",A,12
+15,168053,"Eggs, Hatching, Turkey",A,13
+15,168054,"Eggs, Hatching, Guinea",A,14
+15,168055,"Eggs, Hatching, NEC",A,15
+15,168056,"Egg White, Chicken (Egg Albumen)",B,01
+15,168057,"Egg White, Turkey (Egg Albumen)",B,01
+15,168058,"Egg White, Duck (Egg Albumen)",B,01
+15,168059,"Egg White, Goose (Egg Albumen)",B,01
+15,168060,"Egg White, Guinea (Egg Albumen)",B,01
+15,168061,"Egg Yolk, Chicken",B,02
+15,168062,"Egg Yolk, Turkey",B,02
+15,168063,"Egg Yolk, Duck",B,02
+15,168064,"Egg Yolk, Goose",B,02
+15,168065,"Egg Yolk, Guinea",B,02
+15,168066,"Egg White, Salted or Sugared, Chicken",B,03
+15,168067,"Egg White, Salted or Sugared, Turkey",B,03
+15,168068,"Egg White, Salted or Sugared, Duck",B,03
+15,168069,"Egg White, Salted or Sugared, Goose",B,03
+15,168070,"Egg White, Salted or Sugared, Guinea",B,03
+15,168071,"Egg Yolk, Salted or Sugared, Chicken",B,04
+15,168072,"Egg Yolk, Salted or Sugared, Turkey",B,04
+15,168073,"Egg Yolk, Salted or Sugared, Duck",B,04
+15,168074,"Egg Yolk, Salted or Sugared, Goose",B,04
+15,168075,"Egg Yolk, Salted or Sugared, Guinea",B,04
+15,168076,"Egg Whole, Shelled (White and Yolk Mixed) Chicken",B,05
+15,168077,"Egg Whole, Shelled (White and Yolk Mixed), Turkey",B,05
+15,168078,"Egg Whole, Shelled (White and Yolk Mixed), Duck",B,05
+15,168079,"Egg Whole, Shelled (White and Yolk Mixed), Goose",B,05
+15,168080,"Egg Whole, Shelled (White and Yolk Mixed), Guinea",B,05
+15,168081,"Egg Whole, Shelled, Salted or Sugared, Chicken",B,06
+15,168082,"Egg Whole, Shelled, Salted or Sugared, Turkey",B,06
+15,168083,"Egg Whole, Shelled, Salted or Sugared, Duck",B,06
+15,168084,"Egg Whole, Shelled, Salted or Sugared, Goose",B,06
+15,168085,"Egg Whole, Shelled, Salted or Sugared, Guinea",B,06
+15,168086,Egg Extracts,B,07
+15,168087,"Egg Extracts, Lecithin",B,07
+15,168088,"Egg Extracts, Phospholipids",B,07
+15,168089,"Egg Extracts, Albumin",B,07
+15,168090,"Egg Extracts, Cholesterol",B,07
+15,168091,"Egg Extracts, Phosphatidylcholine",B,07
+15,168092,"Egg Extracts, Antibodies",B,07
+15,168093,"Egg Extracts, Transferrin",B,07
+15,168094,"Egg Extracts, Ovomucoid",B,07
+15,168095,"Egg Extracts, Shell Membranes",B,07
+15,168096,"Egg Extracts, Avidin",B,07
+15,168097,"Egg Extracts, Lysozymes",B,07
+15,168098,"Omelette, plain, with/without cheese, other ingredients",C,02
+15,168099,Quiche,C,03
+15,168820,Denatured Eggs,F,01
+15,168821,Not denatured Eggs,F,02
+15,168822,"Inedible Eggs, n.e.c.",F,99
+15,168823,Restricted Eggs,G,01
+15,168824,Non restricted Eggs,G,02
+15,168825,"Eggs for Breaker, n.e.c.",G,99
+15,169982,"Egg Whole, Shelled (White and Yolk Mixed), Guinea",B,05
+15,169983,"Egg Whole, Shelled (White and Yolk Mixed), Chicken",B,05
+15,169984,"Egg Whole, Shelled (White and Yolk Mixed), Turkey",B,05
+15,169985,"Egg Whole, Shelled (White and Yolk Mixed), Duck",B,05
+15,169986,"Egg Whole, Shelled, Salted or Sugared, Goose",B,06
+15,169987,"Other Egg Whites (Egg Albumen) , NEC",B,08
+15,169988,"Other Egg Yolks, NEC",B,09
+15,169990,"Other Egg Whites, Salted or Sugared , NEC",B,10
+15,169991,"Other Egg Yolks, Salted or Sugared, NEC",B,11
+15,169992,"Other Egg , Whole, Shelled, (White and Yolk) , NEC",B,12
+15,169993,"Other Egg, Whole, Shelled, Salted or Sugared , NEC",B,13

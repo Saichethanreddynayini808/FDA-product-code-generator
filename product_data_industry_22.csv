@@ -1,0 +1,311 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+22,1157,"Cantaloupe, Topping or Syrup",E,01
+22,1158,Cantaloupe (Vine Fruit),A,01
+22,1159,"Cantaloupe, Dried or Paste",B,01
+22,1160,"Cantaloupe, Jam, Jelly, Preserves, Marmalade, Butter or Candied",C,01
+22,1161,"Cantaloupe, Juice, Vine Fruit Juices or Concentrates",D,01
+22,1162,"Pomegranate, Topping or Syrup",L,01
+22,1163,Pomegranate (Other Fruit),G,01
+22,1164,"Pomegranate, Dried or Paste",H,01
+22,1165,"Pomegranate, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,01
+22,1166,"Pomegranate, Juice, Other Fruit Juices or Concentrates",K,01
+22,1167,"Casaba (Cassaba) Melon, Topping or Syrup",E,02
+22,1168,Casaba (Cassaba) Melon (Vine Fruit),A,02
+22,1169,"Casaba (Cassaba) Melon, Dried or Paste",B,02
+22,1170,"Casaba (Cassaba) Melon, Jam, Jelly, Preserves, Marmalade, Butter or Candied",C,02
+22,1171,"Casaba (Cassaba) Melon, Juice, Vine Fruit Juices or Concentrates",D,02
+22,1172,"Persimmon, Topping or Syrup",L,02
+22,1173,Persimmon (Other Fruit),G,02
+22,1174,"Persimmon, Dried or Paste",H,02
+22,1175,"Persimmon, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,02
+22,1176,"Persimmon, Juice, Other Fruit Juices or Concentrates",K,02
+22,1177,"Honeydew Melon, Topping or Syrup",E,03
+22,1178,Honeydew Melon (Vine Fruit),A,03
+22,1179,"Honeydew Melon, (Vine Fruit Dried or Paste)",B,03
+22,1180,"Honeydew Melon, Jam, Jelly, Preserves, Marmalade, Butter or Candied",C,03
+22,1181,"Honeydew Melon, Juice, Vine Fruit Juices or Concentrates",D,03
+22,1182,"Pectin, Topping or Syrup",L,03
+22,1183,Pectin (Other Fruit Products),G,03
+22,1184,"Pectin, Dried or Paste",H,03
+22,1185,"Pectin, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,03
+22,1186,"Pectin, Juice, Other Fruit Juices or Concentrates",K,03
+22,1187,"Watermelon, Topping or Syrup",E,04
+22,1188,Watermelon (Vine Fruit),A,04
+22,1189,"Watermelon, Dried or Paste",B,04
+22,1190,"Watermelon, Jam, Jelly, Preserves, Marmalade, Butter or Candied",C,04
+22,1191,"Watermelon, Juice, Vine Fruit Juices or Concentrates",D,04
+22,1192,"Soursop, Topping or Syrup",L,04
+22,1193,Soursop (Other Fruit Products),G,04
+22,1194,"Soursop, Dried or Paste",H,04
+22,1195,"Soursop, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,04
+22,1196,"Soursop, Juice, Other Fruit Juices or Concentrates",K,04
+22,1197,"Bitter Melon, Topping or Syrup",E,05
+22,1198,Bitter Melon (Vine Fruit),A,05
+22,1199,"Bitter Melon, Dried or Paste",B,05
+22,1200,"Bitter Melon, Jam, Jelly, Preserves, Marmalade, Butter or Candied",C,05
+22,1201,"Bitter Melon, Juice, Vine Fruit Juices or Concentrates",D,05
+22,1202,"Sweetsop, Topping or Syrup",L,05
+22,1203,Sweetsop (Other Fruit Products),G,05
+22,1204,"Sweetsop, Dried or Paste",H,05
+22,1205,"Sweetsop, Jam, Jelly, Preserves, Marmalade, Butter or Candied",J,05
+22,1206,"Sweetsop, Juice, Other Fruit Juices or Concentrates",K,05
+22,1207,"Santa Claus Melon, Topping or Syrup",E,06
+22,1208,Santa Claus Melon (Vine Fruit),A,06
+22,1209,"Santa Claus Melon, Dried or Paste",B,06
+22,1210,"Santa Claus Melon, Jam, Jelly, Preserves, Marmalade, Butter or Candied",C,06
+22,1211,"Santa Claus Melon, Juice, Vine Fruit Juices or Concentrates",D,06
+22,1212,"Winter Melon, Topping or Syrup",E,07
+22,1213,Winter Melon (Vine Fruit),A,07
+22,1214,"Winter Melon, Dried or Paste",B,07
+22,1215,"Winter Melon, Jam, Jelly, Preserves, Marmalade, Butter or Candied",C,07
+22,1216,"Winter Melon, Juice, Vine Fruit Juices or Concentrates",D,07
+22,1217,"Vine Fruit, Topping or Syrup, N.E.C.",E,99
+22,1218,"Vine Fruit, N.E.C.",A,99
+22,1219,"Vine Fruit, Dried or Paste, N.E.C.",B,99
+22,1220,"Vine Fruit, Jam, Jelly, Preserves, Marmalade, Butter or Candied, N.E.C.",C,99
+22,1221,"Vine Fruit, Juices or Concentrates, N.E.C.",D,99
+22,1222,"Other Fruit and Fruit Products, Topping or Syrup, N.E.C.",L,99
+22,1223,"Other Fruit and Fruit Products, N.E.C.",G,99
+22,1224,"Other Fruit and Fruit Products, Dried and Paste, N.E.C.",H,99
+22,1225,"Other Fruit and Fruit Products, Jam, Jelly, Preserves, Marmalade, Butter or Candied, N.E.C.",J,99
+22,1226,"Other Fruits and Fruit Products, Other Fruit Juices or Concentrates, N.E.C.",K,99
+22,156346,Honey Dew Melon,A,03
+22,156347,Honey Dew Melon,B,03
+22,156348,Honey Dew Melon,C,03
+22,156349,Hondy Dew Melon,D,03
+22,156350,Honey Dew Melon,E,03
+22,156351,Honey Dew Melon,F,03
+22,156352,Sugar Baby Watermelon,A,04
+22,156353,Tiger Watermelon,A,04
+22,156354,Golden Watermelon,A,04
+22,156355,Picnic Melons,A,04
+22,156356,Icebox Melons,A,04
+22,156357,Seedles Melons,A,04
+22,156358,Sugar Baby Watermelon,B,04
+22,156359,Tiger Watermelon,B,04
+22,156360,Golden Watermelon,B,04
+22,156361,Picnic Melons,B,04
+22,156362,Icebox Melons,B,04
+22,156363,Seedles Melons,B,04
+22,156364,Sugar Bay Watermelon,C,04
+22,156365,Tiger Watermelon,C,04
+22,156366,Golden Watermelon,C,04
+22,156367,Picnic Melons,C,04
+22,156368,Icebox Melons,C,04
+22,156369,Seedles Melons,C,04
+22,156370,Sugar Baby Watermelon,D,04
+22,156371,Tiger Watermelon,D,04
+22,156372,Golden Watermelon,D,04
+22,156373,Picnic Melons,D,04
+22,156374,Icebox Melons,D,04
+22,156375,Seedles Melons,D,04
+22,156376,Sugar Baby Watermelon,E,04
+22,156377,Tiger Watermelon,E,04
+22,156378,Golden Watermelon,E,04
+22,156379,Picnic Melons,E,04
+22,156380,Icebox Melons,E,04
+22,156381,Seedles Melons,E,04
+22,156382,Sugar Baby WaterMelon,F,04
+22,156383,Tiger Watermelon,F,04
+22,156384,Golden Watermelon,F,04
+22,156385,Picnic Melons,F,04
+22,156386,Icebox Melons,F,04
+22,156387,Seedles Melons,F,04
+22,156390,Christmas Melon,A,06
+22,156391,Christmas Melon,B,06
+22,156392,Christmas Melon,C,06
+22,156393,Christmas Melon,D,06
+22,156394,Christmas Melon,E,06
+22,156395,Christmas Melon,F,06
+22,156396,Kiwano Melon (English Tomato),A,08
+22,156397,Horned Melon,A,08
+22,156398,African Horned Cucumber,A,08
+22,156399,African Horned Melon,A,08
+22,156400,Jelly Melon,A,08
+22,156402,Hedged Gourd,A,08
+22,156403,Melano Melon,A,08
+22,156404,Kiwano Melon (English Tomato),B,08
+22,156405,Horned Melon,B,08
+22,156406,African Horned Cucumber,B,08
+22,156407,African Horned Melon,B,08
+22,156408,Jelly Melon,B,08
+22,156410,Hedged Gourd,B,08
+22,156411,Melano Melon,B,08
+22,156412,Kiwano Melon (English Tomato),C,08
+22,156413,Horned Melon,C,08
+22,156414,African Horned Cucumber,C,08
+22,156415,African Horned Melon,C,08
+22,156416,Jelly Melon,C,08
+22,156418,Hedged Gourd,C,08
+22,156419,Melano Melon,C,08
+22,156420,Kiwano Melon (English Tomato),D,08
+22,156421,Horned Melon,D,08
+22,156422,African Horned Cucumber,D,08
+22,156423,African Horned Melon,D,08
+22,156424,Jelly Melon,D,08
+22,156426,Hedged Gourd,D,08
+22,156427,Melano Melon,D,08
+22,156428,Kiwano Melon (English Tomato),E,08
+22,156429,Horned Melon,E,08
+22,156430,African Horned Cucumber,E,08
+22,156431,African Horned Melon,E,08
+22,156432,Jelly Melon,E,08
+22,156434,Hedged Gourd,E,08
+22,156435,Melano Melon,E,08
+22,156436,Kiwano Melon (English Tomato),F,08
+22,156437,Horned Melon,F,08
+22,156438,African Horned Cucumber,F,08
+22,156439,African Horned Melon,F,08
+22,156440,Jelly Melon,F,08
+22,156442,Hedged Gourd,F,08
+22,156443,Melano Melon,F,08
+22,156444,Korean Melon,A,09
+22,156445,Yellow Melon,A,09
+22,156446,Dua Gan,A,09
+22,156447,Oriental Melon,A,09
+22,156448,Korean Melon,B,09
+22,156449,Yellow Melon,B,09
+22,156450,Dua Gan,B,09
+22,156451,Oriental Melon,B,09
+22,156452,Korean Melon,C,09
+22,156453,Yellow Melon,C,09
+22,156454,Dua Gan,C,09
+22,156455,Oriental Melon,C,09
+22,156456,Korean Melon,D,09
+22,156457,Yellow Melon,D,09
+22,156458,Dua Gan,D,09
+22,156459,Oriental Melon,D,09
+22,156460,Korean Melon,E,09
+22,156461,Yellow Melon,E,09
+22,156462,Dua Gan,E,09
+22,156463,Oriental Melon,E,09
+22,156464,Korean Melon,F,09
+22,156465,Yellow Melon,F,09
+22,156466,Dua Gan,F,09
+22,156467,Oriental Melon,F,09
+22,156468,Hami Melon,A,10
+22,156469,Sweet Melon,A,10
+22,156470,Kuhong,A,10
+22,156471,Chinese Melon,A,10
+22,156472,Hami Melon,B,10
+22,156473,Sweet Melon,B,10
+22,156474,Kuhong,B,10
+22,156475,Chinese Melon,B,10
+22,156476,Hami Melon,C,10
+22,156477,Sweet Melon,C,10
+22,156478,Kuhong,C,10
+22,156479,Chinese Melon,C,10
+22,156480,Hami Melon,D,10
+22,156481,Sweet Melon,D,10
+22,156482,Kuhong,D,10
+22,156483,Chinese Melon,D,10
+22,156484,Hami Melon,E,10
+22,156485,Sweet Melon,E,10
+22,156486,Kuhong,E,10
+22,156487,Chinese Melon,E,10
+22,156488,Hami Melon,F,10
+22,156489,Sweet Melon,F,10
+22,156490,Kuhong,F,10
+22,156491,Chinese Melon,F,10
+22,156492,Juan Canary Melon,A,11
+22,156493,Canary Melon,A,11
+22,156494,Juan Canary Melon,B,11
+22,156495,Canary Melon,B,11
+22,156496,Juan Canary Melon,C,11
+22,156497,Canary Melon,C,11
+22,156498,Juan Canary Melon,D,11
+22,156499,Canary Melon,D,11
+22,156500,Juan Canary Melon,E,11
+22,156501,Canary Melon,E,11
+22,156502,Juan Canary Melon,F,11
+22,156503,Canary Melon,F,11
+22,156540,Cantaloupe (Vine Fruit Leathers),1,01
+22,156547,Casaba (Cassaba) Melon (Vine Fruit Leathers),1,02
+22,156548,Honeydew Melon (Vine Fruit Leathers),1,03
+22,156549,Watermelon (Vine Fruit Leathers),1,04
+22,156550,Honey Dew Melon,1,03
+22,156551,Bitter Melon (Vine Fruit Leathers),1,05
+22,156552,Sugar Baby Watermelon,1,04
+22,156553,Tiger Watermelon,1,04
+22,156554,Golden Watermelon,1,04
+22,156555,Picnic Melons,1,04
+22,156556,Icebox Melons,1,04
+22,156557,Seedles Melons,1,04
+22,156558,Santa Claus Melon (Vine Fruit Leathers),1,06
+22,156559,Christmas Melon,1,06
+22,156560,Winter Melon (Vine Fruit Leathers),1,07
+22,156561,"Kiwano Melon (English Tomato), (Vine Fruit Leathers)",1,08
+22,156562,Horned Melon,1,08
+22,156563,African Horned Cucumber,1,08
+22,156564,African Horned Melon,1,08
+22,156565,Jelly Melon,1,08
+22,156567,Hedged Gourd,1,08
+22,156568,Melano Melon,1,08
+22,156569,Korean Melon (Vine Fruit Leathers),1,09
+22,156570,"Yellow, Melon",1,09
+22,156571,Dua Gan,1,09
+22,156572,Oriental Melon,1,09
+22,156573,Hami Melon (Vine Fruit Leathers),1,10
+22,156574,Sweet Melon,1,10
+22,156575,Kuhong,1,10
+22,156576,Chinese Melon,1,10
+22,156577,Juan Canary Melon (Vine Fruit Leathers),1,11
+22,156578,Canary Melon,1,11
+22,156579,Galia Melon (Vine Fruit Leathers),1,12
+22,156580,"Vine Fruit Purees, N.E.C",1,99
+22,161440,Cantaloupe (Vine Fruit Purees),F,01
+22,161441,Casaba (Cassaba) Melon (Vine Fruit Purees),F,02
+22,161442,Honeydew Melon (Vine Fruit Purees),F,03
+22,161443,Watermelon (Vine Fruit Purees),F,04
+22,161444,Bitter Melon (Vine Fruit Purees),F,05
+22,161445,Santa Claus Melon (Vine Fruit Purees),F,06
+22,161446,Winter Melon (Vine Fruit Purees),F,07
+22,161447,"Vine Fruit Purees, N.E.C.",F,99
+22,161448,Pomegranate (Other Fruit Purees),I,01
+22,161449,Persimmon (Other Fruit Purees),I,02
+22,161450,Pectin (Other Fruit Purees),I,03
+22,161451,Soursop (Other Fruit Purees),I,04
+22,161452,Sweetsop (Other Fruit Purees),I,05
+22,161453,"Other Fruit Purees, N.E.C.",I,99
+22,170643,Galia Melon (Vine Fruit),A,12
+22,170644,"Galia Melon, Dried or Paste",B,12
+22,170645,"Galia Melon, Jam,Jelly,Preserves,Marmalade, Butter or Candied",C,12
+22,170646,"Galia Melon, Juice, Vine Fruit Juice or Concentrates",D,12
+22,170647,"Galia Melon, Topping or Syrup",E,12
+22,170648,"Galia Melon, Vine Fruit Purees",F,12
+22,172882,Guanabana (Other Fruit Products),G,04
+22,172883,"Guanabana, Dried or Paste",H,04
+22,172884,Guanabana (Other Fruit Purees),I,04
+22,172885,"Guanabana, Jam, Jelly, Preserves, Marmalade",J,04
+22,172886,"Guanabana, Juice, Other Fruit Juices or Concentrates",K,04
+22,172887,"Guanabana, Topping or Syrup",L,04
+22,173261,"Aprium, Melon (Vine Fruit)",A,13
+22,173262,"Crenshaw, Melon (Vine Fruit)",A,14
+22,173263,"Persian, Melon (Vine Fruit)",A,15
+22,173264,"Plumcot, Melon (Vine Fruit)",A,16
+22,173265,"Tangor, Melon (Vine Fruit)",A,17
+22,173267,"Aprium, Melon, Dried or Paste",B,13
+22,173268,"Crenshaw, Melon, Dried or Paste",B,14
+22,173269,"Persian, Melon, Dried or Paste",B,15
+22,173270,"Plumcot, Melon, Dried or Paste",B,16
+22,173271,"Tangor, Melon, Dried or Paste",B,17
+22,173274,"Aprium, Melon, Jam,Jelly,Preserves,Marmalade, Butter or Candied",C,13
+22,173275,"Crenshaw, Melon, Jam,Jelly,Preserves,Marmalade, Butter or Candied",C,14
+22,173276,"Persian, Melon, Jam,Jelly,Preserves,Marmalade, Butter or Candied",C,15
+22,173277,"Plumcot, Melon, Jam,Jelly,Preserves,Marmalade, Butter or Candied",C,16
+22,173278,"Tangor, Melon, Jam,Jelly,Preserves,Marmalade, Butter or Candied",C,17
+22,173280,"Aprium, Melon, Vine Fruit Juice or Concentrate",D,13
+22,173281,"Crenshaw, Melon, Vine Fruit Juice or Concentrate",D,14
+22,173282,"Persian, Melon, Vine Fruit Juice or Concentrate",D,15
+22,173283,"Plumcot, Melon, Vine Fruit Juice or Concentrate",D,16
+22,173284,"Tangor, Melon, Vine Fruit Juice or Concentrate",D,17
+22,173285,"Aprium, Melon, Topping or Syrup",E,13
+22,173286,"Crenshaw, Melon, Topping or Syrup",E,14
+22,173287,"Persian, Melon, Topping or Syrup",E,15
+22,173288,"Plumcot, Melon, Topping or Syrup",E,16
+22,173289,"Tangor, Melon, Topping or Syrup",E,17
+22,173306,"Aprium, Melon, Vine Fruit Purees",F,13
+22,173307,"Crenshaw, Melon, Vine Fruit Purees",F,14
+22,173308,"Persian, Melon, Vine Fruit Purees",F,15
+22,173309,"Plumcot, Melon, Vine Fruit Purees",F,16
+22,173310,"Tangor, Melon, Vine Fruit Purees",F,17

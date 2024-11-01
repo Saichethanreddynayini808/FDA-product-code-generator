@@ -1,0 +1,362 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+87,21746,Scissors,H,RR
+87,21747,"Plate, Fixation, Bone",H,RS
+87,21748,"Stripper, Surgical",H,RT
+87,21750,Arthroscope And Accessories,H,RX
+87,21751,"Prosthesis, Knee, Femorotibial, Semi-Constrained, Cemented, Metal/Polymer",H,RY
+87,21752,"Prosthesis, Knee, Hinged (Metal-Metal)",H,RZ
+87,21753,"Prosthesis, Knee, Hemi-, Femoral",H,SA
+87,21754,"Rod, Fixation, Intramedullary and Accessories",H,SB
+87,21755,"Prosthesis, Shoulder, Hemi-, Humeral, Metallic Uncemented",H,SD
+87,21756,"Prosthesis, Knee, Hemi-, Tibial Resurfacing, Uncemented",H,SH
+87,21757,"Prosthesis, Ankle, Semi-Constrained, Cemented, Metal/Polymer",H,SN
+87,21759,"Splint, Traction",H,SP
+87,21760,"Belt, Pelvic, Traction",H,SQ
+87,21761,"Unit, Traction, Hip, Non-Powered, Non-Penetrating",H,SR
+87,21764,"Prosthesis, Knee, Femorotibial, Non-Constrained, Cemented, Metal/Polymer",H,SX
+87,21765,"Instrument, surgical, orthopedic, pneumatic powered & accessory/attachment",H,SZ
+87,21770,"Prosthesis, Knee, Hemi-, Patellar Resurfacing, Uncemented",H,TG
+87,21771,Protractor,H,TH
+87,21772,"Gauge, Depth",H,TJ
+87,21774,"Washer, Bolt, Nut",H,TN
+87,21775,Reamer,H,TO
+87,21776,File,H,TP
+87,21777,Broach,H,TQ
+87,21779,"Knife, Orthopedic",H,TS
+87,21780,Burr,H,TT
+87,21781,"Bit, Drill",H,TW
+87,21782,Rongeur,H,TX
+87,21783,"Pin, Fixation, Smooth",H,TY
+87,21785,Impactor,H,WA
+87,21786,Extractor,H,WB
+87,21787,"Screw, Fixation, Bone",H,WC
+87,21788,"Starter, Bone Screw",H,WD
+87,21789,"Instrument, Surgical, Orthopedic, Ac-Powered Motor And Accessory/Attachment",H,WE
+87,21790,"Prosthesis, Ligament",H,WF
+87,21791,Corkscrew,H,WI
+87,21792,Awl,H,WJ
+87,21793,Trephine,H,WK
+87,21794,"Set, Hollow Mill",H,WL
+87,21796,"Instrument, Compression",H,WN
+87,21797,"Skid, Bone",H,WO
+87,21798,"Punch, Femoral Neck",H,WP
+87,21799,Passer,H,WQ
+87,21800,"Driver, Prosthesis",H,WR
+87,21801,Template,H,WT
+87,21802,Countersink,H,WW
+87,21803,"Tap, Bone",H,WX
+87,21804,"Prosthesis, Tendon, Passive",H,XA
+87,21805,Probe,H,XB
+87,21806,Wrench,H,XC
+87,21808,Fork,H,XE
+87,21809,Tamp,H,XG
+87,21811,"Passer, Wire, Orthopedic",H,XI
+87,21812,Staple Driver,H,XJ
+87,21813,"Holder, Needle; Orthopedic",H,XK
+87,21816,"Applier, Cerclage",H,XN
+87,21817,"Pusher, Socket",H,XO
+87,21818,"Instrument, Bending Or Contouring",H,XP
+87,21819,"Crimper, Pin",H,XQ
+87,21821,"Twister, Wire",H,XS
+87,21823,Bender,H,XW
+87,21824,Screwdriver,H,XX
+87,21825,"Brace, Drill",H,XY
+87,21826,"Cutter, Wire",H,XZ
+87,22235,"Prosthesis, Elbow, Semi-Constrained, Cemented",J,DB
+87,22236,"Prosthesis, Elbow, Constrained, Cemented",J,DC
+87,22237,"Prosthesis, hip, hemi-, trunnion-bearing, femoral, metal/polyacetal",J,DH
+87,22238,"Prosthesis, Hip, Semi-Constrained, Metal/Polymer, Cemented",J,DI
+87,22241,"Prosthesis, Hip, Semi-Constrained (Metal Cemented Acetabular Component)",J,DL
+87,22242,"Implant, Fixation Device, Spinal",J,DN
+87,22243,"Device, Fixation, Proximal Femoral, Implant",J,DO
+87,22244,"Implant, Fixation Device, Condylar Plate",J,DP
+87,22245,"Cerclage, Fixation",J,DQ
+87,22246,"Staple, Fixation, Bone",J,DR
+87,22247,"Nail, Fixation, Bone",J,DS
+87,22248,"Cap, Bone",J,DT
+87,22249,"Pin, Fixation, Threaded",J,DW
+87,22250,"Instrument, Surgical, Sonic And Accessory/Attachment",J,DX
+87,22251,"Evacuator, Vapor, Cement Monomer",J,DY
+87,22252,"Mixer, Cement, For Clinical Use",J,DZ
+87,22254,"Component, Traction, Invasive",J,EC
+87,22574,"Prosthesis, Wrist, 2 Part Metal-Plastic Articulation, Semi-Constrained",J,WI
+87,22575,"Prosthesis, Wrist, 3 Part Metal-Plastic-Metal Articulation, Semi-Constrained",J,WJ
+87,22815,"Prosthesis, Wrist, Constrained, Polymer",K,IG
+87,22816,"Dispenser, Cement",K,IH
+87,22817,"Tube, Cement Ventilation",K,II
+87,22818,"Instrument, surgical, orthopedic, dc-powered motor and accessory/attachment",K,IJ
+87,22820,"Positioner, Socket",K,IL
+87,22899,"Prosthesis, Hip, Semi-Constrained,  Composite/Metal",K,MC
+87,22900,"Prosthesis, Ankle, Semi-Constrained, Cemented, Metal/Composite",K,MD
+87,22999,"Component, Traction, Non-Invasive",K,QZ
+87,23012,"Prosthesis, Knee, Femorotibial, Constrained, Cemented, Metal",K,RN
+87,23013,"Prosthesis, Knee, Femorotibial, Constrained, Cemented, Metal/Polymer",K,RO
+87,23014,"Prosthesis, Knee, Patello/Femoral, Semi-Constrained, Cemented, Metal/Polymer",K,RR
+87,23015,"Prosthesis, Knee, Hemi-, Tibial Resurfacing (Uncemented)",K,RS
+87,23061,"Appliance, Fixation, Nail/Blade/Plate Combination, Multiple Component",K,TT
+87,23062,"Appliance, Fixation, Nail/Blade/Plate Combination, Single Component",K,TW
+87,23063,"Prosthesis, Knee, Femorotibial, Non-Constrained, Metal/Composite Cemented",K,TX
+87,23064,Caliper,K,TZ
+87,23065,"Prosthesis, Hip, Semi-Constrained (Metal Uncemented Acetabular Component)",K,WA
+87,23066,"Prosthesis, Hip, Hemi-, Acetabular, Cemented, Metal",K,WB
+87,23067,"Prosthesis, Toe, Hemi-, Phalangeal",K,WD
+87,23068,"Prosthesis, Finger, Constrained, Metal, Uncemented",K,WE
+87,23069,"Prosthesis, Finger, Polymer",K,WF
+87,23070,"Prosthesis, Finger, Constrained, Metal/Polymer",K,WG
+87,23071,"Prosthesis, Toe, Constrained, Polymer",K,WH
+87,23072,"Prosthesis, Elbow, Hemi-, Radial, Polymer",K,WI
+87,23073,"Prosthesis, Elbow, Hemi-, Humeral, Metal",K,WJ
+87,23074,"Appliance, Nail/Blade/Plate Combination, Single Component",K,WK
+87,23075,"Prosthesis, Hip, Hemi-, Femoral, Metal",K,WL
+87,23076,"Prosthesis, Wrist, Semi-Constrained",K,WM
+87,23077,"Prosthesis, Wrist, Carpal Lunate",K,WN
+87,23078,"Prosthesis, Wrist, Carpal Scaphoid",K,WO
+87,23079,"Appliance, Fixation, Spinal Interlaminal",K,WP
+87,23080,"Appliance, Fixation, Spinal Intervertebral Body",K,WQ
+87,23081,"Prosthesis, Shoulder, Constrained, Metal/Metal Or Metal/Polymer Cemented",K,WR
+87,23082,"Prosthesis, Shoulder, Semi-Constrained, Metal/Polymer Cemented",K,WS
+87,23083,"Prosthesis, Shoulder, Non-Constrained, Metal/Polymer Cemented",K,WT
+87,23086,"Prosthesis, Hip, Hemi-, Femoral, Metal/Polymer, Cemented Or Uncemented",K,WY
+87,23087,"Prosthesis, Hip, Constrained, Cemented Or Uncemented, Metal/Polymer",K,WZ
+87,23088,"Prosthesis, Hip, Femoral, Resurfacing",K,XA
+87,23089,"Prosthesis, Hip, Pelvifemoral Resurfacing,  Metal/Polymer",K,XB
+87,23090,"Prosthesis, Ankle, Cemented, Non-Constrained",K,XC
+87,23091,"Prosthesis, Hip, Constrained, Metal",K,XD
+87,23092,"Prosthesis, Wrist, Hemi-, Ulnar",K,XE
+87,23117,"Prosthesis, Wrist, Carpal Trapezium",K,YI
+87,23118,"Prosthesis, Finger, Constrained, Polymer",K,YJ
+87,23119,"Prosthesis, Knee, Femorotibial, Semi-Constrained, Cemented, Metal/Composite",K,YK
+87,23120,"Prosthesis, Shoulder, Hemi-, Glenoid, Metallic Cemented",K,YM
+87,23121,"Prosthesis, Wrist, Constrained, Metal",K,YN
+87,23179,"Prosthesis, Finger, Constrained, Metal, Cemented",L,BC
+87,23295,"Prosthesis, Knee, Femorotibial, Semi-Constrained, Cemented, Trunnion-Bearing",L,GE
+87,23296,"Component, Cast",L,GF
+87,23297,"Instrument, Cast Application/Removal, Manual",L,GG
+87,23298,"Instrument, Cast Removal, Ac-Powered",L,GH
+87,23444,"Ligaments And Tendons, Synthetic",L,ML
+87,23446,"Ceramics, Calcium Triphosphate/Hydroxypatite, Non-Load Bearing Uses",L,MN
+87,23484,Bone Cement,L,OD
+87,23485,"Stimulator, invasive bone growth",L,OE
+87,23486,"Stimulator, bone growth, non-invasive",L,OF
+87,23510,"Prosthesis, Hip, Semi-Constrained, Metal/Ceramic/Ceramic, Cemented",L,PF
+87,23512,"Prosthesis, Hip, Semi-Constrained, Metal/Polymer, Porous Uncemented",L,PH
+87,23563,"Wire, Surgical",L,RN
+87,23612,"Spacer, Cement",L,TO
+87,23622,"Prosthesis, Ligament, PTFE",L,WA
+87,23631,"Prosthesis, Hip, Semi-Constrained, Metal/Polymer, Uncemented",L,WJ
+87,23648,"Monitor, Pressure, Intracompartmental",L,XC
+87,23652,"Prosthesis, Knee, Patellofemorotibial, Semi-Constrained, Cemented, Polymer/Metal/Polymer",J,WH
+87,23653,"Prosthesis, Knee, Non-Constrained (Metal-Carbon Reinforced Polyethylene) Cementented",K,MB
+87,23656,"Prosthesis, Knee, Patello/Femorotibial, Constrained, Cemented, Polymer/Metal/Metal",K,RP
+87,23657,"Prosthesis, Knee, Patello/Femorotibial, Constrained, Cemented, Polymer/Metal/Polymer",K,RQ
+87,23662,Orthopedic Manual Surgical Instrument,L,XH
+87,23664,"Guide, drill, ligament",L,XI
+87,23675,"Appliance, Fixation, Nail/Blade/Plate Combination, Multiple Component, Metal Composite",L,XT
+87,23680,"Prosthesis, Knee, Patello/Femortibial, Semi-Constrained, Uncemented, Polymer/Metal/Polymer",L,XY
+87,23696,"Accessories, Fixation, Spinal Interlaminal",L,YP
+87,23697,"Accessories, fixation, spinal intervertebral body",L,YQ
+87,23699,Bone Mill,L,YS
+87,23700,Fixation Accessory,L,YT
+87,23711,Isometer,L,ZE
+87,23716,"Prosthesis, Toe (Metatarsophalangeal), Joint, Metal/Polymer, Semi-Constrained",L,ZJ
+87,23720,Cement Obturator,L,ZN
+87,23734,"Prosthesis, Hip, Femoral Component, Cemented, Metal",J,DG
+87,23735,"Prosthesis, Upper Femoral",J,DD
+87,23737,"Prosthesis, Hip, Semi-Constrained, Metal/Ceramic/Polymer, Cemented or Non-Porous, Uncemented",L,ZO
+87,23744,"System, Cement Removal Extraction",L,ZV
+87,23747,"Prosthesis, Hip, Hemi-, Femoral, Metal Ball",L,ZY
+87,23757,"Fastener, Fixation, Biodegradable, Soft Tissue",M,AI
+87,23773,"Orthosis, Spinal Intervertebral Fusion",M,AX
+87,23774,"Prosthesis,  Hip, Semi-Constrained, Metal/Ceramic/Polymer, Cemented Or Non-Porous Cemented, Osteophi",M,AY
+87,23777,"Bone Cement, Antibiotic",M,BB
+87,23779,"Prosthesis, Knee, Patello/Femorotibial, Unconstrained, Uncemented, Porous, Coated, Polmer/Metal/Poly",M,BD
+87,23781,"Prosthesis, Shoulder, Semi-Constrained, Metal/Polymer, Uncemented",M,BF
+87,23783,"Prosthesis, Knee, Patello/Femorotibial, Semi-Constrained, Uncemented, Porous, Coated, Polymer/Metal/",M,BH
+87,23784,"Fastener, Fixation, Nondegradable, Soft Tissue",M,BI
+87,23785,"Fastener, Fixation, Biodegradable, Hard Tissue",M,BJ
+87,23787,"Prosthesis, Hip, Semi-Constrained, Uncemented, Metal/Polymer, Porous",M,BL
+87,23798,"Prosthesis, Knee, Patella/Femorotibial, Semi-Constrained, UHMWPE, Pegged, Uncemented, Polymer/Metal/",M,BV
+87,24996,"Spinal Pedicle Screw, Fixation, Appliance System",M,CV
+87,24997,"Prosthesis, Rib Replacement",M,DI
+87,24998,"Prosthesis, Hip, Semi-Constrained, Uncemented, Metal/Polymer, Non-Porous, Calcium-Phosphate",M,EH
+87,25371,"Prosthesis, Intervertebral Disc",M,JO
+87,25372,"Prosthesis, Shoulder, Humeral (Bipolar Hemi-Shoulder) Metal/Polymer, Cemented or Uncemented",M,JT
+87,25374,"Prosthesis, subtalar, plug, polymer",M,JW
+87,25375,"Orthosis, Spondyloisthesis Spinal Fixation",M,NH
+87,25376,"Orthosis, Spinal Pedicle Fixation",M,NI
+87,25377,"Staple, Absorbable",M,NU
+87,25378,Orthopedic Implant Material,M,OO
+87,25379,Semi-Constrained Metal/Polymer Finger Joint Prosthesis,M,PK
+87,25380,Prosthestic Disc Nucleus Device,M,QO
+87,25381,Spinal Vertebral Body Replacement Device,M,QP
+87,150589,"Generator, Shock-Wave, (For Pain Relief)",N,BN
+87,151340,"Implant, Cartilage, for Articular Cartilage Repair",N,CO
+87,151682,"Cerclage, Fixation, Metallic",N,DD
+87,151683,"Rod, Fixation, Intramedullary and Accessories, Metallic and Non-collapsible",N,DE
+87,151684,"Plate, Fixation, Bone, Non-spinal, Metallic",N,DF
+87,151685,"Washer, Bolt, Nut, Non-spinal, Metallic",N,DG
+87,151686,"Nail, Fixation, Bone, Metallic",N,DH
+87,151687,"Staple, Fixation, Bone, Metallic",N,DI
+87,151688,"Screw, Fixation, Bone, Non-spinal, Metallic",N,DJ
+87,151689,"System, External Fixator (with Metallic Invasive Components)",N,DK
+87,151690,"Pin, Fixation, Smooth, Metallic",N,DL
+87,151691,"Pin, Fixation, Threaded, Metallic",N,DM
+87,151703,"Filler, Bone Cement (for Vertebroplasty)",N,DN
+87,151863,"Prosthesis, Finger, Semi-Constrained, Pyrolytic Carbon, Uncemented",N,EG
+87,151943,Filler Recomb Human Bone Morphogenetic Protein Collagen Scaffold w/Metal Prosthesis/Osteoinduction,N,EK
+87,152383,"Filler, Calcium Sulfate Preformed Pellets",M,QV
+87,152385,"Prosthesis, Hip, Semi-Constrained, Metal/Ceramic/Ceramic/Metal, Cemented or Uncemented",M,RA
+87,152386,"System, Facet Screw Spinal Device",M,RW
+87,152387,"Appliances and Accessories, Fixation, Bone, Absorbable Single/Multiple Component",M,RY
+87,152393,"Accessories, Arthroscopic",N,BH
+87,152743,"Tester, Stiffness, Cartilage, Arthroscopic",N,GR
+87,153243,"Accessory, System, External Fixator, Containing Antimicrobial Agent",N,JA
+87,153443,"Prosthesis, Knee, Patellofemorotibial, Semi-Constrained, Metal/Polymer, Mobile Bearing",N,JL
+87,153583,"Orthosis, cervical pedicle screw spinal fixation",N,KG
+87,153882,"Prosthesis, Spinous Process Spacer/Plate",N,QO
+87,153883,"Posterior Metal/Polymer Spinal System, Fusion",N,QP
+87,153888,"Orthosis, Spine, Plate, Laminoplasty, Metal",N,QW
+87,153892,"Prosthesis, Knee, Femorotibial, Unicompartmental, Semi-Constrained, Metal/Polymer, Mobile Bearing",N,RA
+87,153937,"Prosthesis, Knee Patellofemorotibial, Partial, Semi-Constrained, Cemented,  Polymer/Metal/Polymer",N,PJ
+87,153952,"Anchor, Suture, Bone Fixation, Metallic",N,OV
+87,155188,"Prosthesis,Knee,Femorotibial,Semi-Constrained,Unicompartmental/unicodylar,Uncemented,Porous-Coated,M",N,JD
+87,155189,"Orthosis, Spinal Pedicle Fixation, for Degenerative Disc Disease",N,KB
+87,155714,"Intervertebral fusion device with bone graft, solid-sphere, lumbar",N,VR
+87,156654,Laparoscopic bone anchor urethropexy instrument kit,N,WN
+87,157175,"Prosthesis, hip, semi-constrained, metal/metal, resurfacing",N,XT
+87,157937,"Injector, vertebroplasty (does not contain cement)",O,AR
+87,158174,"Cement, bone, vertebroplasty, pre-formed, modular",O,BM
+87,158176,"Cement, bone, pre-formed, modular, polymeric, vertebroplasty",O,BL
+87,158275,"Plate, bone, growth control, pediatric, epiphysiodesis",O,BT
+87,163205,"Prosthesis, hip, pelvifemoral resurfacing, metal/polymer, uncemented",O,CG
+87,163210,"Spinal channeling instrument, vertebroplasty",O,CJ
+87,164779,"Intervertebral bone graft fusion device, cervical",O,DP
+87,164839,"Calcium salt bone void filler, drillable, non-screw augmentation",O,IS
+87,165721,Electronic depth gauge,O,OL
+87,166481,"Prosthesis, hip, semi-constrained, cemented, metal/polymer + additive, porous uncemented",O,QG
+87,166501,"Hip, semi-constrained, cemented, metal/polymer + additive, cemented",O,QH
+87,166502,"Hip, semi-constrained, cemented, metal/ceramic/polymer + additive, porous uncemented",O,QI
+87,167006,orthopedic stereotaxic instrument,O,LO
+87,167007,"vertebroplasty compound, calcium based",N,UD
+87,167008,"bone, heterograft",N,VC
+87,167009,"prosthesis, knee, patellofemorotibial, semi-constrained, cemented, polymer + additive/metal/polymer",O,IY
+87,167010,resorbable spinal intervertebral body fixation orthosis - plate,O,JB
+87,167011,resorbable spinal intervertebral body fixation orthosis - mesh,O,JM
+87,167012,orthopedic tray,O,JH
+87,167013,"scaffold, partial medial meniscal defects extending into the red/white zone, resorbable bovine colla",O,LC
+87,167014,"filler, recombinant human bone morphogenetic protein, collagen scaffold, osteoinduction - hde",O,JZ
+87,167015,"filler, recombinant human bone morphogenetic protein, collagen scaffold, osteoinduction - hde, long",O,KD
+87,167016,extracorporeal shock wave treatment,O,ME
+87,167017,"high demand, revision, semi-constrained, pyrolytic carbon, uncemented finger prosthesis",O,MX
+87,167122,Patient specific manual orthopedic stereotaxic system,O,SF
+87,167123,Patient specific manual navigation system,O,SE
+87,167146,"Pedicle screw spinal system, adolescent idiopathic scoliosis",O,SH
+87,167203,Software for diagnosis/treatment,O,SN
+87,167602,Sacroiliac joint fixation,O,UR
+87,168023,"Intervertebral fusion device with integrated fixation, lumbar",O,VD
+87,168024,"Intervertebral fusion device with integrated fixation, cervical",O,VE
+87,168736,"Prosthesis, hip, semi-constrained, ceramic-on-metal articulation",O,VO
+87,169203,"Pin, fixation, resorbable, hard tissue",O,VZ
+87,169702,"Bone fixation cerclage, sublaminar",O,WI
+87,170622,Ankle arthroplasty implantation system,O,YK
+87,170662,"Filler, bone void, recombinant platelet-derived growth factor",O,YR
+87,171804,Orthopaedic surgical planning and instrument guides,P,BF
+87,171823,"prosthesis, hip, constrained, cemented or uncemented, metal/polymer, + additive",P,BI
+87,172042,"Bone void filler, syringe",P,BU
+87,172722,Spinous process plate,P,EK
+87,172723,"prosthesis, ankle, uncemented, non-constrained",N,TG
+87,172983,Hemibridge System,P,FM
+87,173036,Growing rod system,P,GM
+87,173038,Growing rod system- magnetic actuation,P,GN
+87,173101,"Intervertebral fusion device with bone graft, thoracic",P,HM
+87,173109,Anterior staple as supplemental fixation for fusion,P,HQ
+87,173116,"shoulder prosthesis, reverse configuration",P,HX
+87,173337,"Elbow joint metal/polymer, constrained, porous coated, uncemented prosthesis",P,IX
+87,173378,"Prosthesis, total anatomic shoulder, uncemented metaphyseal humeral stem with no diaphyseal incursio",P,KC
+87,173649,"Acid, hyaluronic, intraarticular",M,OZ
+87,173702,Bone Wedge,P,LF
+87,173767,Osseoanchored prostheses for the rehabilitation of transfemoral amputees,P,JY
+87,173797,Spinal vertebral body replacement device - Cervical,P,LR
+87,173800,"Filler, bone void, synthetic peptide",N,OX
+87,173805,Acetabular cup orientation system,P,LW
+87,174167,Internal hinged elbow fixator,O,ZI
+87,174168,"bone cement, posterior screw augmentation",P,ML
+87,174455,"Prosthesis, metatarsophalangeal joint cartilage replacement implant",P,NW
+87,174524,Disposable joint aspiration/injection kit,P,PP
+87,174525,Surgical cannulaes & depth gauge kit for athroscopic pocedures,P,PR
+87,174526,Transtibial anterior cruciate ligament kit,P,PQ
+87,174528,"Stimulator, ultrasound and muscle, for use other than applying therapeutic deep",L,PQ
+87,174543,Pedicle screw placement guide,P,QC
+87,174738,Spinal fixation system,P,WG
+87,174742,Knee arthroplasty instrument,O,OG
+87,174921,"Prosthesis, shoulder, semi-constrained, metal/polymer + additive, cemented",P,AO
+87,174953,"Rod, fixation, intramedullary and accessories, in-vivo cured, light-activated",Q,AD
+87,175000,Instruments designed for press-fit osteochondral implants,Q,BO
+87,175043,"Filler, bone void, calcium compound, lower extremity use, use on bone marrow lesions",Q,CG
+87,175133,"Prosthesis, Hip, Acetabular Mesh",J,DJ
+87,175135,"Prosthesis, Hip, Cement Restrictor",J,DK
+87,175136,"Filler, Bone Void, Osteoinduction (w/o Human Growth Factor)",M,BP
+87,175138,"Filler, Bone Void, Non-Osteoinduction",M,BS
+87,175139,"Filler, Recombinant Human Bone Morphogenetic Protein, Collagen Scaffold, Osteoinduction",M,PW
+87,175144,orthopedic computer controlled surgical system,O,JP
+87,175146,intraoperative orthopedic joint assessment aid,O,NN
+87,175238,"Stimulator, Osteogenesis, Electric, Battery-Operated, Invasive",H,TM
+87,175315,Reherniation prevention device,Q,ES
+87,175455,Intraoperative orthopedic strain sensor,Q,FP
+87,175511,Shoulder arthroplasty implantation system,Q,HE
+87,175515,Defect measurement tool,Q,HG
+87,175584,Vertebral body tethering system,Q,HP
+87,175585,Total shoulder arthroplasty system,Q,HQ
+87,175595,Posterior ratcheting rod system,Q,GP
+87,175940,Bone screw augmentation sleeve,Q,AC
+87,175998,Manual instruments designed for use with non-fusion spinous process spacer devices,Q,LR
+87,176011,Intervertebral body graft containment device,O,QB
+87,176039,Resorbable implant for anterior cruciate ligament (ACL) repair,Q,NI
+87,176045,Talus spacer,Q,NN
+87,176138,"Shoulder spacer for massive irreparable rotator cuff tear, resorbable, inflatable, non-fixed",Q,PQ
+87,176146,Bone indentation device,Q,GQ
+87,176148,Implantable post-surgical kinematic measurement knee device,Q,PP
+87,176324,"Wrap, sterilization",F,RG
+87,176325,"Mask, surgical",F,XX
+87,176326,"Sterilization wrap containers, trays, cassettes & other accessories",K,CT
+87,176329,"Wax, bone",M,TJ
+87,176330,Surgical mask with antimicrobial/antiviral agent,O,UK
+87,176331,"Mesh, surgical, non-absorbable, orthopaedics, reinforcement of tendon",O,WK
+87,176332,Pediatric/child facemask,O,XZ
+87,176333,"Mesh, surgical, absorbable, orthopaedics, reinforcement of tendon",O,WW
+87,176334,"Mesh, surgical, collagen, orthopaedics, reinforcement of tendon",O,WY
+87,176340,Posterior cervical screw placement guide,Q,SD
+87,176639,"Mask, surgical, EUA authorized",Q,MF
+87,176640,"Filler, bone void, calcium compound containing gentamicin",Q,RR
+87,176726,Sacroiliac Screw Placement Guide,Q,SR
+87,176764,"prosthesis, shoulder, hemi-, humeral, modular ceramic/metallic uncemented",Q,KW
+87,176769,"Mesh, Surgical, Non-resorbable, Orthopedics, Reinforcement of ligament",Q,UW
+87,176795,"Screw Sleeve Bone Fixation Device, Spine",Q,VI
+87,176947,Absorbable metallic bone fixation fastener,Q,JD
+87,176949,"Implant, resorbable, for articular osteochondral repair",Q,RU
+87,176954,Medial Knee Implanted Shock Absorber,Q,VV
+87,176981,"Agent, absorbable hemostatic, collagen based",L,MF
+87,176982,"Agent, absorbable hemostatic, non-collagen based",L,MG
+87,176983,Absorbable collagen hemostatic agent with thrombin,P,MX
+87,176984,"Suture, nonabsorbable, synthetic, polyethylene",G,AT
+87,176985,"Suture, nonabsorbable, steel, monofilament and multifilament, sterile",G,AQ
+87,176986,"Suture, absorbable",G,AK
+87,176987,"Suture, absorbable, synthetic",G,AN
+87,176988,"Suture, recombinant technology",N,WJ
+87,176989,"Suture, absorbable, synthetic, polyglycolic acid",G,AM
+87,176990,"Suture, nonabsorbable, synthetic, polypropylene",G,AW
+87,176991,"Suture, nonabsorbable, synthetic, polyester",G,AS
+87,176992,"Suture, absorbable, natural",G,AL
+87,176993,"Suture, surgical, nonabsorbable, poly (vinylidene fluoride)",M,XW
+87,176994,"Suture, surgical, absorbable, polydioxanone",N,EW
+87,176995,"Suture, nonabsorbable, silk",G,AP
+87,176996,"Suture, nonabsorbable, synthetic, polyamide",G,AR
+87,176997,"Suture, surgical, nonabsorbable, expanded, polytetraflouroethylene",N,BY
+87,176998,"Suture, nonabsorbable, nitinol",N,JU
+87,176999,"Suture, nonabsorbable",G,AO
+87,177017,Intraoperative surgical angle measurement tool,Q,WL
+87,177018,"Prosthesis, posterior spinal elements",Q,WK
+87,177085,"Prosthesis, Total Talus Replacement With Soft Tissue Attachment Sites, Metal",Q,YQ
+87,177087,Manual instruments designed for total disc replacement device,Q,LQ
+87,177100,"Mesh, Surgical, Polymeric, Resorbable, Orthopedics, Reinforcement of ligament",Q,WJ
+87,177110,Wearable vibration device for orthopedic use,Q,ZO

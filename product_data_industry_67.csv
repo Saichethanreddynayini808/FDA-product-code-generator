@@ -1,0 +1,107 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+67,6222,"Amprolium Category II, Type A Medicated Article",B,03
+67,6223,"Amprolium Combo Category I & II, Type A Medicated Article",C,03
+67,6225,"Amprolium With Ethopabate Category I, Type A Medicated Article",A,04
+67,6226,"Amporlium W/Ethopabate Combo Category I & II, Type A Medicated Article",C,04
+67,6234,"Bacetracin Methylene Disalicylate Category I, Type A Medicated Article",A,07
+67,6235,"Bacitracin Methylene Dislcylte Combo Category I & II, Type A Medicated Article",C,07
+67,6237,"Bacitracin Zinc Category I, Type A Medicated Article",A,08
+67,6238,"Bacitracin Zinc Combo Category I & II, Type A Medicated Article",C,08
+67,6240,"Bambermycins Category I, Type A Medicated Article",A,09
+67,6241,"Bambermycins Combo Category I & II, Type A Medicated Article",C,09
+67,6246,"Carbadox Category II, Type A Medicated Article",B,11
+67,6247,"Carbadox Combo Category I & II, Type A Medicated Article",C,11
+67,6254,"Chlortetracycline Category I, Type A Medicated Article",A,14
+67,6255,"Chlortetracycline Combo Category I & II, Type A Medicated Article",C,14
+67,6263,"Sulfamethazine And Chlortetracycline Category II, Type A Medicated Article",B,17
+67,6264,"Sulfamethazine And Chlortetracycline Combo Category I & II, Type A Medicated Article",C,17
+67,6266,"Clopidol Category II, Type A Medicated Article",B,18
+67,6267,"Clopidol Combo Category I & II, Type A Medicated Article",C,18
+67,6269,"Coumaphos Category I, Type A Medicated Article",A,19
+67,6270,"Coumaphos Combo Category I & II, Type A Medicated Article",C,19
+67,6272,"Decoquinate Category I, Type A Medicated Article",A,20
+67,6273,"Decoquinate Combo Category I & II, Type A Medicated Article",C,20
+67,6275,"Dichlorvos Category I, Type A Medicated Article",A,21
+67,6276,"Dichlorvos Combo Category I & II, Type A Medicated Article",C,21
+67,6282,"Erythromycin(Thiocyanate Salt) Combo Category I & II, Type A Medicated Article",C,23
+67,6284,"Famphur Category II, Type A Medicated Article",B,24
+67,6285,"Famphur Combo Category I & II, Type A Medicated Article",C,24
+67,6292,"Hygromycin B Category II, Type A Medicated Article",B,27
+67,6293,"Hygromycin B Combo Category I & II, Type A Medicated Article",C,27
+67,6295,"Iodinated Casein Category I, Type A Medicated Article",A,28
+67,6296,"Iodinated Casein Combo Category I & II, Type A Medicated Article",C,28
+67,6302,"Lasalocid Combo Category I & II, Type A Medicated Article",C,30
+67,6308,"Lincomycin Combo Category I & II, Type A Medicated Article",C,32
+67,6311,"Melengestrol Acetate Combo Category I & II, Type A Medicated Article",C,33
+67,6314,"Monensin Combo Category I & II, Type A Medicated Article",C,34
+67,6315,"Monensin Category I, Type A Medicated Article",A,34
+67,6319,"Nicarbazin Category II, Type A Medicated Article",B,36
+67,6320,"Nicarbazin Combo Category I & II, Type A Medicated Article",C,36
+67,6331,"Novobiocin Category II, Type A Medicated Article",B,40
+67,6332,"Novobiocin Combo Category I & II, Type A Medicated Article",C,40
+67,6334,"Nystatin Category I, Type A Medicated Article",A,41
+67,6335,"Nystatin Combo Category I & II, Type A Medicated Article",C,41
+67,6340,"Oxytetracycline Category I, Type A Medicated Article",A,43
+67,6341,"Oxytetracycline Combo Category I & II, Type A Medicated Article",C,43
+67,6343,"Neomycin & Oxytetracycline Category II, Type A Medicated Article",B,44
+67,6344,"Neomycin & Oxytetracycline Combo Category I & II, Type A Medicated Article",C,44
+67,6352,"Poloxalene Category I, Type A Medicated Article",A,48
+67,6353,"Poloxalene Combo Category I & II, Type A Medicated Article",C,48
+67,6355,"Pyrantel Tartrate Category II, Type A Medicated Article",B,50
+67,6356,"Pyrantel Tartrate Combo Category I & II, Type A Medicated Article",C,50
+67,6358,"Robenidine Category II, Type A Medicated Article",B,51
+67,6359,"Robenidine Combo Category I & II, Type A Medicated Article",C,51
+67,6371,"Sulfadimethoxine Ormetoprim Category II, Type A Medicated Article",B,56
+67,6372,"Sulfadimethoxine Ormetoprim Combo Category I & II, Type A Medicated Article",C,56
+67,6377,"Sulfamerazine Category II, Type A Medicated Article",B,58
+67,6378,"Sulfamerazine Combo Category I & II, Type A Medicated Article",C,58
+67,6380,"Sulfaquinoxaline Category II, Type A Medicated Article",B,59
+67,6381,"Sulfaquinoxaline Combo Category I & II, Type A Medicated Article",C,59
+67,6383,"Thiabendazole Category II, Type A Medicated Article",B,60
+67,6384,"Thiabendazole Combo Category I & II, Type A Medicated Article",C,60
+67,6386,"Tylosin Category I, Type A Medicated Article",A,61
+67,6387,"Tylosin Combo Category I & II, Type A Medicated Article",C,61
+67,6389,"Sulfamethazine & Tylosin Category II, Type A Medicated Article",B,62
+67,6390,"Sulfamethazine & Tylosin Combo Category I & II, Type A Medicated Article",C,62
+67,6392,"Virginiamycin Category I, Type A Medicated Article",A,63
+67,6393,"Virginiamycin Combo Category I & II, Type A Medicated Article",C,63
+67,6395,"Zoalene Category I, Type A Medicated Article",A,64
+67,6396,"Zoalene Combo Category I & II, Type A Medicated Article",C,64
+67,6405,"Fenbendazole Combo Category I & II, Type A Medicated Article",C,67
+67,6407,"Halofuginone Hydrobromide Category II, Type A Medicated Article",B,68
+67,6408,"Halofuginone Hydrobromide Combo Category I & II, Type A Medicated Article",C,68
+67,6410,"Morantel Tartrate Category II, Type A Medicated Article",B,69
+67,6411,"Morantel Tartrate Combo Category I & II, Type A Medicated Article",C,69
+67,6413,"Neomycin Category II, Type A Medicated Article",B,70
+67,6414,"Neomycin Combo Category I & II, Type A Medicated Article",C,70
+67,6440,"Salinomycin Category I, Type A Medicated Article",A,79
+67,6441,"Salinomycin Combo Category I & II, Type A Medicated Article",C,79
+67,6449,"Apramycin Category II, Type A Medicated Article",B,82
+67,12624,"Apramycin Combo Category I & II, Type A Medicated Article",C,82
+67,24705,"Lasalocid  Category I, Type A Medicated Article",A,30
+67,24706,"Lincomycin  Category I, Type A Medicated Article",A,32
+67,24707,"Narasin  Category I, Type A Medicated Article",A,84
+67,24709,"Fenbendazole  Category II, Type A Medicated Article",B,67
+67,24710,"Maduramicin Ammonium  Category II, Type A Medicated Article",B,83
+67,24802,"Maduramicin Ammonium Combo Category I & II, Type A Medicated Article",C,83
+67,24803,"Narasin Combo Category I & II, Type A Medicated Article",C,84
+67,24804,"Nicarbazin with Narasin Combo Category I & II, Type A Medicated Article",C,85
+67,24805,"Tiamulin Combo Category I & II, Type A Medicated Article",C,86
+67,150722,"Category I, N.E.C., Type A Medicated Article",A,99
+67,150723,"Category II, N.E.C., Type A Medicated Article",B,99
+67,150724,"Combo, Category I & II, N.E.C., Type A Medicated Article",C,99
+67,172990,"Melengestrol Acetate Category I, Type A Medicated Article",A,33
+67,172993,"Diclazuril Category I, Type A Medicated Article",A,22
+67,172995,"Efrotomycin Category I, Type A Medicated Article",A,24
+67,172997,"Laidlomycin Propionate Potassium Category I, Type A Medicated Article",A,29
+67,172999,"Semduramycin Category I, Type A Medicated Article",A,49
+67,173000,"Ractopamine Category I, Type A Medicated Article",A,50
+67,173003,"Florfenicol Category II, Type A Medicated Article",B,13
+67,173004,"Ivermectin Category II, Type A Medicated Article",B,14
+67,173006,"Tilmicosin Category II, Type A Medicated Article",B,87
+67,173007,"Zilpaterol Category II, Type A Medicated Article",B,88
+67,175976,"Erythromycin (Thiocyanate Salt) Category II, Type A Medicated Article",B,23
+67,175978,"Nicarbazin w/Narasin  Category I, Type A Medicated Article",A,85
+67,175980,"Tiamulin  Category II, Type A Medicated Article",B,86
+67,175982,Avilamycin Category I Type A Medicated Article,A,26
+67,175988,Tylvalosin Category I Type A Medicated Article,A,47

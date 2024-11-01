@@ -1,0 +1,18 @@
+PICCODE,PICDESC
+B,"Raw-Fresh, Ambient-B"
+C,"Raw-Fresh, Refrigerated "
+D,"Raw-Fresh, Frozen, Natural State"
+E,Commercially Sterile
+F,Aseptic Pack - Commercially Sterile
+H,Ntrl/Artfcl Dried
+I,Acidified
+N,Heat Treated
+O,Pastuerized 
+P,Cultured/Cured
+R,Irradiated
+S,Ultrapasteurized
+T,Packaged Food (Not Commercially Sterile)
+U,Aseptic Lab Analysis Only - Not for Use as Food
+W,LACF Lab Analysis Only - Not For Use as Food
+Y,NEC
+Z,Sterile Powder

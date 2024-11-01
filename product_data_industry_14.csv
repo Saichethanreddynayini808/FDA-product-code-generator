@@ -1,0 +1,19 @@
+INDID,ID,PRODDESC,CLASSCODE,Product code
+14,477,"Imitation Milk, Fluid Milk Type Product",B,01
+14,478,"Filled Milk, Fluid Milk Type Product",A,01
+14,479,Import Milk Act,Y,01
+14,480,"Imitation Milk, Fluid Cream Type Product",B,02
+14,481,"Filled Milk, Fluid Cream Type Product",A,02
+14,482,"Imitation Milk, Butter Type Product",B,03
+14,483,"Filled Milk, Butter Type Product",A,03
+14,484,"Imitation Milk, Cheese Type Product (Soy Cheese, Etc.)",B,04
+14,485,"Filled Milk, Cheese Type Product",A,04
+14,486,"Imitation Milk, Ice Cream Type Product (Mellorine,Parevine, Etc.)",B,05
+14,487,"Filled Milk, Ice Cream Type Product",A,05
+14,488,"Imitation Milk, Dried Milk Type Product",B,06
+14,489,"Filled Milk, Dried Milk Type Product",A,06
+14,490,"Imitation Milk, Concentrated, Evaporated Milk Type Product",B,07
+14,491,"Filled Milk, Concentrated, Evaporated Milk Type Product",A,07
+14,492,"Imitation Milk or Milk Type Product, N.E.C.",B,99
+14,493,"Filled Milk And Filled Milk Products, N.E.C.",A,99
+14,494,"Filled or Imitation Milk or Milk Type Products Not Elsewhere Mentioned, N.E.C.",Y,99
