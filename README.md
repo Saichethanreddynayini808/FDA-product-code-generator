@@ -28,7 +28,7 @@ bash
 Copy code
 pip install -r requirements.txt
      3.API Key Configuration:
-Copy the openai key and paste it in exp3.py 
+Copy the openai key and paste it in app.py 
      Copy code
      client = OpenAI(
     api_key="your api key here"  # replace with your actual key
