@@ -94,7 +94,7 @@ def get_FDA_code_from_images_base64(images_base64, include_subclass=True, show_d
                     "content": [
                         {
                             "type": "text",
-                            "text": f"Can you explain what the industry code '{industry_code}' means? Provide a detailed explanation of what this industry code represents, using context from the FDA industry data."
+                            "text": f"Can you detail the reasoning behind assigning product code of '{industry_code}' from the dataset {industry_data} ? include Features or ingredients which helped to determine the code,is this product satisfying all Compliance with FDA regulations or classifications and what are they,Similar products and their assigned codes,Insights from subject matter experts and can you give everything in one phara and under 200 words"
                         }
                     ],
                 }
@@ -155,7 +155,7 @@ def get_FDA_code_from_images_base64(images_base64, include_subclass=True, show_d
                     "content": [
                         {
                             "type": "text",
-                            "text": f"Can you explain what the class code '{class_code}' means? Provide a detailed explanation of what this class code represents."
+                            "text": f"Can you detail the reasoning behind assigning product code of '{class_code}' from the dataset {class_data} ? include Features or ingredients that helped to determined the code ,Compliance with FDA regulations or classifications ,Similar products and their assigned codes,Insights from subject matter experts and can you give everythinh in one phara and under 200 words"
                         }
                     ],
                 }
@@ -214,7 +214,7 @@ def get_FDA_code_from_images_base64(images_base64, include_subclass=True, show_d
                         "content": [
                             {
                                 "type": "text",
-                                "text": f"Can you explain what the subclass code '{subclass_code}' means? Provide a detailed explanation of what this subclass code represents."
+                                "text": f"Can you detail the reasoning behind assigning product code of '{subclass_code}' from the dataset {subclass_data} ? include addressing any more granular attributes that distinguish this product ,Compliance with FDA regulations or classifications,Similar subclass that might be fit for this,Insights from subject matter experts and can you give everything in one phara and under 200 words"
                             }
                         ],
                     }
@@ -271,7 +271,7 @@ def get_FDA_code_from_images_base64(images_base64, include_subclass=True, show_d
                     "content": [
                         {
                             "type": "text",
-                            "text": f"Can you explain what the PIC code '{pic_code}' means? Provide a detailed explanation of what this PIC code represents."
+                            "text": f"Can you detail the reasoning behind assigning product code of '{pic_code}' from the dataset {pic_data} ? include Features or ingredients that match specific criteria for a code,how this pic code satisfies with Compliance with FDA regulations or classifications and what are they,Similar products and their assigned codes,Insights from subject matter experts and give everytho=ing in one phara and under 200 words"
                         }
                     ],
                 }
@@ -332,7 +332,7 @@ def get_FDA_code_from_images_base64(images_base64, include_subclass=True, show_d
                     "content": [
                         {
                             "type": "text",
-                            "text": f"Can you explain what the product code '{product_code}' means? Provide a detailed explanation of what this product code represents."
+                            "text": f"Can you detail how it captures the product’s distinct identity for '{product_code} from the dataset {product_data} '? include Features or ingredients that match specific criteria for a code,is this product satisfies this Compliance with FDA regulations or classifications and what are they,Similar products and their assigned codes and its differences,Insights from subject matter experts and give everything in one phara and under 200 words"
                         }
                     ],
                 }
